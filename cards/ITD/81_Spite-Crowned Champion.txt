@@ -1,1 +1,0 @@
-﻿Spite-Crowned Champion	B	rare	Creature – Human Warrior 	81	B	1B	B: This creature gets +1/+1 until end of turn.NEWLINEWhenever this creature attacks, if it has power 4 or greater and no counters on it, you may put a menace counter on it and destroy up to one target creature with power 4 or less.	1/2		normal	ITD		https://www.tumblr.com/kanryo/753715534160347136

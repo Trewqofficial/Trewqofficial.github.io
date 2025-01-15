@@ -1,0 +1,1 @@
+﻿Towersmog Ghoul	R	rare	Creature – Zombie Horror 	106	R	R	Whenever this creature attacks alone, conjure a card named Spark into your hand. (It’s a R sorcery with “Spark deals 1 damage to any target.”)	1/1		normal	ITD		

@@ -1,1 +1,0 @@
-﻿Corpse-Shell Container		rare	Artifact – Equipment 	154	C	5	When this equipment enters, return target creature card from your graveyard to the battlefield and attach this equipment to it.NEWLINEEquipped creature gets +2/+2 and gains vigilance.NEWLINEEquip 4			normal	ITD		changed

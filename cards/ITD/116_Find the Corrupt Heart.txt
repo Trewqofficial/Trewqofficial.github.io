@@ -1,1 +1,0 @@
-﻿Find the Corrupt Heart	G	rare	Instant	116	G	2G	Choose one–NEWLINE• Destroy target artifact, enchantment, or creature with flying.NEWLINE• Whenever a creature you control deals combat damage to a player or planeswalker this turn, draw a card.			normal	ITD		

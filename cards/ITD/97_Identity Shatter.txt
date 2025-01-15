@@ -1,1 +1,0 @@
-﻿Identity Shatter	R	rare	Sorcery	97	R	2R	Choose one–NEWLINE• Create a token copy of target creature you control except it’s not legendary. It gains haste. Exile it at end of turn.NEWLINE• Discard up to two cards, then draw that many cards plus one. 			normal	ITD		https://x.com/MON_2501/status/1522181929931767808

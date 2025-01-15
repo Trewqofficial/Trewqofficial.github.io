@@ -1,1 +1,0 @@
-﻿Ghostspitter	W	rare	Creature – Spirit Horror 	25	W	1W	Whenever this creature is dealt damage, create a 1/1 white Nightmare creature token with lifelink and “This creature can’t block.”NEWLINE1WW: Put a +1/+1 counter on this creature.	2/2		normal	ITD		https://www.deviantart.com/silviabobekova/art/creator-860397633

@@ -1,0 +1,1 @@
+﻿Overcome All	WR	rare	Sorcery	145	WR	RW	As an additional cost to cast this spell, return a creature you control to its owner’s hand.NEWLINECreate a token copy of the returned creature, except it isn’t legendary and has haste.			normal	ITD		

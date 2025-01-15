@@ -1,1 +1,0 @@
-﻿Chimerism	W	rare	Sorcery	17	W	1W	Choose two target creatures controlled by the same player. Exile them. Their controller creates a tapped X/X colorless Horror creature token, where X is the combined power of those creatures. 			normal	ITD		https://www.pixiv.net/en/artworks/31364547

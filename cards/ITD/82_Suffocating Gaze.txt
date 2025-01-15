@@ -1,1 +1,0 @@
-﻿Suffocating Gaze	B	rare	Instant	82	B	1BB	This spell costs 1 less to cast if you control a legendary permanent.NEWLINEDestroy target creature or planeswalker.			normal	ITD		

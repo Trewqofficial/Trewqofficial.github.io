@@ -1,1 +1,0 @@
-﻿Bladecraft Scion	R	rare	Creature – Human Warrior 	91	R	1R	First strikeNEWLINEWhen this creature enters, it deals 2 damage to up to one target creature or planeswalker unless an opponent has it deal 2 damage to them.	2/2		normal	ITD		https://www.artstation.com/artwork/042WzVNEWLINEchanged

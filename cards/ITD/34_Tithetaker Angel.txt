@@ -1,1 +1,0 @@
-﻿Tithetaker Angel	W	rare	Creature – Angel Artificer 	34	W	3WW	FlyingNEWLINEWhenever Tithetaker Angel enters or attacks, choose creature, artifact or enchantment, or land. If you control fewer permanents of the chosen type than target player, they sacrifice a permanent of that type.	3/3		normal	ITD		https://www.pixiv.net/en/artworks/65536865

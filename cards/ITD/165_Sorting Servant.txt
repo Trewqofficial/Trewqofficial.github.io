@@ -1,1 +1,0 @@
-﻿Sorting Servant		rare	Artifact Creature – Golem 	165	C	2	When Sorting Servant dies, search your library for a colorless card with mana value 5 or greater, reveal it and put it into your hand. Then shuffle.	2/1		normal	ITD		
