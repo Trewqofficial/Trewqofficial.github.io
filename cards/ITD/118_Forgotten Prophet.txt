@@ -1,0 +1,1 @@
+﻿Forgotten Prophet	G	rare	Creature – Human Advisor 	118	G	1G	VigilanceNEWLINEWhen this creature attacks, you may put a loyalty counter on each permanent you control with a loyalty counter on it.	2/3		normal	ITD		https://www.artstation.com/artwork/ELrky8

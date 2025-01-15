@@ -1,0 +1,1 @@
+﻿Liferoot Gnawer	R	rare	Artifact Creature – Horror 	99	R	3RR	When this creature enters, choose one–NEWLINE• This creature deals 3 damage divided among any number of targets.NEWLINE• Gain control of target land. It gains “T: Add C.” and loses all other abilities.	4/3		normal	ITD		https://x.com/Slitherbop/status/1737311175824838900/photo/1

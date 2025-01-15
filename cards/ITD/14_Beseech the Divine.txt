@@ -1,0 +1,1 @@
+﻿Beseech the Divine	W	rare	Sorcery	14	W	2WW	Destroy all creatures. NEWLINEEach player creates a 1/1 white Nightmare creature token with lifelink and “This creature can’t block.”			normal	ITD		

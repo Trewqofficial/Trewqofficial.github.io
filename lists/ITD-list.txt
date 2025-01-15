@@ -1,0 +1,225 @@
+13_Beacon Dreamer
+39_Ashiok, Lone Dreamer
+11_Wandering Moon
+88_Abstracted Rapture
+113_Aeon, of the Living Coffin
+14_Beseech the Divine
+40_Cloudscape Observer
+64_Angel of the Forest
+89_Ancient Forerunner
+114_Awakened Fiend
+15_Binding Decision
+41_Deepmind Oracle
+65_Ashiok, Dream Feaster
+90_Angel of Dying Flames
+115_Deepgrowth Animist
+16_Celestial Messenger
+42_Door to Clear Skies
+66_Avaz, Moontouched Prince
+91_Animus Conflagration
+116_Embrace Rebirth
+17_Chimerism
+43_Drown in Self Reflection
+67_Below the Surface
+92_Bladecraft Scion
+117_Find the Corrupt Heart
+18_Cryptbreaking
+44_Edge of a Precipice
+68_﻿Bone Prophet
+93_Cascade Coherency Failure
+118_Forgotten Prophet
+19_Defensive Denizen
+45_Eightfold Sight
+69_Cleaver, Sword-Saint
+94_Emergent Anomaly
+119_The Gardener, Waning
+20_Desolate Meeting
+46_Exiled Trickster
+70_Contagious Murder
+95_Ever-Burning Soul
+120_Harbinger of Doubt
+21_Devoted Numena
+47_Faceless
+71_Corvid Defacer
+96_Fleeting Merriment
+121_Ichor-Drowned
+22_Distortion World
+48_Figure of Some Importance
+72_Eye of the Abominable
+97_Heliach, The Sunspitter
+122_Imprisoned Aspect
+23_Echo of Distorted Outcomes
+49_Firmament Sculptor
+73_Goddess of Puppet Strings
+98_Identity Shatter
+123_Infested Heart
+24_Feast of Butterflies
+50_Fracture of Divinity
+74_Grasping Eternity
+99_Liferoot Gnawer
+124_Lamplure
+25_Ghostspitter
+51_Inexorable Pressure
+75_Gravewalking
+100_The Living Enigma
+125_Living Heart
+26_Illuminant Master
+52_Lammasu, Dream-Stilled
+76_Horrific Punishment
+101_Lord of Rust
+126_Maktel and the Unknowable
+27_Insubstantial Glimpse
+53_Like Butterflies on Strings
+77_Infiltration Agent
+102_Mirror Eater
+127_Mycelial Coating
+28_Lighting the False Sun
+54_Mechanised Hunter
+78_Longlegs
+103_Moonbreaker
+128_Observation Agent
+29_Novice Dream-Binder
+55_Mire in Sorrow
+79_Piercing Betrayal
+104_Protostar Bombardment
+129_The Pact
+30_One of Keys
+56_Moonlight Oracle
+80_Prowling Shade
+105_Sentinel of Dead Lands
+130_Pestilent Meeting
+31_Restlessness
+57_New-Life Acolyte
+81_Rite of Resurrection
+106_Smokeplume Crustacean
+131_Scion of the Unknowable
+32_Salvage Angel
+58_Petition the Abominable
+82_Spite-Crowned Champion
+107_Somnonaut Drone
+132_Somnibiotic Emergence
+33_Seek Understanding
+59_Reshape Reality
+83_Suffocating Gaze
+108_Towersmog Ghoul
+133_Strange Wayfarer
+34_Star-Binding Command
+60_Saylthe, Twice-Drowned
+84_Thought-theft
+109_Tyrant's Rage
+134_Tyrant of Long Death
+35_Tithetaker Angel
+61_Symbiotic Host
+85_Through The Dark Twilight
+110_Unexpected Passenger
+135_Vaga, True Prophet
+36_To be Forgotten in a Dream
+62_Unceasing Observation
+86_Unmasking Divinity
+111_Warden of Scorching Days
+136_Watching Wolf
+37_Tormented Saviour
+63_Unsightly Mutate
+87_Veteran Bloodhunter
+112_Weight of Tradition
+137_Water-Witch's Bargain
+38_Unfair Judgment
+e
+e
+e
+e
+er
+er
+er
+er
+er
+144_Experience Infinite Time
+149_The Red Door
+141_Callous Observer
+140_A Blossoming of Flowers
+142_Decrepid Terraformer
+146_The Nowhere Girl
+e
+e
+e
+e
+er
+er
+er
+er
+er
+150_Secrets of Radiance
+138_001, Errant Spark-Engine
+139_Ajaxala, Cunning Puppeteer
+148_Priest of Perfection
+147_Overcome All
+e
+e
+151_Siltcurrent Obsession
+e
+e
+er
+er
+er
+er
+er
+143_The Ephemeral Piper
+145_Interstellar Drifter
+152_Wyrm's Death
+e
+e
+er
+er
+er
+er
+er
+1_Abstracter of Thought
+2_Arbiter
+3_Doorwarden
+4_The Eternal Echo
+5_Eyes Scorched from Divinity
+6_The Gardener, Crowned
+8_Meet the Beyond
+9_MX-04, Electric Usurper
+10_Star Shaper
+12_Yklev, In a Strange Land
+153_Aspect of Logic
+154_Collapsed Chaos
+155_Corpse-Shell Container
+156_Crackling Serpent
+157_Dreamlured Giant
+158_Endless Distortion Line
+159_Far-off Door
+160_Firmament-Rending Blade
+161_Foreboding Monolith
+162_Howling Mine
+163_The Living Coffin
+164_Matryoshka Crawler
+165_Rattlefiend
+166_Sorting Servant
+167_Vertigomancer
+er
+er
+er
+er
+er
+168_Antisun's Domain
+169_Celestial Realm
+170_Cursed Range
+171_Desolate Expanse
+172_Embryonic Mound
+173_Far-Off Factory
+174_Forlorn Battlefield
+175_The Gardener's Saga
+176_Hall of the Hands
+177_Living Bog
+178_Phantom City
+179_Reflective Savannah
+180_Shifting Silverscape
+181_Shortcut Through Hell
+182_Stretching Tangle
+183_Volcanic Steambed
+e
+e
+e
+e

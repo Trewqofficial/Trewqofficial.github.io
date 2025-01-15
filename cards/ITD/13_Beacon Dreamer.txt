@@ -1,0 +1,1 @@
+﻿Beacon Dreamer	W	rare	Creature – Human 	13	W	1W	Landfall– Whenever a land enters under your control, you may activate one of this creature’s abilities without paying its costs.NEWLINE2WW: Create a 1/1 white Nightmare creature token with lifelink and “This creature can’t block.”	1/1		normal	ITD		https://www.deviantart.com/evi-gilatio/art/Aha-891587483

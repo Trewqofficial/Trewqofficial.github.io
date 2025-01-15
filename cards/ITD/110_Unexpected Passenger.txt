@@ -1,0 +1,1 @@
+﻿Unexpected Passenger	R	rare	Creature – Horror 	110	R	2RR	Whenever an opponent or permanent an opponent controls becomes the target of a spell you control, this creature deals 1 damage to each opponent.NEWLINEAt the beginning of your upkeep, conjure a card named Spark into your hand. (It’s a R sorcery with “Spark deals 1 damage to any target.”)	4/3		normal	ITD		

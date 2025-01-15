@@ -1,0 +1,1 @@
+﻿Dreamlured Giant		rare	Enchantment Artifact Creature – Giant 	157	C	7	This spell costs X less to cast, where X is the amount of life you have gained this turn. This effect can’t reduce the cost of this spell to less than 2.NEWLINE1, Discard this card: Choose one–NEWLINE• You gain 2 life.NEWLINE• Draw a card. You lose 2 life.	6/6		normal	ITD		

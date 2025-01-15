@@ -1,0 +1,1 @@
+﻿Cloudscape Observer	U	rare	Artifact Creature – Drone 	40	U	2U	When this creature enters, return up to one target creature to its owner’s hand.NEWLINEIterate (When this enters, conjure a colorless 6 4/4 artifact creature version of it without iterate into your hand.)	2/2		normal	ITD		https://www.deviantart.com/loganwaldenart/art/Illusion-of-Dissolution-870241606

@@ -1,0 +1,1 @@
+﻿Vaga, True Prophet	G	rare	Legendary Creature – Human Cleric 	135	G	2G	(Creatures don’t lose loyalty from damage.)NEWLINE+1: Add one mana of any color. NEWLINE-1: Put a loyalty counter on each other permanent you control with a loyalty counter on it. 	2/3		normal	ITD		

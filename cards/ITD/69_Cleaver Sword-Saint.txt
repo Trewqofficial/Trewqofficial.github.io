@@ -1,0 +1,1 @@
+﻿Cleaver, Sword-Saint	B	rare	Legendary Creature – Demon Cleric 	69	B	2B	(Creatures don’t lose loyalty from damage.)NEWLINEDeathtouchNEWLINE+2: Creatures you control with deathtouch get +1/+1 until end of turn.NEWLINE-X: Return target creature card with mana value X or less from your graveyard to the battlefield. Put a deathtouch counter on it.	2/2		normal	ITD		

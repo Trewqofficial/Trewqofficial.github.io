@@ -1,0 +1,1 @@
+﻿Angel of the Forest	B	rare	Creature – Angel Illusion 	64	B	2B	Flying, deathtouchNEWLINEWhenever Angel of the Forest leaves your graveyard or attacks, create a 1/1 white Nightmare creature token with lifelink and “This creature can’t block.”	2/2		normal	ITD		
