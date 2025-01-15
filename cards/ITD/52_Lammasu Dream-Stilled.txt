@@ -1,1 +1,0 @@
-﻿Lammasu, Dream-Stilled	U	rare	Legendary Artifact Creature – Sphinx 	52	U	4UU	FlyingNEWLINEWhen this creature enters, return target instant or sorcery card from your graveyard to your hand.NEWLINEIterate (When this enters, conjure a colorless 6 4/4 artifact creature version of it without iterate into your hand.)	4/4		normal	ITD		

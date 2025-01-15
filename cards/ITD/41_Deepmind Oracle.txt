@@ -1,1 +1,0 @@
-﻿Deepmind Oracle	U	rare	Artifact Creature – Sphinx 	41	U	U	FlyingNEWLINEWhen Deepmind Oracle enters, surveil X, where X is its power.NEWLINEIterate (When this enters, conjure a colorless 6 4/4 artifact creature version of it without iterate into your hand.)	1/1		normal	ITD		https://www.artstation.com/artwork/48b0JY

@@ -1,0 +1,1 @@
+﻿Bone Prophet	B	rare	Creature – Cleric 	67	B	2BB	When this creature enters, it deals X damage to target creature or planeswalker and you gain X life, where X is the number of Swamps you control.	2/2		normal	ITD		https://www.deviantart.com/abeardedartist/art/Untitled-1089031285

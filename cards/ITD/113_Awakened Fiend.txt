@@ -1,0 +1,1 @@
+﻿Awakened Fiend	G	rare	Enchantment Creature – Devil 	113	G	2GG	TrampleNEWLINEWhen Awakened Fiend enters, mill four cards. NEWLINEYou may play land cards from your graveyard. Whenever you do, put a +1/+1 counter on this creature.	3/3		normal	ITD		

@@ -1,0 +1,1 @@
+﻿Protostar Bombardment	R	rare	Enchantment	103	R	3RRR	When Protostar Bombardment enters, it deals 4 damage to each creature.NEWLINEWhenever a creature an opponent controls dies, its controller loses 2 life unless they sacrifice a land.			normal	ITD		To quell unbounded wrath is to attempt smothering a star.

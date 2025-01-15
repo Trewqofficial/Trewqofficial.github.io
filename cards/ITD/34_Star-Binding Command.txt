@@ -1,1 +1,0 @@
-﻿Star-Binding Command	W	rare	Instant	34	W	1W	Choose two–NEWLINE• Players can’t cast noncreature spells until end of turn.NEWLINE• You gain 3 life.NEWLINE• Prevent all damage target creature would deal until end of turn.NEWLINE• Return target creature you control to its owner’s hand and draw a card.			normal	ITD		

@@ -1,1 +1,0 @@
-﻿Callous Observer	BR	rare	Enchantment Creature – Eye Horror 	141	BR	1BR	TrampleNEWLINEThis creature gets +1/+1 for each instant and sorcery card in your graveyard.	1/1		normal	ITD		ducky

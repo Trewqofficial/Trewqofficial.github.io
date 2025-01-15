@@ -1,0 +1,1 @@
+﻿Unsightly Mutate	U	rare	Creature – Insect Horror 	62	U	U	At the beginning of your upkeep, surveil 1.NEWLINEDeep dwelling– As long as your library contains a number of cards less than or equal to half your starting deck size, this creature gets +2/+1 and has flying.	1/1		normal	ITD		

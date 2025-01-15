@@ -1,0 +1,1 @@
+﻿Watching Wolf	G	rare	Creature – Eye Wolf Horror 	135	G	4G	Vigilance, deathtouch, reach, hasteNEWLINEWatching Wolf can’t blocked by creatures with power 2 or less.	4/4		normal	ITD		

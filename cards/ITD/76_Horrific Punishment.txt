@@ -1,1 +1,0 @@
-﻿Horrific Punishment	B	rare	Instant	76	B	1B	Destroy target creature unless its controller pays 3 life, discards a card or sacrifices a nonland permanent and then repeats this process twice.			normal	ITD		

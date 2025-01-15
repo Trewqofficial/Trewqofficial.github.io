@@ -1,0 +1,1 @@
+﻿Abstracted Rapture	R	rare	Sorcery	87	R	2RRR	Return each nontoken creature you control to its owner’s hand. Create a token copy of each creature returned to your hand this way. NEWLINECreatures you control gain haste until end of turn.			normal	ITD		

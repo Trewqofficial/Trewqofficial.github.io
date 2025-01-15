@@ -1,0 +1,1 @@
+﻿Veteran Bloodhunter	B	rare	Creature – Vampire Warrior 	86	B	B	Deathtouch, lifelinkNEWLINEWhen Veteran Bloodhunter enters, conjure a card named Drain into your hand. (It’s a B sorcery with “Target opponent loses 1 life and you gain 1 life.”)	1/1		normal	ITD		https://www.deviantart.com/hungerartist/art/Vampire-Lord-86177101

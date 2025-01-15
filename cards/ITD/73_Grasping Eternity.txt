@@ -1,0 +1,1 @@
+﻿Grasping Eternity	B	rare	Creature – Horror 	73	B	1B	When Grasping Eternity enters, create a 1/1 white Nightmare creature token with lifelink and “This creature can’t block.”NEWLINEWhenever you gain life, choose one–NEWLINE• Each opponent loses 1 life.NEWLINE• Put a +1/+1 counter on this creature.	1/1		normal	ITD		https://www.artstation.com/artwork/48woXl
