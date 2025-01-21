@@ -1,0 +1,1 @@
+﻿Shortcut Through Hell		rare	Land	179	C		T: Add C. NEWLINET: Add one mana of any color. Activate only if this land entered this turn. NEWLINET: Target player exiles a card from their graveyard.			normal	ITD		https://pbs.twimg.com/media/GTXblyfWAAEPHTB?format=jpg&name=large

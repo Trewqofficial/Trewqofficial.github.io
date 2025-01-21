@@ -1,0 +1,1 @@
+﻿Water-Witch's Bargain	G	rare	Sorcery	135	G	1G	Deep dwelling– Mill four cards. Return each land card milled this way from your graveyard to your hand. If your library contains a number of cards less than or equal to half your starting deck size, return each nonland permanent card milled this way to your hand.			normal	ITD		https://www.emilylubanko.com/tarot

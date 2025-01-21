@@ -1,0 +1,1 @@
+﻿Lord of Rust	R	rare	Creature – Skeleton Artificer 	99	R	R	Once each turn, whenever one or more artifacts enter under your control, put a +1/+1 counter on this creature.NEWLINEWhen this creature dies, target player may have it deal damage equal to its power to them. If they don’t, you draw a card.	1/1		normal	ITD		

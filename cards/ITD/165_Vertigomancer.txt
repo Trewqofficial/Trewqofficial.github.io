@@ -1,0 +1,1 @@
+﻿Vertigomancer		rare	Artifact Creature – Horror Wizard 	165	C	2	Whenever this creature attacks, mill a card.NEWLINEDeep dwelling–  As long as your library contains a number of cards less than or equal to half your starting deck size, this creature gets +3/+3.	2/1		normal	ITD		

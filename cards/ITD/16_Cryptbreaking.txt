@@ -1,1 +1,1 @@
-﻿Cryptbreaking	W	rare	Sorcery	16	W	3W	Return target creature card from your graveyard to the battlefield. Exile it, then return it to the battlefield under your control.			normal	ITD		
+﻿Cryptbreaking	W	rare	Sorcery	16	W	4W	Return target creature card from your graveyard to the battlefield. Exile it, then return it to the battlefield under your control.			normal	ITD		

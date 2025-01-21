@@ -1,0 +1,1 @@
+﻿Unexpected Passenger	R	rare	Creature – Horror 	108	R	2RR	When this creature enters, conjure a card named Spark into your hand. (It’s a R sorcery with “Spark deals 1 damage to any target.”)NEWLINEWhenever an opponent loses life on your turn, creatures you control get +1/+0 and gain trample until end of turn.	3/3		normal	ITD		

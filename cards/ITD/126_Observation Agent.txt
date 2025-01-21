@@ -1,0 +1,1 @@
+﻿Observation Agent	G	rare	Creature – Shapeshifter 	126	G	G	Changeling (This card is every creature type.)NEWLINEDeathtouchNEWLINEWhen this creature dies, draw a card if there are five or more lands in your realm. (Your realm consists of up to one land of each of the basic land types.)	1/1		normal	ITD		
