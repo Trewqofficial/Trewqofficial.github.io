@@ -1,1 +1,0 @@
-﻿Inexorable Pressure	U	rare	Creature – Eye Horror Incarnation 	49	U	2U	FlashNEWLINEFlyingNEWLINEWhen this creature enters, it gains “Creatures and enchantments you don’t control lose all abilities” until your next first main phase.	2/2		normal	ITD		new

@@ -1,0 +1,1 @@
+﻿Piercing Betrayal	B	rare	Sorcery	76	B	1B	As an additional cost to cast this spell, sacrifice a creature.NEWLINEDraw two cards. NEWLINE1B, Exile Piercing Betrayal from your graveyard as a sorcery: Conjure two cards named Drain into your hand. (They’re B sorceries with “Target opponent loses 1 life and you gain 1 life.”)			normal	ITD		

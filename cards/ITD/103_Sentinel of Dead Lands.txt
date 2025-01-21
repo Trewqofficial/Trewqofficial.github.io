@@ -1,1 +1,0 @@
-﻿Sentinel of Dead Lands	R	rare	Artifact Creature – Spirit Soldier 	103	R	1R	When this creature enters, conjure a card named Spark into your hand. (It’s a R sorcery with “Spark deals 1 damage to any target.”)NEWLINEThis creature gets +2/+0 as long as an opponent has lost life this turn.	1/3		normal	ITD		

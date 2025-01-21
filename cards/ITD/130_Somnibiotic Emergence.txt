@@ -1,1 +1,0 @@
-﻿Somnibiotic Emergence	G	rare	Instant	130	G	G	As an additional cost to cast this spell, sacrifice a creature.NEWLINESearch your library for a creature card with mana value lesser than or equal to that of the sacrificed creature, put it into the battlefield, then shuffle.			normal	ITD		https://x.com/Slitherbop/status/1776511056531325293/photo/1

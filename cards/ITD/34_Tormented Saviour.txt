@@ -1,0 +1,1 @@
+﻿Tormented Saviour	W	rare	Creature – Angel 	34	W	2WW	FlyingNEWLINEWhen this creature enters, you may sacrifice another creature.NEWLINEAt the beginning of your end step, if a creature you control died this turn, you may exile target creature you don’t control until this creature leaves the battlefield.	3/4		normal	ITD		

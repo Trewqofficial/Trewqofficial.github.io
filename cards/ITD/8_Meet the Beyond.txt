@@ -1,1 +1,0 @@
-﻿Meet the Beyond		rare	Sorcery	8	C	3	You gain 3 life. Draw a card. Conjure two copies of Reality Slash into your library, then shuffle. (It’s a 4 Sorcery with “Exile target nonland permanent. Draw a card.”)			normal	ITD		new

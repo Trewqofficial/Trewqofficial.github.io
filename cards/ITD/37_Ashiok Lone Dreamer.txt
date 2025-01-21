@@ -1,1 +1,0 @@
-﻿Ashiok, Lone Dreamer	U	rare	Legendary Planeswalker – Ashiok 	37	U	1UU			If you would draw a card, instead exile the top three cards of your library, then put a card you own exiled with an Ashiok planeswalker into your hand.NEWLINE[-2]: Exile the top card of your library, then put a card you own exiled with an Ashiok planeswalker into your hand.	planeswalker	ITD	5	

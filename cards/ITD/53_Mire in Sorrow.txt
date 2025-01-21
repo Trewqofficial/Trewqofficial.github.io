@@ -1,1 +1,0 @@
-﻿Mire in Sorrow	U	rare	Instant	53	U	U	Counter target spell unless its controller pays 1. NEWLINEDeep Dwelling–If your library contains a number of cards less than or equal to half your starting deck size, instead counter that spell.			normal	ITD		

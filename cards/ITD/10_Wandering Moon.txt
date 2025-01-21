@@ -1,1 +1,0 @@
-﻿Wandering Moon	B	rare	Creature – Orb Horror 	10	B	4	(This creature is black.)NEWLINEFlying, trampleNEWLINELands you control are Swamps.	5/5		normal	ITD		

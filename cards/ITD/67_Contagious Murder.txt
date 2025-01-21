@@ -1,0 +1,1 @@
+﻿Contagious Murder	B	rare	Sorcery	67	B	1B	Destroy target creature with mana value 3 or less.NEWLINEWhen Contagious Murder leaves your graveyard, copy it. You may cast the copy. (You still pay its costs.)			normal	ITD		
