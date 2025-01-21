@@ -1,0 +1,1 @@
+﻿Strange Wayfarer	G	rare	Creature – Horror 	130	G	3G	FlashNEWLINEWhen this creature enters or dies, create a tapped colorless land token named Everywhere that is every basic land type.	2/2		normal	ITD		https://www.deviantart.com/sebastianmonpainting/art/Stationary-Traveller-II-131-1109729216

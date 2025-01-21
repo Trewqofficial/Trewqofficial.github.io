@@ -1,0 +1,1 @@
+﻿Mirror Eater	R	rare	Creature – Reflection 	99	R	4R	MenaceNEWLINEWhenever this creature attacks, you may create a tapped and attacking token copy of another attacking creature. At the beginning of the next end step, exile that token.	4/3		normal	ITD		

@@ -1,1 +1,0 @@
-﻿Rattlefiend		rare	Artifact Creature – Demon 	163	C	8	VigilanceNEWLINEWhen Rattlefiend dies, if it had base toughness 2 or greater, create a token copy of Rattlefiend, except it’s X/X, where X is Rattlefiend’s base toughness minus 1.	8/8		normal	ITD		

@@ -1,0 +1,1 @@
+﻿Prowling Shade	B	rare	Creature – Cat Shade 	77	B	1B	LifelinkNEWLINEB: This creature gets +1/+1 until end of turn.NEWLINE1, Sacrifice another creature: Put a +1/+1 counter on this creature.	1/1		normal	ITD		https://www.deviantart.com/martith/art/Blues-1029755807

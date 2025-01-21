@@ -1,1 +1,0 @@
-﻿Decrepid Terraformer	WG	rare	Artifact Creature – Construct 	140	WG	1GW	VigilanceNEWLINEWhenever you play a land, you may sacrifice it. If you do, search your library for a land card and put it onto the battlefield, then shuffle. It enters tapped if the sacrificed land was tapped.	2/3		normal	ITD		hervor
