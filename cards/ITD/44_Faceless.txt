@@ -1,1 +1,0 @@
-﻿Faceless	U	rare	Enchantment – Aura 	44	U	1U	Enchant creature or planeswalkerNEWLINEEnchanted permanent is a 2/2 creature with no name or abilities.NEWLINEWhen this enchantment leaves the battlefield, draw a card.			normal	ITD		

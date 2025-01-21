@@ -1,1 +1,0 @@
-﻿New-Life Acolyte	U	rare	Artifact Creature – Warlock 	54	U	1U	Artifact spells with mana value 2 or greater you cast cost 1 less to cast. NEWLINEIterate (When this enters, conjure a colorless 6 4/4 artifact creature version of it without iterate into your hand.)	1/2		normal	ITD		https://momarkmagic.blogspot.com/2013/10/pyramid-lord-speedpainting.html

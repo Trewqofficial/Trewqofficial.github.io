@@ -1,1 +1,0 @@
-﻿Novice Dream-Binder	W	rare	Creature – Human Wizard 	27	W	1W	When this creature enters, tap target creature. Put a stun counter on that creature. You gain life equal to that creature’s power.	2/2		normal	ITD		https://www.artstation.com/artwork/042WzV

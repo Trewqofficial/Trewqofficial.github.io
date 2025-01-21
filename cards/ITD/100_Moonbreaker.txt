@@ -1,1 +1,0 @@
-﻿Moonbreaker	R	rare	Creature – Human Wizard 	100	R	8RR	This spell costs 2 less to cast for each permanent you control with mana value 5 or greater.NEWLINETrampleNEWLINEWhenever this creature deals combat damage to a player, that player sacrifices four permanents.	8/8		normal	ITD		

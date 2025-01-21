@@ -25,8 +25,7 @@ Draw a card.			normal	ITD		https://www.pinterest.co.uk/pin/742882901046536620/RE
 • You gain 2 life.
 • Draw a card. You lose 2 life.	6/6		normal	ITD		REPLACEMEThe Gardener's Saga		rare	Enchantment Land — Saga 	172	C				His roots twist and twist and reach deeper and deeper.
 I, II — This land gains “T:  Add C” until your next turn.
-III — Search your library for a non-Saga land card and put it onto the battlefield, then shuffle.
-​	saga	ITD		https://www.deviantart.com/yonaz/art/Forest-2-348501057REPLACEMEBinding Decision	W	rare	Enchantment	13	W	W	When Binding Decision enters, target opponent chooses a nontoken creature they control and exiles it until Binding Decision leaves the battlefield.			normal	ITD		https://www.artstation.com/artwork/qe8P9yREPLACEMEInexorable Pressure	U	rare	Creature — Eye Horror Incarnation 	48	U	2U	Flash
+III — Search your library for a non-Saga land card and put it onto the battlefield, then shuffle.	saga	ITD		https://www.deviantart.com/yonaz/art/Forest-2-348501057REPLACEMEBinding Decision	W	rare	Enchantment	13	W	W	When Binding Decision enters, target opponent chooses a nontoken creature they control and exiles it until Binding Decision leaves the battlefield.			normal	ITD		https://www.artstation.com/artwork/qe8P9yREPLACEMEInexorable Pressure	U	rare	Creature — Eye Horror Incarnation 	48	U	2U	Flash
 Flying
 When this creature enters, it gains “Creatures and enchantments you don’t control lose all abilities” until your next first main phase.	2/2		normal	ITD		newREPLACEMEVertigomancer		rare	Artifact Creature — Horror Wizard 	164	C	2	Whenever this creature attacks, mill a card.
 Deep dwelling—  As long as your library contains a number of cards less than or equal to half your starting deck size, this creature gets +3/+3.	2/1		normal	ITD		REPLACEMEUnsightly Mutate	U	rare	Creature — Insect Horror 	60	U	U	At the beginning of your upkeep, surveil 1.
@@ -149,7 +148,7 @@ This land enters tapped.
 Ominous 2 (2, Exile this card from your hand as a sorcery: Draw a card. During your next turn, you may play this card from exile.)			normal	ITD		REPLACEMEDesolate Expanse		rare	Land — Plains Swamp 	168	C		(T: Add W or B)
 This land enters tapped.
 Ominous 2 (2, Exile this card from your hand as a sorcery: Draw a card. During your next turn, you may play this card from exile.)			normal	ITD		REPLACEMEBeseech the Divine	W	rare	Sorcery	12	W	2WW	Destroy all creatures. 
-Each player creates a 1/1 white Nightmare creature token with lifelink and “This creature can’t block.”			normal	ITD		REPLACEMEImprisoned Aspect	G	rare	Enchantment Creature — Devil 	119	G	1G	Impending 4—1G (If this spell was impending, it enters with four time counters and isn’t a creature until they’re removed. At the beginning of your end step, remove one.)
+Each player creates a 1/1 colorless Faerie Horror creature with flying and “This creature can’t block.”			normal	ITD		REPLACEMEImprisoned Aspect	G	rare	Enchantment Creature — Devil 	119	G	1G	Impending 4—1G (If this spell was impending, it enters with four time counters and isn’t a creature until they’re removed. At the beginning of your end step, remove one.)
 Whenever a time counter is removed from this creature, put a +1/+1 counter on target creature or enchantment you control.	3/2		normal	ITD		https://windydrawallday.tumblr.com/post/154315147365/living-nightmaresREPLACEMEMire in Sorrow	U	rare	Instant	52	U	U	Counter target spell unless its controller pays 1. 
 Deep Dwelling—If your library contains a number of cards less than or equal to half your starting deck size, instead counter that spell.			normal	ITD		REPLACEMEHarbinger of Doubt	G	rare	Creature — Illusion 	117	G	1G	Ward 2
 Creatures with flying can’t block.
@@ -159,10 +158,10 @@ Whenever you play a land, you may sacrifice it. If you do, search your library f
 • Destroy target artifact, enchantment, or creature with flying.
 • Whenever a creature you control deals combat damage to a player or planeswalker this turn, draw a card.			normal	ITD		REPLACEMEScion of the Unknowable	G	rare	Creature — Horror 	128	G	4GG	Vigilance, haste
 Ward—Exile your graveyard.
-You may cast this creature from your graveyard by exiling four land cards from your graveyard as an additional cost to cast it. (You still pay its costs.)	6/6		normal	ITD		REPLACEMELighting the False Sun	W	rare	Enchantment — Saga 	26	W	1W			(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — Reveal the top six cards of your library. Put a non-Saga permanent card with mana value 2 or less from among them into your hand, and put the rest on the bottom of your library in any order.
-II, III — You may put a nonland permanent card with mana value 2 or less from your hand onto the battlefield.
-​	saga	ITD		REPLACEMEEmbrace Rebirth	G	rare	Enchantment — Saga 	113	G	2GG			(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+You may cast this creature from your graveyard by exiling four land cards from your graveyard as an additional cost to cast it. (You still pay its costs.)	6/6		normal	ITD		REPLACEMELighting the False Sun	W	rare	Enchantment — Saga 	26	W	1W			
+I, II, III — Reveal the top six cards of your library. Put a non-Saga permanent card with mana value 2 or less from among them into your hand, and put the rest on the bottom of your library in any order.
+You may put a nonland permanent card with mana value 2 or less from your hand onto the battlefield.
+​	saga	ITD		REPLACEMEEmbrace Rebirth	G	rare	Enchantment — Saga 	113	G	2GG			
 I — You may mill five cards.
 II — Return a permanent card from your graveyard to your hand.
 III — You may put a permanent card from your hand onto the battlefield.	saga	ITD		https://x.com/_tOAOt/status/1780825170036523027/photo/1
@@ -179,10 +178,9 @@ B: This creature gets +1/+1 until end of turn.
 Once each turn, whenever this creature or another creature you control enters, each opponent loses 3 life unless they discard a card or sacrifice a nonland permanent.	4/4		normal	ITD		https://www.deviantart.com/myprocrastinationfix/art/Day-1498-Smoke-Stack-Crab-1057313748REPLACEMELiving Bog		rare	Land — Forest Island 	174	C		(T: Add G or U)
 This land enters tapped.
 Ominous 2 (2, Exile this card from your hand as a sorcery: Draw a card. During your next turn, you may play this card from exile.)			normal	ITD		https://www.deviantart.com/vookasheen/art/Swamp-Creatures-602183184REPLACEMEGhostspitter	W	rare	Creature — Spirit Horror 	23	W	1W	Whenever this creature is dealt damage, create a 1/1 white Nightmare creature token with lifelink and “This creature can’t block.”
-1WW: Put a +1/+1 counter on this creature.	2/2		normal	ITD		https://www.deviantart.com/silviabobekova/art/creator-860397633REPLACEMEPetition the Abominable	U	rare	Enchantment — Saga 	55	U	1UU			(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+1WW: Put a +1/+1 counter on this creature.	2/2		normal	ITD		https://www.deviantart.com/silviabobekova/art/creator-860397633REPLACEMEPetition the Abominable	U	rare	Enchantment — Saga 	55	U	1UU			
 I, II — Draw a card.
-III — When you next resolve an instant or sorcery spell this turn, return it from your graveyard to your hand.
-​	saga	ITD		https://www.deviantart.com/silviabobekova/art/a-demon-visit-896021777REPLACEMELonglegs	B	rare	Artifact Creature — Octopus 	75	B	5BB	Impending 5—2B  (If this spell was impending, it enters with five time counters and isn’t a creature until they’re removed. At the beginning of your end step, remove one.)
+III — When you next resolve an instant or sorcery spell this turn, return it from your graveyard to your hand.	saga	ITD		https://www.deviantart.com/silviabobekova/art/a-demon-visit-896021777REPLACEMELonglegs	B	rare	Artifact Creature — Octopus 	75	B	5BB	Impending 5—2B  (If this spell was impending, it enters with five time counters and isn’t a creature until they’re removed. At the beginning of your end step, remove one.)
 Whenever this creature enters or attacks, each opponent sacrifices a creature.	7/7		normal	ITD		https://www.deviantart.com/dariuszkieliszek/art/Welcome-To-The-House-of-Phosgene-1107029061REPLACEMEHeliach, The Sunspitter	R	rare	Legendary Creature — Human Warlock 	94	R	1R	Haste
 When this creature enters, you may sacrifice a creature. When you do, this creature deals 3 damage to target creature or planeswalker.	2/2		normal	ITD		https://www.erythaia.com/REPLACEMELord of Rust	R	rare	Creature — Skeleton Artificer 	98	R	R	Once each turn, whenever one or more artifacts enter under your control, put a +1/+1 counter on this creature.
 When this creature dies, it deals damage equal to its power to any target.	1/1		normal	ITD		REPLACEMEAbstracted Rapture	R	rare	Sorcery	85	R	2RRR	Return each nontoken creature you control to its owner’s hand. Create a token copy of each creature returned to your hand this way. 
