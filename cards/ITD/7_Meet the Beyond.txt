@@ -1,0 +1,1 @@
+﻿Meet the Beyond		rare	Sorcery	7	C	2	You gain 2 life. Draw a card. Conjure three copies of Through Violence into your library, then shuffle. (It’s a 4 Sorcery with “Exile target nonland permanent. Draw a card.”)			normal	ITD		new

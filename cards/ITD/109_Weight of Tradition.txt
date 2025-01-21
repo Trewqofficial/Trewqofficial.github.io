@@ -1,0 +1,1 @@
+﻿Weight of Tradition	R	rare	Enchantment Creature – Incarnation 	109	R	1R	MenaceNEWLINE3RR, Discard this card: It deals 5 damage to any target.	2/2		normal	ITD		changed

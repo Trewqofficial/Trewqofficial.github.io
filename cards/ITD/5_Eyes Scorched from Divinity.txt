@@ -1,0 +1,1 @@
+﻿Eyes Scorched from Divinity		rare	Creature – Angel Eye Incarnation 	5	C	7	FlyingNEWLINEWhen this creature enters, destroy target permanent.NEWLINEOminous 2 (2, Exile this card from your hand as a sorcery: Draw a card. During your next turn, you may play this card from exile.)	3/3		normal	ITD		

@@ -1,0 +1,1 @@
+﻿Firmament Sculptor	U	rare	Artifact Creature – Avatar 	46	U	1U	Impending 3–4U (If this spell was impending, it enters with three time counters and isn’t a creature until they’re removed. At the beginning of your end step, remove one.)NEWLINEFlyingNEWLINEWhenever a time counter is removed from this creature, create a token copy of it.	2/1		normal	ITD		
