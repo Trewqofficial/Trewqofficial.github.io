@@ -94,7 +94,7 @@ When Awakened Fiend enters, mill four cards.
 You may play land cards from your graveyard. Whenever you do, put a +1/+1 counter on this creature.	3/3		normal	ITD		REPLACEMEFaceless	U	rare	Enchantment — Aura 	44	U	1U	Enchant creature or planeswalker
 Enchanted permanent is a 2/2 creature with no name or abilities.
 When this enchantment leaves the battlefield, draw a card.			normal	ITD		REPLACEMEAngel of the Forest	B	rare	Creature — Angel Illusion 	61	B	2B	Flying, deathtouch
-Whenever Angel of the Forest leaves your graveyard or attacks, create a 1/1 white Nightmare creature token with lifelink and “This creature can’t block.”	2/2		normal	ITD		REPLACEMEFirmament-Rending Blade		rare	Artifact — Equipment 	157	C	3	When Firmament-Rending Blade enters, attach it to target creature you control.
+Whenever Angel of the Forest attacks or leaves your graveyard, create a 1/1 white Nightmare creature token with lifelink and “This creature can’t block.”	2/2		normal	ITD		REPLACEMEFirmament-Rending Blade		rare	Artifact — Equipment 	157	C	3	When Firmament-Rending Blade enters, attach it to target creature you control.
 Equipped creature attacking causes abilities of that creature to trigger as though it entered.
 Equip 2			normal	ITD		https://feiyukicchi.tumblr.com/post/763284664242864128/concept-so-good-i-changed-my-whole-artstyle-lmaoREPLACEMEMoonbreaker	R	rare	Creature — Human Wizard 	100	R	8RR	This spell costs 2 less to cast for each permanent you control with mana value 5 or greater.
 Trample
@@ -159,8 +159,8 @@ Whenever you play a land, you may sacrifice it. If you do, search your library f
 • Whenever a creature you control deals combat damage to a player or planeswalker this turn, draw a card.			normal	ITD		REPLACEMEScion of the Unknowable	G	rare	Creature — Horror 	128	G	4GG	Vigilance, haste
 Ward—Exile your graveyard.
 You may cast this creature from your graveyard by exiling four land cards from your graveyard as an additional cost to cast it. (You still pay its costs.)	6/6		normal	ITD		REPLACEMELighting the False Sun	W	rare	Enchantment — Saga 	26	W	1W			(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-I — Reveal the top six cards of your library. Put a non-Saga permanent card with mana value 2 or less from among them into your hand, and put the rest on the bottom of your library in any order.
-II, III — You may put a nonland permanent card with mana value 2 or less from your hand onto the battlefield.
+I, II, III — Reveal the top six cards of your library. Put a non-Saga permanent card with mana value 2 or less from among them into your hand, and put the rest on the bottom of your library in any order.
+You may put a nonland permanent card with mana value 2 or less from your hand onto the battlefield.
 ​	saga	ITD		REPLACEMEEmbrace Rebirth	G	rare	Enchantment — Saga 	113	G	2GG			(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — You may mill five cards.
 II — Return a permanent card from your graveyard to your hand.
@@ -207,7 +207,7 @@ Whenever this creature deals combat damage to a player, you may search your libr
 • Put target spell on the top of its owner’s library.
 • Put target spell on the bottom of its owner’s library.			normal	ITD		https://www.deviantart.com/25kartinok/art/Siyanie35-865131706REPLACEMEDistortion World	W	rare	Enchantment	20	W	4WW	When Distortion World enters, if it was cast, exile all other nonland permanents and create four colorless 1/1 Faerie Horror creatures with flying that can’t block.
 At the beginning of each player’s upkeep, they may put a card they own exiled with this enchantment onto the battlefield under their control.			normal	ITD		https://www.deviantart.com/nidraj-rion/art/Street-Spirit-865846934
-changedREPLACEMECloudscape Observer	U	rare	Artifact Creature — Drone 	37	U	2U	When this creature enters, return up to one target creature to its owner’s hand.
+changedREPLACEMECloudscape Observer	U	rare	Artifact Creature — Drone 	37	U	2U	When this creature enters, return up to one target creature you don’t control to its owner’s hand.
 Iterate (When this enters, conjure a colorless 6 4/4 artifact creature version of it without iterate into your hand.)	2/2		normal	ITD		https://www.deviantart.com/loganwaldenart/art/Illusion-of-Dissolution-870241606REPLACEMECelestial Realm		rare	Land — Plains Island 	166	C		(T: Add W or U.)
 This land enters tapped.
 Ominous 2 (2, Exile this card from your hand as a sorcery: Draw a card. During your next turn, you may play this card from exile.)			normal	ITD		REPLACEMEGoddess of Puppet Strings	B	rare	Legendary Planeswalker — Arachne 	69	B	1B			[+1]: You may pay 1 life. If you do, create a 1/1 colorless Faerie Horror creature with flying and “This creature can’t block.”
@@ -258,7 +258,7 @@ Whenever this creature attacks alone, conjure a card named Spark into your hand.
 3RR, Discard this card: It deals 5 damage to any target.	2/2		normal	ITD		changedREPLACEMECallous Observer	BR	rare	Enchantment Creature — Eye Horror 	138	BR	1BR	Trample
 Whenever this creature attacks, conjure a card named Drain into your hand. (It’s a B sorcery with “Target opponent loses 1 life and you gain 1 life.”)
 This creature gets +1/+1 for each instant and sorcery card in your graveyard.	1/1		normal	ITD		duckyREPLACEMESpite-Crowned Champion	B	rare	Creature — Human Warrior 	79	B	1B	B: This creature gets +1/+1 until end of turn.
-Whenever this creature attacks, if it has power 4 or greater and no counters on it, you may put a menace counter on it and destroy up to one target creature with power 4 or less.	1/2		normal	ITD		https://www.tumblr.com/kanryo/753715534160347136REPLACEMESiltcurrent Obsession	UG	rare	Sorcery — Revelation 	148	UG	1GU	Mill three cards. When you do, return target land card from your graveyard to the battlefield tapped.
+When this creature attacks, if it has power 4 or greater and no counters on it, you may put a menace counter on it and destroy up to one target creature with power 2 or less.	1/2		normal	ITD		https://www.tumblr.com/kanryo/753715534160347136REPLACEMESiltcurrent Obsession	UG	rare	Sorcery — Revelation 	148	UG	1GU	Mill three cards. When you do, return target land card from your graveyard to the battlefield tapped.
 Overcoalesce 6GU (You may cast this from your graveyard for 6GU. If you do, change its text by replacing all instances of ‘target’ with ‘each’. It enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)	5/5		normal	ITD		Noncreature; 2-6
 https://x.com/nameno92372763/status/1741474345837539563/photo/1REPLACEMEInsubstantial Glimpse	W	rare	Creature — Angel Horror 	25	W	W	Deception 2WW (2WW, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 Flying, lifelink
