@@ -75,7 +75,7 @@
 124_Mycelial Coating
 26_Lighting the False Sun
 51_Mechanised Hunter
-75_Necromatic Overspill
+75_Necromantic Overspill
 100_Moonbreaker
 125_Observation Agent
 27_Novice Dream-Binder

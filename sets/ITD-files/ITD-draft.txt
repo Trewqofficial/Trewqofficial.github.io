@@ -672,7 +672,7 @@
 		{
 			"name": "Firmament-Rending Blade",
 			"rarity": "rare",
-			"mana_cost": "{3}",
+			"mana_cost": "{2}",
 			"type": "Artifact — Equipment ",
 			"collector_number": "157",
 			"image_uris": {
@@ -737,16 +737,6 @@
 			"collector_number": "63",
 			"image_uris": {
 				"en": "https://trewqofficial.github.io/sets/ITD-files/img/63_Avaz, Moontouched Prince.png"
-			}
-		},
-		{
-			"name": "Devoted Numena",
-			"rarity": "rare",
-			"mana_cost": "{1}{W}{W}",
-			"type": "Creature — Snake Cleric ",
-			"collector_number": "19",
-			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/19_Devoted Numena.png"
 			}
 		},
 		{
@@ -1790,13 +1780,23 @@
 			}
 		},
 		{
-			"name": "Necromatic Overspill",
+			"name": "Necromantic Overspill",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/75_Necromatic Overspill.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/75_Necromantic Overspill.png"
+			}
+		},
+		{
+			"name": "Devoted Numena",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Snake Cleric ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/19_Devoted Numena.png"
 			}
 		},
 		]
@@ -1875,7 +1875,6 @@
 		2 Pestilent Meeting
 		2 Ajaxala, Cunning Puppeteer
 		2 Avaz, Moontouched Prince
-		2 Devoted Numena
 		2 Firmament Sculptor
 		2 Defensive Denizen
 		2 Abstracter of Thought
@@ -1980,5 +1979,6 @@
 		2 The Gardener, Crowned
 		2 Illuminant Master
 		2 Unexpected Passenger
-		2 Necromatic Overspill
+		2 Necromantic Overspill
+		2 Devoted Numena
 		
