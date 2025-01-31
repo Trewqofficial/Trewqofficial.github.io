@@ -1,0 +1,1 @@
+﻿I_Fracture of Divinity		cube	Artifact Creature – Demigod Construct 	12	C	6	VigilanceNEWLINEWhenever an opponent casts a noncreature spell with mana value less than this creature’s power, draw a card.	4/4		token	ITD		!tokentag I4

@@ -1,0 +1,1 @@
+﻿Beseech the Divine	W	cube	Sorcery	13	W	2WW	Destroy all creatures. NEWLINEEach player creates a 1/1 colorless Faerie Horror creature token with flying and “This creature can’t block.”			normal	ITD		

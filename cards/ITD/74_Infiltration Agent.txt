@@ -1,0 +1,1 @@
+﻿Infiltration Agent	B	cube	Creature – Human Rogue  	74	B	1B	LifelinkNEWLINEWhen this creature enters, conjure a card named Drain into your hand. (It’s a B sorcery with “Target opponent loses 1 life and you gain 1 life.”)NEWLINEThis creature can’t be blocked if an opponent has lost life this this turn.	2/1		normal	ITD		https://x.com/MON_2501/status/1800107676191564134/photo/1

@@ -1,0 +1,1 @@
+﻿Endless Distortion Line		cube	Artifact – Vehicle 	156	C	2	This artifact enters tapped.NEWLINEYou may return a land you control to its owner’s hand rather than pay this spell’s mana cost.NEWLINET: Add C.NEWLINECrew–Tap four other artifacts you control.	4/4		normal	ITD		

@@ -1,0 +1,1 @@
+﻿I_Cloudscape Observer		cube	Artifact Creature – Drone 	9	C	6	When this creature enters, return up to one target creature you don’t control to its owner’s hand.	4/4		token	ITD		!tokentag I1

@@ -1,0 +1,1 @@
+﻿I_Shifting Silverscape		cube	Artifact Creature – Shapeshifter 	17	C	6	T: Add CNEWLINET: Add one mana of any color. Activate only if you control a creature with power 4 or greater. 	4/4		token	ITD		!tokentag I10

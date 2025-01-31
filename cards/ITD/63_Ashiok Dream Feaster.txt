@@ -1,0 +1,1 @@
+﻿Ashiok, Dream Feaster	B	cube	Legendary Planeswalker – Ashiok 	63	B	2BB			You may cast nonland cards exiled with Ashiok planeswalkers and spend mana as though it were mana of any color to cast those spells.NEWLINE[-2]: Target player reveals their hand. You choose a nonland card from it. That player exiles that card.	planeswalker	ITD	5	https://www.artstation.com/artwork/q9oYWD

@@ -1,0 +1,1 @@
+﻿Ringing Noise		cube	Enchantment	4	C		At the beginning of each opponents upkeep, for each creature they control, destroy that creature unless its controller pays 1.			token	ITD		

@@ -1,0 +1,1 @@
+﻿Drain	B	cube	Sorcery	1	B	B	Target opponent loses 1 life and you gain 1 life.NEWLINE(This is a conjured card and not legal in deckbuilding) 			normal	ITD		https://www.deviantart.com/chrisnazgul/art/Blood-894680065

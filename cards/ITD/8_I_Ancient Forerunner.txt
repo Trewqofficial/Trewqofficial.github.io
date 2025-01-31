@@ -1,0 +1,1 @@
+﻿I_Ancient Forerunner		cube	Artifact Creature – Construct 	8	C	6	First strikeNEWLINEWhen this creature enters, it deals damage equal to its power to each opponent.	4/4		token	ITD		!tokentag I8

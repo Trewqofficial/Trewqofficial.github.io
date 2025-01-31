@@ -1,0 +1,1 @@
+﻿I_Lammasu, Dream-Stilled		cube	Legendary Artifact Creature – Sphinx 	13	C	6	FlyingNEWLINEWhen this creature enters, return target instant or sorcery card from your graveyard to your hand.	4/4		token	ITD		!tokentag I5

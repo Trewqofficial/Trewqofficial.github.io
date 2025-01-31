@@ -1,0 +1,1 @@
+﻿Yklev, In a Strange Land		cube	Legendary Planeswalker – Yklev 	11	C	3			Landfall– Whenever a land enters under your control, you gain 1 life.NEWLINE[+1]: Untap target land. Surveil 1.NEWLINE[-3]: Search your library or graveyard for a land card, reveal it, put it into your hand, then shuffle.	planeswalker	ITD	3	

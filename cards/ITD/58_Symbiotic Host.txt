@@ -1,1 +1,0 @@
-﻿Symbiotic Host	U	rare	Artifact Creature – Human Knight 	58	U	2U	VigilanceNEWLINEWhen Symbiotic Host dies or leaves your graveyard, create a 1/1 colorless Insect artifact creature token with flying and “This creature can’t block.”	3/3		normal	ITD		

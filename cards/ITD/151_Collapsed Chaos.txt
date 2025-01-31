@@ -1,1 +1,0 @@
-﻿Collapsed Chaos		rare	Enchantment Artifact Creature – Fractal 	151	C	4	Flying, vigilanceNEWLINEWhenever you cast a spell with mana value 1, copy it. You may choose new targets for the copy. (Copies of permanent spells enter as tokens.)	2/2		normal	ITD		https://www.pinterest.co.uk/pin/639440847106673007/

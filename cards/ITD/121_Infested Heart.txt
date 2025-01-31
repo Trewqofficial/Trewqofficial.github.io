@@ -1,0 +1,1 @@
+﻿Infested Heart	G	cube	Sorcery	121	G	2G	Double the power of target creature you control. It gains trample. It then deals damage equal to its power to up to one target creature or planeswalker. Sacrifice it at end of turn.			normal	ITD		changed

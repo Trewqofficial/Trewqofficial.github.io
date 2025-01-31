@@ -1,1 +1,0 @@
-﻿Defensive Denizen	W	rare	Creature – Lizard 	17	W	1W	When this creature enters, you may activate one of its abilities without paying its costs.NEWLINE1W: Target creature you control gains lifelink and vigilance until end of turn.	2/3		normal	ITD		

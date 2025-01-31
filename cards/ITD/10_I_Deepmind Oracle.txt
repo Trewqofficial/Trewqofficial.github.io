@@ -1,0 +1,1 @@
+﻿I_Deepmind Oracle		cube	Artifact Creature – Sphinx 	10	C	6	FlyingNEWLINEWhen This creature enters, surveil X, where X is its power.	4/4		token	ITD		!tokentag I2

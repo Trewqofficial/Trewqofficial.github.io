@@ -1,1 +1,0 @@
-﻿Priest of Perfection	UR	rare	Artifact Creature – Cleric 	145	UR	1UR	Whenever you cast a spell with mana value 5 or greater, draw a card.NEWLINEIterate (When this enters, conjure a colorless 6 4/4 artifact creature version of it without iterate into your hand.)	2/3		normal	ITD		https://www.artstation.com/artwork/mqwZlZ

@@ -1,0 +1,1 @@
+﻿Insect		cube	Token Artifact Creature – Insect 	18	C		FlyingNEWLINEThis creature can’t block.	1/1		token	ITD		https://www.deviantart.com/smorekr/art/Fatal-Attraction-883246854

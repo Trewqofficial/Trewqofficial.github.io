@@ -1,0 +1,1 @@
+﻿Nightmare	W	cube	Token Creature – Nightmare 	7	W		This creature can’t block.	1/1		token	ITD		

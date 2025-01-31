@@ -1,0 +1,1 @@
+﻿Spark	R	cube	Sorcery	2	R	R	Spark deals 1 damage to any target.NEWLINE(This is a conjured card and not legal in deckbuilding) 			normal	ITD		https://www.deviantart.com/eliag1101/art/Fire-mage-168183745

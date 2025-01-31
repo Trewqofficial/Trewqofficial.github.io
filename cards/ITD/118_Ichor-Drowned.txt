@@ -1,1 +1,0 @@
-﻿Ichor-Drowned	G	rare	Creature – Zombie 	118	G	G	T: Mill a card. When you do, add C.NEWLINEDeep dwelling– T: Add one mana of any color. Activate only if your main library contains a number of cards less than or equal to half your starting deck size.	1/1		normal	ITD		

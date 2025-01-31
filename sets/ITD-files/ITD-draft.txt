@@ -4,9 +4,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Cleric ",
-			"collector_number": "64",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/64_Bone Prophet.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/65_Bone Prophet.png"
 			}
 		},
 		{
@@ -14,9 +14,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Artifact Creature — Horror ",
-			"collector_number": "91",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/91_Emergent Anomaly.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/92_Emergent Anomaly.png"
 			}
 		},
 		{
@@ -24,9 +24,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Artifact Creature — Cleric ",
-			"collector_number": "145",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/145_Priest of Perfection.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/146_Priest of Perfection.png"
 			}
 		},
 		{
@@ -34,9 +34,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "170",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/170_Far-Off Factory.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/171_Far-Off Factory.png"
 			}
 		},
 		{
@@ -44,9 +44,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "66",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/66_Contagious Murder.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/67_Contagious Murder.png"
 			}
 		},
 		{
@@ -54,9 +54,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact — Vehicle ",
-			"collector_number": "155",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/155_Endless Distortion Line.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/156_Endless Distortion Line.png"
 			}
 		},
 		{
@@ -64,9 +64,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}",
 			"type": "Artifact Creature — Construct ",
-			"collector_number": "161",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/161_Matryoshka Crawler.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/162_Matryoshka Crawler.png"
 			}
 		},
 		{
@@ -74,9 +74,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Golem ",
-			"collector_number": "163",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/163_Sorting Servant.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/164_Sorting Servant.png"
 			}
 		},
 		{
@@ -84,9 +84,9 @@
 			"rarity": "rare",
 			"mana_cost": "{8}",
 			"type": "Artifact Creature — Demon ",
-			"collector_number": "162",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/162_Rattlefiend.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/163_Rattlefiend.png"
 			}
 		},
 		{
@@ -114,9 +114,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Horror ",
-			"collector_number": "51",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/51_Mechanised Hunter.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/52_Mechanised Hunter.png"
 			}
 		},
 		{
@@ -124,9 +124,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}",
 			"type": "Artifact Creature — Sphinx ",
-			"collector_number": "38",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/38_Deepmind Oracle.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/39_Deepmind Oracle.png"
 			}
 		},
 		{
@@ -134,9 +134,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact Creature — Warlock ",
-			"collector_number": "54",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/54_New-Life Acolyte.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/55_New-Life Acolyte.png"
 			}
 		},
 		{
@@ -144,9 +144,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "81",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/81_Thought-Theft.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/82_Thought-Theft.png"
 			}
 		},
 		{
@@ -154,19 +154,19 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{B}",
 			"type": "Artifact",
-			"collector_number": "146",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/146_The Red Door.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/147_The Red Door.png"
 			}
 		},
 		{
 			"name": "Door to Clear Skies",
 			"rarity": "rare",
-			"mana_cost": "{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "39",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/39_Door to Clear Skies.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/40_Door to Clear Skies.png"
 			}
 		},
 		{
@@ -174,9 +174,9 @@
 			"rarity": "rare",
 			"mana_cost": "{7}",
 			"type": "Enchantment Artifact Creature — Giant ",
-			"collector_number": "154",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/154_Dreamlured Giant.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/155_Dreamlured Giant.png"
 			}
 		},
 		{
@@ -184,9 +184,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Enchantment Land — Saga ",
-			"collector_number": "172",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/172_The Gardener's Saga.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/173_The Gardener's Saga.png"
 			}
 		},
 		{
@@ -194,9 +194,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Enchantment",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/13_Binding Decision.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/14_Binding Decision.png"
 			}
 		},
 		{
@@ -204,9 +204,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Eye Horror Incarnation ",
-			"collector_number": "48",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/48_Inexorable Pressure.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/49_Inexorable Pressure.png"
 			}
 		},
 		{
@@ -214,9 +214,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Horror Wizard ",
-			"collector_number": "164",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/164_Vertigomancer.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/165_Vertigomancer.png"
 			}
 		},
 		{
@@ -224,9 +224,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}",
 			"type": "Creature — Insect Horror ",
-			"collector_number": "60",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/60_Unsightly Mutate.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/61_Unsightly Mutate.png"
 			}
 		},
 		{
@@ -234,9 +234,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human ",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/11_Beacon Dreamer.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/12_Beacon Dreamer.png"
 			}
 		},
 		{
@@ -244,9 +244,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
-			"collector_number": "29",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/29_Restlessness.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/30_Restlessness.png"
 			}
 		},
 		{
@@ -254,9 +254,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{B}",
 			"type": "Enchantment",
-			"collector_number": "147",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/147_Secrets of Radiance.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/148_Secrets of Radiance.png"
 			}
 		},
 		{
@@ -264,9 +264,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Legendary Planeswalker — Yklev ",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/10_Yklev, In a Strange Land.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/11_Yklev, In a Strange Land.png"
 			}
 		},
 		{
@@ -274,9 +274,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Instant",
-			"collector_number": "80",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/80_Suffocating Gaze.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/81_Suffocating Gaze.png"
 			}
 		},
 		{
@@ -284,9 +284,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Human Cleric ",
-			"collector_number": "132",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/132_Vaga, True Prophet.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/133_Vaga, True Prophet.png"
 			}
 		},
 		{
@@ -304,9 +304,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/15_Chimerism.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/16_Chimerism.png"
 			}
 		},
 		{
@@ -314,9 +314,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Legendary Creature — Bird Incarnation ",
-			"collector_number": "82",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/82_Through The Dark Twilight.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/83_Through The Dark Twilight.png"
 			}
 		},
 		{
@@ -324,9 +324,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "158",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/158_Foreboding Monolith.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/159_Foreboding Monolith.png"
 			}
 		},
 		{
@@ -334,9 +334,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "78",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/78_Rite of Resurrection.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/79_Rite of Resurrection.png"
 			}
 		},
 		{
@@ -344,9 +344,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{W}",
 			"type": "Sorcery",
-			"collector_number": "144",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/144_Overcome All.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/145_Overcome All.png"
 			}
 		},
 		{
@@ -354,9 +354,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Legendary Artifact Creature — Sphinx ",
-			"collector_number": "49",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/49_Lammasu, Dream-Stilled.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/50_Lammasu, Dream-Stilled.png"
 			}
 		},
 		{
@@ -364,9 +364,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Creature — Zombie ",
-			"collector_number": "118",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/118_Ichor-Drowned.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/119_Ichor-Drowned.png"
 			}
 		},
 		{
@@ -374,9 +374,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "35",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/35_Unfair Judgment.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/36_Unfair Judgment.png"
 			}
 		},
 		{
@@ -384,9 +384,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "72",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/72_Horrific Punishment.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/73_Horrific Punishment.png"
 			}
 		},
 		{
@@ -394,9 +394,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "121",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/121_Lamplure.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/122_Lamplure.png"
 			}
 		},
 		{
@@ -404,9 +404,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Artifact Creature — Drone ",
-			"collector_number": "104",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/104_Somnonaut Drone.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/105_Somnonaut Drone.png"
 			}
 		},
 		{
@@ -414,9 +414,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Creature — Shapeshifter ",
-			"collector_number": "125",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/125_Observation Agent.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/126_Observation Agent.png"
 			}
 		},
 		{
@@ -424,9 +424,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Reflection ",
-			"collector_number": "99",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/99_Mirror Eater.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/100_Mirror Eater.png"
 			}
 		},
 		{
@@ -434,9 +434,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Island Mountain ",
-			"collector_number": "180",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/180_Volcanic Steambed.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/181_Volcanic Steambed.png"
 			}
 		},
 		{
@@ -444,9 +444,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact",
-			"collector_number": "156",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/156_Far-off Door.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/157_Far-off Door.png"
 			}
 		},
 		{
@@ -454,9 +454,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Incarnation ",
-			"collector_number": "137",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/137_A Blossoming of Flowers.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/138_A Blossoming of Flowers.png"
 			}
 		},
 		{
@@ -464,9 +464,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Human Knight ",
-			"collector_number": "58",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/58_Symbiotic Host.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/59_Symbiotic Host.png"
 			}
 		},
 		{
@@ -474,9 +474,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "95",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/95_Identity Shatter.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/96_Identity Shatter.png"
 			}
 		},
 		{
@@ -484,9 +484,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "152",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/152_Corpse-Shell Container.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/153_Corpse-Shell Container.png"
 			}
 		},
 		{
@@ -494,9 +494,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "22",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/22_Feast of Butterflies.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/23_Feast of Butterflies.png"
 			}
 		},
 		{
@@ -504,19 +504,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "124",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/124_Mycelial Coating.png"
-			}
-		},
-		{
-			"name": "Grasping Eternity",
-			"rarity": "rare",
-			"mana_cost": "{1}{B}",
-			"type": "Creature — Horror ",
-			"collector_number": "70",
-			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/70_Grasping Eternity.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/125_Mycelial Coating.png"
 			}
 		},
 		{
@@ -524,9 +514,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Planeswalker — Ashiok ",
-			"collector_number": "62",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/62_Ashiok, Dream Feaster.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/63_Ashiok, Dream Feaster.png"
 			}
 		},
 		{
@@ -534,9 +524,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Planeswalker — Echo ",
-			"collector_number": "21",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/21_Echo of Distorted Outcomes.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/22_Echo of Distorted Outcomes.png"
 			}
 		},
 		{
@@ -544,9 +534,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "41",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/41_Edge of a Precipice.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/42_Edge of a Precipice.png"
 			}
 		},
 		{
@@ -554,9 +544,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "173",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/173_Hall of the Hands.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/174_Hall of the Hands.png"
 			}
 		},
 		{
@@ -564,9 +554,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "42",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/42_Eightfold Sight.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/43_Eightfold Sight.png"
 			}
 		},
 		{
@@ -574,9 +564,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Legendary Planeswalker — Ashiok ",
-			"collector_number": "36",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/36_Ashiok, Lone Dreamer.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/37_Ashiok, Lone Dreamer.png"
 			}
 		},
 		{
@@ -584,9 +574,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Enchantment Artifact Creature — Fractal ",
-			"collector_number": "151",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/151_Collapsed Chaos.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/152_Collapsed Chaos.png"
 			}
 		},
 		{
@@ -594,9 +584,9 @@
 			"rarity": "rare",
 			"mana_cost": "{6}",
 			"type": "Enchantment Artifact Creature — Avatar ",
-			"collector_number": "150",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/150_Aspect of Logic.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/151_Aspect of Logic.png"
 			}
 		},
 		{
@@ -604,9 +594,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Angel ",
-			"collector_number": "87",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/87_Angel of Dying Flames.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/88_Angel of Dying Flames.png"
 			}
 		},
 		{
@@ -614,9 +604,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact Creature — Demigod Construct ",
-			"collector_number": "47",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/47_Fracture of Divinity.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/48_Fracture of Divinity.png"
 			}
 		},
 		{
@@ -624,9 +614,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Enchantment Creature — God ",
-			"collector_number": "108",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/108_Warden of Scorching Days.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/109_Warden of Scorching Days.png"
 			}
 		},
 		{
@@ -634,9 +624,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Swamp Forest ",
-			"collector_number": "179",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/179_Stretching Tangle.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/180_Stretching Tangle.png"
 			}
 		},
 		{
@@ -644,9 +634,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Enchantment Creature — Devil ",
-			"collector_number": "111",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/111_Awakened Fiend.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/112_Awakened Fiend.png"
 			}
 		},
 		{
@@ -654,9 +644,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "44",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/44_Faceless.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/45_Faceless.png"
 			}
 		},
 		{
@@ -664,9 +654,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Angel Illusion ",
-			"collector_number": "61",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/61_Angel of the Forest.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/62_Angel of the Forest.png"
 			}
 		},
 		{
@@ -674,9 +664,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "157",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/157_Firmament-Rending Blade.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/158_Firmament-Rending Blade.png"
 			}
 		},
 		{
@@ -684,9 +674,9 @@
 			"rarity": "rare",
 			"mana_cost": "{8}{R}{R}",
 			"type": "Creature — Human Wizard ",
-			"collector_number": "100",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/100_Moonbreaker.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/101_Moonbreaker.png"
 			}
 		},
 		{
@@ -694,9 +684,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Eye Wolf Horror ",
-			"collector_number": "133",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/133_Watching Wolf.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/134_Watching Wolf.png"
 			}
 		},
 		{
@@ -704,9 +694,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Angel ",
-			"collector_number": "34",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/34_Tormented Saviour.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/35_Tormented Saviour.png"
 			}
 		},
 		{
@@ -714,9 +704,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "127",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/127_Pestilent Meeting.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/128_Pestilent Meeting.png"
 			}
 		},
 		{
@@ -724,9 +714,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Legendary Creature — Isopod Horror ",
-			"collector_number": "136",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/136_Ajaxala, Cunning Puppeteer.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/137_Ajaxala, Cunning Puppeteer.png"
 			}
 		},
 		{
@@ -734,9 +724,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Legendary Creature — Human Noble ",
-			"collector_number": "63",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/63_Avaz, Moontouched Prince.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/64_Avaz, Moontouched Prince.png"
 			}
 		},
 		{
@@ -744,9 +734,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact Creature — Avatar ",
-			"collector_number": "46",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/46_Firmament Sculptor.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/47_Firmament Sculptor.png"
 			}
 		},
 		{
@@ -754,9 +744,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Lizard ",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/17_Defensive Denizen.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/18_Defensive Denizen.png"
 			}
 		},
 		{
@@ -774,9 +764,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Kindred Artifact Land — Shapeshifter ",
-			"collector_number": "177",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/177_Shifting Silverscape.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/178_Shifting Silverscape.png"
 			}
 		},
 		{
@@ -784,9 +774,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Instant",
-			"collector_number": "33",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/33_To be Forgotten in a Dream.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/34_To be Forgotten in a Dream.png"
 			}
 		},
 		{
@@ -794,9 +784,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Enchantment Creature — Horror ",
-			"collector_number": "131",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/131_Tyrant of Long Death.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/132_Tyrant of Long Death.png"
 			}
 		},
 		{
@@ -804,9 +794,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "165",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/165_Antisun's Domain.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/166_Antisun's Domain.png"
 			}
 		},
 		{
@@ -814,9 +804,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Creature — Bird Nightmare ",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/14_Celestial Messenger.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/15_Celestial Messenger.png"
 			}
 		},
 		{
@@ -824,9 +814,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Advisor ",
-			"collector_number": "115",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/115_Forgotten Prophet.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/116_Forgotten Prophet.png"
 			}
 		},
 		{
@@ -834,9 +824,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Legendary Artifact Creature — Construct ",
-			"collector_number": "135",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/135_001, Errant Spark-Engine.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/136_001, Errant Spark-Engine.png"
 			}
 		},
 		{
@@ -844,9 +834,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "31",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/31_Star-Binding Command.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/32_Star-Binding Command.png"
 			}
 		},
 		{
@@ -854,9 +844,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Enchantment",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/18_Desolate Meeting.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/19_Desolate Meeting.png"
 			}
 		},
 		{
@@ -864,9 +854,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Enchantment",
-			"collector_number": "126",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/126_The Pact.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/127_The Pact.png"
 			}
 		},
 		{
@@ -874,9 +864,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "106",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/106_Tyrant's Rage.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/107_Tyrant's Rage.png"
 			}
 		},
 		{
@@ -884,9 +874,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Legendary Creature — Zombie ",
-			"collector_number": "57",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/57_Saylthe, Twice-Drowned.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/58_Saylthe, Twice-Drowned.png"
 			}
 		},
 		{
@@ -894,9 +884,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "134",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/134_Water-Witch's Bargain.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/135_Water-Witch's Bargain.png"
 			}
 		},
 		{
@@ -904,9 +894,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "40",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/40_Drown in Self Reflection.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/41_Drown in Self Reflection.png"
 			}
 		},
 		{
@@ -914,9 +904,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment — Saga ",
-			"collector_number": "93",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/93_Fleeting Merriment.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/94_Fleeting Merriment.png"
 			}
 		},
 		{
@@ -924,9 +914,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment — Saga ",
-			"collector_number": "83",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/83_Unmasking Divinity.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/84_Unmasking Divinity.png"
 			}
 		},
 		{
@@ -934,9 +924,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Demon Cleric ",
-			"collector_number": "65",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/65_Cleaver, Sword-Saint.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/66_Cleaver, Sword-Saint.png"
 			}
 		},
 		{
@@ -944,9 +934,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Shaman ",
-			"collector_number": "97",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/97_The Living Enigma.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/98_The Living Enigma.png"
 			}
 		},
 		{
@@ -954,9 +944,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Angel Artificer ",
-			"collector_number": "32",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/32_Tithetaker Angel.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/33_Tithetaker Angel.png"
 			}
 		},
 		{
@@ -964,9 +954,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "120",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/120_Infested Heart.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/121_Infested Heart.png"
 			}
 		},
 		{
@@ -974,9 +964,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain ",
-			"collector_number": "167",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/167_Cursed Range.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/168_Cursed Range.png"
 			}
 		},
 		{
@@ -984,9 +974,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Plains Swamp ",
-			"collector_number": "168",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/168_Desolate Expanse.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/169_Desolate Expanse.png"
 			}
 		},
 		{
@@ -994,9 +984,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/12_Beseech the Divine.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/13_Beseech the Divine.png"
 			}
 		},
 		{
@@ -1004,9 +994,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment Creature — Devil ",
-			"collector_number": "119",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/119_Imprisoned Aspect.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/120_Imprisoned Aspect.png"
 			}
 		},
 		{
@@ -1014,9 +1004,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "52",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/52_Mire in Sorrow.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/53_Mire in Sorrow.png"
 			}
 		},
 		{
@@ -1024,9 +1014,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Illusion ",
-			"collector_number": "117",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/117_Harbinger of Doubt.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/118_Harbinger of Doubt.png"
 			}
 		},
 		{
@@ -1034,9 +1024,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}",
 			"type": "Legendary Artifact",
-			"collector_number": "160",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/160_The Living Coffin.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/161_The Living Coffin.png"
 			}
 		},
 		{
@@ -1044,9 +1034,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Artifact Creature — Construct ",
-			"collector_number": "139",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/139_Decrepid Terraformer.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/140_Decrepid Terraformer.png"
 			}
 		},
 		{
@@ -1054,9 +1044,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "114",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/114_Find the Corrupt Heart.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/115_Find the Corrupt Heart.png"
 			}
 		},
 		{
@@ -1064,9 +1054,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Horror ",
-			"collector_number": "128",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/128_Scion of the Unknowable.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/129_Scion of the Unknowable.png"
 			}
 		},
 		{
@@ -1074,9 +1064,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment — Saga ",
-			"collector_number": "26",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/26_Lighting the False Sun.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/27_Lighting the False Sun.png"
 			}
 		},
 		{
@@ -1084,9 +1074,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Enchantment — Saga ",
-			"collector_number": "113",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/113_Embrace Rebirth.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/114_Embrace Rebirth.png"
 			}
 		},
 		{
@@ -1094,9 +1084,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Bird Horror ",
-			"collector_number": "67",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/67_Corvid Defacer.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/68_Corvid Defacer.png"
 			}
 		},
 		{
@@ -1104,9 +1094,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Creature — Elf Spirit Shaman ",
-			"collector_number": "112",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/112_Deepgrowth Animist.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/113_Deepgrowth Animist.png"
 			}
 		},
 		{
@@ -1114,9 +1104,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest ",
-			"collector_number": "169",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/169_Embryonic Mound.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/170_Embryonic Mound.png"
 			}
 		},
 		{
@@ -1124,9 +1114,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Mountain Plains ",
-			"collector_number": "171",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/171_Forlorn Battlefield.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/172_Forlorn Battlefield.png"
 			}
 		},
 		{
@@ -1134,9 +1124,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Enchantment",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/30_Seek Understanding.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/31_Seek Understanding.png"
 			}
 		},
 		{
@@ -1144,9 +1134,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Cat Shade ",
-			"collector_number": "77",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/77_Prowling Shade.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/78_Prowling Shade.png"
 			}
 		},
 		{
@@ -1154,9 +1144,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Crab ",
-			"collector_number": "103",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/103_Smokeplume Crustacean.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/104_Smokeplume Crustacean.png"
 			}
 		},
 		{
@@ -1164,9 +1154,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Forest Island ",
-			"collector_number": "174",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/174_Living Bog.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/175_Living Bog.png"
 			}
 		},
 		{
@@ -1174,9 +1164,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Spirit Horror ",
-			"collector_number": "23",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/23_Ghostspitter.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/24_Ghostspitter.png"
 			}
 		},
 		{
@@ -1184,9 +1174,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Enchantment — Saga ",
-			"collector_number": "55",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/55_Petition the Abominable.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/56_Petition the Abominable.png"
 			}
 		},
 		{
@@ -1194,9 +1184,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{B}{B}",
 			"type": "Artifact Creature — Octopus ",
-			"collector_number": "74",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/74_Longlegs.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/75_Longlegs.png"
 			}
 		},
 		{
@@ -1204,9 +1194,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Legendary Creature — Human Warlock ",
-			"collector_number": "94",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/94_Heliach, The Sunspitter.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/95_Heliach, The Sunspitter.png"
 			}
 		},
 		{
@@ -1214,9 +1204,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Creature — Skeleton Artificer ",
-			"collector_number": "98",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/98_Lord of Rust.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/99_Lord of Rust.png"
 			}
 		},
 		{
@@ -1224,9 +1214,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "85",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/85_Abstracted Rapture.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/86_Abstracted Rapture.png"
 			}
 		},
 		{
@@ -1234,9 +1224,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Legendary Creature — Reflection ",
-			"collector_number": "143",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/143_The Nowhere Girl.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/144_The Nowhere Girl.png"
 			}
 		},
 		{
@@ -1244,9 +1234,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "129",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/129_Somnibiotic Emergence.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/130_Somnibiotic Emergence.png"
 			}
 		},
 		{
@@ -1254,9 +1244,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Faerie ",
-			"collector_number": "43",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/43_Exiled Trickster.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/44_Exiled Trickster.png"
 			}
 		},
 		{
@@ -1264,9 +1254,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "90",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/90_Cascade Coherency Failure.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/91_Cascade Coherency Failure.png"
 			}
 		},
 		{
@@ -1274,9 +1264,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Instant",
-			"collector_number": "141",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/141_Experience Infinite Time.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/142_Experience Infinite Time.png"
 			}
 		},
 		{
@@ -1284,9 +1274,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Wizard ",
-			"collector_number": "27",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/27_Novice Dream-Binder.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/28_Novice Dream-Binder.png"
 			}
 		},
 		{
@@ -1294,9 +1284,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "89",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/89_Bladecraft Scion.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/90_Bladecraft Scion.png"
 			}
 		},
 		{
@@ -1304,9 +1294,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment",
-			"collector_number": "71",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/71_Gravewalking.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/72_Gravewalking.png"
 			}
 		},
 		{
@@ -1314,9 +1304,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Cleric ",
-			"collector_number": "53",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/53_Moonlight Oracle.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/54_Moonlight Oracle.png"
 			}
 		},
 		{
@@ -1324,9 +1314,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Horror ",
-			"collector_number": "130",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/130_Strange Wayfarer.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/131_Strange Wayfarer.png"
 			}
 		},
 		{
@@ -1334,9 +1324,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{U}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "56",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/56_Reshape Reality.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/57_Reshape Reality.png"
 			}
 		},
 		{
@@ -1344,9 +1334,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Demon ",
-			"collector_number": "45",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/45_Figure of Some Importance.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/46_Figure of Some Importance.png"
 			}
 		},
 		{
@@ -1354,9 +1344,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Shapeshifter ",
-			"collector_number": "28",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/28_One of Keys.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/29_One of Keys.png"
 			}
 		},
 		{
@@ -1364,9 +1354,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
-			"collector_number": "59",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/59_Unceasing Observation.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/60_Unceasing Observation.png"
 			}
 		},
 		{
@@ -1374,9 +1364,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Enchantment",
-			"collector_number": "20",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/20_Distortion World.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/21_Distortion World.png"
 			}
 		},
 		{
@@ -1384,9 +1374,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Drone ",
-			"collector_number": "37",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/37_Cloudscape Observer.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/38_Cloudscape Observer.png"
 			}
 		},
 		{
@@ -1394,9 +1384,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Plains Island ",
-			"collector_number": "166",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/166_Celestial Realm.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/167_Celestial Realm.png"
 			}
 		},
 		{
@@ -1404,9 +1394,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Legendary Planeswalker — Arachne ",
-			"collector_number": "69",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/69_Goddess of Puppet Strings.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/70_Goddess of Puppet Strings.png"
 			}
 		},
 		{
@@ -1414,9 +1404,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{G}",
 			"type": "Legendary Planeswalker — Gardener ",
-			"collector_number": "116",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/116_The Gardener, Waning.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/117_The Gardener, Waning.png"
 			}
 		},
 		{
@@ -1424,9 +1414,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Legendary Planeswalker — Unmasked ",
-			"collector_number": "92",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/92_Ever-Burning Soul.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/93_Ever-Burning Soul.png"
 			}
 		},
 		{
@@ -1434,9 +1424,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Legendary Planeswalker — Aeon ",
-			"collector_number": "110",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/110_Aeon, of the Living Coffin.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/111_Aeon, of the Living Coffin.png"
 			}
 		},
 		{
@@ -1444,9 +1434,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Island Swamp ",
-			"collector_number": "175",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/175_Phantom City.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/176_Phantom City.png"
 			}
 		},
 		{
@@ -1454,19 +1444,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Artifact Creature — Horror ",
-			"collector_number": "96",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/96_Liferoot Gnawer.png"
-			}
-		},
-		{
-			"name": "Howling Mine",
-			"rarity": "rare",
-			"mana_cost": "{2}",
-			"type": "Artifact",
-			"collector_number": "159",
-			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/159_Howling Mine.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/97_Liferoot Gnawer.png"
 			}
 		},
 		{
@@ -1474,9 +1454,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Enchantment",
-			"collector_number": "122",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/122_Living Heart.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/123_Living Heart.png"
 			}
 		},
 		{
@@ -1484,9 +1464,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{W}",
 			"type": "Sorcery",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/16_Cryptbreaking.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/17_Cryptbreaking.png"
 			}
 		},
 		{
@@ -1494,9 +1474,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "88",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/88_Animus Conflagration.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/89_Animus Conflagration.png"
 			}
 		},
 		{
@@ -1504,9 +1484,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Artifact Creature — Construct ",
-			"collector_number": "86",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/86_Ancient Forerunner.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/87_Ancient Forerunner.png"
 			}
 		},
 		{
@@ -1514,9 +1494,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}{U}",
 			"type": "Legendary Planeswalker — Lursk ",
-			"collector_number": "140",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/140_The Ephemeral Piper.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/141_The Ephemeral Piper.png"
 			}
 		},
 		{
@@ -1524,9 +1504,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "149",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/149_Wyrm's Death.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/150_Wyrm's Death.png"
 			}
 		},
 		{
@@ -1534,9 +1514,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{G}{U}",
 			"type": "Creature — Human Scout Rogue ",
-			"collector_number": "142",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/142_Interstellar Drifter.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/143_Interstellar Drifter.png"
 			}
 		},
 		{
@@ -1544,9 +1524,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}",
 			"type": "Artifact Creature — Serpent ",
-			"collector_number": "153",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/153_Crackling Serpent.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/154_Crackling Serpent.png"
 			}
 		},
 		{
@@ -1554,9 +1534,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Forest Plains ",
-			"collector_number": "176",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/176_Reflective Savannah.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/177_Reflective Savannah.png"
 			}
 		},
 		{
@@ -1564,9 +1544,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "178",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/178_Shortcut Through Hell.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/179_Shortcut Through Hell.png"
 			}
 		},
 		{
@@ -1584,9 +1564,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Creature — Orb Horror ",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/9_Wandering Moon.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/10_Wandering Moon.png"
 			}
 		},
 		{
@@ -1594,9 +1574,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{U}",
 			"type": "Creature — Horror Incarnation ",
-			"collector_number": "50",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/50_Like Butterflies on Strings.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/51_Like Butterflies on Strings.png"
 			}
 		},
 		{
@@ -1614,9 +1594,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}",
 			"type": "Creature — Vampire Warrior ",
-			"collector_number": "84",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/84_Veteran Bloodhunter.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/85_Veteran Bloodhunter.png"
 			}
 		},
 		{
@@ -1624,9 +1604,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Rogue  ",
-			"collector_number": "73",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/73_Infiltration Agent.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/74_Infiltration Agent.png"
 			}
 		},
 		{
@@ -1634,9 +1614,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "76",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/76_Piercing Betrayal.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/77_Piercing Betrayal.png"
 			}
 		},
 		{
@@ -1644,9 +1624,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact Creature — Spirit Soldier ",
-			"collector_number": "102",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/102_Sentinel of Dead Lands.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/103_Sentinel of Dead Lands.png"
 			}
 		},
 		{
@@ -1654,9 +1634,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Creature — Zombie Horror ",
-			"collector_number": "105",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/105_Towersmog Ghoul.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/106_Towersmog Ghoul.png"
 			}
 		},
 		{
@@ -1664,9 +1644,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment Creature — Incarnation ",
-			"collector_number": "109",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/109_Weight of Tradition.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/110_Weight of Tradition.png"
 			}
 		},
 		{
@@ -1674,19 +1654,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Enchantment Creature — Eye Horror ",
-			"collector_number": "138",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/138_Callous Observer.png"
-			}
-		},
-		{
-			"name": "Spite-Crowned Champion",
-			"rarity": "rare",
-			"mana_cost": "{1}{B}",
-			"type": "Creature — Human Warrior ",
-			"collector_number": "79",
-			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/79_Spite-Crowned Champion.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/139_Callous Observer.png"
 			}
 		},
 		{
@@ -1694,9 +1664,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Sorcery — Revelation ",
-			"collector_number": "148",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/148_Siltcurrent Obsession.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/149_Siltcurrent Obsession.png"
 			}
 		},
 		{
@@ -1704,9 +1674,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}",
 			"type": "Creature — Angel Horror ",
-			"collector_number": "25",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/25_Insubstantial Glimpse.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/26_Insubstantial Glimpse.png"
 			}
 		},
 		{
@@ -1714,9 +1684,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Creature — Human Horror ",
-			"collector_number": "123",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/123_Maktel and the Unknowable.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/124_Maktel and the Unknowable.png"
 			}
 		},
 		{
@@ -1724,9 +1694,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}{R}",
 			"type": "Enchantment",
-			"collector_number": "101",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/101_Protostar Bombardment.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/102_Protostar Bombardment.png"
 			}
 		},
 		{
@@ -1734,9 +1704,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Legendary Enchantment Artifact",
-			"collector_number": "68",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/68_Eye of the Abominable.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/69_Eye of the Abominable.png"
 			}
 		},
 		{
@@ -1750,23 +1720,13 @@
 			}
 		},
 		{
-			"name": "The Gardener, Crowned",
-			"rarity": "rare",
-			"mana_cost": "{8}",
-			"type": "Legendary Planeswalker — Gardener ",
-			"collector_number": "6",
-			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/6_The Gardener, Crowned.png"
-			}
-		},
-		{
 			"name": "Illuminant Master",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Warlock ",
-			"collector_number": "24",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/24_Illuminant Master.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/25_Illuminant Master.png"
 			}
 		},
 		{
@@ -1774,9 +1734,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Horror ",
-			"collector_number": "107",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/107_Unexpected Passenger.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/108_Unexpected Passenger.png"
 			}
 		},
 		{
@@ -1784,9 +1744,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "75",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/75_Necromantic Overspill.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/76_Necromantic Overspill.png"
 			}
 		},
 		{
@@ -1794,9 +1754,269 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Snake Cleric ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/20_Devoted Numena.png"
+			}
+		},
+		{
+			"name": "Replicant",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Planeswalker — Mx-04 ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/9_Replicant.png"
+			}
+		},
+		{
+			"name": "Drain",
+			"rarity": "masterpiece",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/1_Drain.png"
+			}
+		},
+		{
+			"name": "Spark",
+			"rarity": "masterpiece",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/2_Spark.png"
+			}
+		},
+		{
+			"name": "I_Cloudscape Observer",
+			"rarity": "masterpiece",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Drone ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/9_I_Cloudscape Observer.png"
+			}
+		},
+		{
+			"name": "I_Deepmind Oracle",
+			"rarity": "masterpiece",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Sphinx ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/10_I_Deepmind Oracle.png"
+			}
+		},
+		{
+			"name": "I_Emergent Anomaly",
+			"rarity": "masterpiece",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Horror ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/11_I_Emergent Anomaly.png"
+			}
+		},
+		{
+			"name": "I_Fracture of Divinity",
+			"rarity": "masterpiece",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Demigod Construct ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/12_I_Fracture of Divinity.png"
+			}
+		},
+		{
+			"name": "I_Lammasu, Dream-Stilled",
+			"rarity": "masterpiece",
+			"mana_cost": "{6}",
+			"type": "Legendary Artifact Creature — Sphinx ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/13_I_Lammasu, Dream-Stilled.png"
+			}
+		},
+		{
+			"name": "I_Mechanised Hunter",
+			"rarity": "masterpiece",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Horror ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/14_I_Mechanised Hunter.png"
+			}
+		},
+		{
+			"name": "I_New-Life Acolyte",
+			"rarity": "masterpiece",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Warlock ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/15_I_New-Life Acolyte.png"
+			}
+		},
+		{
+			"name": "I_Priest of Perfection",
+			"rarity": "masterpiece",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Cleric ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/16_I_Priest of Perfection.png"
+			}
+		},
+		{
+			"name": "Faerie Horror",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Faerie Horror ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/2_Faerie Horror.png"
+			}
+		},
+		{
+			"name": "Horror",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature — Horror ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/3_Horror.png"
+			}
+		},
+		{
+			"name": "Ringing Noise",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Enchantment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/4_Ringing Noise.png"
+			}
+		},
+		{
+			"name": "Through Violence",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Sorcery",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/5_Through Violence.png"
+			}
+		},
+		{
+			"name": "Illusion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Illusion ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/6_Illusion.png"
+			}
+		},
+		{
+			"name": "Nightmare",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Nightmare ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/7_Nightmare.png"
+			}
+		},
+		{
+			"name": "I_Ancient Forerunner",
+			"rarity": "masterpiece",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/8_I_Ancient Forerunner.png"
+			}
+		},
+		{
+			"name": "I_Shifting Silverscape",
+			"rarity": "masterpiece",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Shapeshifter ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/17_I_Shifting Silverscape.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Insect ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/18_Insect.png"
+			}
+		},
+		{
+			"name": "Everywhere",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Land",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/ITD-files/img/19_Devoted Numena.png"
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/19_Everywhere.png"
+			}
+		},
+		{
+			"name": "Spite-Crowned Champion",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/80_Spite-Crowned Champion.png"
+			}
+		},
+		{
+			"name": "Grasping Eternity",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Horror ",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/71_Grasping Eternity.png"
+			}
+		},
+		{
+			"name": "Echo",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Planeswalker — Echo ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/1_Echo.png"
+			}
+		},
+		{
+			"name": "The Gardener, Crowned",
+			"rarity": "rare",
+			"mana_cost": "{15}",
+			"type": "Legendary Planeswalker — Gardener ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/6_The Gardener, Crowned.png"
+			}
+		},
+		{
+			"name": "The Howling Door",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://trewqofficial.github.io/sets/ITD-files/img/160_The Howling Door.png"
 			}
 		},
 		]
@@ -1852,7 +2072,6 @@
 		2 Corpse-Shell Container
 		2 Feast of Butterflies
 		2 Mycelial Coating
-		2 Grasping Eternity
 		2 Ashiok, Dream Feaster
 		2 Echo of Distorted Outcomes
 		2 Edge of a Precipice
@@ -1947,7 +2166,6 @@
 		2 Aeon, of the Living Coffin
 		2 Phantom City
 		2 Liferoot Gnawer
-		2 Howling Mine
 		2 Living Heart
 		2 Cryptbreaking
 		2 Animus Conflagration
@@ -1969,16 +2187,18 @@
 		2 Towersmog Ghoul
 		2 Weight of Tradition
 		2 Callous Observer
-		2 Spite-Crowned Champion
 		2 Siltcurrent Obsession
 		2 Insubstantial Glimpse
 		2 Maktel and the Unknowable
 		2 Protostar Bombardment
 		2 Eye of the Abominable
 		2 Meet the Beyond
-		2 The Gardener, Crowned
 		2 Illuminant Master
 		2 Unexpected Passenger
 		2 Necromantic Overspill
 		2 Devoted Numena
+		2 Spite-Crowned Champion
+		2 Grasping Eternity
+		2 The Gardener, Crowned
+		2 The Howling Door
 		

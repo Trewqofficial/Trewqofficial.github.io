@@ -1,0 +1,1 @@
+﻿Matryoshka Crawler		cube	Artifact Creature – Construct 	162	C	5	When Matryoshka Crawler dies, you may search your library for a colorless card with mana value 3 or less, put it onto the battlefield, then shuffle.	4/4		normal	ITD		

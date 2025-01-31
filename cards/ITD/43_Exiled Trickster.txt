@@ -1,1 +1,0 @@
-﻿Exiled Trickster	U	rare	Creature – Faerie 	43	U	1U	FlashNEWLINEFlyingNEWLINEWhen this creature enters, exile up to one target instant or sorcery card in your graveyard with mana value lesser than or equal to the number of creatures you control. You may cast a copy of that spell.	1/1		normal	ITD		https://x.com/Slitherbop/status/1774906372930568675/photo/1

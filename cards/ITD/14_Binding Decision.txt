@@ -1,0 +1,1 @@
+﻿Binding Decision	W	cube	Enchantment	14	W	W	When Binding Decision enters, target opponent chooses a nontoken creature they control and exiles it until Binding Decision leaves the battlefield.			normal	ITD		https://www.artstation.com/artwork/qe8P9y

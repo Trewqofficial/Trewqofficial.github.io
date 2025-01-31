@@ -1,1 +1,0 @@
-﻿The Gardener, Waning	G	rare	Legendary Planeswalker – Gardener 	116	G	XG			Whenever a land you control enters, add one mana of any color.NEWLINE[-1]: Return target land card from your graveyard to your hand.NEWLINE[-1]: You may play an additional land this turn.	planeswalker	ITD	X	https://www.deviantart.com/abeardedartist/art/Untitled-951446828

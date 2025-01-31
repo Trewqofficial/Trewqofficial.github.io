@@ -1,0 +1,1 @@
+﻿Cascade Coherency Failure	R	cube	Sorcery	91	R	2R	Choose one or more–NEWLINE• Destroy target artifact.NEWLINE• This spell deals 4 damage to target creature and 2 damage to you.NEWLINE• This spell deals 4 damage to target planeswalker and 2 damage to you.			normal	ITD		https://x.com/Slitherbop/status/1728976284682969266/photo/1

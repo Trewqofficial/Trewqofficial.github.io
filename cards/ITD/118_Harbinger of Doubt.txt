@@ -1,0 +1,1 @@
+﻿Harbinger of Doubt	G	cube	Creature – Illusion 	118	G	1G	Ward 2NEWLINECreatures with flying can’t block.NEWLINECreatures you control have reach.	2/3		normal	ITD		
