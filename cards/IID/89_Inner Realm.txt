@@ -1,0 +1,1 @@
+﻿Inner Realm		cube	Land – Swamp 	89	C		(T: Add B.)NEWLINEInner Realm enters tapped unless your complexity is three or greater. (Your complexity is the number of spells you cast and nonland abilities you activated this turn)NEWLINEWhen Inner Realm enters untapped, exile target player’s graveyard.			normal	IID		

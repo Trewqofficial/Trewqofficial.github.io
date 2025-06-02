@@ -1,0 +1,1 @@
+﻿Agent of Metamorphosis	U	cube	Creature – Human Insect 	24	U	3U	FlyingNEWLINEWhen Agent of Metamorphosis enters, you may return another target creature to its owner’s hand. When you do, you may have Agent of Metamorphosis become a copy of that creature, except it has flying.	2/2		normal	IID		https://www.deviantart.com/sapphiringore/art/god-who-was-never-able-to-create-1181379165

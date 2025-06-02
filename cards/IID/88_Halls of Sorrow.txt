@@ -1,0 +1,1 @@
+﻿Halls of Sorrow		cube	Land – Island 	88	C		(T: Add U.)NEWLINEHalls of Sorrow enters tapped unless your complexity is three or greater. (Your complexity is the number of spells you cast and nonland abilities you activated this turn)NEWLINEWhen Halls of Sorrow enters untapped, put target nonpermanent card from your graveyard on top of your library.			normal	IID		

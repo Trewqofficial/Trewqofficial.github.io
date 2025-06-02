@@ -1,0 +1,1 @@
+﻿Stormweaver	U	cube	Creature – Human Wizard 	32	U	U	Flying	1/1		adventure	IID		Weave Futures	U	Sorcery – Epiphany 	U	U	(Once, you may conjure this into your hand instead of drawing.)NEWLINEDraw three cards from the bottom of your library, then put two cards from your hand on the bottom.				https://www.deviantart.com/abeardedartist/art/Untitled-968636291

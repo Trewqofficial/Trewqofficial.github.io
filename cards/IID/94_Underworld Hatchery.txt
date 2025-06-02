@@ -1,0 +1,1 @@
+﻿Underworld Hatchery		cube	Land – Mountain 	94	C		(T: Add R.)NEWLINEUnderworld Hatchery enters tapped unless your complexity is three or greater. (Your complexity is the number of spells you cast and nonland abilities you activated this turn)NEWLINEWhen Underworld Hatchery enters, target creature you control gets +2/+0 and gains haste and trample until end of turn.			normal	IID		

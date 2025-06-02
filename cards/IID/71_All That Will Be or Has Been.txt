@@ -1,0 +1,1 @@
+﻿All That Will Be or Has Been		cube	Artifact Creature – Incarnation 	71	C	3	FlyingNEWLINEWhen All That Will Be or Has Been enters, exile each opponent’s graveyard.NEWLINEIf a card or token would be put into an opponent’s graveyard from anywhere, exile it instead.	3/1		normal	IID		https://www.artstation.com/artwork/KrodeW

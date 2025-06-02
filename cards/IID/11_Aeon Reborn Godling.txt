@@ -1,0 +1,1 @@
+﻿Aeon, Reborn Godling	W	cube	Legendary Creature – God 	11	W	3WW	Aeon, Reborn Godling entering causes abilities of permanent cards in your graveyard to trigger as though they were put into the graveyard from the battlefield. (This causes dies abilities to trigger.)	4/2		normal	IID		

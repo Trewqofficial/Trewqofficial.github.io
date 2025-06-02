@@ -1,0 +1,1 @@
+﻿Bringer of Dark Intentions	B	cube	Creature – Demon 	38	B	2B	LifelinkNEWLINEWhen Bringer of Dark Intentions enters, if you gained life this turn, add BBB.	3/3		normal	IID		

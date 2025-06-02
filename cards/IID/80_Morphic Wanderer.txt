@@ -1,0 +1,1 @@
+﻿Morphic Wanderer		cube	Artifact Creature – Construct 	80	C	3	Morphic Wanderer enters with three +1/+1 counters on it.NEWLINERemove a counter from Morphic Wanderer: If it’s your turn, it gains your choice of flying, first strike, lifelink, menace, trample, vigilance or haste until end of turn.NEWLINE4: Put a +1/+1 counter on Morphic Wanderer.	0/0		normal	IID		

@@ -1,0 +1,1 @@
+﻿Reactive Matter		cube	Artifact	82	C	2	When Reactive Matter enters, return up to one permanent you control to its owner’s hand. Reactive Matter becomes a copy of that permanent.			normal	IID		

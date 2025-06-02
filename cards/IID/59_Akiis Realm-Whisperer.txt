@@ -1,0 +1,1 @@
+﻿Akiis, Realm-Whisperer	G	cube	Legendary Creature – Human Cleric 	59	G	G	Akiis, Realm-Whisperer gets +2/+0 and has vigilance if you control five or more lands.NEWLINE2, T, Discard a card: Reveal a land card you own from outside the game. Put it into your hand.	1/2		normal	IID		https://www.instagram.com/akiitopiia/p/DH_upiJqNfG/

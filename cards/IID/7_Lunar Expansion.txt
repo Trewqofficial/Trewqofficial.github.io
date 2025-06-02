@@ -1,0 +1,1 @@
+﻿Lunar Expansion		cube	Sorcery	7	C	X2	Destroy up to one target nonland permanent with mana value X or less.NEWLINEConjure a card named Wastes into your hand. (It’s a basic land card with “T: Add C.”)			normal	IID		

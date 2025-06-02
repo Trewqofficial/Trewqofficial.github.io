@@ -1,0 +1,1 @@
+﻿Renegade Heretic	G	cube	Creature – Human Cleric 	68	G	G	When Renegade Heretic enters, conjure Protector of the Lost and put it onto the bottom of your library. (It’s a 1GG 4/4  Demon creature with vigilance and “When Protector of the Lost enters, it fights up to one target creature you don’t control.”)	2/1		normal	IID		

@@ -1,0 +1,1 @@
+﻿Upper-Court Oracle	W	cube	Creature – Merfolk Cleric 	21	W	2W	When Upper-Court Oracle enters or dies, each player draws a card.	4/3		normal	IID		

@@ -1,0 +1,1 @@
+﻿Strip for Parts	B	cube	Sorcery	1	C	2	Choose up to two target creatures. Exile one of those creatures and put two +1/+1 counters on the rest.			token	IID		

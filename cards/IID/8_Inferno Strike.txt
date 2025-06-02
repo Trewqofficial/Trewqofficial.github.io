@@ -1,0 +1,1 @@
+﻿Inferno Strike	R	cube	Sorcery	8	R	1RR	Inferno Strike deals 5 damage to target creature and 3 damage to its controller.			token	IID		https://x.com/robotree_1/status/1445052331343581184

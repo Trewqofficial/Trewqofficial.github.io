@@ -1,0 +1,1 @@
+﻿Tendril Forest		cube	Land – Forest 	93	C		(T: Add G)NEWLINETendril Forest enters tapped unless your complexity is three or greater. (Your complexity is the number of spells you cast and nonland abilities you activated this turn)NEWLINEWhen Tendril Forest enters untapped, put target permanent card from your graveyard on top of your library.			normal	IID		

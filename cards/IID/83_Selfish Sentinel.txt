@@ -1,0 +1,1 @@
+﻿Selfish Sentinel		cube	Artifact Creature – Construct 	83	C	4	When Selfish Sentinel dies, target opponent draws two cards.	7/7		normal	IID		https://www.deviantart.com/abeardedartist/art/Untitled-1170943228

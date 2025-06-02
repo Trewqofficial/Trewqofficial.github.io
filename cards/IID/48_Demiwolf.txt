@@ -1,0 +1,1 @@
+﻿Demiwolf	R	cube	Creature – Fractal Wolf 	48	R	1R	Prowess, hasteNEWLINET: Conjure Hemiwolf into your hand. Activate only if your complexity is three or greater. (It’s a R 1/1 Fractal Wolf creature with prowess and haste. Your complexity is the number of spells you cast and nonland abilities you activated this turn.)	2/1		normal	IID		

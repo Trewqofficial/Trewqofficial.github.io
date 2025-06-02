@@ -1,0 +1,1 @@
+﻿Transformed Citizen	B	cube	Creature – Merfolk Citizen 	4	B	2B	When Transformed Citizen enters, it deals 3 damage to each opponent and you gain 3 life.	3/3		token	IID		https://www.deviantart.com/irbisty/art/Messenger-Dream-746422699

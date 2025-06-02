@@ -1,0 +1,1 @@
+﻿Seeker of Enlightenment	W	cube	Creature – Demon 	20	W	1W	FlyingNEWLINEWhen Seeker of Enlightenment dies, return another target nonland permanent card with mana value 3 or less from your graveyard to your hand.	1/1		normal	IID		

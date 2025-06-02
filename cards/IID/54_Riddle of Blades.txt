@@ -1,0 +1,1 @@
+﻿Riddle of Blades	R	cube	Creature – Fractal 	54	R	R	MenaceNEWLINEWhenever Riddle of Blades deals combat damage to a player, put a prowess counter on it. (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn for each prowess counter it has.)	1/1		normal	IID		https://www.pixiv.net/en/artworks/129813088

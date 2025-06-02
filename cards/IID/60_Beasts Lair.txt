@@ -1,0 +1,1 @@
+﻿Beast's Lair	G	cube	Artifact	60	G	1G	Whenever a creature you control dies, you gain 1 life.NEWLINEG, T, Sacrifice a creature: Return target creature or land card from your graveyard to your hand. Activate only as a sorcery.			normal	IID		https://www.deviantart.com/flooko/art/Skull-Caves-Of-Emerald-Island-819990442

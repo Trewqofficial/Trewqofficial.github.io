@@ -1,0 +1,1 @@
+﻿Dark Obsessions	B	cube	Enchantment – Aura 	40	B	B	Enchant creatureNEWLINEEnchanted creature gets +1/+1 and has “Whenever this creature deals combat damage to a player, you draw a card and you lose 1 life.”NEWLINEAt the beginning of its controller’s end step, if enchanted creature didn’t attack this turn, its controller sacrifices it.			normal	IID		

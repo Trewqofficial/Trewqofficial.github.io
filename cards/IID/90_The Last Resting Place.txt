@@ -1,0 +1,1 @@
+﻿The Last Resting Place		cube	Legendary Land	90	C		T: Add C.NEWLINET, Pay 2 life: Add CC. Spend this mana only to cast colorless spells. Activate only if you control only colorless permanents.			normal	IID		

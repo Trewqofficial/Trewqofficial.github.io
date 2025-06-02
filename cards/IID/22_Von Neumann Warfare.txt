@@ -1,0 +1,1 @@
+﻿Von Neumann Warfare	W	cube	Sorcery	22	W	W	Destroy target nonland permanent if it has mana value lesser than or equal to your complexity (Your complexity is the number of spells you cast and nonland abilities you activated this turn.)			normal	IID		

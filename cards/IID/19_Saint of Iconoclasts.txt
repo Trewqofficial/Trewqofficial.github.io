@@ -1,0 +1,1 @@
+﻿Saint of Iconoclasts	W	cube	Creature – Spirit Cleric 	19	W	W	When Saint of Iconoclasts dies, conjure Defaced Angel onto the bottom of your library. (It’s 2WW 5/5 Angel creature with flying and “When Defaced Angel enters, destroy up to one target artifact or enchantment.”)	2/1		normal	IID		

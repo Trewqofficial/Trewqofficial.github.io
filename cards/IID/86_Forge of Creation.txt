@@ -1,0 +1,1 @@
+﻿Forge of Creation		cube	Land	86	C		T: Add C.NEWLINE2, T: You may play land cards from your graveyard this turn.			normal	IID		
