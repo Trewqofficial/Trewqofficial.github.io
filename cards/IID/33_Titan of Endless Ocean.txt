@@ -1,1 +1,1 @@
-﻿Titan of Endless Ocean	U	cube	Creature – Giant 	33	U	3UU	Titan of Endless Ocean entering or attacking causes abilities of other creatures you control to trigger as though that creature entered.	5/5		normal	IID		https://www.deviantart.com/jmfenner91/art/The-Dream-Ocean-887702737
+﻿Titan of Endless Ocean	U	cube	Legendary Creature – Giant 	33	U	3UU	Titan of Endless Ocean entering or attacking causes abilities of other creatures you control to trigger as though that creature entered.	5/5		normal	IID		https://www.deviantart.com/jmfenner91/art/The-Dream-Ocean-887702737

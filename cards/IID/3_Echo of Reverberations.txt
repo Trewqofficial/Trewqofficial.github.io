@@ -1,1 +1,1 @@
-﻿Echo of Reverberations		cube	Legendary Planeswalker – Echo 	3	C	2				normal	IID	3	https://www.artstation.com/artwork/9E1yvv
+﻿Echo of Reverberations		cube	Legendary Planeswalker – Echo 	3	C	2			When Echo of Reverberations enters, conjure Drowned Echo, Silenced Echo and Primal Echo onto the bottom of your library in any order.NEWLINE[-1]: Draw a card from the bottom of your library, then put a card from your hand on top of your library.	planeswalker	IID	3	https://www.artstation.com/artwork/9E1yvv

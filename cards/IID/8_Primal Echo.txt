@@ -1,1 +1,1 @@
-﻿Primal Echo		cube	Legendary Planeswalker – Echo 	8	C	3				normal	IID	5	https://www.artstation.com/artwork/9E1yvv
+﻿Primal Echo		cube	Legendary Planeswalker – Echo 	8	C	3			(This is a conjured card and can’t start in your deck)NEWLINEWhenever you deal noncombat damage to an opponent, you gain that much life.NEWLINE[-2]: Primal Echo deals 2 damage to target opponent.	planeswalker	IID	5	https://www.artstation.com/artwork/9E1yvv

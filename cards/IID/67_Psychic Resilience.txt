@@ -1,1 +1,1 @@
-﻿Psychic Resilience	G	cube	Instant	67	G	1G	You gain 3 life.NEWLINEYou may exile Psychic Resilience. If you do, you may cast it until end of turn.			normal	IID		
+﻿Psychic Resilience	G	cube	Sorcery	67	G	1G	Create a 2/2 green Demon creature token. You gain 2 life.NEWLINEYou may exile Psychic Resilience. If you do, you may cast it until end of turn.			normal	IID		

@@ -1,1 +1,1 @@
-﻿Silenced Echo		cube	Legendary Planeswalker – Echo 	9	C	3				normal	IID	5	https://www.artstation.com/artwork/9E1yvv
+﻿Silenced Echo		cube	Legendary Planeswalker – Echo 	9	C	3			(This is a conjured card and can’t start in your deck)NEWLINEWhenever a player discards a card, create a 2/2 colorless Fractal creature token with decayed. (It can’t block. When it attacks, sacrifice it at end of combat.)NEWLINE[-2]: Target player discards a card.	planeswalker	IID	5	https://www.artstation.com/artwork/9E1yvv

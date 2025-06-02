@@ -353,7 +353,7 @@
 			"name": "Psychic Resilience",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "67",
 			"image_uris": {
 				"en": "https://trewqofficial.github.io/sets/IID-files/img/67_Psychic Resilience.png"
@@ -633,7 +633,7 @@
 			"name": "Titan of Endless Ocean",
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}",
-			"type": "Creature — Giant ",
+			"type": "Legendary Creature — Giant ",
 			"collector_number": "33",
 			"image_uris": {
 				"en": "https://trewqofficial.github.io/sets/IID-files/img/33_Titan of Endless Ocean.png"
@@ -693,7 +693,7 @@
 			"name": "Outlawed Preacher",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Cleric ",
+			"type": "Creature — Elf Cleric ",
 			"collector_number": "66",
 			"image_uris": {
 				"en": "https://trewqofficial.github.io/sets/IID-files/img/66_Outlawed Preacher.png"
@@ -994,19 +994,19 @@
 			}
 		},
 		{
-			"name": "Spirit of the Blaze",
+			"name": "Spirit of the Blazing",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Spirit ",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/IID-files/img/56_Spirit of the Blaze_front.png"
+				"en": "https://trewqofficial.github.io/sets/IID-files/img/56_Spirit of the Blazing_front.png"
 			},
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://trewqofficial.github.io/sets/IID-files/img/56_Spirit of the Blaze_back.png"
+					"en": "https://trewqofficial.github.io/sets/IID-files/img/56_Spirit of the Blazing_back.png"
 				}
 			}
 		},
@@ -1168,7 +1168,7 @@
 		2 The New-Sun Harbinger
 		2 Riddle of Blades
 		2 Innerwoods Monstrosity
-		2 Spirit of the Blaze
+		2 Spirit of the Blazing
 		2 Outer-Reach Visitor
 		2 Deepsea Martyr
 		2 Murkborn Resurrected
