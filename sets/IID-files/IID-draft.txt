@@ -3,7 +3,7 @@
 			"name": "Oracle of Frozen Suns",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Merfolk WIzard ",
+			"type": "Creature — Merfolk Wizard ",
 			"collector_number": "30",
 			"image_uris": {
 				"en": "https://trewqofficial.github.io/sets/IID-files/img/30_Oracle of Frozen Suns.png"
@@ -64,9 +64,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Sorcery — Epiphany ",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/IID-files/img/6_Burning Nights.png"
+				"en": "https://trewqofficial.github.io/sets/IID-files/img/7_Burning Nights.png"
 			}
 		},
 		{
@@ -134,9 +134,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/IID-files/img/8_Inferno Strike.png"
+				"en": "https://trewqofficial.github.io/sets/IID-files/img/9_Inferno Strike.png"
 			}
 		},
 		{
@@ -192,11 +192,11 @@
 		{
 			"name": "Transformed Citizen",
 			"rarity": "common",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Creature — Merfolk Citizen ",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/IID-files/img/4_Transformed Citizen.png"
+				"en": "https://trewqofficial.github.io/sets/IID-files/img/5_Transformed Citizen.png"
 			}
 		},
 		{
@@ -274,9 +274,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Demon ",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/IID-files/img/10_Protector of the Lost.png"
+				"en": "https://trewqofficial.github.io/sets/IID-files/img/11_Protector of the Lost.png"
 			}
 		},
 		{
@@ -294,9 +294,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}{U}",
 			"type": "Creature — Cleric ",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/IID-files/img/3_Risen Sage.png"
+				"en": "https://trewqofficial.github.io/sets/IID-files/img/4_Risen Sage.png"
 			}
 		},
 		{
@@ -323,7 +323,7 @@
 			"name": "Psychic Glare",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
-			"type": "Sorcery",
+			"type": "Instant",
 			"collector_number": "42",
 			"image_uris": {
 				"en": "https://trewqofficial.github.io/sets/IID-files/img/42_Psychic Glare.png"
@@ -420,16 +420,6 @@
 			}
 		},
 		{
-			"name": "Von Neumann Warfare",
-			"rarity": "rare",
-			"mana_cost": "{W}",
-			"type": "Sorcery",
-			"collector_number": "22",
-			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/IID-files/img/22_Von Neumann Warfare.png"
-			}
-		},
-		{
 			"name": "Dustland Survivor",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
@@ -454,9 +444,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Angel ",
-			"collector_number": "2",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/IID-files/img/2_Defaced Angel.png"
+				"en": "https://trewqofficial.github.io/sets/IID-files/img/3_Defaced Angel.png"
 			}
 		},
 		{
@@ -494,9 +484,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Fractal Wolf ",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/IID-files/img/9_Kaleidowolf.png"
+				"en": "https://trewqofficial.github.io/sets/IID-files/img/10_Kaleidowolf.png"
 			}
 		},
 		{
@@ -544,9 +534,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Sorcery",
-			"collector_number": "1",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/IID-files/img/1_Strip for Parts.png"
+				"en": "https://trewqofficial.github.io/sets/IID-files/img/2_Strip for Parts.png"
 			}
 		},
 		{
@@ -584,9 +574,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Fractal Wolf ",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/IID-files/img/7_Hemiwolf.png"
+				"en": "https://trewqofficial.github.io/sets/IID-files/img/8_Hemiwolf.png"
 			}
 		},
 		{
@@ -764,9 +754,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Angel ",
-			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/IID-files/img/5_Angel Token.png"
+				"en": "https://trewqofficial.github.io/sets/IID-files/img/6_Angel Token.png"
 			}
 		},
 		{
@@ -859,7 +849,7 @@
 		{
 			"name": "Uta, Dark Forest Remnant",
 			"rarity": "rare",
-			"mana_cost": "{2}",
+			"mana_cost": "{3}",
 			"type": "Legendary Creature — Avatar ",
 			"collector_number": "10",
 			"image_uris": {
@@ -917,16 +907,6 @@
 			}
 		},
 		{
-			"name": "Reactive Matter",
-			"rarity": "rare",
-			"mana_cost": "{2}",
-			"type": "Artifact",
-			"collector_number": "82",
-			"image_uris": {
-				"en": "https://trewqofficial.github.io/sets/IID-files/img/82_Reactive Matter.png"
-			}
-		},
-		{
 			"name": "Lunar Expansion",
 			"rarity": "rare",
 			"mana_cost": "{X}{2}",
@@ -940,7 +920,7 @@
 			"name": "Lunar Assault Vessel",
 			"rarity": "rare",
 			"mana_cost": "{2}",
-			"type": "Artifact Creature — Construct ",
+			"type": "Artifact Creature — Soldier ",
 			"collector_number": "76",
 			"image_uris": {
 				"en": "https://trewqofficial.github.io/sets/IID-files/img/76_Lunar Assault Vessel.png"
@@ -1081,6 +1061,36 @@
 				"en": "https://trewqofficial.github.io/sets/IID-files/img/6_Inheritor of Dead Suns.png"
 			}
 		},
+		{
+			"name": "Reactive Matter",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://trewqofficial.github.io/sets/IID-files/img/82_Reactive Matter.png"
+			}
+		},
+		{
+			"name": "Von Neumann Warfare",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://trewqofficial.github.io/sets/IID-files/img/22_Von Neumann Warfare.png"
+			}
+		},
+		{
+			"name": "Fractal Token",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Fractal ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://trewqofficial.github.io/sets/IID-files/img/1_Fractal Token.png"
+			}
+		},
 		]
 	[RareSlot(11)]
 	2 Oracle of Frozen Suns
@@ -1117,7 +1127,6 @@
 		2 Lifebloom Mystic
 		2 Exploring the Dreamworlds
 		2 Abandoned Godhead
-		2 Von Neumann Warfare
 		2 Dustland Survivor
 		2 Saint of Iconoclasts
 		2 Demiwolf
@@ -1161,7 +1170,6 @@
 		2 The Last Resting Place
 		2 Akiis, Realm-Whisperer
 		2 Agent of Metamorphosis
-		2 Reactive Matter
 		2 Lunar Expansion
 		2 Lunar Assault Vessel
 		2 Unearthed Progenitor
@@ -1174,4 +1182,6 @@
 		2 Murkborn Resurrected
 		2 Forgotten Command
 		2 Inheritor of Dead Suns
+		2 Reactive Matter
+		2 Von Neumann Warfare
 		

@@ -1,0 +1,1 @@
+﻿Defaced Angel	W	cube	Creature – Angel 	3	W	2WW	When Defaced Angel enters, destroy up to one target artifact or enchantment.	5/5		token	IID		

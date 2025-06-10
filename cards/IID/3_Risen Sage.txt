@@ -1,1 +1,0 @@
-﻿Risen Sage	U	cube	Creature – Cleric 	3	U	UU	Ward 3NEWLINEIf you would draw a card while your library has no cards in it, create a 5/5 blue Horror creature token instead.	1/3		token	IID		

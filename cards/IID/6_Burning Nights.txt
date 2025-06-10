@@ -1,1 +1,0 @@
-﻿Burning Nights	R	cube	Sorcery – Epiphany 	6	R	R	Burning Nights deals 3 damage to target opponent.			token	IID		

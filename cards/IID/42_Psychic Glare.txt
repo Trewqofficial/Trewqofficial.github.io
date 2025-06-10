@@ -1,1 +1,1 @@
-﻿Psychic Glare	B	cube	Sorcery	42	B	2B	Psychic Glare deals 3 damage to any target. You gain 3 life.NEWLINEYou may exile Psychic Glare. If you do, you may cast it until end of turn.			normal	IID		
+﻿Psychic Glare	B	cube	Instant	42	B	2B	Psychic Glare deals 3 damage to any target. You gain 3 life.NEWLINEYou may exile Psychic Glare. If you do, you may cast it until end of turn.			normal	IID		

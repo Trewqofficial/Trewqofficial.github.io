@@ -1,0 +1,1 @@
+﻿Fractal Token		cube	Token Creature – Fractal 	1	C		Decayed (This creature can’t block. When it attacks, sacrifice it at end of combat.)	2/2		token	IID		

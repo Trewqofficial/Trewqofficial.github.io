@@ -1,1 +1,1 @@
-﻿Oracle of Frozen Suns	U	cube	Creature – Merfolk WIzard 	30	U	1U	FlashNEWLINEWhen Oracle of Frozen Suns enters, you may have each player draw two cards.	2/1		normal	IID		https://www.deviantart.com/abeardedartist/art/Untitled-999495608
+﻿Oracle of Frozen Suns	U	cube	Creature – Merfolk Wizard 	30	U	1U	FlashNEWLINEWhen Oracle of Frozen Suns enters, you may have each player draw two cards.	2/1		normal	IID		https://www.deviantart.com/abeardedartist/art/Untitled-999495608

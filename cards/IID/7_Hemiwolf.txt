@@ -1,1 +1,0 @@
-﻿Hemiwolf	R	cube	Creature – Fractal Wolf 	7	R	R	Prowess, haste	1/1		token	IID		
