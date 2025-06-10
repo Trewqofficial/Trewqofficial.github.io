@@ -1,1 +1,0 @@
-﻿Risen Sage	U	cube	Creature – Cleric 	4	U	UU	Ward 2NEWLINEIf you would draw a card, you may create a 2/2 Fractal creature token with decayed instead. (It can’t block. When it attacks, sacrifice it at end of combat.)	1/3		token	IID		

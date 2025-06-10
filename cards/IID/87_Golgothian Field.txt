@@ -1,1 +1,0 @@
-﻿Golgothian Field		cube	Land – Plains 	87	C		(T: Add W.)NEWLINEGolgothian Field enters tapped unless your complexity is three or greater. (Your complexity is the number of spells you cast and nonland abilities you activated this turn)NEWLINEWhen Golgothian Field enters untapped, put a +1/+1 counter on up to three target creatures.			normal	IID		

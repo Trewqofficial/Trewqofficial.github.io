@@ -1,1 +1,0 @@
-﻿Lord of Rust	R	cube	Creature – Skeleton Artificer 	99	R	R	At the beginning of your end step, if an artifact you control entered this turn, put a +1/+1 counter on this creature.NEWLINEWhen this creature dies, target player may have it deal damage equal to its power to them. If they don’t, you draw a card.	1/1		normal	ITD		

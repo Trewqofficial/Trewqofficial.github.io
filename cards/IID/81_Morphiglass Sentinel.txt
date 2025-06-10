@@ -1,1 +1,0 @@
-﻿Morphiglass Sentinel		cube	Enchantment Artifact Creature – Golem 	81	C	5	Changeling (This card is every creature type.)NEWLINEVigilanceNEWLINEThis spell costs 3 less to cast if there are five or more creature types among creatures you control.	3/3		normal	IID		

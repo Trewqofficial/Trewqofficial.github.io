@@ -1,1 +1,0 @@
-﻿Scion of the Unknowable	G	cube	Creature – Horror 	129	G	4GG	Vigilance, hasteNEWLINEWard–Exile your graveyard.NEWLINEYou may cast this creature from your graveyard by exiling four land cards from your graveyard as an additional cost to cast it. (You still pay its costs.)	6/6		normal	ITD		

@@ -1,1 +1,0 @@
-﻿Great-Work Weaver	G	cube	Creature – Elf Warlock 	62	G	G	T: Add G.NEWLINET: Other creatures you control get +1/+1 and gain trample and haste until end of turn. Activate only if your complexity is five or greater. (Your complexity is the number of spells you cast and nonland abilities you activated this turn.)	0/1		normal	IID		

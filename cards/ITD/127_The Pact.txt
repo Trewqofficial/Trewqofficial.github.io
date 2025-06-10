@@ -1,1 +1,0 @@
-﻿The Pact	G	cube	Enchantment	127	G	1GG	Whenever a creature you control enters, you may return a permanent card with lesser mana value than it from your graveyard to your hand. If you don’t, mill two cards. 			normal	ITD		

@@ -1,1 +1,0 @@
-﻿Master of the Gate	G	cube	Legendary Creature – Troll 	64	G	1GG	HasteNEWLINEWhenever you cast a creature spell, untap Master of the Gate.NEWLINE1, T: Put a +1/+1 counter on Master of the Gate. Activate only as a sorcery.	3/3		normal	IID		https://www.instagram.com/p/DEGuR2ENCW3/

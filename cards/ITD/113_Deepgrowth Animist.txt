@@ -1,1 +1,0 @@
-﻿Deepgrowth Animist	G	cube	Creature – Elf Spirit Shaman 	113	G	G	T: Untap target Horror you control.NEWLINE3: Target land you control becomes a 3/3 Horror creature that can’t block and that’s still a land. It gains haste until end of turn.	1/1		normal	ITD		https://www.artstation.com/artwork/04bkDy

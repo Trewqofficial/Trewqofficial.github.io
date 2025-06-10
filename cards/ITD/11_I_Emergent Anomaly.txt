@@ -1,1 +1,0 @@
-﻿I_Emergent Anomaly		cube	Artifact Creature – Horror 	11	C	6	MenaceNEWLINEWhenever this creature attacks, tap up to one target creature.	4/4		token	ITD		!tokentag I3

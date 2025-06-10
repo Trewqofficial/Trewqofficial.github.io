@@ -1,1 +1,0 @@
-﻿Inner Immolation	R	cube	Sorcery	52	R	R	Inner Immolation deals 4 damage to target creature. If that creature would die this turn, exile it instead. Its controller creates a Treasure token. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)			normal	IID		

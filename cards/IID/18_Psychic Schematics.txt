@@ -1,1 +1,0 @@
-﻿Psychic Schematics	W	cube	Sorcery	18	W	1W	Return target nonland permanent card with mana value 3 or less from your graveyard to the battlefield.NEWLINEYou may exile Psychic Schematics. If you do, you may cast it until end of turn.			normal	IID		

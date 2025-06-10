@@ -1,1 +1,0 @@
-﻿Smokeplume Crustacean	R	cube	Creature – Crab 	104	R	2RR	ReachNEWLINEOnce each turn, whenever this creature or another creature you control enters, you may have each opponent lose 3 life unless they discard a card or sacrifice a nonland permanent.	4/4		normal	ITD		https://www.deviantart.com/myprocrastinationfix/art/Day-1498-Smoke-Stack-Crab-1057313748

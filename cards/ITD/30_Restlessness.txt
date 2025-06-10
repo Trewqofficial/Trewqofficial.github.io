@@ -1,1 +1,0 @@
-﻿Restlessness	W	cube	Instant	30	W	2W	Create three 1/1 white Nightmare creature tokens with lifelink and “This creature can’t block.”			normal	ITD		

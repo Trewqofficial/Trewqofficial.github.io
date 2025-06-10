@@ -1,1 +1,0 @@
-﻿Lamplure	G	cube	Sorcery	122	G	G	Target creature you control gains trample and must be blocked if able until end of turn. You may have target creature you don’t control fight it. (Each deals damage equal to its power to the other.)			normal	ITD		

@@ -1,1 +1,0 @@
-﻿Diviner of Possibility		cube	Enchantment Creature – Skeleton 	1	C	2	When Diviner of Possibility enters, draw two cards from the bottom of your library, then put two cards from your hand on the bottom or top of your library.	2/1		normal	IID		

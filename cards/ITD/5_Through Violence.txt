@@ -1,1 +1,0 @@
-﻿Through Violence		cube	Sorcery	5	C	4	Exile target nonland permanent. Draw a card. NEWLINE(This is a conjured card and not legal in deckbuilding) 			token	ITD		https://www.deviantart.com/aths-art/art/Fallen-Knight-638614346NEWLINEnew

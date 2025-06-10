@@ -1,1 +1,0 @@
-﻿Mistcloaked Chasm		cube	Land	92	C		When Mistcloaked Chasm enters,  you may conjure Wastes on top of your library. (It’s a basic land with “T: Add C.”)NEWLINET: Add C.NEWLINE1, T: Add one mana of any color.			normal	IID		https://www.instagram.com/p/DIli-7joJk7/?img_index=2

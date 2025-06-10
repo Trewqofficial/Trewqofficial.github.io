@@ -1,1 +1,0 @@
-﻿The New-Sun Harbinger	G	cube	Legendary Creature – Elf Horror 	65	G	3G	When The New-Sun Harbinger enters, create a 0/0 green Horror creature token with “This token gets +1/+1 for each creature you control.”NEWLINETap another untapped creature you control: Add G.	1/3		normal	IID		https://www.deviantart.com/eico0/art/Embryo-s-Dream-1194692573

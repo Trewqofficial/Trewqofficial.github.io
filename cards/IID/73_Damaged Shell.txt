@@ -1,1 +1,0 @@
-﻿Damaged Shell		cube	Artifact Creature – Citizen 	73	C	2	Damaged Shell can’t block.NEWLINEWhen Damaged Shell enters, if it was cast, return target card with mana value 1 from your graveyard to your hand.	2/1		normal	IID		

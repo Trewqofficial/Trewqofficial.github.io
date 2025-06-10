@@ -1,1 +1,0 @@
-﻿Unfair Judgment	W	cube	Instant	36	W	1W	As an additional cost to cast this spell, you may sacrifice a creature.NEWLINEExile target creature if it’s attacking or if you paid this spell’s additional cost.			normal	ITD		

@@ -1,1 +1,0 @@
-﻿Divine Warcasket		cube	Artifact – Equipment 	74	C	5	When Divine Warcasket enters, create a colorless 0/0 Avatar creature token and attach Divine Warcasket to it.NEWLINEEquipped creature gets +4/+4 and has flying and vigilance.NEWLINE5: Attach Divine Warcasket to target creature.			normal	IID		https://www.instagram.com/p/DGHruxoM8XM/?img_index=1

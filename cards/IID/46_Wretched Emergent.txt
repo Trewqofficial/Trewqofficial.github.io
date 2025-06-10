@@ -1,1 +1,0 @@
-﻿Wretched Emergent	B	cube	Creature – Horror 	46	B	2B	MenaceNEWLINEWhen Wretched Emergent enters, exile up to one creature with mana value less than or equal to your complexity. (Your complexity is the number of spells you cast and nonland activated abilities you activated this turn.)	2/2		normal	IID		https://www.deviantart.com/jukrek/art/Redemption-1118354155

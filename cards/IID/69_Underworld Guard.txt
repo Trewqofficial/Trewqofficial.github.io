@@ -1,1 +1,0 @@
-﻿Underworld Guard	G	cube	Creature – Dog 	69	G	2GGG	HasteNEWLINEAt the beginning of combat on your turn, if you’ve spend five or more mana to cast creature spells this turn, you may discard a card. If you do, return Underworld Guard from your graveyard to the battlefield.	4/3		normal	IID		https://www.deviantart.com/abeardedartist/art/Untitled-916780417

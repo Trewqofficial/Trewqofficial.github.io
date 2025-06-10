@@ -1,1 +1,0 @@
-﻿Pathwalker	W	cube	Creature – Druid 	17	W	1W	At the beginning of your end step, if a permanent card was put into your graveyard from anywhere this turn, put a +1/+1 counter on target creature.NEWLINE1W, Sacrifice Pathwalker: Exile target creature with mana value X or less, where X is Pathwalker’s toughness.	1/1		normal	IID		

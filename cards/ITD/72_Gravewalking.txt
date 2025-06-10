@@ -1,1 +1,0 @@
-﻿Gravewalking	B	cube	Enchantment	72	B	1B	When this enchantment enters, you may mill four cards.NEWLINEB, Discard a creature card: Choose target creature card in your graveyard. You may cast it this turn. Creatures cast this way enter with a finality counter on them.			normal	ITD		https://www.deviantart.com/sanskarans/art/Gate-1110562193

@@ -1,1 +1,0 @@
-﻿Howling Chorus	R	cube	Creature – Beast Horror 	51	R	2R	HasteNEWLINEOnce each turn, when your complexity is five or greater, return target instant or sorcery card from your graveyard to your hand. (Your complexity is the number of spells you cast and nonland abilities you activated this turn.)	3/3		normal	IID		https://www.instagram.com/p/DBCLordS_SN/?img_index=3

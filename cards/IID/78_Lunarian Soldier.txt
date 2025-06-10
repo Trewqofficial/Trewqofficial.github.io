@@ -1,1 +1,0 @@
-﻿Lunarian Soldier		cube	Artifact Creature – Soldier 	78	C	2	When Lunarian Soldier enters, you gain 2 life. NEWLINEWhen Lunarian Soldier dies, each opponent loses 2 life and mills a card.	2/1		normal	IID		https://www.deviantart.com/sebastianmonpainting/art/141-1174356498

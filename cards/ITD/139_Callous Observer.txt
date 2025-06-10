@@ -1,1 +1,0 @@
-﻿Callous Observer	BR	cube	Enchantment Creature – Eye Horror 	139	BR	1BR	TrampleNEWLINEWhenever this creature attacks, conjure a card named Drain into your hand. (It’s a B sorcery with “Target opponent loses 1 life and you gain 1 life.”)NEWLINEThis creature gets +1/+1 for each instant and sorcery card in your graveyard.	1/1		normal	ITD		ducky

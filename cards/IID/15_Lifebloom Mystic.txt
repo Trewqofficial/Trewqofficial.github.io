@@ -1,1 +1,0 @@
-﻿Lifebloom Mystic	W	cube	Creature – Demon Cleric 	15	W	W	Sacrifice Lifebloom Mystic: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.	2/1		normal	IID		https://www.instagram.com/p/Cs6Z_ukx-AL/

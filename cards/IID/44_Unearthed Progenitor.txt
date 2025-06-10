@@ -1,1 +1,0 @@
-﻿Unearthed Progenitor	B	cube	Creature – God 	44	B	2BB	When Unearthed Progenitor enters or attacks, target opponent reveals their hand and discards a card with the lowest mana value among the revealed nonland cards. If they can’t, you gain 4 life.	4/4		normal	IID		https://www.instagram.com/p/DJR4uV_xICP/?img_index=1

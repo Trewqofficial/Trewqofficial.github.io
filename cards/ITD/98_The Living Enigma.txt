@@ -1,1 +1,0 @@
-﻿The Living Enigma	R	cube	Legendary Creature – Shaman 	98	R	1R	FlashNEWLINEWhen this creature enters, it deals damage to up to one target creature or planeswalker equal to the number of spells you have cast this turn. (Including this one.)	1/1		normal	ITD		changed

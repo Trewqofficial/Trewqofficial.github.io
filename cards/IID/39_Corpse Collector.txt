@@ -1,1 +1,0 @@
-﻿Corpse Collector	B	cube	Creature – Zombie Wizard 	39	B	3BB	Lifelink, menaceNEWLINEWhenever you gain life, you may draw that many cards. If you don’t, shuffle that many target cards from your graveyard into your library.NEWLINEIf you would take damage from a source, you may instead mill that many cards.	3/3		normal	IID		

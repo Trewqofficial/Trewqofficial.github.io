@@ -1,1 +1,0 @@
-﻿I_New-Life Acolyte		cube	Artifact Creature – Warlock 	15	C	6	Artifact spells with mana value 2 or greater you cast cost 1 less to cast. 	4/4		token	ITD		!tokentag I9

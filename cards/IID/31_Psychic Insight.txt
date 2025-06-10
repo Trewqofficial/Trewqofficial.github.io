@@ -1,1 +1,0 @@
-﻿Psychic Insight	U	cube	Instant	31	U	1U	Draw a card. You may put any number of cards from your hand on the bottom of your library in any order.NEWLINEYou may exile Psychic Insight. If you do, you may cast it until end of turn.			normal	IID		

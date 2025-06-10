@@ -1,1 +1,0 @@
-﻿Faerie Horror		cube	Token Creature – Faerie Horror 	2	C		FlyingNEWLINEThis creature can’t block.	1/1		token	ITD		https://www.deviantart.com/thedancingemu/art/Keeper-794267996

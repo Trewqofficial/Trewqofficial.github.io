@@ -1,1 +1,0 @@
-﻿Unmanned Assembelage		cube	Artifact Creature – Construct 	84	C	4	Ward 2NEWLINEAt the beginning of each player’s draw step, that player draws an additional card from the bottom of their library.	4/4		normal	IID		https://www.instagram.com/p/DBjXu3QMzBW/

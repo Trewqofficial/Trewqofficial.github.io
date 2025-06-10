@@ -1,1 +1,0 @@
-﻿Outlawed Preacher	G	cube	Creature – Elf Cleric 	66	G	1G	T: Put target card from a graveyard onto the bottom of its owner’s library. If it was a permanent card, put a +1/+1 counter on Outlawed Preacher. Otherwise, you gain 2 life.	2/2		normal	IID		

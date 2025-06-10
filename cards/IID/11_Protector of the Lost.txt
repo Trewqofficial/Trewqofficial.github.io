@@ -1,1 +1,0 @@
-﻿Protector of the Lost	G	cube	Creature – Demon 	11	G	1GG	VigilanceNEWLINEWhen Protector of the Lost enters, it fights up to one target creature you don’t control.	4/4		token	IID		

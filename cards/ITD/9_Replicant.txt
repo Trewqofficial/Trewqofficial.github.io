@@ -1,1 +1,0 @@
-﻿Replicant		cube	Token Planeswalker – Mx-04 	9	C				Additional processing concerns routed through crude bodies. Materials of construction: Enigmatic, unique, Abiogenetic. PRIORITY: Expand.NEWLINE[+1]: Each opponent loses 2 life and you gain 2 lifeNEWLINE[-2]: Draw a card.	planeswalker	ITD	1	https://www.deviantart.com/morkardfc/art/Furnace-Soldier-Steampunk-Warrior-509211628
