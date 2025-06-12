@@ -65,9 +65,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Sorcery — Epiphany",
-			"collector_number": "7",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/IID-files/img/7_Burning Nights.png"
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/12_Burning Nights.png"
 			}
 		},
 		{
@@ -135,9 +135,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "9",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/IID-files/img/9_Inferno Strike.png"
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/14_Inferno Strike.png"
 			}
 		},
 		{
@@ -195,9 +195,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Merfolk Citizen",
-			"collector_number": "5",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/IID-files/img/5_Transformed Citizen.png"
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/10_Transformed Citizen.png"
 			}
 		},
 		{
@@ -241,16 +241,6 @@
 			}
 		},
 		{
-			"name": "Homogenous Tyrant",
-			"rarity": "special",
-			"mana_cost": "{8}",
-			"type": "Artifact Creature — Ooze",
-			"collector_number": "75",
-			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/IID-files/img/75_Homogenous Tyrant.png"
-			}
-		},
-		{
 			"name": "Fourth Order Templar",
 			"rarity": "special",
 			"mana_cost": "{1}{W}",
@@ -275,9 +265,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Demon",
-			"collector_number": "11",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/IID-files/img/11_Protector of the Lost.png"
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/16_Protector of the Lost.png"
 			}
 		},
 		{
@@ -295,9 +285,9 @@
 			"rarity": "special",
 			"mana_cost": "{U}{U}",
 			"type": "Creature — Cleric",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/IID-files/img/4_Risen Sage.png"
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/5_Risen Sage.png"
 			}
 		},
 		{
@@ -485,9 +475,9 @@
 			"rarity": "special",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Fractal Wolf",
-			"collector_number": "10",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/IID-files/img/10_Kaleidowolf.png"
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/15_Kaleidowolf.png"
 			}
 		},
 		{
@@ -575,9 +565,9 @@
 			"rarity": "special",
 			"mana_cost": "{R}",
 			"type": "Creature — Fractal Wolf",
-			"collector_number": "8",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/IID-files/img/8_Hemiwolf.png"
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/13_Hemiwolf.png"
 			}
 		},
 		{
@@ -618,16 +608,6 @@
 			"collector_number": "25",
 			"image_uris": {
 				"en": "https://Trewqofficial.github.io/sets/IID-files/img/25_Cosmic Visitor.png"
-			}
-		},
-		{
-			"name": "Titan of Endless Ocean",
-			"rarity": "special",
-			"mana_cost": "{3}{U}{U}",
-			"type": "Legendary Creature — Giant",
-			"collector_number": "33",
-			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/IID-files/img/33_Titan of Endless Ocean.png"
 			}
 		},
 		{
@@ -755,9 +735,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Creature — Angel",
-			"collector_number": "6",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/IID-files/img/6_Angel Token.png"
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/11_Angel Token.png"
 			}
 		},
 		{
@@ -1092,6 +1072,76 @@
 				"en": "https://Trewqofficial.github.io/sets/IID-files/img/1_Fractal Token.png"
 			}
 		},
+		{
+			"name": "Weave Fates",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Sorcery — Epiphany",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/7_Weave Fates.png"
+			}
+		},
+		{
+			"name": "Homogenous Tyrant",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Elder Ooze",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/75_Homogenous Tyrant.png"
+			}
+		},
+		{
+			"name": "Titan of Endless Ocean",
+			"rarity": "special",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Creature — Giant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/33_Titan of Endless Ocean.png"
+			}
+		},
+		{
+			"name": "Plans to Fruition",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Sorcery — Epiphany",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/9_Plans to Fruition.png"
+			}
+		},
+		{
+			"name": "Forgotten Verse",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Sorcery — Epiphany",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/8_Forgotten Verse.png"
+			}
+		},
+		{
+			"name": "Uncover Truth",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Sorcery — Epiphany",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/6_Uncover Truth.png"
+			}
+		},
+		{
+			"name": "Martyr's Cause",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Sorcery — Epiphany",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/4_Martyr's Cause.png"
+			}
+		},
 	]
 
 [cube(15)]
@@ -1107,16 +1157,12 @@
 	1 Weave Realities
 	1 Stormweaver
 	1 Destruction of District 20
-	1 Drowned Echo
-	1 Silenced Echo
-	1 Primal Echo
 	1 Echo of Reverberations
 	1 Agonized Deepbreather
 	1 Eye of Apocalypse
 	1 Dark Obsessions
 	1 Diviner of Possibility
 	1 Clockwork Converter
-	1 Homogenous Tyrant
 	1 Fourth Order Templar
 	1 Renegade Heretic
 	1 Tomb of the Great Sage
@@ -1148,7 +1194,6 @@
 	1 Corpse Collector
 	1 Beast's Lair
 	1 Cosmic Visitor
-	1 Titan of Endless Ocean
 	1 Underworld Guard
 	1 Discordant Disciple
 	1 All That Will Be or Has Been
@@ -1189,3 +1234,5 @@
 	1 Inheritor of Dead Suns
 	1 Reactive Matter
 	1 Von Neumann Warfare
+	1 Homogenous Tyrant
+	1 Titan of Endless Ocean
