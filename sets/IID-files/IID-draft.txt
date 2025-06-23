@@ -314,7 +314,7 @@
 			"name": "Psychic Glare",
 			"rarity": "special",
 			"mana_cost": "{2}{B}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "42",
 			"image_uris": {
 				"en": "https://Trewqofficial.github.io/sets/IID-files/img/42_Psychic Glare.png"
@@ -1045,7 +1045,7 @@
 		{
 			"name": "Reactive Matter",
 			"rarity": "special",
-			"mana_cost": "{2}",
+			"mana_cost": "{3}",
 			"type": "Artifact",
 			"collector_number": "82",
 			"image_uris": {
