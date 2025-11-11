@@ -180,7 +180,6 @@
 	}
 	.set-icon-name {
 		min-height: 30px;
-		height: 100%;
 	}
 	@media ( max-width: 750px ) {
 		.item-container {
@@ -213,6 +212,10 @@
 										<div class="set-group"></div>
 							<div class="preview-container">
 		<div class="set-icon-container">
+									<a href="previews/HFB"><div class="set-icon"><img src="sets/HFB-files/icon.png" title="Hycal: First Bloom"></img></div>
+									<div class="set-icon-name">Hycal: First Bloom</div></a>
+								</div>
+				<div class="set-icon-container">
 									<a href="previews/IID"><div class="set-icon"><img src="sets/IID-files/icon.png" title="Itera: Inbetween Days"></img></div>
 									<div class="set-icon-name">Itera: Inbetween Days</div></a>
 								</div>
@@ -300,8 +303,14 @@
 				const img = document.createElement("img");
 				img.id = "cotd";
 
-
-				img.src = '/sets/' + card_stats.set + '-files/img/' + card_stats.number + '_' + card_stats.card_name + (card_stats.shape.includes('double') ? '_front' : '') + '.' + card_stats.image_type;
+				if ("position" in card_stats)
+				{
+					img.src = '/sets/' + card_stats.set + '-files/img/' + card_stats.position + (card_stats.shape.includes('double') ? '_front' : '') + '.' + card_stats.image_type;
+				}
+				else
+				{
+					img.src = '/sets/' + card_stats.set + '-files/img/' + card_stats.number + '_' + card_stats.card_name + (card_stats.shape.includes('double') ? '_front' : '') + '.' + card_stats.image_type;
+				}
 
 				a.append(img);
 				document.getElementById("cotd-image").append(a);
