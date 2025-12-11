@@ -1,0 +1,19 @@
+﻿{
+    "sets": [
+        {
+            "set_code": "HFB",
+            "set_name": "Hycal: First Bloom",
+            "formats": ""
+        },
+        {
+            "set_code": "IID",
+            "set_name": "Itera: Inbetween Days",
+            "formats": ""
+        },
+        {
+            "set_code": "MSY",
+            "set_name": "MSEM Mystery Community Slots",
+            "formats": ""
+        }
+    ]
+}

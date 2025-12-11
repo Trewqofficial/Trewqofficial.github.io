@@ -1,0 +1,556 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Radiant Unicorn",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Artifact Creature — Unicorn",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/7_Radiant Unicorn.png"
+			}
+		},
+		{
+			"name": "Dedicated Librarian",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Cleric",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/13_Dedicated Librarian.png"
+			}
+		},
+		{
+			"name": "Melting Admirer",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Human Horror",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/25_Melting Admirer.png"
+			}
+		},
+		{
+			"name": "Eager Researcher",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Creature — Azra Scientist",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/28_Eager Researcher.png"
+			}
+		},
+		{
+			"name": "Stand Everlasting",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/8_Stand Everlasting.png"
+			}
+		},
+		{
+			"name": "Everlost Mariner",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Mercenary",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/14_Everlost Mariner.png"
+			}
+		},
+		{
+			"name": "Mental Breach",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/18_Mental Breach.png"
+			}
+		},
+		{
+			"name": "Flourish",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/30_Flourish.png"
+			}
+		},
+		{
+			"name": "Conductor of the Last Verse",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Horror Performer",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/4_Conductor of the Last Verse.png"
+			}
+		},
+		{
+			"name": "Bound Emissary",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Knight",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/11_Bound Emissary.png"
+			}
+		},
+		{
+			"name": "Lonesome Wanderer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Bird",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/17_Lonesome Wanderer.png"
+			}
+		},
+		{
+			"name": "Cutting Specialist",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/23_Cutting Specialist.png"
+			}
+		},
+		{
+			"name": "Break the Cyclone",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/12_Break the Cyclone.png"
+			}
+		},
+		{
+			"name": "Breaker of Flesh",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Human Horror",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/22_Breaker of Flesh.png"
+			}
+		},
+		{
+			"name": "Astral Surveyor",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Artifact Creature — Alien",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/27_Astral Surveyor.png"
+			}
+		},
+		{
+			"name": "Extol Heavenly Virtues",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery — Revelation",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/5_Extol Heavenly Virtues.png"
+			}
+		},
+		{
+			"name": "Nothing but My Sorrow",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/19_Nothing but My Sorrow.png"
+			}
+		},
+		{
+			"name": "Lacerate",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/24_Lacerate.png"
+			}
+		},
+		{
+			"name": "Children of The City",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Saga",
+			"collector_number": "3",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://Trewqofficial.github.io/sets/MSY-files/img/3_Children of The City_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/3_Children of The City_front.png"
+			}
+		},
+		{
+			"name": "Beloved of a Star",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/9_Beloved of a Star.png"
+			}
+		},
+		{
+			"name": "Herald of Growth",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Creature — Zombie Wizard",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/34_Herald of Growth.png"
+			}
+		},
+		{
+			"name": "Out of Your Mind",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/36_Out of Your Mind.png"
+			}
+		},
+		{
+			"name": "Kai'Oro of Ancient Oath",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Legendary Creature — Drake",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/35_Kai'Oro of Ancient Oath.png"
+			}
+		},
+		{
+			"name": "Retreival Thopter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Ornithopter",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/38_Retreival Thopter.png"
+			}
+		},
+		{
+			"name": "Ulamog's Might",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Instant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/2_Ulamog's Might.png"
+			}
+		},
+		{
+			"name": "Phyrexia Eternal",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/39_Phyrexia Eternal.png"
+			}
+		},
+		{
+			"name": "Blackwall Download",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/10_Blackwall Download.png"
+			}
+		},
+		{
+			"name": "Hemley Dreadfeather",
+			"rarity": "mythic",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Planeswalker — Hemley",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/33_Hemley Dreadfeather.png"
+			}
+		},
+		{
+			"name": "Villainous Ensemble",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/20_Villainous Ensemble.png"
+			}
+		},
+		{
+			"name": "Apocalypse's Heart",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Human Bird Horror",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/15_Apocalypse's Heart.png"
+			}
+		},
+		{
+			"name": "Dreams of the Outsider",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Kindred Sorcery — Eldrazi Revelation",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/1_Dreams of the Outsider.png"
+			}
+		},
+		{
+			"name": "Mindwhip",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/26_Mindwhip.png"
+			}
+		},
+		{
+			"name": "Labyrinth's Welcome",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}",
+			"type": "Sorcery",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/31_Labyrinth's Welcome.png"
+			}
+		},
+		{
+			"name": "Herald of Tedium",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Horror Warlock",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/16_Herald of Tedium.png"
+			}
+		},
+		{
+			"name": "Yokai Keeper",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Fox Spirit",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/32_Yokai Keeper.png"
+			}
+		},
+		{
+			"name": "Eldrazi Scion",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Eldrazi Scion",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/1_Eldrazi Scion.png"
+			}
+		},
+		{
+			"name": "Knight",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature — Knight",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/2_Knight.png"
+			}
+		},
+		{
+			"name": "Manufactorum Bureaucrat",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Human Citizen",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/37_Manufactorum Bureaucrat.png"
+			}
+		},
+		{
+			"name": "Nephilim Outcast",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Nephilim",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/6_Nephilim Outcast.png"
+			}
+		},
+		{
+			"name": "Stellar Chasm",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/40_Stellar Chasm.png"
+			}
+		},
+		{
+			"name": "Ebony Queen's Touch",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/29_Ebony Queen's Touch.png"
+			}
+		},
+		{
+			"name": "Blood of The Heretic",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/21_Blood of The Heretic.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Mental Breach
+	2 Conductor of the Last Verse
+	2 Bound Emissary
+	2 Cutting Specialist
+	2 Break the Cyclone
+	2 Breaker of Flesh
+	2 Astral Surveyor
+	2 Extol Heavenly Virtues
+	2 Lacerate
+	2 Beloved of a Star
+	1 Kai'Oro of Ancient Oath
+	2 Ulamog's Might
+	2 Blackwall Download
+	1 Hemley Dreadfeather
+	2 Villainous Ensemble
+	2 Apocalypse's Heart
+	2 Mindwhip
+	2 Labyrinth's Welcome
+	2 Herald of Tedium
+	2 Yokai Keeper
+	2 Manufactorum Bureaucrat
+	2 Nephilim Outcast
+	2 Stellar Chasm
+	2 Ebony Queen's Touch
+[uncommon(3)]
+	4 Radiant Unicorn
+	4 Dedicated Librarian
+	4 Melting Admirer
+	4 Eager Researcher
+	4 Stand Everlasting
+	4 Everlost Mariner
+	4 Flourish
+	4 Lonesome Wanderer
+	4 Nothing but My Sorrow
+	4 Children of The City
+	4 Herald of Growth
+	4 Out of Your Mind
+	4 Retreival Thopter
+	4 Phyrexia Eternal
+	4 Dreams of the Outsider
+	4 Blood of The Heretic
+[common(7)]
+[foil(1)]
+	6 Radiant Unicorn
+	6 Dedicated Librarian
+	6 Melting Admirer
+	6 Eager Researcher
+	6 Stand Everlasting
+	6 Everlost Mariner
+	2 Mental Breach
+	6 Flourish
+	2 Conductor of the Last Verse
+	2 Bound Emissary
+	6 Lonesome Wanderer
+	2 Cutting Specialist
+	2 Break the Cyclone
+	2 Breaker of Flesh
+	2 Astral Surveyor
+	2 Extol Heavenly Virtues
+	6 Nothing but My Sorrow
+	2 Lacerate
+	6 Children of The City
+	2 Beloved of a Star
+	6 Herald of Growth
+	6 Out of Your Mind
+	1 Kai'Oro of Ancient Oath
+	6 Retreival Thopter
+	2 Ulamog's Might
+	6 Phyrexia Eternal
+	2 Blackwall Download
+	1 Hemley Dreadfeather
+	2 Villainous Ensemble
+	2 Apocalypse's Heart
+	6 Dreams of the Outsider
+	2 Mindwhip
+	2 Labyrinth's Welcome
+	2 Herald of Tedium
+	2 Yokai Keeper
+	2 Manufactorum Bureaucrat
+	2 Nephilim Outcast
+	2 Stellar Chasm
+	2 Ebony Queen's Touch
+	6 Blood of The Heretic
+[wildcard(1)]
+	15 Radiant Unicorn
+	15 Dedicated Librarian
+	15 Melting Admirer
+	15 Eager Researcher
+	15 Stand Everlasting
+	15 Everlost Mariner
+	7 Mental Breach
+	15 Flourish
+	7 Conductor of the Last Verse
+	7 Bound Emissary
+	15 Lonesome Wanderer
+	7 Cutting Specialist
+	7 Break the Cyclone
+	7 Breaker of Flesh
+	7 Astral Surveyor
+	7 Extol Heavenly Virtues
+	15 Nothing but My Sorrow
+	7 Lacerate
+	15 Children of The City
+	7 Beloved of a Star
+	15 Herald of Growth
+	15 Out of Your Mind
+	4 Kai'Oro of Ancient Oath
+	15 Retreival Thopter
+	7 Ulamog's Might
+	15 Phyrexia Eternal
+	7 Blackwall Download
+	4 Hemley Dreadfeather
+	7 Villainous Ensemble
+	7 Apocalypse's Heart
+	15 Dreams of the Outsider
+	7 Mindwhip
+	7 Labyrinth's Welcome
+	7 Herald of Tedium
+	7 Yokai Keeper
+	7 Manufactorum Bureaucrat
+	7 Nephilim Outcast
+	7 Stellar Chasm
+	7 Ebony Queen's Touch
+	15 Blood of The Heretic

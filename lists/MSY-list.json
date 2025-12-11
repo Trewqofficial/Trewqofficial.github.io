@@ -1,0 +1,419 @@
+﻿[
+    {
+        "card_name": "Conductor of the Last Verse",
+        "number": 4,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Beloved of a Star",
+        "number": 9,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Apocalypse's Heart",
+        "number": 15,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Breaker of Flesh",
+        "number": 22,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Astral Surveyor",
+        "number": 27,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Extol Heavenly Virtues",
+        "number": 5,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Blackwall Download",
+        "number": 10,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Herald of Tedium",
+        "number": 16,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Cutting Specialist",
+        "number": 23,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Ebony Queen's Touch",
+        "number": 29,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Nephilim Outcast",
+        "number": 6,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Bound Emissary",
+        "number": 11,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Mental Breach",
+        "number": 18,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Lacerate",
+        "number": 24,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Labyrinth's Welcome",
+        "number": 31,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Children of The City",
+        "number": 3,
+        "shape": "transform double faced",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Break the Cyclone",
+        "number": 12,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Villainous Ensemble",
+        "number": 20,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Mindwhip",
+        "number": 26,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Yokai Keeper",
+        "number": 32,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Radiant Unicorn",
+        "number": 7,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Dedicated Librarian",
+        "number": 13,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Lonesome Wanderer",
+        "number": 17,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Blood of The Heretic",
+        "number": 21,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Eager Researcher",
+        "number": 28,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Stand Everlasting",
+        "number": 8,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Everlost Mariner",
+        "number": 14,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Nothing but My Sorrow",
+        "number": 19,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Melting Admirer",
+        "number": 25,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Flourish",
+        "number": 30,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Out of Your Mind",
+        "number": 36,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Hemley Dreadfeather",
+        "number": 33,
+        "shape": "planeswalker",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Herald of Growth",
+        "number": 34,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Kai'Oro of Ancient Oath",
+        "number": 35,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Ulamog's Might",
+        "number": 2,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Manufactorum Bureaucrat",
+        "number": 37,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Dreams of the Outsider",
+        "number": 1,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Retreival Thopter",
+        "number": 38,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Stellar Chasm",
+        "number": 40,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Phyrexia Eternal",
+        "number": 39,
+        "shape": "normal",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Eldrazi Scion",
+        "number": 1,
+        "shape": "token",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "Knight",
+        "number": 2,
+        "shape": "token",
+        "set": "MSY",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]
