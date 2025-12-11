@@ -11,13 +11,13 @@
 			}
 		},
 		{
-			"name": "Dedicated Librarian",
+			"name": "Librarian Training",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Cleric",
-			"collector_number": "13",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/13_Dedicated Librarian.png"
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/14_Librarian Training.png"
 			}
 		},
 		{
@@ -55,9 +55,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Mercenary",
-			"collector_number": "14",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/14_Everlost Mariner.png"
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/13_Everlost Mariner.png"
 			}
 		},
 		{
@@ -182,7 +182,7 @@
 		},
 		{
 			"name": "Children of The City",
-			"rarity": "uncommon",
+			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment — Saga",
 			"collector_number": "3",
@@ -439,6 +439,7 @@
 	2 Astral Surveyor
 	2 Extol Heavenly Virtues
 	2 Lacerate
+	2 Children of The City
 	2 Beloved of a Star
 	1 Kai'Oro of Ancient Oath
 	2 Ulamog's Might
@@ -456,7 +457,7 @@
 	2 Ebony Queen's Touch
 [uncommon(3)]
 	4 Radiant Unicorn
-	4 Dedicated Librarian
+	4 Librarian Training
 	4 Melting Admirer
 	4 Eager Researcher
 	4 Stand Everlasting
@@ -464,7 +465,6 @@
 	4 Flourish
 	4 Lonesome Wanderer
 	4 Nothing but My Sorrow
-	4 Children of The City
 	4 Herald of Growth
 	4 Out of Your Mind
 	4 Retreival Thopter
@@ -474,7 +474,7 @@
 [common(7)]
 [foil(1)]
 	6 Radiant Unicorn
-	6 Dedicated Librarian
+	6 Librarian Training
 	6 Melting Admirer
 	6 Eager Researcher
 	6 Stand Everlasting
@@ -491,7 +491,7 @@
 	2 Extol Heavenly Virtues
 	6 Nothing but My Sorrow
 	2 Lacerate
-	6 Children of The City
+	2 Children of The City
 	2 Beloved of a Star
 	6 Herald of Growth
 	6 Out of Your Mind
@@ -515,7 +515,7 @@
 	6 Blood of The Heretic
 [wildcard(1)]
 	15 Radiant Unicorn
-	15 Dedicated Librarian
+	15 Librarian Training
 	15 Melting Admirer
 	15 Eager Researcher
 	15 Stand Everlasting
@@ -532,7 +532,7 @@
 	7 Extol Heavenly Virtues
 	15 Nothing but My Sorrow
 	7 Lacerate
-	15 Children of The City
+	7 Children of The City
 	7 Beloved of a Star
 	15 Herald of Growth
 	15 Out of Your Mind

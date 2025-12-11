@@ -24,22 +24,22 @@
             "notes": "Slot 1\u200e White\u200e Uncommon\u200e Creature (Any MV)\nhttps://www.pixiv.net/en/artworks/111195524"
         },
         {
-            "card_name": "Dedicated Librarian",
+            "card_name": "Librarian Training",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2014 Human Cleric",
-            "number": 13,
+            "type": "Enchantment",
+            "number": 14,
             "color_identity": "U",
-            "cost": "{2}{U}",
-            "rules_text": "Whenever you cast your second spell each turn, draw a card, then discard a card.\nOnce each turn, whenever you discard a nonland card, put a +1/+1 counter on this creature.",
+            "cost": "{1}{U}",
+            "rules_text": "Whenever you cast your second spell each turn, draw a card, then discard a card.\nOnce each turn, whenever you discard a nonland card, put a +1/+1 counter on up to one target creature.",
             "flavor_text": "[i][/i]",
-            "pt": "2/3",
+            "pt": "",
             "special_text": "",
             "shape": "normal",
             "set": "MSY",
             "loyalty": "",
             "artist": "Nai Ga",
-            "notes": "Slot 7\u200e Blue\u200e Uncommon\u200e Creature (Any MV)"
+            "notes": "Slot 8\u200e Blue\u200e Uncommon\u200e Noncreature (Any MV)"
         },
         {
             "card_name": "Melting Admirer",
@@ -100,7 +100,7 @@
             "color": "U",
             "rarity": "uncommon",
             "type": "Creature \u2014 Human Mercenary",
-            "number": 14,
+            "number": 13,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "When this creature enters, draw a card. If you didn't cast it from your hand, draw two cards instead.\nWaterbend {8}: Exile this creature, then return it to the battlefield under your control. Activate only as a sorcery. [i](While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)[/i]",
@@ -111,7 +111,7 @@
             "set": "MSY",
             "loyalty": "",
             "artist": "Lemonail",
-            "notes": "Slot 8\u200e Blue\u200e Uncommon\u200e Noncreature (Any MV)\nhttps://www.pixiv.net/en/artworks/115683651"
+            "notes": "Slot 7\u200e Blue\u200e Uncommon\u200e Creature (Any MV)\nhttps://www.pixiv.net/en/artworks/115683651"
         },
         {
             "card_name": "Mental Breach",
@@ -291,7 +291,7 @@
             "set": "MSY",
             "loyalty": "",
             "artist": "\u3074\u305f",
-            "notes": "\nSlot 6\u200e White\u200e Rare or Mythic\u200e Noncreature (MV 4+)\nnote: (This pictures the coalesce being the stone figure that returns the angel to the battlefield.)"
+            "notes": "Slot 6\u200e White\u200e Rare or Mythic\u200e Noncreature (MV 4+)\nnote: (This pictures the coalesce being the stone figure that returns the angel to the battlefield.)"
         },
         {
             "card_name": "Nothing but My Sorrow",
@@ -332,7 +332,7 @@
         {
             "card_name": "Children of The City",
             "color": "W",
-            "rarity": "uncommon",
+            "rarity": "rare",
             "type": "Enchantment \u2014 Saga",
             "number": 3,
             "color_identity": "W",
@@ -772,5 +772,5 @@
             "notes": "Slot 20\u200e Red\u200e Uncommon\u200e Noncreature (Any MV)"
         }
     ],
-    "version": 1
+    "version": 2
 }

@@ -1,8 +1,8 @@
 ﻿[
     {
-        "card_name": "Conductor of the Last Verse",
-        "number": 4,
-        "shape": "normal",
+        "card_name": "Children of The City",
+        "number": 3,
+        "shape": "transform double faced",
         "set": "MSY",
         "position": ""
     },
@@ -35,8 +35,8 @@
         "position": ""
     },
     {
-        "card_name": "Extol Heavenly Virtues",
-        "number": 5,
+        "card_name": "Conductor of the Last Verse",
+        "number": 4,
         "shape": "normal",
         "set": "MSY",
         "position": ""
@@ -70,8 +70,8 @@
         "position": ""
     },
     {
-        "card_name": "Nephilim Outcast",
-        "number": 6,
+        "card_name": "Extol Heavenly Virtues",
+        "number": 5,
         "shape": "normal",
         "set": "MSY",
         "position": ""
@@ -105,9 +105,9 @@
         "position": ""
     },
     {
-        "card_name": "Children of The City",
-        "number": 3,
-        "shape": "transform double faced",
+        "card_name": "Nephilim Outcast",
+        "number": 6,
+        "shape": "normal",
         "set": "MSY",
         "position": ""
     },
@@ -147,7 +147,7 @@
         "position": ""
     },
     {
-        "card_name": "Dedicated Librarian",
+        "card_name": "Everlost Mariner",
         "number": 13,
         "shape": "normal",
         "set": "MSY",
@@ -182,7 +182,7 @@
         "position": ""
     },
     {
-        "card_name": "Everlost Mariner",
+        "card_name": "Librarian Training",
         "number": 14,
         "shape": "normal",
         "set": "MSY",

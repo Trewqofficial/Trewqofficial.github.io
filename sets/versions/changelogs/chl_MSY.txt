@@ -1,4 +1,18 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Librarian Training added.
+
+Dedicated Librarian removed.
+
+Everlost Mariner
+
+Extol Heavenly Virtues
+
+Children of The City
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
