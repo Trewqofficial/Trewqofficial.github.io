@@ -1,174 +1,139 @@
 ﻿[
     {
         "card_name": "Revelation of Light",
-        "number": 24,
+        "number": 25,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Clockturning",
-        "number": 39,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Cruel Severance",
-        "number": 75,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "The Cursed Marksman",
-        "number": 108,
-        "shape": "planeswalker",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Revelation of Thorns",
-        "number": 158,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Wondrous Cataclysm",
-        "number": 34,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Revelation of Mirrors",
-        "number": 58,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Twisted Revelation",
-        "number": 98,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Revelation of Pain",
-        "number": 128,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Savage Summons",
-        "number": 159,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Degraded Shockwave",
-        "number": 5,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Cosmic Visitor",
         "number": 40,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "All-Consuming Calamity",
-        "number": 68,
+        "card_name": "Cruel Severance",
+        "number": 77,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Unknown Wilderness",
-        "number": 133,
+        "card_name": "The Cursed Marksman",
+        "number": 110,
+        "shape": "planeswalker",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Revelation of Thorns",
+        "number": 163,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Bioinstrumentality",
-        "number": 139,
+        "card_name": "Wondrous Cataclysm",
+        "number": 35,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Distant Wanderer",
+        "card_name": "Revelation of Mirrors",
+        "number": 60,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Revelation of Steel",
+        "number": 94,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Revelation of Pain",
+        "number": 131,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Savage Surge",
+        "number": 164,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Degraded Shockwave",
         "number": 6,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
+        "card_name": "Cosmic Visitor",
+        "number": 42,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "All-Consuming Calamity",
+        "number": 71,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Unknown Wilderness",
+        "number": 137,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Bioinstrumentality",
+        "number": 143,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Fleshborn Behemoth",
+        "number": 10,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
         "card_name": "Crescendo",
-        "number": 41,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Death of the Third City",
-        "number": 76,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Blood Sun's Dawning",
-        "number": 102,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Distant Figure",
-        "number": 145,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Ephemeral Return",
-        "number": 7,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Doom of the Second City",
         "number": 43,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Devour the Future",
+        "card_name": "Death of the Third City",
         "number": 78,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Bloodlord Saladar",
-        "number": 103,
+        "card_name": "Blood Sun's Dawning",
+        "number": 105,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Harmony of Might",
+        "card_name": "The Crawling Room",
         "number": 148,
         "shape": "normal",
         "set": "HFB",
@@ -176,35 +141,35 @@
     },
     {
         "card_name": "Grim Coronation",
-        "number": 14,
+        "number": 15,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Fate of a Messenger",
-        "number": 46,
-        "shape": "saga",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Extermination Campaign",
-        "number": 79,
+        "card_name": "Doom of the Second City",
+        "number": 45,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Cheating the Devil",
+        "card_name": "Devour the Future",
+        "number": 80,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Bloodlord Saladar",
         "number": 106,
-        "shape": "saga",
+        "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Harvester of Sorrows",
-        "number": 149,
+        "card_name": "Distant Figure",
+        "number": 150,
         "shape": "normal",
         "set": "HFB",
         "position": ""
@@ -217,29 +182,29 @@
         "position": ""
     },
     {
-        "card_name": "The Grand Conductor",
-        "number": 47,
-        "shape": "normal",
+        "card_name": "Fate of a Messenger",
+        "number": 48,
+        "shape": "saga",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Furioso; Fury; Scream",
+        "card_name": "Extermination Campaign",
         "number": 81,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Drown It All in Blood",
-        "number": 110,
+        "card_name": "Dealing with The Devil",
+        "number": 111,
         "shape": "saga",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Herald of Tranquility",
-        "number": 150,
+        "card_name": "Harmony of Might",
+        "number": 153,
         "shape": "normal",
         "set": "HFB",
         "position": ""
@@ -252,29 +217,29 @@
         "position": ""
     },
     {
-        "card_name": "Herald of Enlightenment",
-        "number": 48,
+        "card_name": "The Grand Conductor",
+        "number": 49,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Herald of Arbitration",
+        "card_name": "Furioso; Fury; Scream",
         "number": 83,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Fury of a Fallen Star",
-        "number": 117,
-        "shape": "normal",
+        "card_name": "Drown It All in Blood",
+        "number": 113,
+        "shape": "saga",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Queen of Flytraps",
-        "number": 157,
+        "card_name": "Harvester of Sorrows",
+        "number": 154,
         "shape": "normal",
         "set": "HFB",
         "position": ""
@@ -287,63 +252,63 @@
         "position": ""
     },
     {
-        "card_name": "Prodigal Neuromancer",
-        "number": 53,
+        "card_name": "Herald of Enlightenment",
+        "number": 50,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Prophellan Emissary",
-        "number": 91,
+        "card_name": "Herald of Arbitration",
+        "number": 85,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Herald of Meteors",
-        "number": 118,
+        "card_name": "Fury of a Fallen Star",
+        "number": 120,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Subterranean Coiler",
-        "number": 161,
+        "card_name": "Herald of Tranquility",
+        "number": 155,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Plastic Dream",
-        "number": 22,
+        "number": 23,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Realspace Breaching",
-        "number": 57,
+        "card_name": "Prodigal Neuromancer",
+        "number": 56,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Ruinbound Lich",
-        "number": 92,
+        "card_name": "Prophellan Emissary",
+        "number": 93,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Howling Chorus",
-        "number": 119,
+        "card_name": "Herald of Meteors",
+        "number": 121,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Tidecall Leviathan",
+        "card_name": "Queen of Flytraps",
         "number": 162,
         "shape": "normal",
         "set": "HFB",
@@ -351,76 +316,111 @@
     },
     {
         "card_name": "Ruin of the First City",
-        "number": 25,
+        "number": 26,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Riftway Visitor",
+        "card_name": "Reality Twister",
         "number": 59,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Swallowed Sky",
+        "card_name": "Ruinbound Lich",
         "number": 95,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Moondrenched Outsider",
-        "number": 121,
+        "card_name": "Howling Chorus",
+        "number": 122,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Total Efflorescence",
-        "number": 163,
-        "shape": "saga",
+        "card_name": "Subterranean Coiler",
+        "number": 166,
+        "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Starchosen Regent",
-        "number": 28,
+        "number": 29,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Riftway Visitor",
+        "number": 61,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Swallowed Sky",
+        "number": 98,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Moondrenched Outsider",
+        "number": 124,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Tidecall Leviathan",
+        "number": 167,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Teller of Nine Thousand Tales",
+        "number": 31,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Undying Observer",
-        "number": 63,
+        "number": 65,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Thundering Symphony",
-        "number": 97,
+        "number": 100,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Unbreaking Pulverizer",
-        "number": 131,
+        "number": 135,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Uncanny Emergence",
-        "number": 165,
-        "shape": "normal",
+        "card_name": "Total Efflorescence",
+        "number": 168,
+        "shape": "saga",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Altered Farmhand",
+        "card_name": "Aeon of a Perfect World",
         "number": 2,
         "shape": "normal",
         "set": "HFB",
@@ -428,34 +428,34 @@
     },
     {
         "card_name": "Arc-Crowned Vessel",
-        "number": 35,
+        "number": 36,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Bearer of Death's Gaze",
-        "number": 69,
+        "card_name": "Aimless Efflorescent",
+        "number": 70,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Undying Renegade",
-        "number": 132,
+        "number": 136,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Accomplished Researcher",
-        "number": 135,
+        "number": 139,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Aspect of Antipoise",
+        "card_name": "Altered Farmhand",
         "number": 3,
         "shape": "normal",
         "set": "HFB",
@@ -463,34 +463,34 @@
     },
     {
         "card_name": "Bloom from Sorrow",
-        "number": 36,
+        "number": 37,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Bound Demon",
-        "number": 70,
+        "card_name": "Bearer of Death's Gaze",
+        "number": 72,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Blood Shaper",
-        "number": 101,
+        "number": 104,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Amorphous Experiment",
-        "number": 136,
+        "number": 140,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Bearer of Broken Wings",
+        "card_name": "Aspect of Antipoise",
         "number": 4,
         "shape": "normal",
         "set": "HFB",
@@ -498,111 +498,111 @@
     },
     {
         "card_name": "Breach of Nature",
-        "number": 37,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Calamity That Eats the Sky",
-        "number": 71,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Bringer of Madness",
-        "number": 104,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Angular Observer",
-        "number": 137,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Fleeting Efflorescent",
-        "number": 8,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Captive Efflorescent",
         "number": 38,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "CENSORED",
-        "number": 72,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Cardiomancer",
-        "number": 105,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Architect of Calamity",
-        "number": 138,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Fleshborn Behemoth",
-        "number": 9,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Distant Warning",
-        "number": 42,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Corrupt Consumption",
+        "card_name": "Calamity That Eats the Sky",
         "number": 73,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Cursed Ammunition",
+        "card_name": "Bringer of Madness",
         "number": 107,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
+        "card_name": "Angular Observer",
+        "number": 141,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Bearer of Broken Wings",
+        "number": 5,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Captive Efflorescent",
+        "number": 39,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "CENSORED",
+        "number": 74,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Cardiomancer",
+        "number": 108,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Architect of Calamity",
+        "number": 142,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Distant Wanderer",
+        "number": 7,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Coralblight Survivor",
+        "number": 41,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Corrupt Consumption",
+        "number": 75,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Cursed Ammunition",
+        "number": 109,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
         "card_name": "Blood-Tracker",
-        "number": 140,
+        "number": 144,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Forged Enforcer",
-        "number": 10,
+        "card_name": "Ephemeral Return",
+        "number": 8,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Dreamcrawler",
+        "card_name": "Distant Warning",
         "number": 44,
         "shape": "normal",
         "set": "HFB",
@@ -610,97 +610,132 @@
     },
     {
         "card_name": "Cruel Puppeteer",
-        "number": 74,
+        "number": 76,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Devil's Bullet",
-        "number": 109,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Cloaked Enforcer",
-        "number": 141,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Gaze of Others",
-        "number": 11,
-        "shape": "saga",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Effloresced Archseer",
-        "number": 45,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Death to the Deathless",
-        "number": 77,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Efflorescence Specialist",
-        "number": 111,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Connection in Sorrow",
-        "number": 142,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Glass Wings",
-        "number": 12,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Hide From Fate",
-        "number": 49,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "False Angel",
-        "number": 80,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Efflorescent Vessel",
         "number": 112,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Coven of Stars",
-        "number": 143,
+        "card_name": "Cloaked Enforcer",
+        "number": 145,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Grace of the Ancients",
+        "card_name": "Fleeting Efflorescent",
+        "number": 9,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Dreamcrawler",
+        "number": 46,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Death to the Deathless",
+        "number": 79,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Efflorescence Specialist",
+        "number": 114,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Connection in Sorrow",
+        "number": 146,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Forged Enforcer",
+        "number": 11,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Effloresced Archseer",
+        "number": 47,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "False Angel",
+        "number": 82,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Efflorescent Vessel",
+        "number": 115,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Coven of Stars",
+        "number": 147,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Gaze of Others",
+        "number": 12,
+        "shape": "saga",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Hide From Fate",
+        "number": 51,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Hazeth, Last Priest",
+        "number": 84,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Efflorescing Mystic",
+        "number": 116,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Disgraced Researcher",
+        "number": 149,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Glass Wings",
         "number": 13,
         "shape": "normal",
         "set": "HFB",
@@ -708,63 +743,63 @@
     },
     {
         "card_name": "Isolated Remnant",
-        "number": 50,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Hazeth, Last Priest",
-        "number": 82,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Efflorescing Mystic",
-        "number": 113,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Disgraced Researcher",
-        "number": 144,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Hela, Enigmatic Inventor",
-        "number": 15,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Matriarch of Mirrors",
-        "number": 51,
+        "number": 52,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "In the Jaws of Despair",
-        "number": 84,
+        "number": 86,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Extraspacial Manipulator",
-        "number": 114,
+        "number": 117,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Entangled Speaker",
-        "number": 146,
+        "number": 151,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Grace of the Ancients",
+        "number": 14,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Matriarch of Mirrors",
+        "number": 53,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Isolate and Homogenize",
+        "number": 87,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Flamechosen Thrall",
+        "number": 118,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Ethereal Colossus",
+        "number": 152,
         "shape": "normal",
         "set": "HFB",
         "position": ""
@@ -777,29 +812,29 @@
         "position": ""
     },
     {
-        "card_name": "Ponder Histories",
-        "number": 52,
+        "card_name": "A New World",
+        "number": 54,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Isolate and Homogenize",
-        "number": 85,
+        "card_name": "Lesser Reaper",
+        "number": 88,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Flamechosen Thrall",
-        "number": 115,
+        "card_name": "Freelance Slayer",
+        "number": 119,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Ethereal Titan",
-        "number": 147,
+        "card_name": "Hungerborn",
+        "number": 156,
         "shape": "normal",
         "set": "HFB",
         "position": ""
@@ -812,42 +847,7 @@
         "position": ""
     },
     {
-        "card_name": "Psychic Insight",
-        "number": 54,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Lesser Reaper",
-        "number": 86,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Freelance Slayer",
-        "number": 116,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Hungerborn",
-        "number": 151,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Memories of Butterflies",
-        "number": 21,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Reach through Reflections",
+        "card_name": "Ponder Histories",
         "number": 55,
         "shape": "normal",
         "set": "HFB",
@@ -855,97 +855,132 @@
     },
     {
         "card_name": "Mind Screech",
-        "number": 87,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Malevolent Heart",
-        "number": 120,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Masked Visitor",
-        "number": 152,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Prayer for the Dead",
-        "number": 23,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Reality Twister",
-        "number": 56,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Northern Witch",
-        "number": 88,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Mystic Torrent",
-        "number": 122,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Mechanized Augmentee",
-        "number": 153,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Spacial Rend",
-        "number": 26,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Sever the Connection",
-        "number": 60,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Novice Diabology",
         "number": 89,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Outskirts Warden",
+        "card_name": "Malevolent Heart",
         "number": 123,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Neural Barbs",
-        "number": 154,
+        "card_name": "Masked Guest",
+        "number": 157,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Spliced Breachwarden",
+        "card_name": "The Long Walk",
+        "number": 21,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Psychic Insight",
+        "number": 57,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Northern Witch",
+        "number": 90,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Mystic Torrent",
+        "number": 125,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Mechanized Augmentee",
+        "number": 158,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Memories of Butterflies",
+        "number": 22,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Reach through Reflections",
+        "number": 58,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Novice Diabology",
+        "number": 91,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Outskirts Warden",
+        "number": 126,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Neural Barbs",
+        "number": 159,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Prayer for the Dead",
+        "number": 24,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Sever the Connection",
+        "number": 62,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Outskirts Scourge",
+        "number": 92,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Pandemonium Wave",
+        "number": 127,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Posthuman Transmuter",
+        "number": 160,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Spacial Rend",
         "number": 27,
         "shape": "normal",
         "set": "HFB",
@@ -953,76 +988,41 @@
     },
     {
         "card_name": "Slothful Mauler",
-        "number": 61,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Outskirts Scourge",
-        "number": 90,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Pandemonium Wave",
-        "number": 124,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Posthuman Transmuter",
-        "number": 155,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Strike with Sorrow",
-        "number": 29,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Stitcher's Workshop",
-        "number": 62,
+        "number": 63,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Spiralling Hatred",
-        "number": 93,
+        "number": 96,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Path of Conquest",
-        "number": 125,
+        "number": 128,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Prized Test Subject",
-        "number": 156,
+        "number": 161,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Teller of Nine Thousand Tales",
-        "number": 30,
+        "card_name": "Spliced Breachwarden",
+        "number": 28,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Unravelled Identity",
+        "card_name": "Stitcher's Workshop",
         "number": 64,
         "shape": "normal",
         "set": "HFB",
@@ -1030,126 +1030,161 @@
     },
     {
         "card_name": "Spiteful Efflorescent",
-        "number": 94,
+        "number": 97,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Rageborn Efflorescent",
-        "number": 126,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Shard Bearer",
-        "number": 160,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Transmuted Prophet",
-        "number": 31,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Vain Efflorescent",
-        "number": 65,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Tamed Monstrosity",
-        "number": 96,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Reckless Kineticist",
-        "number": 127,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Unaware Courier",
-        "number": 164,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Wanderer in a Lost World",
-        "number": 32,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Vent-Trawl Scavenger",
-        "number": 66,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Underwitch",
-        "number": 99,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Ruinous Roar",
         "number": 129,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Unstable Mutate",
-        "number": 166,
+        "card_name": "Shard Bearer",
+        "number": 165,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Western Witch",
-        "number": 33,
+        "card_name": "Strike with Sorrow",
+        "number": 30,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Wrap in Ethereal Threads",
-        "number": 67,
+        "card_name": "Unravelled Identity",
+        "number": 66,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Unstable Saviour",
-        "number": 100,
+        "card_name": "Tamed Monstrosity",
+        "number": 99,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Sire of Four Hundred Thorns",
+        "card_name": "Reckless Kineticist",
         "number": 130,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
+        "card_name": "Unaware Courier",
+        "number": 169,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Transmuted Prophet",
+        "number": 32,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Vain Efflorescent",
+        "number": 67,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Underwitch",
+        "number": 101,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Ruinous Roar",
+        "number": 132,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Unstable Mutate",
+        "number": 170,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Wanderer in a Lost World",
+        "number": 33,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Vent-Trawl Scavenger",
+        "number": 68,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Unstable Saviour",
+        "number": 102,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Sire of Four Hundred Thorns",
+        "number": 133,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
         "card_name": "Wild Manabloom",
-        "number": 167,
+        "number": 171,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Western Witch",
+        "number": 34,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Wrap in Ethereal Threads",
+        "number": 69,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Want Not",
+        "number": 103,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Souls Aflame",
+        "number": 134,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Worldpulse",
+        "number": 172,
         "shape": "normal",
         "set": "HFB",
         "position": ""
@@ -1165,7 +1200,7 @@
     },
     {
         "card_name": "Veteran Slayer",
-        "number": 134,
+        "number": 138,
         "shape": "normal",
         "set": "HFB",
         "position": ""
@@ -1188,77 +1223,105 @@
     "a->gold",
     {
         "card_name": "Order from Above",
-        "number": 175,
+        "number": 180,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Cavern Sentinel",
-        "number": 169,
+        "number": 174,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Crawling Efflorescent",
-        "number": 170,
+        "number": 175,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Symbiotic Harvester",
-        "number": 178,
+        "number": 183,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Exl, Faerie Eater",
-        "number": 172,
+        "number": 177,
         "shape": "planeswalker",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Inventive Epiphany",
-        "number": 184,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Unreal Herald",
-        "number": 191,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Harbinger's Approach",
-        "number": 182,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Thornrider's Aid",
         "number": 190,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
+        "card_name": "Missing Evidence",
+        "number": 193,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Harbinger's Approach",
+        "number": 188,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "The Monster is the Maze",
+        "number": 194,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
         "card_name": "Exl's Order",
-        "number": 173,
+        "number": 178,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "The Long Way Round",
-        "number": 185,
+        "number": 191,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Unreal Herald",
+        "number": 203,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Accretion Disk",
+        "number": 184,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Thornrider's Aid",
+        "number": 202,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Monument To A Lost World",
+        "number": 195,
         "shape": "normal",
         "set": "HFB",
         "position": ""
@@ -1267,18 +1330,17 @@
         "card_name": "e"
     },
     {
-        "card_name": "Accretion Disk",
-        "number": 179,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Sentinel of Bygone Days",
-        "number": 189,
+        "number": 201,
         "shape": "normal",
         "set": "HFB",
         "position": ""
@@ -1300,92 +1362,108 @@
     },
     {
         "card_name": "Suffer, As I Have",
-        "number": 177,
+        "number": 182,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "No Plan Survives",
-        "number": 174,
+        "number": 179,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Enhanced Excisor",
-        "number": 171,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Soul Ignition",
         "number": 176,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Bloodied Wingbeats",
-        "number": 168,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Hazar, Censor of History",
-        "number": 183,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Cosmic Pact",
-        "number": 180,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Oblivious Aristocrat",
-        "number": 188,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "New Dawn",
-        "number": 187,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Deepbreather's Vision",
+        "card_name": "Soul Ignition",
         "number": 181,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
+        "card_name": "Bloodied Wingbeats",
+        "number": 173,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Hazar, Censor of History",
+        "number": 189,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Ceaseless Mirage",
+        "number": 185,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Lurking Absolution",
+        "number": 192,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Palace of Blood and Blade",
+        "number": 199,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "A Promise",
+        "number": 200,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
         "card_name": "Mothblessed",
+        "number": 196,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Cosmic Pact",
         "number": 186,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "Oblivious Highborn",
+        "number": 198,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "New Dawn",
+        "number": 197,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
+        "card_name": "Deepbreather's Vision",
+        "number": 187,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
     },
     {
         "card_name": "er"
@@ -1401,7 +1479,7 @@
     },
     "a->colorless",
     {
-        "card_name": "\u25a0\u25a0\u25a0\u25a0\u25a0 , Everlost Memory",
+        "card_name": "Everlost Memory",
         "number": 1,
         "shape": "planeswalker",
         "set": "HFB",
@@ -1409,171 +1487,167 @@
     },
     {
         "card_name": "Forlorn Titanshard",
-        "number": 198,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Hyperreal Nexus",
-        "number": 201,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Night Warden",
-        "number": 203,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Standard-Issue Rifle",
-        "number": 207,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Superheated Gladius",
         "number": 210,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Sword of Stars",
-        "number": 211,
+        "card_name": "Hyperreal Nexus",
+        "number": 213,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Timetither's Staff",
-        "number": 212,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Unborn Arbiter",
-        "number": 214,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Unstable Powercore",
+        "card_name": "Night Warden",
         "number": 215,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
+        "card_name": "Standard-Issue Rifle",
+        "number": 219,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Superheated Gladius",
+        "number": 222,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Sword of Stars",
+        "number": 223,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Timetither's Staff",
+        "number": 224,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Unborn Arbiter",
+        "number": 226,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
         "card_name": "Accelerator Drone",
-        "number": 192,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Control Center",
-        "number": 193,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Crowned Aeon",
-        "number": 194,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Divine Paragon",
-        "number": 195,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Efflorescent Pistols",
-        "number": 196,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Electrified Exosuit",
-        "number": 197,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Harmonious Aeon",
-        "number": 199,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "High-Impact Munitions",
-        "number": 200,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Labyrinth Dweller",
-        "number": 202,
-        "shape": "normal",
-        "set": "HFB",
-        "position": ""
-    },
-    {
-        "card_name": "Progenitor of Desire",
         "number": 204,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Skyborn Manastone",
+        "card_name": "Control Center",
         "number": 205,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Spaceripper Gauntlet",
+        "card_name": "Crowned Aeon",
         "number": 206,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Starturning Celestial",
+        "card_name": "Divine Paragon",
+        "number": 207,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Efflorescent Pistols",
         "number": 208,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Stasis Chamber",
+        "card_name": "Electrified Exosuit",
         "number": 209,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Tombwatcher",
-        "number": 213,
+        "card_name": "Harmonious Aeon",
+        "number": 211,
         "shape": "normal",
         "set": "HFB",
         "position": ""
+    },
+    {
+        "card_name": "High-Impact Munitions",
+        "number": 212,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Labyrinth Dweller",
+        "number": 214,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Progenitor of Desire",
+        "number": 216,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Skyborn Manastone",
+        "number": 217,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Spaceripper Gauntlet",
+        "number": 218,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Starturning Celestial",
+        "number": 220,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Stasis Chamber",
+        "number": 221,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Tombwatcher",
+        "number": 225,
+        "shape": "normal",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1590,70 +1664,70 @@
     "a->land",
     {
         "card_name": "Efflorescent Sky",
-        "number": 222,
+        "number": 233,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Efflorescent River",
-        "number": 221,
+        "number": 232,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Efflorescent Memorial",
-        "number": 220,
+        "number": 231,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Efflorescent Forge",
-        "number": 219,
+        "number": 230,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Efflorescent Woods",
-        "number": 223,
+        "number": 234,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Brilliant Tower",
-        "number": 217,
+        "number": 228,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Bioengineering Bay",
-        "number": 216,
+        "number": 227,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Underground Apparatus",
-        "number": 229,
+        "number": 240,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Fortified District",
-        "number": 224,
+        "number": 235,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Outskirts Research Station",
-        "number": 228,
+        "number": 239,
         "shape": "normal",
         "set": "HFB",
         "position": ""
@@ -1675,35 +1749,35 @@
     },
     {
         "card_name": "Nexus of Creation",
-        "number": 227,
+        "number": 238,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "The Unknown Sun",
-        "number": 230,
+        "number": 241,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Deep Outskirts Relay",
-        "number": 218,
+        "number": 229,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Incursive Structure",
-        "number": 225,
+        "number": 236,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Mining Outpost",
-        "number": 226,
+        "number": 237,
         "shape": "normal",
         "set": "HFB",
         "position": ""
@@ -1725,35 +1799,35 @@
     },
     {
         "card_name": "Swamp",
-        "number": 233,
+        "number": 244,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Island",
-        "number": 232,
+        "number": 243,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Forest",
-        "number": 235,
+        "number": 246,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Plains",
-        "number": 231,
+        "number": 242,
         "shape": "normal",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Mountain",
-        "number": 234,
+        "number": 245,
         "shape": "normal",
         "set": "HFB",
         "position": ""
@@ -1779,15 +1853,8 @@
         "position": ""
     },
     {
-        "card_name": "Horror",
-        "number": 2,
-        "shape": "token",
-        "set": "HFB",
-        "position": ""
-    },
-    {
         "card_name": "Synapse",
-        "number": 3,
+        "number": 2,
         "shape": "token",
         "set": "HFB",
         "position": ""
@@ -1807,28 +1874,42 @@
         "position": ""
     },
     {
-        "card_name": "Treasure",
+        "card_name": "Sword",
         "number": 16,
         "shape": "token",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Moonspot",
+        "card_name": "Treasure",
         "number": 17,
         "shape": "token",
         "set": "HFB",
         "position": ""
     },
     {
+        "card_name": "Moonspot",
+        "number": 18,
+        "shape": "token",
+        "set": "HFB",
+        "position": ""
+    },
+    {
         "card_name": "Citizen",
-        "number": 4,
+        "number": 3,
         "shape": "token",
         "set": "HFB",
         "position": ""
     },
     {
         "card_name": "Faerie",
+        "number": 4,
+        "shape": "token",
+        "set": "HFB",
+        "position": ""
+    },
+    {
+        "card_name": "Horror",
         "number": 5,
         "shape": "token",
         "set": "HFB",
@@ -1842,14 +1923,14 @@
         "position": ""
     },
     {
-        "card_name": "Horror",
+        "card_name": "Human Scout",
         "number": 7,
         "shape": "token",
         "set": "HFB",
         "position": ""
     },
     {
-        "card_name": "Human Scout",
+        "card_name": "Ten Thousand Years",
         "number": 8,
         "shape": "token",
         "set": "HFB",
@@ -1884,14 +1965,11 @@
         "position": ""
     },
     {
-        "card_name": "Wolf",
+        "card_name": "Reflection",
         "number": 13,
         "shape": "token",
         "set": "HFB",
         "position": ""
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"

@@ -1,4 +1,692 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Savage Surge added.
+Dealing with The Devil added.
+Ethereal Colossus added.
+Revelation of Steel added.
+Aimless Efflorescent added.
+Oblivious Highborn added.
+Masked Guest added.
+Everlost Memory added.
+The Long Walk added.
+The Crawling Room added.
+Aeon of a Perfect World added.
+A New World added.
+Want Not added.
+Souls Aflame added.
+Worldpulse added.
+Coralblight Survivor added.
+Lurking Absolution added.
+A Promise added.
+The Monster is the Maze added.
+Palace of Blood and Blade added.
+Missing Evidence added.
+Ceaseless Mirage added.
+Reflection added.
+Monument To A Lost World added.
+Ten Thousand Years added.
+Sword added.
+
+Realspace Breaching removed.
+Hela, Enigmatic Inventor removed.
+Savage Summons removed.
+Cheating the Devil removed.
+Ethereal Titan removed.
+Twisted Revelation removed.
+Bound Demon removed.
+Unstable Powercore removed.
+Oblivious Aristocrat removed.
+Uncanny Emergence removed.
+Masked Visitor removed.
+■■■■■ , Everlost Memory removed.
+Horror removed.
+Wolf removed.
+
+Herald of Apathy
+rules_text: Impending 4—{2}{W}{W} [i](If this spell was impending, it enters with five time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+Vigilance, trample
+Whenever a creature you control attacks, it gains indestructible until end of turn. => Impending 3—{2}{W}{W} [i](If this spell was impending, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+First strike, trample
+Whenever a creature you control deals combat damage to a player, you may exile it, then return it to the battlefield under its owner's control.
+
+Distant Wanderer
+rules_text: Whenever this creature enters or attacks, you gain 2 life.
+When this creature attacks, target creature gains flying and gets +1/+0 until end of turn if your history in white is six or greater. [i](Your history in white is the number of {W} symbols in mana costs in your graveyard.)[/i] => Whenever this creature enters or attacks, you gain 1 life and surveil 1.
+This creature has flying as long as your history in white is six or greater. [i](Your history in white is the number of {W} symbols in mana costs in your graveyard.)[/i]
+
+Soul Ignition
+rules_text: Enchant creature
+At the start of combat on your turn, create a token copy of enchanted creature, except it has lifelink and haste. Sacrifice that token at the beginning of the next end step. => Enchant creature
+At the start of combat on your turn, create a token that's a copy of enchanted creature, except it's not legendary and it has lifelink and haste. Sacrifice that token at the beginning of the next end step.
+
+Crescendo
+rules_text: When Crescendo enters, draw two cards.
+Whenever you cast a noncreature spell, surveil 1 and put a cadence counter on Crescendo. 
+Remove seven counters from Crescendo: You may cast the next spell you cast this turn from your hand without paying its mana cost. => When Crescendo enters, draw two cards.
+Whenever you cast a noncreature spell, surveil 1 and put a cadence counter on Crescendo. 
+Remove seven counters from Crescendo: You may cast the next spell you cast from your hand this turn without paying its mana cost.
+
+Fate of a Messenger
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 blue Human Scout creature token with vigilance.
+II — Mill four cards.
+III — Each instant and sorcery spell in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost plus Sacrifice a creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 blue Human Scout creature token with vigilance.
+Mill four cards.
+II — Each instant and sorcery spell in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost plus sacrifice a creature.
+
+Matriarch of Mirrors
+cost: {U}{U} => {1}{U}
+
+Enhanced Excisor
+rules_text: Deathtouch, haste
+When this creature dies, you may sacrifice a creature. If you do, return this creature to the battlefield tapped under your control at the beginning of the next end step. => Deathtouch, haste
+When this creature dies, you may sacrifice another creature. If you do, return this creature to the battlefield tapped under your control at the beginning of the next end step.
+pt: 4/3 => 4/4
+
+Thundering Symphony
+rules_text: Each creature gets -2/-2 until end of turn. When a creature next dies this turn, each creature gets -1/-1 until end of turn. => Each creature gets -2/-2 until end of turn. When a creature next dies this turn, each creature gets -2/-2 until end of turn.
+
+Angular Observer
+rules_text: Whenever Angular Observer or another creature you control enters, create a Synapse token attached to that creature. [i](Enchanted creature gets +1/+0. Whenever it deals combat damage to a player, draw a card and sacrifice an attached Synapse.)[/i] => Whenever Angular Observer or another creature you control enters, create a Synapse token attached to that creature. [i](Enchanted creature gets +1/+0. Whenever it deals combat damage to a player, draw a card and sacrifice one attached Synapse.)[/i]
+
+Wondrous Cataclysm
+rules_text: For each nonland permanent type, destroy up to one target permanent of that type. => For each nonland permanent type, destroy up to one target permanent of that type. If this spell had three or more targets, each opponent draws a card.
+
+Stitcher's Workshop
+rules_text: {4}{U}, {T}: Create a 2/2 colorless Golem artifact creature token. Draw a card, then discard a card. It can't block this turn. This ability costs {4}{U} less to activate if Stitcher's Workshop entered this turn. => When this artifact enters, create a 2/2 colorless Golem artifact creature token. Draw a card, then discard a card.
+{4}{U}, {T}: Create a 2/2 colorless Golem artifact creature token. Draw a card, then discard a card. It can't block this turn.
+
+Ephemeral Return
+cost: {3}{W} => {2}{W}{W}
+rules_text: Choose one—
+• Exile target creature card from your graveyard. Create a token that's a copy of that creature except it has “This creature can't block.”
+• Exile target creature card from your graveyard. You gain 7 life. => Choose one—
+• Return target creature card from your graveyard to the battlefield.
+• Reshape twice. [i](To reshape, you may create a 2/2 white Horror creature token or exile a creature card with mana value 2 or less from your graveyard to create a token that's a copy of it.)[/i]
+
+Outskirts Warden
+cost: {3}{R}{R} => {2}{R}{R}
+
+Pandemonium Wave
+rules_text: Pandemonium Wave deals 1 damage to each opponent and to each creature.
+You get a flare counter. [i](Remove a flare counter: The next time a source you control deals noncombat damage this turn, it deals that much damage plus one instead.)[/i] => Pandemonium Wave deals 1 damage to each opponent and to each creature.
+You get a flare counter. [i](If a source you control would deal noncombat damage, you may pay X flare counters to have it deal that much damage plus X instead.)[/i]
+
+The Cursed Marksman
+special_text: When you cast The Cursed Marksman, it deals 2 damage to each creature you don't control.
+[+1]: The Cursed Marksman deals 1 damage to any target. You get a flare counter. [i](Remove a flare counter: The next time a source you control deals noncombat damage this turn, it deals that much damage plus one instead.)[/i]
+[-2]: Search your library for a red instant or sorcery card, reveal it, put it into your hand, then shuffle.
+[-7]: You get thirteen flare counters. => When you cast Fluchschütze, it deals 2 damage to each creature you don't control.
+[+1]: Fluchschütze deals 1 damage to any target. You get a flare counter. [i](If a source you control would deal noncombat damage, you may pay X flare counters to have it deal that much damage plus X instead.)[/i]
+[-2]: Search your library for a red instant or sorcery card, exile it, then shuffle. You may play that card from exile this turn.
+[-7]: You get thirteen flare counters.
+
+Clockturning
+rules_text: Put up to one target instant or sorcery card with mana value 4 or less from your graveyard on top of your library.
+If it isn't an extra turn, target player takes an extra turn after this one.
+Exile Clockturning. => Surveil 3. [i](Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+Take an extra turn after this one.
+Exile Clockturning.
+
+Neural Barbs
+rules_text: Create a Synapse token attached to target creature you control. It gains trample until end of turn. [i](Enchanted creature gets +1/+0. Whenever it deals combat damage to a player, draw a card and sacrifice an attached Synapse.)[/i]
+Draw a card. => Create a Synapse token attached to target creature you control. It gains trample until end of turn. [i](Enchanted creature gets +1/+0. Whenever it deals combat damage to a player, draw a card and sacrifice one attached Synapse.)[/i]
+Draw a card.
+
+Unreal Herald
+cost: {3}{UB}{UB} => {2}{UB}{UB}
+
+Harvester of Sorrows
+cost: {1}{G} => {2}{G}
+rules_text: Whenever Harvester of Sorrows attacks, create a Synapse token attached to another target attacking creature you control. [i](Enchanted creature gets +1/+0. Whenever it deals combat damage to a player, draw a card and sacrifice an attached Synapse.)[/i] => As the beginning of combat on your turn, create a Synapse token attached to target creature you control. [i](Enchanted creature gets +1/+0. Whenever it deals combat damage to a player, draw a card and sacrifice one attached Synapse.)[/i]
+pt: 2/1 => 2/3
+
+New Dawn
+rules_text: Exile target creature card with mana value 3 or less from your graveyard. Create a token that's a copy of it, except it has haste and “Sacrifice this creature at the beginning of your end step.” => Return target creature card with mana value 3 or less from your graveyard to the battlefield. It gains “This creature attacks each turn if able” and “Whenever this creature attacks, sacrifice it at the beginning of your next end step.”
+
+Hyperreal Nexus
+rules_text: Impending 2—{2} [i](If this spell was impending, it enters with two time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+Flying
+Whenever this permanent enters or attacks, exile each opponent's graveyard. => Impending 3—{2} [i](If this spell was impending, it enters with two time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+Flying
+Whenever this permanent enters or attacks, exile each opponent's graveyard.
+
+Unborn Arbiter
+rules_text: [i]Intensify—[/i]When this creature enters, choose one. Pay {2} for each mode beyond the first.
+• Exile up to one target permanent with mana value 1.
+• Target opponent reveals their hand. Exile up to one card from it with mana value 1. => [i]Intensify — [/i]When this creature enters, choose one or more. Pay {2} for each mode beyond the first.
+• Exile up to one target permanent with mana value 1.
+• Target opponent reveals their hand. Exile up to one card from it with mana value 1.
+
+Starturning Celestial
+rules_text: Impending 4—{2}{U} [i](If this spell was impending, it enters with four time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+When this permanent enters, draw two cards. => Impending 3—{2}{U} [i](If this spell was impending, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+When this permanent enters, draw two cards.
+
+Death to the Deathless
+
+Progenitor of Desire
+cost: {5} => {4}
+rules_text: Impending 3—{1}{B} [i](If this spell was impending, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+When this permanent enters, target opponent reveals their hand and discards a card with the lowest mana value among the revealed nonland cards. => Impending 3—{1}{B} [i](If this spell was impending, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+When this permanent enters, if it was cast, target opponent reveals their hand and discards a card with the lowest mana value among the revealed nonland cards.
+pt: 4/3 => 3/3
+
+Crowned Aeon
+rules_text: Impending 3—{2}{R} [i](If this spell was impending, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+When this permanent enters, if it was cast, create a token that's a copy of target creature you control, except it has haste. Exile it at the beginning of your next end step. => Impending 4—{2}{R} [i](If this spell was impending, it enters with four time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+When this permanent enters, if it was cast, create a token that's a copy of target creature you control, except it has haste. Exile it at the beginning of your next end step.
+
+Flamechosen Thrall
+rules_text: Haste
+When this creature enters, you get a flare counter. [i](Remove a flare counter: The next time a source you control deals noncombat damage this turn, it deals that much damage plus one instead.)[/i]
+{T}, Discard a card, Sacrifice this creature: Draw a card. => Haste
+When this creature enters, you get a flare counter. [i](If a source you control would deal noncombat damage, you may pay X flare counters to have it deal that much damage plus X instead.)[/i]
+{T}, Discard a card, Sacrifice this creature: Draw a card.
+
+Gaze of Others
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Exile up to one target creature you don't control until this enchantment leaves the battlefield.
+III — Creatures you control get +1/+1 and gain vigilance until end of turn.
+​ => 
+I, II — Exile up to one target creature you don't control until this enchantment leaves the battlefield.
+III — Creatures you control get +1/+1 and gain vigilance until end of turn.
+​
+
+Revelation of Light
+rules_text: Contort X times. [i](To contort, you may create a 2/2 white Horror creature token or exile a creature card with mana value 2 or less from your graveyard to create a token that's a copy of it.)[/i]
+Exile up to one target creature or artifact. => Target player reshapes X times. [i](To reshape, you may create a 2/2 white Horror creature token or exile a creature card with mana value 2 or less from your graveyard to create a token that's a copy of it.)[/i]
+Exile up to one target creature or artifact.
+
+Psychic Insight
+rules_text: Polymorphic {1}{U} [i](Add an additional instance of the bracketed text for each time you pay this cost.)[/i]
+Surveil 1.
+[Draw a card.] => Kicker {1}{U} [i](You may pay an additional {1}{U} as you cast this spell.)[/i]
+When you cast this spell, if it was kicked, copy it.
+Surveil 1.
+Draw a card.
+
+Tombwatcher
+type: Artifact Creature — Horror => Artifact Creature — Elder Horror
+cost: {6} => {8}
+rules_text: Polymorphic {3} [i](Add an additional instance of the bracketed text for each time you pay this cost.)[/i]
+[When this creature enters, destroy target nonland permanent.] => Impending 3—{5} [i](If this spell was impending, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+When this permanent enters, destroy up to one target creature. Its controller draws a card.
+pt: 3/3 => 5/5
+
+Bloom from Sorrow
+rules_text: Polymorphic {1}{U} [i](Add an additional instance of the bracketed text for each time you pay this cost.)[/i]
+Create a 1/1 blue Human Scout creature token with vigilance.[i]
+[/i][Return target nonland permanent to its owner's hand.] => Create a 1/1 blue Human Scout creature token with vigilance.[i]
+[/i]For each player, return up to one target nonland permanent that player controls to its owner's hand.
+
+Kalazek, Dracoform
+rules_text: Flying, vigilance
+When this creature enters, contort twice. [i](To contort, you may create a 2/2 white Horror creature token or exile a creature card with mana value 2 or less from your graveyard to create a token that's a copy of it.)[/i] => Flying, vigilance
+When this creature enters or dies, reshape twice. [i](To reshape, you may create a 2/2 white Horror creature token or exile a creature card with mana value 2 or less from your graveyard to create a token that's a copy of it.)[/i]
+
+Spacial Rend
+rules_text: Destroy target nonland permanent with mana value X or less, where X is one plus the number of Horrors you controlled as you cast this spell. => Exile target nonland permanent with mana value X or less, where X is one plus the number of Horrors you controlled as you cast this spell.
+
+Effloresced Archseer
+cost: {2}{U} => {3}{U}
+rules_text: Vigilance
+Tap three other untapped creatures you control: Tap target creature. Put a stun counter on it. Activate only as a sorcery. => Infuse 1 [i](Whenever you cast or copy a noncreature spell, if this creature has no +1/+1 counters on it, put one on it.)[/i]
+Once each turn, whenever you put one or more counters on this creature, tap up to one target creature. Put a stun counter on it.
+
+Isolate and Homogenize
+rules_text: Target player sacrifices a nontoken creature or planeswalker.
+Create a Blight token. [i](It's an enchantment with “At the beginning of your end step, target player mills a card.”)[/i] => Target player sacrifices a nontoken creature or planeswalker.
+Create a Blight token. [i](It's a black enchantment with “At the beginning of your end step, target player mills a card.”)[/i]
+
+Drown It All in Blood
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — This Saga deals 5 damage to each creature.
+II — Create four 1/1 red Vampire creature tokens with “{T}, Discard a card, Sacrifice this creature: Draw a card.”
+III — Until end of turn, whenever you discard a card, you may play that card from your graveyard until end of turn. => 
+I — This Saga deals 5 damage to each creature.
+II — Create four 1/1 red Vampire creature tokens with “{T}, Discard a card, Sacrifice this creature: Draw a card.”
+III — Until end of turn, whenever you discard a card, you may play that card from your graveyard until end of turn.
+
+Calamity That Eats the Sky
+type: Creature — Horror Incarnation => Creature — Horror
+
+Bloodlord Saladar
+type: Legendary Creature — Elder Vampire => Legendary Creature — Vampire Noble
+rules_text: Whenever a nontoken creature you control attacks, create a tapped and attacking 1/1 red Vampire creature token with “{T}, Discard a card, Sacrifice this creature: Draw a card.”
+Whenever you discard a card, Bloodlord Saladar deals 1 damage to any target. => Whenever a nontoken creature you control attacks, create a tapped and attacking 1/1 red Vampire creature token with “{T}, Discard a card, Sacrifice this creature: Draw a card.”
+Whenever you discard a card during your turn, Bloodlord Saladar deals 1 damage to any target.
+
+Malevolent Heart
+type: Sorcery => Instant
+rules_text: Create two 1/1 red Vampire creature tokens with “{T}, Discard a card, Sacrifice this creature: Draw a card.” They gain haste until end of turn. => Create two 1/1 red Vampire creature tokens with “{T}, Discard a card, Sacrifice this creature: Draw a card.”
+
+Extermination Campaign
+rules_text: Create two Blight tokens. [i](They're enchantments with “At the beginning of your end step, target player mills a card.”)[/i]
+All creatures get -1/-1 until end of turn for each enchantment you control. => Create two Blight tokens. [i](They're black enchantments with “At the beginning of your end step, target player mills a card.”)[/i]
+Each player sacrifices two creatures.
+
+Swallowed Sky
+rules_text: When Swallowed Sky enters, if it was cast, destroy all creatures.
+Whenever an opponent draws a card, they lose 2 life. => When Swallowed Sky enters, if it was cast, destroy all creatures and planeswalkers.
+Whenever an opponent draws a card, they lose 2 life.
+
+Howling Chorus
+rules_text: Haste
+Whenever this creature deals combat damage to a player, if your history in red is six or greater, exile target instant or sorcery card from your graveyard. You may cast a copy of it this turn. [i](Your history in red is the number of {R} symbols in mana costs in your graveyard.)[/i] => Haste
+Whenever this creature deals combat damage to a player, if your history in red is six or greater, exile target instant or sorcery card from your graveyard. Copy it. You may cast that copy. [i](Your history in red is the number of {R} symbols in mana costs in your graveyard.)[/i]
+
+Accretion Disk
+rules_text: When this enchantment enters, if it was cast, it deals 5 damage to target creature.
+Whenever an opponent draws a card, they lose 1 life. => When this enchantment enters, if it was cast, it deals 5 damage to target creature.
+Whenever you draw a card, this enchantment deals 1 damage to each opponent.
+
+The Long Way Round
+rules_text: Choose one—
+• Exile target creature. Return it to the battlefield under its owner's control at the beginning of the next end step.
+• Tap target creature. Put twenty stun counters on it. => Choose one—
+• Exile target creature, then return it to the battlefield under its owner's control.
+• Tap target creature. Create a blue Aura enchantment token named Ten Thousand Years attached to it. The token has enchant creature and “Enchanted creature doesn't untap during its controller's untap step.”
+
+Grim Coronation
+rules_text: When Grim Coronation enters, you and target opponent each draw three cards.
+Whenever an opponent draws a card other than the first card they draw each turn, create a white 2/2 Horror creature token. => When Grim Coronation enters, you and target opponent each draw two cards.
+Whenever an opponent draws a card other than the first card they draw on each of their turns, create a white 2/2 Horror creature token.
+
+Forged Enforcer
+rules_text: When this creature enters, create a 1/1 colorless Construct artifact creature token.
+{1}{W}, Sacrifice a token: Put a +1/+1 counter on this creature. It gains indestructible until end of turn. Tap it. => When this creature enters, create a 1/1 colorless Construct artifact creature token.
+{1}{W}, Sacrifice a token: Put a +1/+1 counter on this creature. It gains indestructible until end of turn.
+
+Fleshborn Behemoth
+cost: {6}{W}{W} => {1}{W}{W}
+rules_text: As an additional cost to cast this spell, you may tap any number of Horrors you control. This spell costs {2} less to cast for each Horror tapped this way.
+Vigilance => This creature can't attack or block unless your history in white is six or greater. [i](Your history in white is the number of {W} symbols in mana costs in your graveyard.)[/i]
+At the beginning of your end step, you may sacrifice another nontoken creature. If you do, create a token that's a copy of that creature, except it's a Horror.
+pt: 5/5 => 6/6
+
+Janus Enforcer
+rules_text: Flying
+[i]Intensify — [/i]When this creature enters,[i] [/i]Choose one or more. Pay 1{W} for each mode beyond the first.
+• You gain 2 life and draw a card.
+• Put a +1/+1 counter on target creature. => Flying
+[i]Intensify — [/i]When this creature enters,[i] [/i]Choose one or more. Pay {1}{W} for each mode beyond the first.
+• Target player gains 2 life and draws a card.
+• Put two +1/+1 counters on target creature.
+
+Transmuted Prophet
+rules_text: When Transmuted Prophet dies, contort. [i](To contort, you may create a 2/2 white Horror creature token or exile a creature card with mana value 2 or less from your graveyard to create a token that's a copy of it.)[/i] => When Transmuted Prophet dies, reshape. [i](To reshape, you may create a 2/2 white Horror creature token or exile a creature card with mana value 2 or less from your graveyard to create a token that's a copy of it.)[/i]
+
+Arc-Crowned Vessel
+rules_text: Whenever you cast a noncreature spell, create a 1/1 colorless Construct artifact creature token, then put a +1/+1 counter on an artifact creature you control. => Other artifact creatures you control without infuse have infuse 1 [i](Whenever you cast or copy a noncreature spell, if that creature has no +1/+1 counters on it, put one on it.)[/i]
+Whenever you cast a noncreature spell, create a 1/1 colorless Construct artifact creature token.
+
+Dreamcrawler
+cost: {5}{U}{U} => {4}{U}{U}
+
+Subterranean Coiler
+rules_text: Vigilance, trample
+This creature enters with X +1/+1 counters on it.
+When this creature enters, mill X cards. You may return up to half X land cards, rounded down, from your graveyard onto the battlefield tapped. => Trample
+This creature enters with X +1/+1 counters on it.
+When this creature enters, mill X cards. Then you may return up to half X land cards, rounded down, from your graveyard to the battlefield tapped.
+
+Hungerborn
+rules_text: Haste
+When Hungerborn enters, if your history in green is six or greater, return target card with mana value 5 or greater from your graveyard to your hand. [i](Your history in green is the number of {G} symbols in mana costs in your graveyard.)[/i] => Vigilance
+When Hungerborn enters, if your history in green is six or greater, return target card with mana value 5 or greater from your graveyard to your hand. [i](Your history in green is the number of {G} symbols in mana costs in your graveyard.)[/i]
+
+Accelerator Drone
+rules_text: When Accelerator Drone enters or leaves the battlefield, choose a counter on target permanent or player. Give that permanent or player another counter of that kind. => When Accelerator Drone enters or leaves the battlefield, choose a counter on target permanent or player. You may either give that permanent or player another counter of that kind or remove that counter.
+
+Shard Bearer
+rules_text: When Shard Bearer enters, create a Synapse token attached to target creature you control. [i](Enchanted creature gets +1/+0. Whenever it deals combat damage to a player, draw a card and sacrifice an attached Synapse.)[/i]
+Enchanted creatures you control have vigilance. => When Shard Bearer enters, create a Synapse token attached to target creature you control. [i](Enchanted creature gets +1/+0. Whenever it deals combat damage to a player, draw a card and sacrifice one attached Synapse.)[/i]
+Enchanted creatures you control have vigilance.
+
+Stasis Chamber
+
+Deep Outskirts Relay
+
+Captive Efflorescent
+cost: {1}{U} => {2}{U}{U}
+rules_text: {T}: Draw a card, then discard a card.
+When you draw your third card each turn, target creature you don't control gets -2/-0 until end of turn. => Infuse 3 [i](Whenever you cast or copy a noncreature spell, if this creature has fewer than three +1/+1 counters on it, put one on it.)[/i]
+When this creature enters, return target instant or sorcery card from your graveyard to your hand.
+pt: 1/2 => 1/1
+
+Bearer of Death's Gaze
+rules_text: This creature can't block.
+When this creature dies, create a Blight token. [i](It's an enchantment with “At the beginning of your end step, target player mills a card.”)[/i] => This creature can't block.
+When this creature dies, create a Blight token. [i](It's a black enchantment with “At the beginning of your end step, target player mills a card.”)[/i]
+
+Fleeting Efflorescent
+rules_text: Flying
+When this creature enters, contort. [i](To contort, you may create a 2/2 white Horror creature token or exile a creature card with mana value 2 or less from your graveyard to create a token that's a copy of it.)[/i] => Flying
+When this creature enters, reshape. [i](You may create a 2/2 white Horror creature token or exile a creature card with mana value 2 or less from your graveyard to create a token that's a copy of it.)[/i]
+
+Hazeth, Last Priest
+rules_text: When Hazeth, Last Priest enters, create a Blight token. [i](It's an enchantment with “At the beginning of your end step, target player mills a card.”)[/i]
+{T}, Exile Hazeth: Choose target creature card in your graveyard. You may cast that card this turn. => When Hazeth, Last Priest enters, create a Blight token. [i](It's a black enchantment with “At the beginning of your end step, target player mills a card.”)[/i]
+{T}, Exile Hazeth: Choose target creature card in your graveyard. You may cast that card this turn.
+
+Corrupt Consumption
+rules_text: Destroy up to one target creature.
+Target player creates two Blight tokens. [i](They're enchantments with “At the beginning of your end step, target player mills a card.”)[/i] => Destroy up to one target creature.
+Target player draws a card and loses 2 life.
+
+Underwitch
+rules_text: Whenever this creature attacks, you may sacrifice another creature. If you do, create a Blight token. [i](It's an enchantment with “At the beginning of your end step, target player mills a card.”)[/i]
+This creature gets +1/+3 as long as a a library has 20 or less cards in it. => Whenever this creature attacks, you may sacrifice another creature. If you do, create a Blight token. [i](It's a black enchantment with “At the beginning of your end step, target player mills a card.”)[/i]
+This creature gets +1/+3 as long as a a library has 20 or less cards in it.
+
+Harbinger's Approach
+cost: {2}{BR} => {1}{BR}
+rules_text: Whenever a creature you control dies, you get a flare counter. [i](Remove a flare counter: The next time a source you control deals noncombat damage this turn, it deals that much damage plus one instead.)[/i]
+Sacrifice this enchantment: It deals 1 damage to each opponent and each planeswalker. => Players can't gain life.
+{BR}{BR}: This enchantment deals 1 damage to each player.
+
+Crawling Efflorescent
+rules_text: When this creature enters, create two 1/1 red Vampire creature tokens with “{T}, Discard a card, Sacrifice this creature: Draw a card.”
+Whenever you sacrifice a creature, this creature deals 1 damage to any target. => When this creature enters, create two 1/1 red Vampire creature tokens with “{T}, Discard a card, Sacrifice this creature: Draw a card.”
+Whenever you sacrifice a creature, this creature deals 1 damage to each opponent.
+
+Isolated Remnant
+rules_text: Flying
+Whenever you draw a card during your turn, this creature gets +1/+0 until end of turn. => Flying
+Infuse 3 [i](Whenever you cast or copy a noncreature spell, if this creature has fewer than three +1/+1 counters on it, put one on it.)[/i]
+
+Grace of the Ancients
+rules_text: When you cast this spell, if your history in white is six or greater, copy it. You may choose new targets for it. [i](Your history in white is the number of {W} symbols in mana costs in your graveyard.)[/i]
+Return up one target nonland permanent card with mana value 3 or less from your graveyard to the battlefield. => When you cast this spell, if your history in white is six or greater, copy it. You may choose new targets for it. [i](Your history in white is the number of {W} symbols in mana costs in your graveyard.)[/i]
+Return up one target nonland permanent card with mana value 3 or less from your graveyard to the battlefield tapped.
+
+Distant Warning
+type: Creature — Alien Horror => Enchantment Creature — Alien Horror
+
+Tidecall Leviathan
+type: Enchantment Creature — Leviathan => Creature — Leviathan
+cost: {3}{G}{G} => {2}{G}{G}
+
+Cruel Puppeteer
+rules_text: When this creature enters or attacks, you may mill two cards.
+Menace
+{3}{B}{B}, {T}: Return target non-Human creature card from your graveyard to the battlefield. It can't block this turn. Activate only once. => When this creature enters or attacks, you may mill two cards.
+Menace
+{3}{B}{B}, {T}: Return target creature card from your graveyard to the battlefield. It can't block this turn. Activate only once.
+
+Riftway Visitor
+rules_text: Whenever you attack, exile up to one target attacking creature you control. Return it to the battlefield tapped and attacking with an additional +1/+1 counter on it. => Whenever you attack, exile up to one other target attacking creature you control. Return it to the battlefield tapped and attacking with an additional +1/+1 counter on it.
+
+Ruin of the First City
+type: Legendary Creature — Dragon Horror => Legendary Creature — Elder Dragon
+
+Prophellan Emissary
+type: Creature — Alien => Enchantment Creature — Alien
+
+Total Efflorescence
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 2/2 green Human creature token with “Whenever this creature attacks, untap target creature or land.”
+II — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+III — You may put a creature card with mana value 3 or less from your hand onto the battlefield. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 2/2 green Human creature token with “Whenever this creature attacks, untap target creature or land.”
+II — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+III — Until end of turn, target land you control gains “{T}: Add {G}{G}.”
+
+Death of the Third City
+rules_text: Flying, trample
+When Death of the Third City enters, creatures your opponents control get -2/-2 until end of turn.
+Whenever a creature an opponent controls dies, put a +1/+1 counter on each creature you control. => Flying, trample
+When Death of the Third City enters, if it was cast, put target nonlegendary creature card in a graveyard onto the battlefield under your control. That creature gains haste. Exile it at the beginning of the next end step.
+
+Unstable Mutate
+
+Glass Wings
+rules_text: When this Equipment enters, draw a card. Attach it to target creature you control.
+Enchanted creature gets +1/+0 and has flying.
+Equip {4} => When this Equipment enters, draw a card. When you do, attach it to target creature you control.
+Enchanted creature gets +1/+0 and has flying.
+Equip {4}
+
+Sever the Connection
+type: Sorcery => Instant
+
+Cavern Sentinel
+
+CENSORED
+cost: {3}{B}{B} => {2}{B}{B}
+rules_text: Ward—Discard a card.
+Menace, haste
+When this creature enters, each player discards a card. => Ward—Discard a card.
+Menace
+When this creature enters, each player discards a card.
+
+Electrified Exosuit
+rules_text: When this Equipment enters, it deals 3 damage to target creature you don't control.
+Equipped creature gets +3/+0.
+Equip {3} => When this Equipment enters, it deals 3 damage to target creature or planeswalker you don't control.
+Equipped creature gets +3/+0.
+Equip {3}
+
+Bearer of Broken Wings
+rules_text: Affinity for creatures with flying [i](This spell costs {1} less to cast for each creature with flying you control.)[/i]
+Flying
+Whenever this creature attacks, it gets +1/+1 until end of turn for each other creature you control with flying. => Affinity for creatures with flying [i](This spell costs {1} less to cast for each creature with flying you control.)[/i]
+This creature has flying as long as you control another creature with flying.
+pt: 2/2 => 3/2
+
+Order from Above
+rules_text: Choose two—
+• The next spell target player casts this turn costs {X} less to cast and can be cast as though it had flash.
+• Exile target creature with mana value X or less.
+• Target player looks at the top X cards of their library, puts one into their hand and the rest into their graveyard. => Choose two—
+• The next spell target player casts this turn costs {X} less to cast and can be cast as though it had flash.
+• Exile target creature or planeswalker with mana value X or less.
+• Target player looks at the top X plus one cards of their library, puts one into their hand and the rest into their graveyard.
+
+Unaware Courier
+rules_text: {T}: Add {G}.
+When this creature dies, look at the top four cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest into your graveyard. => Vigilance
+When this creature dies, mill five cards. Return a creature card milled this way to your hand.
+
+Western Witch
+type: Creature — Human Warlock => Creature — Demon Warlock
+rules_text: When this creature enters, you may return up to one target nonland, non-Warlock permanent you control to its owner's hand. If that permanent had mana value 4 or greater, put two +1/+1 counters on this creature. => When this creature enters, instant and sorcery spells cost {1} more to cast until your next turn.
+
+Herald of Tranquility
+rules_text: Impending 3—{2}{G}{G} [i](If this spell was impending, it enters with two time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+Trample
+Whenever you attack, target creature you control gets +3/+3 and gains trample until end of turn. => Impending 3—{2}{G}{G} [i](If this spell was impending, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+Creatures you control have trample.
+Whenever a creature you control deals combat damage to a player or planeswalker, put two +1/+1 counters on it.
+pt: 6/6 => 7/7
+
+Coven of Stars
+type: Creature — Warlock => Creature — Aeon Warlock
+
+Cloaked Enforcer
+type: Creature — Horror => Creature — Human Horror
+
+Outskirts Scourge
+rules_text: Menace
+When this creature enters, create a Blight token. [i](It's an enchantment with “At the beginning of your end step, target player mills a card.”)[/i]
+Whenever this creature attacks, it gets +1/+0 for each enchantment you control. => Menace
+When this creature enters, create a Blight token. [i](It's a black enchantment with “At the beginning of your end step, target player mills a card.”)[/i]
+Whenever this creature attacks, it gets +1/+0 for each enchantment you control.
+
+Path of Conquest
+
+Wanderer in a Lost World
+rules_text: This creature has first strike as long it's your turn.
+This creature gets +2/+1 as long as you control a Horror. => This creature has first strike as long it's your turn.
+This creature gets +2/+1 as long as you control a Horror. [i](This applies if this creature is a Horror.)[/i]
+
+Reality Twister
+rules_text: Whenever you cast your first noncreature spell each turn, draw a card, then discard a card.
+This creature gets +1/+0 and has flying as long as your history in blue is six or greater. [i](Your history in blue is the number of {U} symbols in mana costs in your graveyard.)[/i] => Whenever you cast your first noncreature spell on each of your turns, this creature gets +1/+0 until end of turn. Draw a card, then discard a card.
+
+Prayer for the Dead
+rules_text: Contort. [i](To contort, you may create a 2/2 white Horror creature token or exile a creature card with mana value 2 or less from your graveyard to create a token that's a copy of it.)[/i] => Reshape. [i](You may create a 2/2 white Horror creature token or exile a creature card with mana value 2 or less from your graveyard to create a token that's a copy of it.)[/i]
+
+Undying Observer
+rules_text: Flying, vigilance
+When this creature enters, draw two cards, then discard two cards.
+{2}{U}, Exile this card from your graveyard: Draw two cards, then discard two cards. => Flying, vigilance
+Infuse 1 [i](Whenever you cast or copy a noncreature spell, if this creature has no +1/+1 counters on it, put one on it.)[/i]
+Whenever you put one or more +1/+1 counters on this creature, draw two cards, then discard two cards.
+
+Nexus of Creation
+rules_text: {T}: Add {C}.
+{2}, {T}: You may play land cards from your graveyard this turn. => {T}: Add {C}.
+{3}, {T}: You may play land cards from your graveyard this turn.
+
+Efflorescent Forge
+
+Efflorescent Sky
+
+Efflorescent Memorial
+
+Efflorescent River
+
+Efflorescent Woods
+
+Breach of Nature
+cost: {1}{U} => {U}{U}
+
+Herald of Enlightenment
+rules_text: Impending 4—{2}{U}{U} [i](If this spell was impending, it enters with four time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+Flying, trample
+Whenever a creature you control deals combat damage to an opponent, you may draw a card. => Impending 3—{2}{U}{U} [i](If this spell was impending, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+Flying, trample
+Whenever a creature you control deals combat damage to a player, you may draw a card.
+
+Horror
+rules_text:  => Vigilance, lifelink, haste
+
+Incursive Structure
+rules_text: {T}: Add {C}.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+{4}: Return this land from your graveyard to the battlefield tapped. => {T}: Add {C}.
+{4}: Put this card from your hand onto the battlefield.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+
+Horror
+rules_text:  => Flying
+pt: 3/3 => X/X
+
+Human Scout
+
+Synapse
+rules_text: [i](Whenever enchanted creature deals combat damage to a player, draw a card and sacrifice an attached Synapse.)[/i]
+Enchanted creature gets +1/+0. => [i](Whenever enchanted creature deals combat damage to a player, draw a card and sacrifice one attached Synapse, no matter how many synapses are attached to it.)[/i]
+Enchanted creature gets +1/+0.
+
+Flare
+rules_text: Remove a Flare counter from yourself: The next time a source you control deals noncombat damage this turn, it deals that much damage plus one instead. [i](This effect stacks with itself.)[/i] => If a source you control would deal noncombat damage, you may pay X flare counters to have it deal that much damage plus X instead.
+
+Moondrenched Outsider
+cost: {2}{R} => {1}{R}{R}
+pt: 4/3 => 3/3
+
+Queen of Flytraps
+rules_text: Flash
+Vigilance, reach
+When Queen of Flytraps enters, and at the beginning of your end step, untap each creature you control. => Flash
+Vigilance, reach
+When Queen of Flytraps enters and at the beginning of your end step, untap each creature you control.
+
+Harmonious Aeon
+rules_text: Impending 3—{2}{G} [i](If this spell was impending, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+When this permanent enters, search your library for a land card, reveal it, put into your hand, then shuffle. => Impending 3—{2}{G} [i](If this spell was cast for its impending cost, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+When this permanent enters, mill four cards. Return a land card from your graveyard to your hand. You may play an additional land this turn.
+
+Degraded Shockwave
+
+Teller of Nine Thousand Tales
+rules_text: When another creature you control enters, you gain 1 life.
+{X}{X}{W}, Pay 5 life, Exile this creature: Return up to X target creatures with mana value 3 or less from your graveyard to the battlefield. Activate only as a sorcery. => When another creature you control enters, you gain 1 life.
+{X}{W}{W}, Pay X life, Exile this creature: Return up to X target creatures with total mana value X or less from your graveyard to the battlefield. Activate only as a sorcery.
+
+Vain Efflorescent
+cost: {1}{U} => {2}{U}
+rules_text: When this creature enters, draw a card.
+{3}, Exile this card from your graveyard: Draw a card. => When this creature enters, draw a card.
+Whenever you draw a card except the first one you draw in each of your draw steps, put a +1/+1 counter on this creature.
+
+Prodigal Neuromancer
+cost: {1}{U}{U} => {U}{U}
+rules_text: Polymorphic {1}{U} [i](Add an additional instance of the bracketed text for each time you pay this cost.)[/i]
+Protection from mana value 1 or less.
+[When this creature enters, gain control of target nonland permanent with mana value 1 or less you don't control. Untap it.] => Infuse 2 [i](Whenever you cast or copy a noncreature spell, if this creature has fewer than two +1/+1 counters on it, put one on it.)[/i]
+Once each turn, whenever you put one or more +1/+1 counters on a creature you control, you may create a tapped 2/2 colorless Golem artifact creature token.
+pt: 2/2 => 1/2
+
+Cosmic Visitor
+type: Creature — Alien Scout => Enchantment Creature — Alien Scout
+rules_text: Polymorphic {1}{U} [i](Add an additional instance of the bracketed text for each time you pay this cost.)[/i]
+[When Cosmic Visitor enters, exile the top card of target opponent's library. You may play that card for as long as it remains exiled and spend mana as if it were mana of any color to cast that spell.] => Infuse 5 [i](Whenever you cast or copy a noncreature spell, if this creature has fewer than five +1/+1 counters on it, put one on it.)[/i]
+Whenever you put one or more counters on this creature, target player mills cards equal to its power.
+
+Herald of Arbitration
+rules_text: Impending 3—{3}{B}{B} [i](If this spell was impending, it enters with four time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+Trample
+Whenever you attack, each defending player sacrifices a nontoken creature. => Impending 3—{2}{B}{B} [i](If this spell was impending, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+Menace, trample
+Whenever a creature you control deals combat damage to a player, that player loses 3 life unless they discard a card.
+
+Herald of Meteors
+rules_text: Impending 2—{3}{R}{R} [i](If this spell was impending, it enters with two time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+Trample, haste
+Whenever a creature you control deals combat damage to a player, it deals 2 damage to that player unless they sacrifice a land. => Impending 3—{2}{R}{R} [i](If this spell was impending, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+Trample, haste
+Whenever a creature you control deals combat damage to a player, create a Treasure token.
+pt: 7/2 => 7/4
+
+Cursed Ammunition
+type: Sorcery => Instant
+rules_text: Cursed Ammunition deals 3 damage to any target and 1 damage to up to one other target. => Cursed Ammunition deals 2 damage to any target and 1 damage to up to one other target.
+
+Furioso; Fury; Scream
+rules_text: As an additional cost to cast this spell, pay X life.
+Target creature you control gains trample and gets +X/+0 until end of turn.
+Target opponent loses X life. => As an additional cost to cast this spell, pay X life.
+Target creature you control gains trample and has base power equal to twice X until end of turn.
+
+Harmony of Might
+rules_text: When Harmony of Might enters, you draw a card for each creature you control with power 4 or greater.
+Whenever you cast a creature spell with power 4 or greater, untap each land you control. This ability triggers only once each turn. => When Harmony of Might enters, you draw a card for each creature you control with power 4 or greater.
+Whenever you cast a creature spell with power 4 or greater, each land you control. This ability triggers only once each turn.
+
+Devil's Bullet
+rules_text: Devil's Bullet deals 2 damage to target creature or planeswalker. 
+You get a flare counter [i](Remove a flare counter: The next time a source you control deals noncombat damage this turn, it deals that much damage plus one instead.)[/i] => Devil's Bullet deals 2 damage to any target.
+You get a flare counter. [i](If a source you control would deal noncombat damage, you may pay X flare counters to have it deal that much damage plus X instead.)[/i]
+
+Mystic Torrent
+type: Instant => Sorcery
+cost: {1}{R} => {X}{R}
+rules_text: Target player may discard a card, if they do, they draw a card.
+Target creature you control gains first strike and gets +1/+0 for each card you discarded this turn until end of turn. => Mystic Torrent deals damage equal to the amount of mana spent to cast it to target creature or planeswalker. When it deals five or more damage this way, add {R}{R}{R}{R}{R}.
+
+Reckless Kineticist
+rules_text: Haste
+{1}{R}, Sacrifice an artifact: This creature gets +2/+2 until end of turn. => Haste
+Whenever this creature attacks, you may sacrifice an artifact. If you do, this creature deals 2 damage to the defending player.
+
+Suffer, As I Have
+rules_text: Whenever a creature you control enters, each opponent loses 1 life and you gain 1 life.
+At the beginning of your end step, return target creature card from your graveyard to your hand. => At the beginning of your first main phase, choose up to one target creature card from your graveyard. Copy it. You may cast that copy.
+Whenever a creature you control enters, each opponent loses 1 life and you gain 1 life.
+
+Revelation of Pain
+rules_text: Creatures target player controls get +X/+0 until end of turn.
+Up to one target creature gains double strike, trample and haste until end of turn. => Target player chooses X creatures they control. You gain control of those creatures until end of turn. Untap them.
+Creatures you control get +1/+0 and gain trample and haste until end of turn.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Fleeting Efflorescent added.

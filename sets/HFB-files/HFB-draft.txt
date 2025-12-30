@@ -11,23 +11,13 @@
 			}
 		},
 		{
-			"name": "Herald of Arbitration",
-			"rarity": "rare",
-			"mana_cost": "{5}{B}{B}",
-			"type": "Artifact Creature — Giant",
-			"collector_number": "83",
-			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/83_Herald of Arbitration.png"
-			}
-		},
-		{
 			"name": "Revelation of Thorns",
 			"rarity": "mythic",
 			"mana_cost": "{X}{G}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "158",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/158_Revelation of Thorns.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/163_Revelation of Thorns.png"
 			}
 		},
 		{
@@ -35,19 +25,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "93",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/93_Spiralling Hatred.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/96_Spiralling Hatred.png"
 			}
 		},
 		{
 			"name": "Distant Wanderer",
-			"rarity": "rare",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Spirit",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/6_Distant Wanderer.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/7_Distant Wanderer.png"
 			}
 		},
 		{
@@ -55,9 +45,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "176",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/176_Soul Ignition.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/181_Soul Ignition.png"
 			}
 		},
 		{
@@ -65,9 +55,9 @@
 			"rarity": "rare",
 			"mana_cost": "{7}",
 			"type": "Artifact Creature — Orb",
-			"collector_number": "203",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/203_Night Warden.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/215_Night Warden.png"
 			}
 		},
 		{
@@ -75,9 +65,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Vampire Wizard",
-			"collector_number": "92",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/92_Ruinbound Lich.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/95_Ruinbound Lich.png"
 			}
 		},
 		{
@@ -85,9 +75,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "89",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/89_Novice Diabology.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/91_Novice Diabology.png"
 			}
 		},
 		{
@@ -95,9 +85,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B}{B}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "75",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/75_Cruel Severance.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/77_Cruel Severance.png"
 			}
 		},
 		{
@@ -105,9 +95,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{U}{U}",
 			"type": "Legendary Enchantment",
-			"collector_number": "41",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/41_Crescendo.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/43_Crescendo.png"
 			}
 		},
 		{
@@ -115,39 +105,19 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment — Saga",
-			"collector_number": "46",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/46_Fate of a Messenger.png"
-			}
-		},
-		{
-			"name": "Furioso; Fury; Scream",
-			"rarity": "rare",
-			"mana_cost": "{X}{B}",
-			"type": "Sorcery",
-			"collector_number": "81",
-			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/81_Furioso; Fury; Scream.png"
-			}
-		},
-		{
-			"name": "Realspace Breaching",
-			"rarity": "rare",
-			"mana_cost": "{3}{U}{U}",
-			"type": "Enchantment — Aura",
-			"collector_number": "57",
-			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/57_Realspace Breaching.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/48_Fate of a Messenger.png"
 			}
 		},
 		{
 			"name": "Matriarch of Mirrors",
 			"rarity": "uncommon",
-			"mana_cost": "{U}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Reflection",
-			"collector_number": "51",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/51_Matriarch of Mirrors.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/53_Matriarch of Mirrors.png"
 			}
 		},
 		{
@@ -155,9 +125,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Enchantment",
-			"collector_number": "139",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/139_Bioinstrumentality.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/143_Bioinstrumentality.png"
 			}
 		},
 		{
@@ -165,9 +135,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Artifact Creature — Human Soldier",
-			"collector_number": "171",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/171_Enhanced Excisor.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/176_Enhanced Excisor.png"
 			}
 		},
 		{
@@ -175,9 +145,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Artifact Creature — Human Soldier",
-			"collector_number": "153",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/153_Mechanized Augmentee.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/158_Mechanized Augmentee.png"
 			}
 		},
 		{
@@ -185,19 +155,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Human Plant Citizen",
-			"collector_number": "155",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/155_Posthuman Transmuter.png"
-			}
-		},
-		{
-			"name": "Cursed Ammunition",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
-			"type": "Sorcery",
-			"collector_number": "107",
-			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/107_Cursed Ammunition.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/160_Posthuman Transmuter.png"
 			}
 		},
 		{
@@ -205,9 +165,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "97",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/97_Thundering Symphony.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/100_Thundering Symphony.png"
 			}
 		},
 		{
@@ -215,9 +175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Vampire Noble",
-			"collector_number": "130",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/130_Sire of Four Hundred Thorns.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/133_Sire of Four Hundred Thorns.png"
 			}
 		},
 		{
@@ -225,9 +185,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U/R}",
 			"type": "Sorcery",
-			"collector_number": "180",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/180_Cosmic Pact.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/186_Cosmic Pact.png"
 			}
 		},
 		{
@@ -235,9 +195,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}{U}",
 			"type": "Legendary Creature — Horror Bard",
-			"collector_number": "47",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/47_The Grand Conductor.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/49_The Grand Conductor.png"
 			}
 		},
 		{
@@ -245,9 +205,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "68",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/68_All-Consuming Calamity.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/71_All-Consuming Calamity.png"
 			}
 		},
 		{
@@ -255,9 +215,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Artifact Creature — Eye Construct",
-			"collector_number": "137",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/137_Angular Observer.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/141_Angular Observer.png"
 			}
 		},
 		{
@@ -265,9 +225,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{W}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "34",
+			"collector_number": "35",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/34_Wondrous Cataclysm.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/35_Wondrous Cataclysm.png"
 			}
 		},
 		{
@@ -275,19 +235,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
-			"collector_number": "64",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/64_Unravelled Identity.png"
-			}
-		},
-		{
-			"name": "Hela, Enigmatic Inventor",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
-			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "15",
-			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/15_Hela, Enigmatic Inventor.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/66_Unravelled Identity.png"
 			}
 		},
 		{
@@ -295,9 +245,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact Creature — Beast",
-			"collector_number": "140",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/140_Blood-Tracker.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/144_Blood-Tracker.png"
 			}
 		},
 		{
@@ -305,19 +255,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact",
-			"collector_number": "62",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/62_Stitcher's Workshop.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/64_Stitcher's Workshop.png"
 			}
 		},
 		{
 			"name": "Ephemeral Return",
-			"rarity": "rare",
-			"mana_cost": "{3}{W}",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/7_Ephemeral Return.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/8_Ephemeral Return.png"
 			}
 		},
 		{
@@ -325,19 +275,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Horror",
-			"collector_number": "104",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/104_Bringer of Madness.png"
-			}
-		},
-		{
-			"name": "Mystic Torrent",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
-			"type": "Instant",
-			"collector_number": "122",
-			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/122_Mystic Torrent.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/107_Bringer of Madness.png"
 			}
 		},
 		{
@@ -345,29 +285,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "193",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/193_Control Center.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/205_Control Center.png"
 			}
 		},
 		{
-			"name": "Savage Summons",
+			"name": "Savage Surge",
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{G}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "159",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/159_Savage Summons.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/164_Savage Surge.png"
 			}
 		},
 		{
 			"name": "Outskirts Warden",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{R}{R}",
+			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "123",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/123_Outskirts Warden.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/126_Outskirts Warden.png"
 			}
 		},
 		{
@@ -375,9 +315,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{R}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "133",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/133_Unknown Wilderness.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/137_Unknown Wilderness.png"
 			}
 		},
 		{
@@ -385,9 +325,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "124",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/124_Pandemonium Wave.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/127_Pandemonium Wave.png"
 			}
 		},
 		{
@@ -395,19 +335,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Legendary Planeswalker — Fluchschütze",
-			"collector_number": "108",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/108_The Cursed Marksman.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/110_The Cursed Marksman.png"
 			}
 		},
 		{
-			"name": "Cheating the Devil",
+			"name": "Dealing with The Devil",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Enchantment — Saga",
-			"collector_number": "106",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/106_Cheating the Devil.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/111_Dealing with The Devil.png"
 			}
 		},
 		{
@@ -415,9 +355,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W/B}{W/B}",
 			"type": "Legendary Creature — Demon",
-			"collector_number": "183",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/183_Hazar, Censor of History.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/189_Hazar, Censor of History.png"
 			}
 		},
 		{
@@ -425,9 +365,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{U}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "39",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/39_Clockturning.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/40_Clockturning.png"
 			}
 		},
 		{
@@ -435,9 +375,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "154",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/154_Neural Barbs.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/159_Neural Barbs.png"
 			}
 		},
 		{
@@ -445,29 +385,29 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W/U}{W/U}",
 			"type": "Instant",
-			"collector_number": "184",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/184_Inventive Epiphany.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/190_Inventive Epiphany.png"
 			}
 		},
 		{
 			"name": "Unreal Herald",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{U/B}{U/B}",
+			"mana_cost": "{2}{U/B}{U/B}",
 			"type": "Creature — Illusion",
-			"collector_number": "191",
+			"collector_number": "203",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/191_Unreal Herald.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/203_Unreal Herald.png"
 			}
 		},
 		{
-			"name": "Ethereal Titan",
+			"name": "Ethereal Colossus",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Spirit Giant",
-			"collector_number": "147",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/147_Ethereal Titan.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/152_Ethereal Colossus.png"
 			}
 		},
 		{
@@ -475,19 +415,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{B}",
 			"type": "Creature — Shapeshifter",
-			"collector_number": "80",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/80_False Angel.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/82_False Angel.png"
 			}
 		},
 		{
 			"name": "Harvester of Sorrows",
 			"rarity": "rare",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "149",
+			"collector_number": "154",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/149_Harvester of Sorrows.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/154_Harvester of Sorrows.png"
 			}
 		},
 		{
@@ -495,9 +435,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R/W}",
 			"type": "Sorcery",
-			"collector_number": "187",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/187_New Dawn.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/197_New Dawn.png"
 			}
 		},
 		{
@@ -505,9 +445,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Fractal",
-			"collector_number": "201",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/201_Hyperreal Nexus.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/213_Hyperreal Nexus.png"
 			}
 		},
 		{
@@ -515,9 +455,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Avatar",
-			"collector_number": "214",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/214_Unborn Arbiter.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/226_Unborn Arbiter.png"
 			}
 		},
 		{
@@ -525,9 +465,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Creature — Human Horror",
-			"collector_number": "113",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/113_Efflorescing Mystic.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/116_Efflorescing Mystic.png"
 			}
 		},
 		{
@@ -535,9 +475,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}",
 			"type": "Artifact Creature — Aeon",
-			"collector_number": "195",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/195_Divine Paragon.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/207_Divine Paragon.png"
 			}
 		},
 		{
@@ -545,9 +485,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{7}",
 			"type": "Artifact Creature — Aeon",
-			"collector_number": "208",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/208_Starturning Celestial.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/220_Starturning Celestial.png"
 			}
 		},
 		{
@@ -555,19 +495,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Instant",
-			"collector_number": "77",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/77_Death to the Deathless.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/79_Death to the Deathless.png"
 			}
 		},
 		{
 			"name": "Progenitor of Desire",
 			"rarity": "uncommon",
-			"mana_cost": "{5}",
+			"mana_cost": "{4}",
 			"type": "Artifact Creature — Aeon",
-			"collector_number": "204",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/204_Progenitor of Desire.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/216_Progenitor of Desire.png"
 			}
 		},
 		{
@@ -575,19 +515,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{7}",
 			"type": "Artifact Creature — Aeon",
-			"collector_number": "194",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/194_Crowned Aeon.png"
-			}
-		},
-		{
-			"name": "Harmonious Aeon",
-			"rarity": "uncommon",
-			"mana_cost": "{5}",
-			"type": "Artifact Creature — Aeon",
-			"collector_number": "199",
-			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/199_Harmonious Aeon.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/206_Crowned Aeon.png"
 			}
 		},
 		{
@@ -595,9 +525,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "87",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/87_Mind Screech.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/89_Mind Screech.png"
 			}
 		},
 		{
@@ -605,9 +535,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Horror",
-			"collector_number": "112",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/112_Efflorescent Vessel.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/115_Efflorescent Vessel.png"
 			}
 		},
 		{
@@ -615,9 +545,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Vampire Warrior",
-			"collector_number": "115",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/115_Flamechosen Thrall.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/118_Flamechosen Thrall.png"
 			}
 		},
 		{
@@ -625,9 +555,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment — Saga",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/11_Gaze of Others.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/12_Gaze of Others.png"
 			}
 		},
 		{
@@ -635,9 +565,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Mercenary",
-			"collector_number": "116",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/116_Freelance Slayer.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/119_Freelance Slayer.png"
 			}
 		},
 		{
@@ -645,9 +575,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{X}{U}{U}{U}",
 			"type": "Instant",
-			"collector_number": "58",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/58_Revelation of Mirrors.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/60_Revelation of Mirrors.png"
 			}
 		},
 		{
@@ -655,9 +585,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{X}{W}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "24",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/24_Revelation of Light.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/25_Revelation of Light.png"
 			}
 		},
 		{
@@ -665,19 +595,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "54",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/54_Psychic Insight.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/57_Psychic Insight.png"
 			}
 		},
 		{
 			"name": "Tombwatcher",
 			"rarity": "uncommon",
-			"mana_cost": "{6}",
-			"type": "Artifact Creature — Horror",
-			"collector_number": "213",
+			"mana_cost": "{8}",
+			"type": "Artifact Creature — Elder Horror",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/213_Tombwatcher.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/225_Tombwatcher.png"
 			}
 		},
 		{
@@ -685,19 +615,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
-			"collector_number": "36",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/36_Bloom from Sorrow.png"
-			}
-		},
-		{
-			"name": "Cosmic Visitor",
-			"rarity": "rare",
-			"mana_cost": "{1}{U}",
-			"type": "Creature — Alien Scout",
-			"collector_number": "40",
-			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/40_Cosmic Visitor.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/37_Bloom from Sorrow.png"
 			}
 		},
 		{
@@ -715,19 +635,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Sorcery",
-			"collector_number": "26",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/26_Spacial Rend.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/27_Spacial Rend.png"
 			}
 		},
 		{
 			"name": "Effloresced Archseer",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{3}{U}",
 			"type": "Creature — Horror Wizard",
-			"collector_number": "45",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/45_Effloresced Archseer.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/47_Effloresced Archseer.png"
 			}
 		},
 		{
@@ -735,9 +655,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{U}{U}",
 			"type": "Creature — Horror",
-			"collector_number": "61",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/61_Slothful Mauler.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/63_Slothful Mauler.png"
 			}
 		},
 		{
@@ -745,9 +665,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Artifact Creature — Elemental Horror",
-			"collector_number": "131",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/131_Unbreaking Pulverizer.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/135_Unbreaking Pulverizer.png"
 			}
 		},
 		{
@@ -755,9 +675,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "85",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/85_Isolate and Homogenize.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/87_Isolate and Homogenize.png"
 			}
 		},
 		{
@@ -765,49 +685,49 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Enchantment — Saga",
-			"collector_number": "110",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/110_Drown It All in Blood.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/113_Drown It All in Blood.png"
 			}
 		},
 		{
 			"name": "Calamity That Eats the Sky",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{B}{B}",
-			"type": "Creature — Horror Incarnation",
-			"collector_number": "71",
+			"type": "Creature — Horror",
+			"collector_number": "73",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/71_Calamity That Eats the Sky.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/73_Calamity That Eats the Sky.png"
 			}
 		},
 		{
 			"name": "Bloodlord Saladar",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
-			"type": "Legendary Creature — Elder Vampire",
-			"collector_number": "103",
+			"type": "Legendary Creature — Vampire Noble",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/103_Bloodlord Saladar.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/106_Bloodlord Saladar.png"
 			}
 		},
 		{
-			"name": "Twisted Revelation",
+			"name": "Revelation of Steel",
 			"rarity": "mythic",
 			"mana_cost": "{X}{B}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "98",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/98_Twisted Revelation.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/94_Revelation of Steel.png"
 			}
 		},
 		{
 			"name": "Malevolent Heart",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Sorcery",
-			"collector_number": "120",
+			"type": "Instant",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/120_Malevolent Heart.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/123_Malevolent Heart.png"
 			}
 		},
 		{
@@ -815,9 +735,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "79",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/79_Extermination Campaign.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/81_Extermination Campaign.png"
 			}
 		},
 		{
@@ -825,9 +745,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Legendary Enchantment",
-			"collector_number": "95",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/95_Swallowed Sky.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/98_Swallowed Sky.png"
 			}
 		},
 		{
@@ -835,9 +755,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Beast Horror",
-			"collector_number": "119",
+			"collector_number": "122",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/119_Howling Chorus.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/122_Howling Chorus.png"
 			}
 		},
 		{
@@ -845,9 +765,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B/R}{B/R}",
 			"type": "Enchantment",
-			"collector_number": "179",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/179_Accretion Disk.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/184_Accretion Disk.png"
 			}
 		},
 		{
@@ -855,9 +775,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W/U}{W/U}",
 			"type": "Instant",
-			"collector_number": "185",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/185_The Long Way Round.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/191_The Long Way Round.png"
 			}
 		},
 		{
@@ -875,9 +795,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{B}{B}",
 			"type": "Legendary Enchantment",
-			"collector_number": "78",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/78_Devour the Future.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/80_Devour the Future.png"
 			}
 		},
 		{
@@ -885,9 +805,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{W}{W}",
 			"type": "Legendary Enchantment",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/14_Grim Coronation.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/15_Grim Coronation.png"
 			}
 		},
 		{
@@ -895,19 +815,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Artifact Creature — Knight",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/10_Forged Enforcer.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/11_Forged Enforcer.png"
 			}
 		},
 		{
 			"name": "Fleshborn Behemoth",
-			"rarity": "uncommon",
-			"mana_cost": "{6}{W}{W}",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Horror Giant",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/9_Fleshborn Behemoth.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/10_Fleshborn Behemoth.png"
 			}
 		},
 		{
@@ -925,9 +845,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G/W}",
 			"type": "Creature — Horror Soldier",
-			"collector_number": "189",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/189_Sentinel of Bygone Days.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/201_Sentinel of Bygone Days.png"
 			}
 		},
 		{
@@ -935,9 +855,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact Creature — Construct Knight",
-			"collector_number": "27",
+			"collector_number": "28",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/27_Spliced Breachwarden.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/28_Spliced Breachwarden.png"
 			}
 		},
 		{
@@ -945,9 +865,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Horror",
-			"collector_number": "31",
+			"collector_number": "32",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/31_Transmuted Prophet.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/32_Transmuted Prophet.png"
 			}
 		},
 		{
@@ -955,19 +875,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}",
 			"type": "Artifact Creature — Horror",
-			"collector_number": "35",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/35_Arc-Crowned Vessel.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/36_Arc-Crowned Vessel.png"
 			}
 		},
 		{
 			"name": "Dreamcrawler",
 			"rarity": "uncommon",
-			"mana_cost": "{5}{U}{U}",
+			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Horror",
-			"collector_number": "44",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/44_Dreamcrawler.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/46_Dreamcrawler.png"
 			}
 		},
 		{
@@ -975,9 +895,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "55",
+			"collector_number": "58",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/55_Reach through Reflections.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/58_Reach through Reflections.png"
 			}
 		},
 		{
@@ -985,19 +905,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "67",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/67_Wrap in Ethereal Threads.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/69_Wrap in Ethereal Threads.png"
 			}
 		},
 		{
-			"name": "Bound Demon",
+			"name": "Aimless Efflorescent",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
-			"type": "Creature — Demon",
+			"type": "Creature — Horror",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/70_Bound Demon.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/70_Aimless Efflorescent.png"
 			}
 		},
 		{
@@ -1005,9 +925,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Dragon",
-			"collector_number": "117",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/117_Fury of a Fallen Star.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/120_Fury of a Fallen Star.png"
 			}
 		},
 		{
@@ -1015,9 +935,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{G}",
 			"type": "Creature — Wurm",
-			"collector_number": "161",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/161_Subterranean Coiler.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/166_Subterranean Coiler.png"
 			}
 		},
 		{
@@ -1025,9 +945,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Horror",
-			"collector_number": "151",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/151_Hungerborn.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/156_Hungerborn.png"
 			}
 		},
 		{
@@ -1035,9 +955,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Horror",
-			"collector_number": "192",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/192_Accelerator Drone.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/204_Accelerator Drone.png"
 			}
 		},
 		{
@@ -1045,9 +965,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}",
 			"type": "Artifact Creature — Giant",
-			"collector_number": "198",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/198_Forlorn Titanshard.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/210_Forlorn Titanshard.png"
 			}
 		},
 		{
@@ -1055,9 +975,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "160",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/160_Shard Bearer.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/165_Shard Bearer.png"
 			}
 		},
 		{
@@ -1065,9 +985,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Horror",
-			"collector_number": "202",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/202_Labyrinth Dweller.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/214_Labyrinth Dweller.png"
 			}
 		},
 		{
@@ -1075,19 +995,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}",
 			"type": "Artifact",
-			"collector_number": "209",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/209_Stasis Chamber.png"
-			}
-		},
-		{
-			"name": "Unstable Powercore",
-			"rarity": "rare",
-			"mana_cost": "{5}",
-			"type": "Artifact",
-			"collector_number": "215",
-			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/215_Unstable Powercore.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/221_Stasis Chamber.png"
 			}
 		},
 		{
@@ -1095,9 +1005,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "218",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/218_Deep Outskirts Relay.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/229_Deep Outskirts Relay.png"
 			}
 		},
 		{
@@ -1105,19 +1015,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Horror",
-			"collector_number": "126",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/126_Rageborn Efflorescent.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/129_Rageborn Efflorescent.png"
 			}
 		},
 		{
 			"name": "Captive Efflorescent",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{2}{U}{U}",
 			"type": "Creature — Horror",
-			"collector_number": "38",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/38_Captive Efflorescent.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/39_Captive Efflorescent.png"
 			}
 		},
 		{
@@ -1125,9 +1035,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Creature — Bird",
-			"collector_number": "66",
+			"collector_number": "68",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/66_Vent-Trawl Scavenger.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/68_Vent-Trawl Scavenger.png"
 			}
 		},
 		{
@@ -1135,9 +1045,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "230",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/230_The Unknown Sun.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/241_The Unknown Sun.png"
 			}
 		},
 		{
@@ -1145,9 +1055,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Creature — Human",
-			"collector_number": "69",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/69_Bearer of Death's Gaze.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/72_Bearer of Death's Gaze.png"
 			}
 		},
 		{
@@ -1155,9 +1065,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Aeon",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/3_Aspect of Antipoise.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/4_Aspect of Antipoise.png"
 			}
 		},
 		{
@@ -1165,9 +1075,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{G}{U}",
 			"type": "Sorcery",
-			"collector_number": "168",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/168_Bloodied Wingbeats.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/173_Bloodied Wingbeats.png"
 			}
 		},
 		{
@@ -1175,9 +1085,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{R}{R}",
 			"type": "Legendary Enchantment",
-			"collector_number": "102",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/102_Blood Sun's Dawning.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/105_Blood Sun's Dawning.png"
 			}
 		},
 		{
@@ -1185,9 +1095,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Horror",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/8_Fleeting Efflorescent.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/9_Fleeting Efflorescent.png"
 			}
 		},
 		{
@@ -1195,9 +1105,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W/B}{W/B}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "186",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/186_Mothblessed.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/196_Mothblessed.png"
 			}
 		},
 		{
@@ -1205,9 +1115,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Legendary Creature — Horror Cleric",
-			"collector_number": "82",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/82_Hazeth, Last Priest.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/84_Hazeth, Last Priest.png"
 			}
 		},
 		{
@@ -1215,19 +1125,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Instant",
-			"collector_number": "73",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/73_Corrupt Consumption.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/75_Corrupt Consumption.png"
 			}
 		},
 		{
-			"name": "Oblivious Aristocrat",
+			"name": "Oblivious Highborn",
 			"rarity": "uncommon",
 			"mana_cost": "{B/G}",
 			"type": "Creature — Human Noble",
-			"collector_number": "188",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/188_Oblivious Aristocrat.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/198_Oblivious Highborn.png"
 			}
 		},
 		{
@@ -1235,19 +1145,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Warlock",
-			"collector_number": "99",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/99_Underwitch.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/101_Underwitch.png"
 			}
 		},
 		{
 			"name": "Harbinger's Approach",
 			"rarity": "rare",
-			"mana_cost": "{2}{B/R}",
+			"mana_cost": "{1}{B/R}",
 			"type": "Enchantment",
-			"collector_number": "182",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/182_Harbinger's Approach.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/188_Harbinger's Approach.png"
 			}
 		},
 		{
@@ -1255,19 +1165,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Creature — Insect Horror",
-			"collector_number": "170",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/170_Crawling Efflorescent.png"
-			}
-		},
-		{
-			"name": "Vain Efflorescent",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
-			"type": "Creature — Horror Reflection",
-			"collector_number": "65",
-			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/65_Vain Efflorescent.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/175_Crawling Efflorescent.png"
 			}
 		},
 		{
@@ -1275,9 +1175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "50",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/50_Isolated Remnant.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/52_Isolated Remnant.png"
 			}
 		},
 		{
@@ -1285,9 +1185,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "52",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/52_Ponder Histories.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/55_Ponder Histories.png"
 			}
 		},
 		{
@@ -1295,39 +1195,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/13_Grace of the Ancients.png"
-			}
-		},
-		{
-			"name": "Harmony of Might",
-			"rarity": "rare",
-			"mana_cost": "{G}{G}{G}",
-			"type": "Legendary Enchantment",
-			"collector_number": "148",
-			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/148_Harmony of Might.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/14_Grace of the Ancients.png"
 			}
 		},
 		{
 			"name": "Distant Warning",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Alien Horror",
-			"collector_number": "42",
+			"type": "Enchantment Creature — Alien Horror",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/42_Distant Warning.png"
-			}
-		},
-		{
-			"name": "Herald of Meteors",
-			"rarity": "rare",
-			"mana_cost": "{4}{R}{R}",
-			"type": "Artifact Creature — Giant",
-			"collector_number": "118",
-			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/118_Herald of Meteors.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/44_Distant Warning.png"
 			}
 		},
 		{
@@ -1335,9 +1215,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "129",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/129_Ruinous Roar.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/132_Ruinous Roar.png"
 			}
 		},
 		{
@@ -1345,9 +1225,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R/G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "190",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/190_Thornrider's Aid.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/202_Thornrider's Aid.png"
 			}
 		},
 		{
@@ -1355,9 +1235,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Horror",
-			"collector_number": "94",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/94_Spiteful Efflorescent.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/97_Spiteful Efflorescent.png"
 			}
 		},
 		{
@@ -1365,19 +1245,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G/U}",
 			"type": "Sorcery",
-			"collector_number": "181",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/181_Deepbreather's Vision.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/187_Deepbreather's Vision.png"
 			}
 		},
 		{
 			"name": "Tidecall Leviathan",
 			"rarity": "rare",
-			"mana_cost": "{3}{G}{G}",
-			"type": "Enchantment Creature — Leviathan",
-			"collector_number": "162",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Leviathan",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/162_Tidecall Leviathan.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/167_Tidecall Leviathan.png"
 			}
 		},
 		{
@@ -1385,9 +1265,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Artificer",
-			"collector_number": "74",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/74_Cruel Puppeteer.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/76_Cruel Puppeteer.png"
 			}
 		},
 		{
@@ -1395,9 +1275,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Creature — Horror Incarnation",
-			"collector_number": "21",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/21_Memories of Butterflies.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/22_Memories of Butterflies.png"
 			}
 		},
 		{
@@ -1405,9 +1285,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Horror Beast",
-			"collector_number": "96",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/96_Tamed Monstrosity.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/99_Tamed Monstrosity.png"
 			}
 		},
 		{
@@ -1415,9 +1295,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Scientist",
-			"collector_number": "144",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/144_Disgraced Researcher.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/149_Disgraced Researcher.png"
 			}
 		},
 		{
@@ -1425,9 +1305,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Horror",
-			"collector_number": "59",
+			"collector_number": "61",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/59_Riftway Visitor.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/61_Riftway Visitor.png"
 			}
 		},
 		{
@@ -1435,19 +1315,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Legendary Creature — Elder Horror",
-			"collector_number": "43",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/43_Doom of the Second City.png"
-			}
-		},
-		{
-			"name": "Prodigal Neuromancer",
-			"rarity": "rare",
-			"mana_cost": "{1}{U}{U}",
-			"type": "Creature — Human Wizard",
-			"collector_number": "53",
-			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/53_Prodigal Neuromancer.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/45_Doom of the Second City.png"
 			}
 		},
 		{
@@ -1455,19 +1325,19 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{R}",
 			"type": "Legendary Enchantment",
-			"collector_number": "174",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/174_No Plan Survives.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/179_No Plan Survives.png"
 			}
 		},
 		{
 			"name": "Ruin of the First City",
 			"rarity": "rare",
 			"mana_cost": "{5}{W}{W}",
-			"type": "Legendary Creature — Dragon Horror",
-			"collector_number": "25",
+			"type": "Legendary Creature — Elder Dragon",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/25_Ruin of the First City.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/26_Ruin of the First City.png"
 			}
 		},
 		{
@@ -1475,9 +1345,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Creature — Dragon",
-			"collector_number": "28",
+			"collector_number": "29",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/28_Starchosen Regent.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/29_Starchosen Regent.png"
 			}
 		},
 		{
@@ -1485,19 +1355,19 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Legendary Planeswalker — Exl",
-			"collector_number": "172",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/172_Exl, Faerie Eater.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/177_Exl, Faerie Eater.png"
 			}
 		},
 		{
 			"name": "Prophellan Emissary",
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{B}{B}",
-			"type": "Creature — Alien",
-			"collector_number": "91",
+			"type": "Enchantment Creature — Alien",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/91_Prophellan Emissary.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/93_Prophellan Emissary.png"
 			}
 		},
 		{
@@ -1505,19 +1375,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Saga",
-			"collector_number": "163",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/163_Total Efflorescence.png"
-			}
-		},
-		{
-			"name": "Uncanny Emergence",
-			"rarity": "rare",
-			"mana_cost": "{1}{G}",
-			"type": "Sorcery",
-			"collector_number": "165",
-			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/165_Uncanny Emergence.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/168_Total Efflorescence.png"
 			}
 		},
 		{
@@ -1525,9 +1385,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Legendary Creature — Elder Horror",
-			"collector_number": "76",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/76_Death of the Third City.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/78_Death of the Third City.png"
 			}
 		},
 		{
@@ -1535,9 +1395,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "138",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/138_Architect of Calamity.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/142_Architect of Calamity.png"
 			}
 		},
 		{
@@ -1545,9 +1405,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Mutant Ooze",
-			"collector_number": "166",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/166_Unstable Mutate.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/170_Unstable Mutate.png"
 			}
 		},
 		{
@@ -1555,9 +1415,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Scientist",
-			"collector_number": "135",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/135_Accomplished Researcher.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/139_Accomplished Researcher.png"
 			}
 		},
 		{
@@ -1565,9 +1425,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "142",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/142_Connection in Sorrow.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/146_Connection in Sorrow.png"
 			}
 		},
 		{
@@ -1575,19 +1435,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Artifact — Equipment",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/12_Glass Wings.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/13_Glass Wings.png"
 			}
 		},
 		{
-			"name": "Masked Visitor",
+			"name": "Masked Guest",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
-			"type": "Enchantment Creature — Horror",
-			"collector_number": "152",
+			"type": "Enchantment Creature — Alien",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/152_Masked Visitor.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/157_Masked Guest.png"
 			}
 		},
 		{
@@ -1595,29 +1455,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "49",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/49_Hide From Fate.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/51_Hide From Fate.png"
 			}
 		},
 		{
 			"name": "Sever the Connection",
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
-			"type": "Sorcery",
-			"collector_number": "60",
-			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/60_Sever the Connection.png"
-			}
-		},
-		{
-			"name": "Devil's Bullet",
-			"rarity": "uncommon",
-			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "109",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/109_Devil's Bullet.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/62_Sever the Connection.png"
 			}
 		},
 		{
@@ -1625,9 +1475,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Human Knight",
-			"collector_number": "169",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/169_Cavern Sentinel.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/174_Cavern Sentinel.png"
 			}
 		},
 		{
@@ -1635,9 +1485,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Scientist",
-			"collector_number": "111",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/111_Efflorescence Specialist.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/114_Efflorescence Specialist.png"
 			}
 		},
 		{
@@ -1645,9 +1495,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Vampire Noble",
-			"collector_number": "105",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/105_Cardiomancer.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/108_Cardiomancer.png"
 			}
 		},
 		{
@@ -1655,29 +1505,19 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Human Phoenix",
-			"collector_number": "132",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/132_Undying Renegade.png"
-			}
-		},
-		{
-			"name": "Suffer, As I Have",
-			"rarity": "rare",
-			"mana_cost": "{2}{W}{B}",
-			"type": "Legendary Enchantment",
-			"collector_number": "177",
-			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/177_Suffer, As I Have.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/136_Undying Renegade.png"
 			}
 		},
 		{
 			"name": "CENSORED",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{B}{B}",
+			"mana_cost": "{2}{B}{B}",
 			"type": "Creature",
-			"collector_number": "72",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/72_CENSORED.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/74_CENSORED.png"
 			}
 		},
 		{
@@ -1685,9 +1525,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "197",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/197_Electrified Exosuit.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/209_Electrified Exosuit.png"
 			}
 		},
 		{
@@ -1695,9 +1535,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "207",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/207_Standard-Issue Rifle.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/219_Standard-Issue Rifle.png"
 			}
 		},
 		{
@@ -1705,9 +1545,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "211",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/211_Sword of Stars.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/223_Sword of Stars.png"
 			}
 		},
 		{
@@ -1715,9 +1555,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "196",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/196_Efflorescent Pistols.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/208_Efflorescent Pistols.png"
 			}
 		},
 		{
@@ -1725,9 +1565,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Mutant Citizen",
-			"collector_number": "2",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/2_Altered Farmhand.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/3_Altered Farmhand.png"
 			}
 		},
 		{
@@ -1735,9 +1575,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Vampire Plant Noble",
-			"collector_number": "178",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/178_Symbiotic Harvester.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/183_Symbiotic Harvester.png"
 			}
 		},
 		{
@@ -1745,9 +1585,9 @@
 			"rarity": "rare",
 			"mana_cost": "{7}",
 			"type": "Artifact — Equipment",
-			"collector_number": "210",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/210_Superheated Gladius.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/222_Superheated Gladius.png"
 			}
 		},
 		{
@@ -1755,9 +1595,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "212",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/212_Timetither's Staff.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/224_Timetither's Staff.png"
 			}
 		},
 		{
@@ -1765,9 +1605,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
-			"collector_number": "29",
+			"collector_number": "30",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/29_Strike with Sorrow.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/30_Strike with Sorrow.png"
 			}
 		},
 		{
@@ -1775,9 +1615,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Detective",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/4_Bearer of Broken Wings.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/5_Bearer of Broken Wings.png"
 			}
 		},
 		{
@@ -1785,9 +1625,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Human Mercenary",
-			"collector_number": "134",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/134_Veteran Slayer.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/138_Veteran Slayer.png"
 			}
 		},
 		{
@@ -1795,9 +1635,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "Sorcery",
-			"collector_number": "173",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/173_Exl's Order.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/178_Exl's Order.png"
 			}
 		},
 		{
@@ -1805,9 +1645,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Angel",
-			"collector_number": "100",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/100_Unstable Saviour.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/102_Unstable Saviour.png"
 			}
 		},
 		{
@@ -1815,9 +1655,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Plant Horror",
-			"collector_number": "156",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/156_Prized Test Subject.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/161_Prized Test Subject.png"
 			}
 		},
 		{
@@ -1825,9 +1665,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{W}{U}",
 			"type": "Instant",
-			"collector_number": "175",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/175_Order from Above.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/180_Order from Above.png"
 			}
 		},
 		{
@@ -1835,9 +1675,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Advisor",
-			"collector_number": "146",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/146_Entangled Speaker.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/151_Entangled Speaker.png"
 			}
 		},
 		{
@@ -1845,9 +1685,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}",
 			"type": "Artifact",
-			"collector_number": "205",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/205_Skyborn Manastone.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/217_Skyborn Manastone.png"
 			}
 		},
 		{
@@ -1855,9 +1695,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
-			"collector_number": "84",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/84_In the Jaws of Despair.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/86_In the Jaws of Despair.png"
 			}
 		},
 		{
@@ -1865,9 +1705,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "164",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/164_Unaware Courier.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/169_Unaware Courier.png"
 			}
 		},
 		{
@@ -1875,9 +1715,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Vampire Noble",
-			"collector_number": "101",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/101_Blood Shaper.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/104_Blood Shaper.png"
 			}
 		},
 		{
@@ -1885,29 +1725,19 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Creature — Human Mystic",
-			"collector_number": "145",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/145_Distant Figure.png"
-			}
-		},
-		{
-			"name": "Reckless Kineticist",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
-			"type": "Creature — Human Wizard",
-			"collector_number": "127",
-			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/127_Reckless Kineticist.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/150_Distant Figure.png"
 			}
 		},
 		{
 			"name": "Western Witch",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
-			"type": "Creature — Human Warlock",
-			"collector_number": "33",
+			"type": "Creature — Demon Warlock",
+			"collector_number": "34",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/33_Western Witch.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/34_Western Witch.png"
 			}
 		},
 		{
@@ -1915,9 +1745,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Creature — Zombie Warlock",
-			"collector_number": "88",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/88_Northern Witch.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/90_Northern Witch.png"
 			}
 		},
 		{
@@ -1925,9 +1755,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Spellshaper",
-			"collector_number": "114",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/114_Extraspacial Manipulator.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/117_Extraspacial Manipulator.png"
 			}
 		},
 		{
@@ -1935,19 +1765,19 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Artifact Creature — Giant",
-			"collector_number": "150",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/150_Herald of Tranquility.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/155_Herald of Tranquility.png"
 			}
 		},
 		{
 			"name": "Coven of Stars",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Warlock",
-			"collector_number": "143",
+			"type": "Creature — Aeon Warlock",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/143_Coven of Stars.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/147_Coven of Stars.png"
 			}
 		},
 		{
@@ -1955,19 +1785,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Aeon",
-			"collector_number": "86",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/86_Lesser Reaper.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/88_Lesser Reaper.png"
 			}
 		},
 		{
 			"name": "Cloaked Enforcer",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
-			"type": "Creature — Horror",
-			"collector_number": "141",
+			"type": "Creature — Human Horror",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/141_Cloaked Enforcer.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/145_Cloaked Enforcer.png"
 			}
 		},
 		{
@@ -1975,9 +1805,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Plant",
-			"collector_number": "167",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/167_Wild Manabloom.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/171_Wild Manabloom.png"
 			}
 		},
 		{
@@ -1985,9 +1815,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Warlock",
-			"collector_number": "90",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/90_Outskirts Scourge.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/92_Outskirts Scourge.png"
 			}
 		},
 		{
@@ -1995,9 +1825,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment",
-			"collector_number": "125",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/125_Path of Conquest.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/128_Path of Conquest.png"
 			}
 		},
 		{
@@ -2005,9 +1835,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Mutant",
-			"collector_number": "136",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/136_Amorphous Experiment.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/140_Amorphous Experiment.png"
 			}
 		},
 		{
@@ -2015,19 +1845,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "32",
+			"collector_number": "33",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/32_Wanderer in a Lost World.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/33_Wanderer in a Lost World.png"
 			}
 		},
 		{
 			"name": "Reality Twister",
-			"rarity": "uncommon",
+			"rarity": "rare",
 			"mana_cost": "{U}",
 			"type": "Creature — Demon",
-			"collector_number": "56",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/56_Reality Twister.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/59_Reality Twister.png"
 			}
 		},
 		{
@@ -2035,9 +1865,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "23",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/23_Prayer for the Dead.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/24_Prayer for the Dead.png"
 			}
 		},
 		{
@@ -2045,9 +1875,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}",
 			"type": "Artifact — Equipment",
-			"collector_number": "200",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/200_High-Impact Munitions.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/212_High-Impact Munitions.png"
 			}
 		},
 		{
@@ -2055,9 +1885,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}",
 			"type": "Artifact — Equipment",
-			"collector_number": "206",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/206_Spaceripper Gauntlet.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/218_Spaceripper Gauntlet.png"
 			}
 		},
 		{
@@ -2065,29 +1895,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Spirit Horror",
-			"collector_number": "63",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/63_Undying Observer.png"
-			}
-		},
-		{
-			"name": "Degraded Shockwave",
-			"rarity": "rare",
-			"mana_cost": "{2}{W}{W}",
-			"type": "Sorcery",
-			"collector_number": "5",
-			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/5_Degraded Shockwave.png"
-			}
-		},
-		{
-			"name": "Revelation of Pain",
-			"rarity": "mythic",
-			"mana_cost": "{X}{R}{R}{R}",
-			"type": "Sorcery",
-			"collector_number": "128",
-			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/128_Revelation of Pain.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/65_Undying Observer.png"
 			}
 		},
 		{
@@ -2095,9 +1905,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
-			"collector_number": "22",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/22_Plastic Dream.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/23_Plastic Dream.png"
 			}
 		},
 		{
@@ -2105,9 +1915,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "224",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/224_Fortified District.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/235_Fortified District.png"
 			}
 		},
 		{
@@ -2115,9 +1925,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "227",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/227_Nexus of Creation.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/238_Nexus of Creation.png"
 			}
 		},
 		{
@@ -2125,9 +1935,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "226",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/226_Mining Outpost.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/237_Mining Outpost.png"
 			}
 		},
 		{
@@ -2135,9 +1945,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "219",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/219_Efflorescent Forge.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/230_Efflorescent Forge.png"
 			}
 		},
 		{
@@ -2145,9 +1955,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "222",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/222_Efflorescent Sky.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/233_Efflorescent Sky.png"
 			}
 		},
 		{
@@ -2155,9 +1965,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "220",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/220_Efflorescent Memorial.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/231_Efflorescent Memorial.png"
 			}
 		},
 		{
@@ -2165,9 +1975,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "221",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/221_Efflorescent River.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/232_Efflorescent River.png"
 			}
 		},
 		{
@@ -2175,9 +1985,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "223",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/223_Efflorescent Woods.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/234_Efflorescent Woods.png"
 			}
 		},
 		{
@@ -2185,9 +1995,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "233",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/233_Swamp.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/244_Swamp.png"
 			}
 		},
 		{
@@ -2195,9 +2005,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "232",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/232_Island.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/243_Island.png"
 			}
 		},
 		{
@@ -2205,9 +2015,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "235",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/235_Forest.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/246_Forest.png"
 			}
 		},
 		{
@@ -2215,9 +2025,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "231",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/231_Plains.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/242_Plains.png"
 			}
 		},
 		{
@@ -2225,19 +2035,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "234",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/234_Mountain.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/245_Mountain.png"
 			}
 		},
 		{
 			"name": "Breach of Nature",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
+			"mana_cost": "{U}{U}",
 			"type": "Instant",
-			"collector_number": "37",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/37_Breach of Nature.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/38_Breach of Nature.png"
 			}
 		},
 		{
@@ -2245,9 +2055,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "216",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/216_Bioengineering Bay.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/227_Bioengineering Bay.png"
 			}
 		},
 		{
@@ -2255,9 +2065,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "217",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/217_Brilliant Tower.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/228_Brilliant Tower.png"
 			}
 		},
 		{
@@ -2265,9 +2075,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "228",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/228_Outskirts Research Station.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/239_Outskirts Research Station.png"
 			}
 		},
 		{
@@ -2275,19 +2085,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "229",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/229_Underground Apparatus.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/240_Underground Apparatus.png"
 			}
 		},
 		{
-			"name": "■■■■■ , Everlost Memory",
+			"name": "Everlost Memory",
 			"rarity": "mythic",
 			"mana_cost": "{6}",
 			"type": "Legendary Planeswalker — ■■■■■",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/1_■■■■■ , Everlost Memory.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/1_Everlost Memory.png"
 			}
 		},
 		{
@@ -2295,19 +2105,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{U}{U}",
 			"type": "Artifact Creature — Giant",
-			"collector_number": "48",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/48_Herald of Enlightenment.png"
-			}
-		},
-		{
-			"name": "Teller of Nine Thousand Tales",
-			"rarity": "uncommon",
-			"mana_cost": "{W}",
-			"type": "Creature — Human Bard",
-			"collector_number": "30",
-			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/30_Teller of Nine Thousand Tales.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/50_Herald of Enlightenment.png"
 			}
 		},
 		{
@@ -2325,9 +2125,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "225",
+			"collector_number": "236",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/225_Incursive Structure.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/236_Incursive Structure.png"
 			}
 		},
 		{
@@ -2345,29 +2145,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Horror",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/5_Horror.png"
+			}
+		},
+		{
+			"name": "Horror",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Horror",
 			"collector_number": "6",
 			"image_uris": {
 				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/6_Horror.png"
-			}
-		},
-		{
-			"name": "Horror",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Horror",
-			"collector_number": "2",
-			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/2_Horror.png"
-			}
-		},
-		{
-			"name": "Horror",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Horror",
-			"collector_number": "7",
-			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/7_Horror.png"
 			}
 		},
 		{
@@ -2375,9 +2165,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Faerie",
-			"collector_number": "5",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/5_Faerie.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/4_Faerie.png"
 			}
 		},
 		{
@@ -2385,9 +2175,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Human Scout",
-			"collector_number": "8",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/8_Human Scout.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/7_Human Scout.png"
 			}
 		},
 		{
@@ -2415,9 +2205,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Land",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/17_Moonspot.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/18_Moonspot.png"
 			}
 		},
 		{
@@ -2431,23 +2221,13 @@
 			}
 		},
 		{
-			"name": "Wolf",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Wolf",
-			"collector_number": "13",
-			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/13_Wolf.png"
-			}
-		},
-		{
 			"name": "Synapse",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Enchantment — Aura Synapse",
-			"collector_number": "3",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/3_Synapse.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/2_Synapse.png"
 			}
 		},
 		{
@@ -2455,9 +2235,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Citizen",
-			"collector_number": "4",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/4_Citizen.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/3_Citizen.png"
 			}
 		},
 		{
@@ -2465,9 +2245,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/16_Treasure.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/17_Treasure.png"
 			}
 		},
 		{
@@ -2503,11 +2283,11 @@
 		{
 			"name": "Moondrenched Outsider",
 			"rarity": "rare",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Human Druid",
-			"collector_number": "121",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/121_Moondrenched Outsider.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/124_Moondrenched Outsider.png"
 			}
 		},
 		{
@@ -2515,37 +2295,372 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Legendary Creature — Plant Horror",
-			"collector_number": "157",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/157_Queen of Flytraps.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/162_Queen of Flytraps.png"
+			}
+		},
+		{
+			"name": "Harmonious Aeon",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact Creature — Aeon",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/211_Harmonious Aeon.png"
+			}
+		},
+		{
+			"name": "Degraded Shockwave",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/6_Degraded Shockwave.png"
+			}
+		},
+		{
+			"name": "The Long Walk",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/21_The Long Walk.png"
+			}
+		},
+		{
+			"name": "Teller of Nine Thousand Tales",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Bard",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/31_Teller of Nine Thousand Tales.png"
+			}
+		},
+		{
+			"name": "Vain Efflorescent",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Horror Reflection",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/67_Vain Efflorescent.png"
+			}
+		},
+		{
+			"name": "Prodigal Neuromancer",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/56_Prodigal Neuromancer.png"
+			}
+		},
+		{
+			"name": "The Crawling Room",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Legendary Artifact",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/148_The Crawling Room.png"
+			}
+		},
+		{
+			"name": "Cosmic Visitor",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature — Alien Scout",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/42_Cosmic Visitor.png"
+			}
+		},
+		{
+			"name": "Herald of Arbitration",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Artifact Creature — Giant",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/85_Herald of Arbitration.png"
+			}
+		},
+		{
+			"name": "Herald of Meteors",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Artifact Creature — Giant",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/121_Herald of Meteors.png"
+			}
+		},
+		{
+			"name": "Cursed Ammunition",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/109_Cursed Ammunition.png"
+			}
+		},
+		{
+			"name": "Furioso; Fury; Scream",
+			"rarity": "rare",
+			"mana_cost": "{X}{B}",
+			"type": "Sorcery",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/83_Furioso; Fury; Scream.png"
+			}
+		},
+		{
+			"name": "Harmony of Might",
+			"rarity": "rare",
+			"mana_cost": "{G}{G}{G}",
+			"type": "Legendary Enchantment",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/153_Harmony of Might.png"
+			}
+		},
+		{
+			"name": "Devil's Bullet",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/112_Devil's Bullet.png"
+			}
+		},
+		{
+			"name": "Aeon of a Perfect World",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Aeon",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/2_Aeon of a Perfect World.png"
+			}
+		},
+		{
+			"name": "A New World",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/54_A New World.png"
+			}
+		},
+		{
+			"name": "Want Not",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/103_Want Not.png"
+			}
+		},
+		{
+			"name": "Souls Aflame",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/134_Souls Aflame.png"
+			}
+		},
+		{
+			"name": "Worldpulse",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/172_Worldpulse.png"
+			}
+		},
+		{
+			"name": "Coralblight Survivor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Survivor",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/41_Coralblight Survivor.png"
+			}
+		},
+		{
+			"name": "Mystic Torrent",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/125_Mystic Torrent.png"
+			}
+		},
+		{
+			"name": "Reckless Kineticist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/130_Reckless Kineticist.png"
+			}
+		},
+		{
+			"name": "Suffer, As I Have",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/182_Suffer, As I Have.png"
+			}
+		},
+		{
+			"name": "Revelation of Pain",
+			"rarity": "mythic",
+			"mana_cost": "{X}{R}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/131_Revelation of Pain.png"
+			}
+		},
+		{
+			"name": "Lurking Absolution",
+			"rarity": "rare",
+			"mana_cost": "{B/G}{B/G}{B/G}{B/G}",
+			"type": "Creature — Giant",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/192_Lurking Absolution.png"
+			}
+		},
+		{
+			"name": "A Promise",
+			"rarity": "rare",
+			"mana_cost": "{2}{G/U}{G/U}",
+			"type": "Enchantment",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/200_A Promise.png"
+			}
+		},
+		{
+			"name": "The Monster is the Maze",
+			"rarity": "rare",
+			"mana_cost": "{2}{R/G}{R/G}",
+			"type": "Enchantment Creature — Minotaur",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/194_The Monster is the Maze.png"
+			}
+		},
+		{
+			"name": "Palace of Blood and Blade",
+			"rarity": "rare",
+			"mana_cost": "{R/W}{R/W}",
+			"type": "Artifact",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/199_Palace of Blood and Blade.png"
+			}
+		},
+		{
+			"name": "Missing Evidence",
+			"rarity": "rare",
+			"mana_cost": "{U/B}",
+			"type": "Instant",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/193_Missing Evidence.png"
+			}
+		},
+		{
+			"name": "Ceaseless Mirage",
+			"rarity": "rare",
+			"mana_cost": "{U/R}{U/R}",
+			"type": "Creature — Reflection",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/185_Ceaseless Mirage.png"
+			}
+		},
+		{
+			"name": "Reflection",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Reflection",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/13_Reflection.png"
+			}
+		},
+		{
+			"name": "Monument To A Lost World",
+			"rarity": "rare",
+			"mana_cost": "{1}{G/W}",
+			"type": "Legendary Artifact",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/195_Monument To A Lost World.png"
+			}
+		},
+		{
+			"name": "Ten Thousand Years",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Aura",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/8_Ten Thousand Years.png"
+			}
+		},
+		{
+			"name": "Sword",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Equipment",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/16_Sword.png"
 			}
 		}
 	]
 
 [rare(1)]
 	2 Herald of Apathy
-	2 Herald of Arbitration
 	1 Revelation of Thorns
-	2 Distant Wanderer
 	2 Soul Ignition
 	2 Night Warden
 	2 Ruinbound Lich
 	1 Cruel Severance
 	2 Crescendo
 	2 Fate of a Messenger
-	2 Furioso; Fury; Scream
-	2 Realspace Breaching
 	2 Bioinstrumentality
 	2 Enhanced Excisor
 	2 Thundering Symphony
 	2 The Grand Conductor
 	2 All-Consuming Calamity
 	1 Wondrous Cataclysm
-	2 Ephemeral Return
-	1 Savage Summons
+	1 Savage Surge
 	1 Unknown Wilderness
 	1 The Cursed Marksman
-	2 Cheating the Devil
+	2 Dealing with The Devil
 	2 Hazar, Censor of History
 	1 Clockturning
 	2 Inventive Epiphany
@@ -2554,44 +2669,38 @@
 	2 Unborn Arbiter
 	1 Revelation of Mirrors
 	1 Revelation of Light
-	2 Cosmic Visitor
 	2 Kalazek, Dracoform
 	2 Unbreaking Pulverizer
 	2 Drown It All in Blood
 	2 Bloodlord Saladar
-	1 Twisted Revelation
+	1 Revelation of Steel
 	2 Extermination Campaign
 	2 Swallowed Sky
 	2 Howling Chorus
 	2 Keth, Cutting Specialist
 	2 Devour the Future
 	2 Grim Coronation
+	2 Fleshborn Behemoth
 	2 Fury of a Fallen Star
 	2 Subterranean Coiler
 	2 Forlorn Titanshard
-	2 Unstable Powercore
 	2 The Unknown Sun
 	2 Bloodied Wingbeats
 	2 Blood Sun's Dawning
 	2 Harbinger's Approach
 	2 Crawling Efflorescent
-	2 Harmony of Might
-	2 Herald of Meteors
 	2 Tidecall Leviathan
 	2 Riftway Visitor
 	2 Doom of the Second City
-	2 Prodigal Neuromancer
 	2 No Plan Survives
 	2 Ruin of the First City
 	2 Starchosen Regent
 	1 Exl, Faerie Eater
 	2 Prophellan Emissary
 	2 Total Efflorescence
-	2 Uncanny Emergence
 	2 Death of the Third City
 	2 Cavern Sentinel
 	2 Undying Renegade
-	2 Suffer, As I Have
 	2 Standard-Issue Rifle
 	2 Sword of Stars
 	2 Symbiotic Harvester
@@ -2601,9 +2710,8 @@
 	2 Order from Above
 	2 Distant Figure
 	2 Herald of Tranquility
+	2 Reality Twister
 	2 Undying Observer
-	2 Degraded Shockwave
-	1 Revelation of Pain
 	2 Plastic Dream
 	2 Nexus of Creation
 	2 Efflorescent Forge
@@ -2611,32 +2719,49 @@
 	2 Efflorescent Memorial
 	2 Efflorescent River
 	2 Efflorescent Woods
-	1 ■■■■■ , Everlost Memory
+	1 Everlost Memory
 	2 Herald of Enlightenment
 	2 Moondrenched Outsider
 	2 Queen of Flytraps
+	2 Degraded Shockwave
+	2 Teller of Nine Thousand Tales
+	2 Prodigal Neuromancer
+	2 The Crawling Room
+	2 Cosmic Visitor
+	2 Herald of Arbitration
+	2 Herald of Meteors
+	2 Furioso; Fury; Scream
+	2 Harmony of Might
+	2 Suffer, As I Have
+	1 Revelation of Pain
+	2 Lurking Absolution
+	2 A Promise
+	2 The Monster is the Maze
+	2 Palace of Blood and Blade
+	2 Missing Evidence
+	2 Ceaseless Mirage
+	2 Monument To A Lost World
 [uncommon(3)]
 	4 Spiralling Hatred
+	4 Distant Wanderer
 	4 Novice Diabology
 	4 Matriarch of Mirrors
 	4 Mechanized Augmentee
 	4 Posthuman Transmuter
-	4 Cursed Ammunition
 	4 Sire of Four Hundred Thorns
 	4 Cosmic Pact
 	4 Angular Observer
 	4 Unravelled Identity
-	4 Hela, Enigmatic Inventor
 	4 Blood-Tracker
 	4 Stitcher's Workshop
+	4 Ephemeral Return
 	4 Bringer of Madness
-	4 Mystic Torrent
 	4 Control Center
 	4 Outskirts Warden
 	4 Pandemonium Wave
 	4 Neural Barbs
 	4 Unreal Herald
-	4 Ethereal Titan
+	4 Ethereal Colossus
 	4 False Angel
 	4 New Dawn
 	4 Efflorescing Mystic
@@ -2645,7 +2770,6 @@
 	4 Death to the Deathless
 	4 Progenitor of Desire
 	4 Crowned Aeon
-	4 Harmonious Aeon
 	4 Mind Screech
 	4 Efflorescent Vessel
 	4 Flamechosen Thrall
@@ -2663,7 +2787,6 @@
 	4 Accretion Disk
 	4 The Long Way Round
 	4 Forged Enforcer
-	4 Fleshborn Behemoth
 	4 Janus Enforcer
 	4 Sentinel of Bygone Days
 	4 Spliced Breachwarden
@@ -2672,7 +2795,7 @@
 	4 Dreamcrawler
 	4 Reach through Reflections
 	4 Wrap in Ethereal Threads
-	4 Bound Demon
+	4 Aimless Efflorescent
 	4 Hungerborn
 	4 Accelerator Drone
 	4 Shard Bearer
@@ -2688,9 +2811,8 @@
 	4 Mothblessed
 	4 Hazeth, Last Priest
 	4 Corrupt Consumption
-	4 Oblivious Aristocrat
+	4 Oblivious Highborn
 	4 Underwitch
-	4 Vain Efflorescent
 	4 Isolated Remnant
 	4 Ponder Histories
 	4 Grace of the Ancients
@@ -2708,10 +2830,9 @@
 	4 Accomplished Researcher
 	4 Connection in Sorrow
 	4 Glass Wings
-	4 Masked Visitor
+	4 Masked Guest
 	4 Hide From Fate
 	4 Sever the Connection
-	4 Devil's Bullet
 	4 Efflorescence Specialist
 	4 Cardiomancer
 	4 CENSORED
@@ -2728,7 +2849,6 @@
 	4 In the Jaws of Despair
 	4 Unaware Courier
 	4 Blood Shaper
-	4 Reckless Kineticist
 	4 Western Witch
 	4 Northern Witch
 	4 Extraspacial Manipulator
@@ -2740,7 +2860,6 @@
 	4 Path of Conquest
 	4 Amorphous Experiment
 	4 Wanderer in a Lost World
-	4 Reality Twister
 	4 Prayer for the Dead
 	4 High-Impact Munitions
 	4 Spaceripper Gauntlet
@@ -2751,16 +2870,27 @@
 	4 Brilliant Tower
 	4 Outskirts Research Station
 	4 Underground Apparatus
-	4 Teller of Nine Thousand Tales
 	4 Incursive Structure
 	4 Hero of the Night
+	4 Harmonious Aeon
+	4 The Long Walk
+	4 Vain Efflorescent
+	4 Cursed Ammunition
+	4 Devil's Bullet
+	4 Aeon of a Perfect World
+	4 A New World
+	4 Want Not
+	4 Souls Aflame
+	4 Worldpulse
+	4 Coralblight Survivor
+	4 Mystic Torrent
+	4 Reckless Kineticist
 [common(7)]
 [foil(1)]
 	2 Herald of Apathy
-	2 Herald of Arbitration
 	1 Revelation of Thorns
 	6 Spiralling Hatred
-	2 Distant Wanderer
+	6 Distant Wanderer
 	2 Soul Ignition
 	2 Night Warden
 	2 Ruinbound Lich
@@ -2768,14 +2898,11 @@
 	1 Cruel Severance
 	2 Crescendo
 	2 Fate of a Messenger
-	2 Furioso; Fury; Scream
-	2 Realspace Breaching
 	6 Matriarch of Mirrors
 	2 Bioinstrumentality
 	2 Enhanced Excisor
 	6 Mechanized Augmentee
 	6 Posthuman Transmuter
-	6 Cursed Ammunition
 	2 Thundering Symphony
 	6 Sire of Four Hundred Thorns
 	6 Cosmic Pact
@@ -2784,25 +2911,23 @@
 	6 Angular Observer
 	1 Wondrous Cataclysm
 	6 Unravelled Identity
-	6 Hela, Enigmatic Inventor
 	6 Blood-Tracker
 	6 Stitcher's Workshop
-	2 Ephemeral Return
+	6 Ephemeral Return
 	6 Bringer of Madness
-	6 Mystic Torrent
 	6 Control Center
-	1 Savage Summons
+	1 Savage Surge
 	6 Outskirts Warden
 	1 Unknown Wilderness
 	6 Pandemonium Wave
 	1 The Cursed Marksman
-	2 Cheating the Devil
+	2 Dealing with The Devil
 	2 Hazar, Censor of History
 	1 Clockturning
 	6 Neural Barbs
 	2 Inventive Epiphany
 	6 Unreal Herald
-	6 Ethereal Titan
+	6 Ethereal Colossus
 	6 False Angel
 	2 Harvester of Sorrows
 	6 New Dawn
@@ -2814,7 +2939,6 @@
 	6 Death to the Deathless
 	6 Progenitor of Desire
 	6 Crowned Aeon
-	6 Harmonious Aeon
 	6 Mind Screech
 	6 Efflorescent Vessel
 	6 Flamechosen Thrall
@@ -2825,7 +2949,6 @@
 	6 Psychic Insight
 	6 Tombwatcher
 	6 Bloom from Sorrow
-	2 Cosmic Visitor
 	2 Kalazek, Dracoform
 	6 Spacial Rend
 	6 Effloresced Archseer
@@ -2835,7 +2958,7 @@
 	2 Drown It All in Blood
 	6 Calamity That Eats the Sky
 	2 Bloodlord Saladar
-	1 Twisted Revelation
+	1 Revelation of Steel
 	6 Malevolent Heart
 	2 Extermination Campaign
 	2 Swallowed Sky
@@ -2846,7 +2969,7 @@
 	2 Devour the Future
 	2 Grim Coronation
 	6 Forged Enforcer
-	6 Fleshborn Behemoth
+	2 Fleshborn Behemoth
 	6 Janus Enforcer
 	6 Sentinel of Bygone Days
 	6 Spliced Breachwarden
@@ -2855,7 +2978,7 @@
 	6 Dreamcrawler
 	6 Reach through Reflections
 	6 Wrap in Ethereal Threads
-	6 Bound Demon
+	6 Aimless Efflorescent
 	2 Fury of a Fallen Star
 	2 Subterranean Coiler
 	6 Hungerborn
@@ -2864,7 +2987,6 @@
 	6 Shard Bearer
 	6 Labyrinth Dweller
 	6 Stasis Chamber
-	2 Unstable Powercore
 	6 Deep Outskirts Relay
 	6 Rageborn Efflorescent
 	6 Captive Efflorescent
@@ -2878,17 +3000,14 @@
 	6 Mothblessed
 	6 Hazeth, Last Priest
 	6 Corrupt Consumption
-	6 Oblivious Aristocrat
+	6 Oblivious Highborn
 	6 Underwitch
 	2 Harbinger's Approach
 	2 Crawling Efflorescent
-	6 Vain Efflorescent
 	6 Isolated Remnant
 	6 Ponder Histories
 	6 Grace of the Ancients
-	2 Harmony of Might
 	6 Distant Warning
-	2 Herald of Meteors
 	6 Ruinous Roar
 	6 Thornrider's Aid
 	6 Spiteful Efflorescent
@@ -2900,29 +3019,25 @@
 	6 Disgraced Researcher
 	2 Riftway Visitor
 	2 Doom of the Second City
-	2 Prodigal Neuromancer
 	2 No Plan Survives
 	2 Ruin of the First City
 	2 Starchosen Regent
 	1 Exl, Faerie Eater
 	2 Prophellan Emissary
 	2 Total Efflorescence
-	2 Uncanny Emergence
 	2 Death of the Third City
 	6 Architect of Calamity
 	6 Unstable Mutate
 	6 Accomplished Researcher
 	6 Connection in Sorrow
 	6 Glass Wings
-	6 Masked Visitor
+	6 Masked Guest
 	6 Hide From Fate
 	6 Sever the Connection
-	6 Devil's Bullet
 	2 Cavern Sentinel
 	6 Efflorescence Specialist
 	6 Cardiomancer
 	2 Undying Renegade
-	2 Suffer, As I Have
 	6 CENSORED
 	6 Electrified Exosuit
 	2 Standard-Issue Rifle
@@ -2945,7 +3060,6 @@
 	6 Unaware Courier
 	6 Blood Shaper
 	2 Distant Figure
-	6 Reckless Kineticist
 	6 Western Witch
 	6 Northern Witch
 	6 Extraspacial Manipulator
@@ -2958,13 +3072,11 @@
 	6 Path of Conquest
 	6 Amorphous Experiment
 	6 Wanderer in a Lost World
-	6 Reality Twister
+	2 Reality Twister
 	6 Prayer for the Dead
 	6 High-Impact Munitions
 	6 Spaceripper Gauntlet
 	2 Undying Observer
-	2 Degraded Shockwave
-	1 Revelation of Pain
 	2 Plastic Dream
 	6 Fortified District
 	2 Nexus of Creation
@@ -2979,19 +3091,48 @@
 	6 Brilliant Tower
 	6 Outskirts Research Station
 	6 Underground Apparatus
-	1 ■■■■■ , Everlost Memory
+	1 Everlost Memory
 	2 Herald of Enlightenment
-	6 Teller of Nine Thousand Tales
 	6 Incursive Structure
 	6 Hero of the Night
 	2 Moondrenched Outsider
 	2 Queen of Flytraps
+	6 Harmonious Aeon
+	2 Degraded Shockwave
+	6 The Long Walk
+	2 Teller of Nine Thousand Tales
+	6 Vain Efflorescent
+	2 Prodigal Neuromancer
+	2 The Crawling Room
+	2 Cosmic Visitor
+	2 Herald of Arbitration
+	2 Herald of Meteors
+	6 Cursed Ammunition
+	2 Furioso; Fury; Scream
+	2 Harmony of Might
+	6 Devil's Bullet
+	6 Aeon of a Perfect World
+	6 A New World
+	6 Want Not
+	6 Souls Aflame
+	6 Worldpulse
+	6 Coralblight Survivor
+	6 Mystic Torrent
+	6 Reckless Kineticist
+	2 Suffer, As I Have
+	1 Revelation of Pain
+	2 Lurking Absolution
+	2 A Promise
+	2 The Monster is the Maze
+	2 Palace of Blood and Blade
+	2 Missing Evidence
+	2 Ceaseless Mirage
+	2 Monument To A Lost World
 [wildcard(1)]
 	7 Herald of Apathy
-	7 Herald of Arbitration
 	4 Revelation of Thorns
 	15 Spiralling Hatred
-	7 Distant Wanderer
+	15 Distant Wanderer
 	7 Soul Ignition
 	7 Night Warden
 	7 Ruinbound Lich
@@ -2999,14 +3140,11 @@
 	4 Cruel Severance
 	7 Crescendo
 	7 Fate of a Messenger
-	7 Furioso; Fury; Scream
-	7 Realspace Breaching
 	15 Matriarch of Mirrors
 	7 Bioinstrumentality
 	7 Enhanced Excisor
 	15 Mechanized Augmentee
 	15 Posthuman Transmuter
-	15 Cursed Ammunition
 	7 Thundering Symphony
 	15 Sire of Four Hundred Thorns
 	15 Cosmic Pact
@@ -3015,25 +3153,23 @@
 	15 Angular Observer
 	4 Wondrous Cataclysm
 	15 Unravelled Identity
-	15 Hela, Enigmatic Inventor
 	15 Blood-Tracker
 	15 Stitcher's Workshop
-	7 Ephemeral Return
+	15 Ephemeral Return
 	15 Bringer of Madness
-	15 Mystic Torrent
 	15 Control Center
-	4 Savage Summons
+	4 Savage Surge
 	15 Outskirts Warden
 	4 Unknown Wilderness
 	15 Pandemonium Wave
 	4 The Cursed Marksman
-	7 Cheating the Devil
+	7 Dealing with The Devil
 	7 Hazar, Censor of History
 	4 Clockturning
 	15 Neural Barbs
 	7 Inventive Epiphany
 	15 Unreal Herald
-	15 Ethereal Titan
+	15 Ethereal Colossus
 	15 False Angel
 	7 Harvester of Sorrows
 	15 New Dawn
@@ -3045,7 +3181,6 @@
 	15 Death to the Deathless
 	15 Progenitor of Desire
 	15 Crowned Aeon
-	15 Harmonious Aeon
 	15 Mind Screech
 	15 Efflorescent Vessel
 	15 Flamechosen Thrall
@@ -3056,7 +3191,6 @@
 	15 Psychic Insight
 	15 Tombwatcher
 	15 Bloom from Sorrow
-	7 Cosmic Visitor
 	7 Kalazek, Dracoform
 	15 Spacial Rend
 	15 Effloresced Archseer
@@ -3066,7 +3200,7 @@
 	7 Drown It All in Blood
 	15 Calamity That Eats the Sky
 	7 Bloodlord Saladar
-	4 Twisted Revelation
+	4 Revelation of Steel
 	15 Malevolent Heart
 	7 Extermination Campaign
 	7 Swallowed Sky
@@ -3077,7 +3211,7 @@
 	7 Devour the Future
 	7 Grim Coronation
 	15 Forged Enforcer
-	15 Fleshborn Behemoth
+	7 Fleshborn Behemoth
 	15 Janus Enforcer
 	15 Sentinel of Bygone Days
 	15 Spliced Breachwarden
@@ -3086,7 +3220,7 @@
 	15 Dreamcrawler
 	15 Reach through Reflections
 	15 Wrap in Ethereal Threads
-	15 Bound Demon
+	15 Aimless Efflorescent
 	7 Fury of a Fallen Star
 	7 Subterranean Coiler
 	15 Hungerborn
@@ -3095,7 +3229,6 @@
 	15 Shard Bearer
 	15 Labyrinth Dweller
 	15 Stasis Chamber
-	7 Unstable Powercore
 	15 Deep Outskirts Relay
 	15 Rageborn Efflorescent
 	15 Captive Efflorescent
@@ -3109,17 +3242,14 @@
 	15 Mothblessed
 	15 Hazeth, Last Priest
 	15 Corrupt Consumption
-	15 Oblivious Aristocrat
+	15 Oblivious Highborn
 	15 Underwitch
 	7 Harbinger's Approach
 	7 Crawling Efflorescent
-	15 Vain Efflorescent
 	15 Isolated Remnant
 	15 Ponder Histories
 	15 Grace of the Ancients
-	7 Harmony of Might
 	15 Distant Warning
-	7 Herald of Meteors
 	15 Ruinous Roar
 	15 Thornrider's Aid
 	15 Spiteful Efflorescent
@@ -3131,29 +3261,25 @@
 	15 Disgraced Researcher
 	7 Riftway Visitor
 	7 Doom of the Second City
-	7 Prodigal Neuromancer
 	7 No Plan Survives
 	7 Ruin of the First City
 	7 Starchosen Regent
 	4 Exl, Faerie Eater
 	7 Prophellan Emissary
 	7 Total Efflorescence
-	7 Uncanny Emergence
 	7 Death of the Third City
 	15 Architect of Calamity
 	15 Unstable Mutate
 	15 Accomplished Researcher
 	15 Connection in Sorrow
 	15 Glass Wings
-	15 Masked Visitor
+	15 Masked Guest
 	15 Hide From Fate
 	15 Sever the Connection
-	15 Devil's Bullet
 	7 Cavern Sentinel
 	15 Efflorescence Specialist
 	15 Cardiomancer
 	7 Undying Renegade
-	7 Suffer, As I Have
 	15 CENSORED
 	15 Electrified Exosuit
 	7 Standard-Issue Rifle
@@ -3176,7 +3302,6 @@
 	15 Unaware Courier
 	15 Blood Shaper
 	7 Distant Figure
-	15 Reckless Kineticist
 	15 Western Witch
 	15 Northern Witch
 	15 Extraspacial Manipulator
@@ -3189,13 +3314,11 @@
 	15 Path of Conquest
 	15 Amorphous Experiment
 	15 Wanderer in a Lost World
-	15 Reality Twister
+	7 Reality Twister
 	15 Prayer for the Dead
 	15 High-Impact Munitions
 	15 Spaceripper Gauntlet
 	7 Undying Observer
-	7 Degraded Shockwave
-	4 Revelation of Pain
 	7 Plastic Dream
 	15 Fortified District
 	7 Nexus of Creation
@@ -3210,10 +3333,40 @@
 	15 Brilliant Tower
 	15 Outskirts Research Station
 	15 Underground Apparatus
-	4 ■■■■■ , Everlost Memory
+	4 Everlost Memory
 	7 Herald of Enlightenment
-	15 Teller of Nine Thousand Tales
 	15 Incursive Structure
 	15 Hero of the Night
 	7 Moondrenched Outsider
 	7 Queen of Flytraps
+	15 Harmonious Aeon
+	7 Degraded Shockwave
+	15 The Long Walk
+	7 Teller of Nine Thousand Tales
+	15 Vain Efflorescent
+	7 Prodigal Neuromancer
+	7 The Crawling Room
+	7 Cosmic Visitor
+	7 Herald of Arbitration
+	7 Herald of Meteors
+	15 Cursed Ammunition
+	7 Furioso; Fury; Scream
+	7 Harmony of Might
+	15 Devil's Bullet
+	15 Aeon of a Perfect World
+	15 A New World
+	15 Want Not
+	15 Souls Aflame
+	15 Worldpulse
+	15 Coralblight Survivor
+	15 Mystic Torrent
+	15 Reckless Kineticist
+	7 Suffer, As I Have
+	4 Revelation of Pain
+	7 Lurking Absolution
+	7 A Promise
+	7 The Monster is the Maze
+	7 Palace of Blood and Blade
+	7 Missing Evidence
+	7 Ceaseless Mirage
+	7 Monument To A Lost World
