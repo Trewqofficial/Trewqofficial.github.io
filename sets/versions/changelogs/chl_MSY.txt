@@ -1,4 +1,93 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Retrieval Thopter added.
+Bloodstained Celestial added.
+Saint Ha, of Wilting Leaves added.
+Beyond Mortal Grasp added.
+Horizontal Split added.
+Olta, Rotting Queen added.
+Scrap added.
+
+Herald of Growth removed.
+Retreival Thopter removed.
+Mindwhip removed.
+Nephilim Outcast removed.
+Ebony Queen's Touch removed.
+Blood of The Heretic removed.
+
+Librarian Training
+rules_text: Whenever you cast your second spell each turn, draw a card, then discard a card.
+Once each turn, whenever you discard a nonland card, put a +1/+1 counter on up to one target creature. => Whenever this enchantment enters or you cast your second spell each turn, draw a card, then discard a card.
+Once each turn, when you discard a nonland card, you may put a +1/+1 counter on up to one target creature.
+
+Mental Breach
+
+Conductor of the Last Verse
+rules_text: {W}: Adapt 1. [i](If this creature has no +1/+1 counters on it, put a +1/+1 counter on it.)[/i]
+Once each turn, whenever you put one or more +1/+1 counters on this creature, you may return target non-Performer creature card with mana value 2 or less from your graveyard to the battlefield with a finality counter on it. => {1}{W}: Adapt 1. [i](If this creature has no +1/+1 counters on it, put a +1/+1 counter on it.)[/i]
+Once each turn, whenever you put one or more +1/+1 counters on this creature, you may return target non-Performer creature card with mana value 3 or less from your graveyard to the battlefield tapped.
+
+Cutting Specialist
+
+Break the Cyclone
+rules_text: Return up to two target nonland permanents to their owner's hands. Opponents can't cast spells with the same name as those permanents until your next turn.
+Coalesce {6}{U} [i](You may cast this from your graveyard for [/i]6U[i]. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)[/i] => Return up to two target nonland permanents to their owner's hands. Each opponent can't cast spells that share a name with those permanents until your next turn.
+Coalesce {6}{U} [i](You may cast this from your graveyard for [/i]6U[i]. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)[/i]
+
+Lacerate
+rules_text: Lacerate deals 3 damage to any target.
+Create a Function token with “This spell costs {R} less to cast. [i](This can reduce generic costs.)[/i]” [i](It's an enchantment. As you cast an instant or sorcery spell, sacrifice any number of Functions to add their effects to that spell.)[/i] => Lacerate deals 3 damage to any target.
+Create a Function token with “This spell costs {R} less to cast.” [i](It's an enchantment. As you cast an instant or sorcery spell, sacrifice any number of Functions to add their effects to that spell.)[/i]
+
+Children of The City
+
+Kai'Oro of Ancient Oath
+type: Legendary Creature — Drake => Legendary Creature — Dragon
+
+Phyrexia Eternal
+rules_text: {T}: Add {C}.
+{1}: This land becomes a 1/1 Phyrexian Mite artifact creature with toxic 1 until end of turn.
+{1}, {T}: Target artifact creature you control gains toxic 1 until end of turn. [i](Players dealt combat damage by that creature also get a poison counter.)[/i] => {T}: Add {C}.
+{1}: This land becomes a 1/1 Phyrexian Mite artifact creature with toxic 1 and “This creature can't block” until end of turn. [i](Players dealt combat damage by it also get a poison counter.)[/i]
+{1}, {T}: Target creature you control gains toxic 2 until end of turn. Activate only as a sorcery.
+
+Blackwall Download
+rules_text: Draw two cards, then discard a card.
+Flashback— {1}{U}, Pay 3 life [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Draw a number of cards equal to the amount of mana spent to cast this spell, then discard that many cards minus one.
+Flashback {U}{U}{U}{U} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Hemley Dreadfeather
+
+Labyrinth's Welcome
+rules_text: Search your library for a creature card with mana value X or less. Put it onto the battlefield, then shuffle. Exile that creature at the beginning of the next end step. You may cast it from exile for as long as it remains exiled. => Search your library for a green creature card with mana value X or less. Put it onto the battlefield, then shuffle. Exile that creature at the beginning of the next end step. You may cast it from exile for as long as it remains exiled.
+
+Herald of Tedium
+rules_text: Improve {1} [i]({1}: Put a +1/+1 counter on this creature. This costs {1} more to activate for each +1/+1 counter on it. Improve only as a sorcery.)[/i]
+Whenever you put one or more +1/+1 counters on this creature, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value. => Improve {B} [i]({B}: Put a +1/+1 counter on this creature. This costs {1} more to activate for each +1/+1 counter on it. Improve only as a sorcery.)[/i]
+Whenever you put one or more +1/+1 counters on this creature, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.
+
+Yokai Keeper
+rules_text: Vigilance; evolve [i](Whenever a creature you control enters, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)[/i]
+Whenever you put one or more +1/+1 counters on this creature, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle. => Vigilance; Evolve [i](Whenever a creature you control enters, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)[/i]
+Whenever you put one or more +1/+1 counters on this creature, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+
+Beloved of a Star
+rules_text: Flash
+Flying, prowess
+When Beloved of a Star enters, you may cast an instant or sorcery card with mana value 2 or less from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead. => Flash
+Flying
+When this creature enters, you may exile target blue instant or sorcery card with mana value 2 from your graveyard. Copy it twice. You may cast the copies without paying their mana costs.
+
+Bound Emissary
+rules_text: Flash
+{1}{U}: Adapt 2. [i](If this creature has no +1/+1 counters on it, put two +1/+1 counters on it.)[/i]
+Once each turn, whenever you put one or more +1/+1 counters on this creature, exile up to one target instant or sorcery card from your graveyard. Until end of turn, you may cast a copy of that card. => Cadence [i](Whenever you cast a spell, if its mana value is greater than this creature's power, put a +1/+1 counter on this creature.)[/i]
+Once during each of your turns, whenever you put one or more +1/+1 counters on this creature, exile up to one target instant or sorcery card with mana value 2 or less from your graveyard. Copy it. You may cast the copy without paying its mana cost.
+pt: 1/2 => 0/2
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Librarian Training added.
