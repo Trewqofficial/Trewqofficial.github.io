@@ -183,7 +183,7 @@
             "set": "HFB",
             "loyalty": "",
             "artist": "Project Moon",
-            "notes": ""
+            "notes": "tag:wishlist"
         },
         {
             "card_name": "Fate of a Messenger",
@@ -615,7 +615,7 @@
             "set": "HFB",
             "loyalty": "4",
             "artist": "Project Moon",
-            "notes": ""
+            "notes": "tag:wishlist"
         },
         {
             "card_name": "Dealing with The Devil",
@@ -1389,7 +1389,7 @@
             "set": "HFB",
             "loyalty": "",
             "artist": "Hen Na",
-            "notes": ""
+            "notes": "tag:wishlist"
         },
         {
             "card_name": "Grim Coronation",
@@ -1407,7 +1407,7 @@
             "set": "HFB",
             "loyalty": "",
             "artist": "MON",
-            "notes": ""
+            "notes": "tag:wishlist"
         },
         {
             "card_name": "Forged Enforcer",
@@ -1443,7 +1443,7 @@
             "set": "HFB",
             "loyalty": "",
             "artist": "draken4o",
-            "notes": ""
+            "notes": "tag:wishlist"
         },
         {
             "card_name": "Janus Enforcer",
@@ -1893,7 +1893,7 @@
             "set": "HFB",
             "loyalty": "",
             "artist": "Anato Finnstark",
-            "notes": ""
+            "notes": "tag:wishlist"
         },
         {
             "card_name": "Fleeting Efflorescent",
@@ -4233,7 +4233,7 @@
             "set": "HFB",
             "loyalty": "",
             "artist": "Sainker",
-            "notes": "msem changed ability from untapping static four lands to xira"
+            "notes": "tag:wishlist"
         },
         {
             "card_name": "Devil's Bullet",
@@ -4449,7 +4449,7 @@
             "set": "HFB",
             "loyalty": "",
             "artist": "JM Fenner",
-            "notes": "msem three to four"
+            "notes": "tag:wishlist"
         },
         {
             "card_name": "A Promise",
@@ -4575,7 +4575,7 @@
             "set": "HFB",
             "loyalty": "",
             "artist": "VALUN",
-            "notes": "msem 2 in activation to 1, looks at top 4 from 5"
+            "notes": "tag:wishlist"
         },
         {
             "card_name": "Ten Thousand Years",
@@ -4956,5 +4956,5 @@
             "notes": ""
         }
     ],
-    "version": 4
+    "version": 5
 }

@@ -1,4 +1,28 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+Crescendo
+
+The Cursed Marksman
+
+Devour the Future
+
+Grim Coronation
+
+Fleshborn Behemoth
+
+Blood Sun's Dawning
+
+Harmony of Might
+
+Lurking Absolution
+
+Monument To A Lost World
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Progenitor of Desire COPY added.
