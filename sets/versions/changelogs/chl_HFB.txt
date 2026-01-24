@@ -1,4 +1,114 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+Progenitor of Desire COPY removed.
+
+Herald of Apathy
+rules_text: Impending 3—{2}{W}{W} [i](If this spell was impending, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+First strike, trample
+Whenever a creature you control deals combat damage to a player, you may exile it, then return it to the battlefield under its owner's control. => Impending 3—{2}{W}{W} [i](If this spell was cast for its impending cost, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+First strike, trample
+Whenever a creature you control deals combat damage to a player, you may exile it, then return it to the battlefield under its owner's control.
+
+Night Warden
+rules_text: Impending 4—{3} [i](If this spell was impending, it enters with four time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+Vigilance, trample, haste, ward {3} => Impending 4—{3} [i](If this spell was cast for its impending cost, it enters with four time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+Vigilance, trample, haste, ward {3}
+
+Fate of a Messenger
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 blue Human Scout creature token with vigilance.
+II — Mill four cards.
+III — Each instant and sorcery spell in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost plus sacrifice a creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 blue Human Scout creature token with vigilance.
+Mill four cards.
+II — Each instant and sorcery spell in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost plus sacrifice a creature.
+
+Hyperreal Nexus
+rules_text: Impending 3—{2} [i](If this spell was impending, it enters with two time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+Flying
+Whenever this permanent enters or attacks, exile each opponent's graveyard. => Impending 3—{2} [i](If this spell was cast for its impending cost, it enters with two time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+Flying
+Whenever this permanent enters or attacks, exile each opponent's graveyard.
+
+Divine Paragon
+rules_text: Impending 3—{1}{W} [i](If this spell was impending, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+Flying
+When this permanent enters, noncreature spells cost {2} more to cast until your next turn. => Impending 3—{1}{W} [i](If this spell was cast for its impending cost, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+Flying
+When this permanent enters, noncreature spells cost {2} more to cast until your next turn.
+
+Starturning Celestial
+rules_text: Impending 3—{2}{U} [i](If this spell was impending, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+When this permanent enters, draw two cards. => Impending 3—{2}{U} [i](If this spell was cast for its impending cost, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+When this permanent enters, draw two cards.
+
+Crowned Aeon
+rules_text: Impending 4—{2}{R} [i](If this spell was impending, it enters with four time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+When this permanent enters, if it was cast, create a token that's a copy of target creature you control, except it has haste. Exile it at the beginning of your next end step. => Impending 4—{2}{R} [i](If this spell was cast for its impending cost, it enters with four time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+When this permanent enters, if it was cast, create a token that's a copy of target creature you control, except it has haste. Exile it at the beginning of your next end step.
+
+Tombwatcher
+rules_text: Impending 3—{5} [i](If this spell was impending, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+When this permanent enters, destroy up to one target creature. Its controller draws a card. => Impending 3—{5} [i](If this spell was cast for its impending cost, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+When this permanent enters, destroy up to one target creature. Its controller draws a card.
+
+Arc-Crowned Vessel
+rules_text: Other artifact creatures you control without infuse have infuse 1 [i](Whenever you cast or copy a noncreature spell, if that creature has no +1/+1 counters on it, put one on it.)[/i]
+Whenever you cast a noncreature spell, create a 1/1 colorless Construct artifact creature token. => Other artifact creatures you control without infuse have infuse 1 [i](Whenever you cast a noncreature spell, if that creature has no +1/+1 counters on it, put one on it.)[/i]
+Whenever you cast a noncreature spell, create a 1/1 colorless Construct artifact creature token.
+
+Captive Efflorescent
+rules_text: Infuse 3 [i](Whenever you cast or copy a noncreature spell, if this creature has fewer than three +1/+1 counters on it, put one on it.)[/i]
+When this creature enters, return target instant or sorcery card from your graveyard to your hand. => Infuse 3 [i](Whenever you cast a noncreature spell, if this creature has fewer than three +1/+1 counters on it, put one on it.)[/i]
+When this creature enters, return target instant or sorcery card from your graveyard to your hand.
+
+Herald of Tranquility
+rules_text: Impending 3—{2}{G}{G} [i](If this spell was impending, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+Creatures you control have trample.
+Whenever a creature you control deals combat damage to a player or planeswalker, put two +1/+1 counters on it. => Impending 3—{2}{G}{G} [i](If this spell was cast for its impending cost, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+Creatures you control have trample.
+Whenever a creature you control deals combat damage to a player or planeswalker, put two +1/+1 counters on it.
+
+Herald of Enlightenment
+rules_text: Impending 3—{2}{U}{U} [i](If this spell was impending, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+Flying, trample
+Whenever a creature you control deals combat damage to a player, you may draw a card. => Impending 3—{2}{U}{U} [i](If this spell was cast for its impending cost, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+Flying, trample
+Whenever a creature you control deals combat damage to a player, you may draw a card.
+
+Cosmic Visitor
+rules_text: Infuse 5 [i](Whenever you cast or copy a noncreature spell, if this creature has fewer than five +1/+1 counters on it, put one on it.)[/i]
+Whenever you put one or more counters on this creature, target player mills cards equal to its power. => Infuse 5 [i](Whenever you cast a noncreature spell, if this creature has fewer than five +1/+1 counters on it, put one on it.)[/i]
+Whenever you put one or more counters on this creature, target player mills cards equal to its power.
+
+Herald of Arbitration
+rules_text: Impending 3—{2}{B}{B} [i](If this spell was impending, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+Menace, trample
+Whenever a creature you control deals combat damage to a player, that player loses 3 life unless they discard a card. => Impending 3—{2}{B}{B} [i](If this spell was cast for its impending cost, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+Menace, trample
+Whenever a creature you control deals combat damage to a player, that player loses 3 life unless they discard a card.
+
+Herald of Meteors
+rules_text: Impending 3—{2}{R}{R} [i](If this spell was impending, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+Trample, haste
+Whenever a creature you control deals combat damage to a player, create a Treasure token. => Impending 3—{2}{R}{R} [i](If this spell was cast for its impending cost, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+Trample, haste
+Whenever a creature you control deals combat damage to a player, create a Treasure token.
+
+Coralblight Survivor
+rules_text: Infuse 1 [i](Whenever you cast or copy a noncreature spell, if this creature has no +1/+1 counters on it, put one on it.)[/i]
+Once each turn, whenever you put one or more +1/+1 counters on this creature, untap up to two target lands. => Infuse 1 [i](Whenever you cast a noncreature spell, if this creature has no +1/+1 counters on it, put one on it.)[/i]
+Once each turn, whenever you put one or more +1/+1 counters on this creature, untap up to two target lands.
+
+Progenitor of Desire
+rules_text: Impending 3—{1}{B} [i](If this spell was impending, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+When this permanent enters, target opponent reveals their hand and discards a card with the lowest mana value among the revealed nonland cards. => Impending 3—{1}{B} [i](If this spell was cast for its impending cost, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+When this permanent enters, target opponent reveals their hand and discards a card with the lowest mana value among the revealed nonland cards.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 

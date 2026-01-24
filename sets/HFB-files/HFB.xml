@@ -11,7 +11,7 @@
 	<cards>
 		<card>
 			<name>Herald of Apathy</name>
-			<text>Impending 3—{2}{W}{W} (If this spell was impending, it enters with three time counters and isn&apos;t a creature until they&apos;re removed. At the beginning of your end step, remove one.)
+			<text>Impending 3—{2}{W}{W} (If this spell was cast for its impending cost, it enters with three time counters and isn&apos;t a creature until they&apos;re removed. At the beginning of your end step, remove one.)
 First strike, trample
 Whenever a creature you control deals combat damage to a player, you may exile it, then return it to the battlefield under its owner&apos;s control.</text>
 			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/15_Herald of Apathy.png" num="15">HFB</set>
@@ -98,7 +98,7 @@ At the start of combat on your turn, create a token that&apos;s a copy of enchan
 		</card>
 		<card>
 			<name>Night Warden</name>
-			<text>Impending 4—{3} (If this spell was impending, it enters with four time counters and isn&apos;t a creature until they&apos;re removed. At the beginning of your end step, remove one.)
+			<text>Impending 4—{3} (If this spell was cast for its impending cost, it enters with four time counters and isn&apos;t a creature until they&apos;re removed. At the beginning of your end step, remove one.)
 Vigilance, trample, haste, ward {3}</text>
 			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/225_Night Warden.png" num="225">HFB</set>
 			<prop>
@@ -768,7 +768,7 @@ You may have this creature enter as a copy of any creature card in your graveyar
 		</card>
 		<card>
 			<name>Hyperreal Nexus</name>
-			<text>Impending 3—{2} (If this spell was impending, it enters with two time counters and isn&apos;t a creature until they&apos;re removed. At the beginning of your end step, remove one.)
+			<text>Impending 3—{2} (If this spell was cast for its impending cost, it enters with two time counters and isn&apos;t a creature until they&apos;re removed. At the beginning of your end step, remove one.)
 Flying
 Whenever this permanent enters or attacks, exile each opponent&apos;s graveyard.</text>
 			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/223_Hyperreal Nexus.png" num="223">HFB</set>
@@ -788,7 +788,7 @@ Whenever this permanent enters or attacks, exile each opponent&apos;s graveyard.
 			<text>When this creature enters, choose one.
 • Exile up to one target permanent with mana value 1.
 • Target opponent reveals their hand. Exile up to one card from it with mana value 1.</text>
-			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/237_Unborn Arbiter.png" num="237">HFB</set>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/236_Unborn Arbiter.png" num="236">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -821,7 +821,7 @@ Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain 
 		</card>
 		<card>
 			<name>Divine Paragon</name>
-			<text>Impending 3—{1}{W} (If this spell was impending, it enters with three time counters and isn&apos;t a creature until they&apos;re removed. At the beginning of your end step, remove one.)
+			<text>Impending 3—{1}{W} (If this spell was cast for its impending cost, it enters with three time counters and isn&apos;t a creature until they&apos;re removed. At the beginning of your end step, remove one.)
 Flying
 When this permanent enters, noncreature spells cost {2} more to cast until your next turn.</text>
 			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/217_Divine Paragon.png" num="217">HFB</set>
@@ -839,9 +839,9 @@ When this permanent enters, noncreature spells cost {2} more to cast until your 
 		</card>
 		<card>
 			<name>Starturning Celestial</name>
-			<text>Impending 3—{2}{U} (If this spell was impending, it enters with three time counters and isn&apos;t a creature until they&apos;re removed. At the beginning of your end step, remove one.)
+			<text>Impending 3—{2}{U} (If this spell was cast for its impending cost, it enters with three time counters and isn&apos;t a creature until they&apos;re removed. At the beginning of your end step, remove one.)
 When this permanent enters, draw two cards.</text>
-			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/231_Starturning Celestial.png" num="231">HFB</set>
+			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/230_Starturning Celestial.png" num="230">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -872,25 +872,8 @@ Exile target player&apos;s graveyard.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>Progenitor of Desire COPY</name>
-			<text>Impending 3—{1}{B} (If this spell was impending, it enters with three time counters and isn&apos;t a creature until they&apos;re removed. At the beginning of your end step, remove one.)
-When this permanent enters, if it was cast, target opponent reveals their hand and discards a card with the lowest mana value among the revealed nonland cards.</text>
-			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/227_Progenitor of Desire COPY.png" num="227">HFB</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Artifact Creature — Aeon</type>
-				<maintype>Creature</maintype>
-				<manacost>4</manacost>
-				<cmc>4</cmc>
-				<coloridentity>B</coloridentity>
-				<pt>3/3</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Crowned Aeon</name>
-			<text>Impending 4—{2}{R} (If this spell was impending, it enters with four time counters and isn&apos;t a creature until they&apos;re removed. At the beginning of your end step, remove one.)
+			<text>Impending 4—{2}{R} (If this spell was cast for its impending cost, it enters with four time counters and isn&apos;t a creature until they&apos;re removed. At the beginning of your end step, remove one.)
 When this permanent enters, if it was cast, create a token that&apos;s a copy of target creature you control, except it has haste. Exile it at the beginning of your next end step.</text>
 			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/216_Crowned Aeon.png" num="216">HFB</set>
 			<prop>
@@ -1049,9 +1032,9 @@ Draw a card.</text>
 		</card>
 		<card>
 			<name>Tombwatcher</name>
-			<text>Impending 3—{5} (If this spell was impending, it enters with three time counters and isn&apos;t a creature until they&apos;re removed. At the beginning of your end step, remove one.)
+			<text>Impending 3—{5} (If this spell was cast for its impending cost, it enters with three time counters and isn&apos;t a creature until they&apos;re removed. At the beginning of your end step, remove one.)
 When this permanent enters, destroy up to one target creature. Its controller draws a card.</text>
-			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/236_Tombwatcher.png" num="236">HFB</set>
+			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/235_Tombwatcher.png" num="235">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1474,7 +1457,7 @@ Spells your opponents cast cost {2} more to cast on your turn.</text>
 		</card>
 		<card>
 			<name>Arc-Crowned Vessel</name>
-			<text>Other artifact creatures you control without infuse have infuse 1 (Whenever you cast or copy a noncreature spell, if that creature has no +1/+1 counters on it, put one on it.)
+			<text>Other artifact creatures you control without infuse have infuse 1 (Whenever you cast a noncreature spell, if that creature has no +1/+1 counters on it, put one on it.)
 Whenever you cast a noncreature spell, create a 1/1 colorless Construct artifact creature token.</text>
 			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/36_Arc-Crowned Vessel.png" num="36">HFB</set>
 			<prop>
@@ -1669,7 +1652,7 @@ Enchanted creatures you control have vigilance.</text>
 			<text>When Stasis Chamber enters, exile target creature until Stasis Chamber leaves the battlefield.
 {2}, Sacrifice Stasis Chamber: Draw a card.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/232_Stasis Chamber.png" num="232">HFB</set>
+			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/231_Stasis Chamber.png" num="231">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1684,7 +1667,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<name>Deep Outskirts Relay</name>
 			<text>When this land enters, you may discard a land card. If you do, draw a card.
 {T}: Add {C}.</text>
-			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/240_Deep Outskirts Relay.png" num="240">HFB</set>
+			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/239_Deep Outskirts Relay.png" num="239">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1714,7 +1697,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 		</card>
 		<card>
 			<name>Captive Efflorescent</name>
-			<text>Infuse 3 (Whenever you cast or copy a noncreature spell, if this creature has fewer than three +1/+1 counters on it, put one on it.)
+			<text>Infuse 3 (Whenever you cast a noncreature spell, if this creature has fewer than three +1/+1 counters on it, put one on it.)
 When this creature enters, return target instant or sorcery card from your graveyard to your hand.</text>
 			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/39_Captive Efflorescent.png" num="39">HFB</set>
 			<prop>
@@ -1754,7 +1737,7 @@ Whenever this creature attacks, surveil 1.
 			<text>{T}: Add {C}.
 Cycling {3} ({3}, Discard this card: Draw a card.)
 When you cycle The Unknown Sun, create a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
-			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/252_The Unknown Sun.png" num="252">HFB</set>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/251_The Unknown Sun.png" num="251">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2585,7 +2568,7 @@ Equip {3}</text>
 			<text>When this Equipment enters, attach it to target creature you control.
 Equipped creature gets +2/+2.
 Equip {2}</text>
-			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/230_Standard-Issue Rifle.png" num="230">HFB</set>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/229_Standard-Issue Rifle.png" num="229">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2601,7 +2584,7 @@ Equip {2}</text>
 			<text>When Sword of Stars enters, attach it to target creature you control.
 Equipped creature gains flying and has power equal to the number of instant and sorcery cards in your graveyard.
 Equip {5}</text>
-			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/234_Sword of Stars.png" num="234">HFB</set>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/233_Sword of Stars.png" num="233">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2670,7 +2653,7 @@ Whenever you sacrifice a Vampire during your turn, Vampires you control get +1/+
 			<text>When this Equipment enters, you may attach it to target creature you control.
 Equipped creature is legendary, gets +5/+5, has first strike, vigilance, and has &quot;You may have this creature assign its combat damage as though it weren&apos;t blocked.&quot;
 Equip {5}</text>
-			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/233_Superheated Gladius.png" num="233">HFB</set>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/232_Superheated Gladius.png" num="232">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2687,7 +2670,7 @@ Equip {5}</text>
 {2}: Until end of turn, equipped creature must be blocked by an additional creature to be blocked.
 {2}: Equipped creature gets +1/+1 until end of turn for each artifact you control. Activate only once each turn.
 Equip {2}</text>
-			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/235_Timetither&apos;s Staff.png" num="235">HFB</set>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/234_Timetither&apos;s Staff.png" num="234">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2847,7 +2830,7 @@ When this creature enters, you may exile a creature card from your graveyard. If
 			<name>Skyborn Manastone</name>
 			<text>This artifact enters tapped. When it does, it deals 5 damage to target creature or planeswalker you don&apos;t control.
 {T}: Add one mana of any color.</text>
-			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/228_Skyborn Manastone.png" num="228">HFB</set>
+			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/227_Skyborn Manastone.png" num="227">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2984,7 +2967,7 @@ When this creature enters, surveil 1.</text>
 		</card>
 		<card>
 			<name>Herald of Tranquility</name>
-			<text>Impending 3—{2}{G}{G} (If this spell was impending, it enters with three time counters and isn&apos;t a creature until they&apos;re removed. At the beginning of your end step, remove one.)
+			<text>Impending 3—{2}{G}{G} (If this spell was cast for its impending cost, it enters with three time counters and isn&apos;t a creature until they&apos;re removed. At the beginning of your end step, remove one.)
 Creatures you control have trample.
 Whenever a creature you control deals combat damage to a player or planeswalker, put two +1/+1 counters on it.</text>
 			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/155_Herald of Tranquility.png" num="155">HFB</set>
@@ -3200,7 +3183,7 @@ Equip {5}</text>
 			<text>When this Equipment enters, destroy target noncreature, nonland permanent you don&apos;t control.
 Equipped creature gets +3/+3.
 Equip {4}</text>
-			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/229_Spaceripper Gauntlet.png" num="229">HFB</set>
+			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/228_Spaceripper Gauntlet.png" num="228">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3232,7 +3215,7 @@ Equip {4}</text>
 			<text>{T}: Add {C}.
 {T}, Pay 1 life: Add {R}.
 {R}{R}, {T}: Target creature gains haste until end of turn. This ability costs {R} less to activate if this land entered this turn.</text>
-			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/246_Fortified District.png" num="246">HFB</set>
+			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/245_Fortified District.png" num="245">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3248,7 +3231,7 @@ Equip {4}</text>
 			<name>Nexus of Creation</name>
 			<text>{T}: Add {C}.
 {3}, {T}: You may play land cards from your graveyard this turn.</text>
-			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/249_Nexus of Creation.png" num="249">HFB</set>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/248_Nexus of Creation.png" num="248">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3263,7 +3246,7 @@ Equip {4}</text>
 			<name>Mining Outpost</name>
 			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it into the battlefield tapped, then shuffle.
 {1}, {T}, Sacrifice this land: Draw a card.</text>
-			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/248_Mining Outpost.png" num="248">HFB</set>
+			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/247_Mining Outpost.png" num="247">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3278,7 +3261,7 @@ Equip {4}</text>
 			<name>Efflorescent Forge</name>
 			<text>{T}: Add {C}.
 {1}, {T}: Add {R}{R}.</text>
-			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/241_Efflorescent Forge.png" num="241">HFB</set>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/240_Efflorescent Forge.png" num="240">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3294,7 +3277,7 @@ Equip {4}</text>
 			<name>Efflorescent Sky</name>
 			<text>{T}: Add {C}.
 {1}, {T}: Add {W}{W}.</text>
-			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/244_Efflorescent Sky.png" num="244">HFB</set>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/243_Efflorescent Sky.png" num="243">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3310,7 +3293,7 @@ Equip {4}</text>
 			<name>Efflorescent Memorial</name>
 			<text>{T}: Add {C}.
 {1}, {T}: Add {B}{B}.</text>
-			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/242_Efflorescent Memorial.png" num="242">HFB</set>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/241_Efflorescent Memorial.png" num="241">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3326,7 +3309,7 @@ Equip {4}</text>
 			<name>Efflorescent River</name>
 			<text>{T}: Add {C}.
 {1}, {T}: Add {U}{U}.</text>
-			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/243_Efflorescent River.png" num="243">HFB</set>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/242_Efflorescent River.png" num="242">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3342,7 +3325,7 @@ Equip {4}</text>
 			<name>Efflorescent Woods</name>
 			<text>{T}: Add {C}.
 {1}, {T}: Add {G}{G}.</text>
-			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/245_Efflorescent Woods.png" num="245">HFB</set>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/244_Efflorescent Woods.png" num="244">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3357,7 +3340,7 @@ Equip {4}</text>
 		<card>
 			<name>Swamp</name>
 			<text>{T}: Add {B}.</text>
-			<set rarity="common" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/255_Swamp.png" num="255">HFB</set>
+			<set rarity="common" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/254_Swamp.png" num="254">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3372,7 +3355,7 @@ Equip {4}</text>
 		<card>
 			<name>Island</name>
 			<text>{T}: Add {U}.</text>
-			<set rarity="common" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/254_Island.png" num="254">HFB</set>
+			<set rarity="common" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/253_Island.png" num="253">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3387,7 +3370,7 @@ Equip {4}</text>
 		<card>
 			<name>Forest</name>
 			<text>{T}: Add {G}.</text>
-			<set rarity="common" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/257_Forest.png" num="257">HFB</set>
+			<set rarity="common" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/256_Forest.png" num="256">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3402,7 +3385,7 @@ Equip {4}</text>
 		<card>
 			<name>Plains</name>
 			<text>{T}: Add {W}.</text>
-			<set rarity="common" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/253_Plains.png" num="253">HFB</set>
+			<set rarity="common" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/252_Plains.png" num="252">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3417,7 +3400,7 @@ Equip {4}</text>
 		<card>
 			<name>Mountain</name>
 			<text>{T}: Add {R}</text>
-			<set rarity="common" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/256_Mountain.png" num="256">HFB</set>
+			<set rarity="common" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/255_Mountain.png" num="255">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3450,7 +3433,7 @@ Equip {4}</text>
 			<text>{T}: Add {C}.
 {T}, Pay 1 life: Add {U}.
 {2}{U}{U}, {T}: Draw a card, then discard a card. This ability costs {2}{U} less to activate if this land entered this turn.</text>
-			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/238_Bioengineering Bay.png" num="238">HFB</set>
+			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/237_Bioengineering Bay.png" num="237">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3467,7 +3450,7 @@ Equip {4}</text>
 			<text>{T}: Add {C}.
 {T}, Pay 1 life: Add {W}.
 {3}{W}{W}, {T}: Create a 1/1 white Citizen creature token. This ability costs {3}{W} less to activate if this land entered this turn.</text>
-			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/239_Brilliant Tower.png" num="239">HFB</set>
+			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/238_Brilliant Tower.png" num="238">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3484,7 +3467,7 @@ Equip {4}</text>
 			<text>{T}: Add {C}.
 {T}, Pay 1 life: Add {G}.
 {2}{G}{G}, {T}: Target creature gains trample until end of turn. Put a +1/+1 counter on it. Activate only as a sorcery. This ability costs {2}{G} less to activate if this land entered this turn.</text>
-			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/250_Outskirts Research Station.png" num="250">HFB</set>
+			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/249_Outskirts Research Station.png" num="249">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3501,7 +3484,7 @@ Equip {4}</text>
 			<text>{T}: Add {C}.
 {T}, Pay 1 life: Add {B}.
 {1}{B}{B}, {T}: Target player mills two cards. This ability costs {1}{B} less to activate if this land entered this turn.</text>
-			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/251_Underground Apparatus.png" num="251">HFB</set>
+			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/250_Underground Apparatus.png" num="250">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3530,7 +3513,7 @@ Equip {4}</text>
 		</card>
 		<card>
 			<name>Herald of Enlightenment</name>
-			<text>Impending 3—{2}{U}{U} (If this spell was impending, it enters with three time counters and isn&apos;t a creature until they&apos;re removed. At the beginning of your end step, remove one.)
+			<text>Impending 3—{2}{U}{U} (If this spell was cast for its impending cost, it enters with three time counters and isn&apos;t a creature until they&apos;re removed. At the beginning of your end step, remove one.)
 Flying, trample
 Whenever a creature you control deals combat damage to a player, you may draw a card.</text>
 			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/50_Herald of Enlightenment.png" num="50">HFB</set>
@@ -3568,7 +3551,7 @@ Whenever a creature you control deals combat damage to a player, you may draw a 
 			<text>{T}: Add {C}.
 {4}: Put this card from your hand onto the battlefield.
 Cycling {2} ({2}, Discard this card: Draw a card.)</text>
-			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/247_Incursive Structure.png" num="247">HFB</set>
+			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/246_Incursive Structure.png" num="246">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3997,7 +3980,7 @@ Once each turn, whenever you put one or more +1/+1 counters on a creature you co
 		</card>
 		<card>
 			<name>Cosmic Visitor</name>
-			<text>Infuse 5 (Whenever you cast or copy a noncreature spell, if this creature has fewer than five +1/+1 counters on it, put one on it.)
+			<text>Infuse 5 (Whenever you cast a noncreature spell, if this creature has fewer than five +1/+1 counters on it, put one on it.)
 Whenever you put one or more counters on this creature, target player mills cards equal to its power.</text>
 			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/42_Cosmic Visitor.png" num="42">HFB</set>
 			<prop>
@@ -4015,7 +3998,7 @@ Whenever you put one or more counters on this creature, target player mills card
 		</card>
 		<card>
 			<name>Herald of Arbitration</name>
-			<text>Impending 3—{2}{B}{B} (If this spell was impending, it enters with three time counters and isn&apos;t a creature until they&apos;re removed. At the beginning of your end step, remove one.)
+			<text>Impending 3—{2}{B}{B} (If this spell was cast for its impending cost, it enters with three time counters and isn&apos;t a creature until they&apos;re removed. At the beginning of your end step, remove one.)
 Menace, trample
 Whenever a creature you control deals combat damage to a player, that player loses 3 life unless they discard a card.</text>
 			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/85_Herald of Arbitration.png" num="85">HFB</set>
@@ -4034,7 +4017,7 @@ Whenever a creature you control deals combat damage to a player, that player los
 		</card>
 		<card>
 			<name>Herald of Meteors</name>
-			<text>Impending 3—{2}{R}{R} (If this spell was impending, it enters with three time counters and isn&apos;t a creature until they&apos;re removed. At the beginning of your end step, remove one.)
+			<text>Impending 3—{2}{R}{R} (If this spell was cast for its impending cost, it enters with three time counters and isn&apos;t a creature until they&apos;re removed. At the beginning of your end step, remove one.)
 Trample, haste
 Whenever a creature you control deals combat damage to a player, create a Treasure token.</text>
 			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/121_Herald of Meteors.png" num="121">HFB</set>
@@ -4189,7 +4172,7 @@ Whenever you sacrifice an Aura, put a +1/+1 counter on target creature that Aura
 		</card>
 		<card>
 			<name>Coralblight Survivor</name>
-			<text>Infuse 1 (Whenever you cast or copy a noncreature spell, if this creature has no +1/+1 counters on it, put one on it.)
+			<text>Infuse 1 (Whenever you cast a noncreature spell, if this creature has no +1/+1 counters on it, put one on it.)
 Once each turn, whenever you put one or more +1/+1 counters on this creature, untap up to two target lands.</text>
 			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/41_Coralblight Survivor.png" num="41">HFB</set>
 			<prop>
@@ -4533,7 +4516,7 @@ Whenever you put one or more +1/+1 counters on this creature, draw a card, then 
 		</card>
 		<card>
 			<name>Progenitor of Desire</name>
-			<text>Impending 3—{1}{B} (If this spell was impending, it enters with three time counters and isn&apos;t a creature until they&apos;re removed. At the beginning of your end step, remove one.)
+			<text>Impending 3—{1}{B} (If this spell was cast for its impending cost, it enters with three time counters and isn&apos;t a creature until they&apos;re removed. At the beginning of your end step, remove one.)
 When this permanent enters, target opponent reveals their hand and discards a card with the lowest mana value among the revealed nonland cards.</text>
 			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/226_Progenitor of Desire.png" num="226">HFB</set>
 			<prop>

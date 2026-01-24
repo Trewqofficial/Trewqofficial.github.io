@@ -1794,7 +1794,7 @@
     },
     {
         "card_name": "Standard-Issue Rifle",
-        "number": 230,
+        "number": 229,
         "shape": "normal",
         "set": "HFB",
         "rotated": false,
@@ -1802,7 +1802,7 @@
     },
     {
         "card_name": "Superheated Gladius",
-        "number": 233,
+        "number": 232,
         "shape": "normal",
         "set": "HFB",
         "rotated": false,
@@ -1810,7 +1810,7 @@
     },
     {
         "card_name": "Sword of Stars",
-        "number": 234,
+        "number": 233,
         "shape": "normal",
         "set": "HFB",
         "rotated": false,
@@ -1818,7 +1818,7 @@
     },
     {
         "card_name": "Timetither's Staff",
-        "number": 235,
+        "number": 234,
         "shape": "normal",
         "set": "HFB",
         "rotated": false,
@@ -1826,7 +1826,7 @@
     },
     {
         "card_name": "Unborn Arbiter",
-        "number": 237,
+        "number": 236,
         "shape": "normal",
         "set": "HFB",
         "rotated": false,
@@ -1913,7 +1913,7 @@
         "position": ""
     },
     {
-        "card_name": "Progenitor of Desire COPY",
+        "card_name": "Skyborn Manastone",
         "number": 227,
         "shape": "normal",
         "set": "HFB",
@@ -1921,7 +1921,7 @@
         "position": ""
     },
     {
-        "card_name": "Skyborn Manastone",
+        "card_name": "Spaceripper Gauntlet",
         "number": 228,
         "shape": "normal",
         "set": "HFB",
@@ -1929,16 +1929,8 @@
         "position": ""
     },
     {
-        "card_name": "Spaceripper Gauntlet",
-        "number": 229,
-        "shape": "normal",
-        "set": "HFB",
-        "rotated": false,
-        "position": ""
-    },
-    {
         "card_name": "Starturning Celestial",
-        "number": 231,
+        "number": 230,
         "shape": "normal",
         "set": "HFB",
         "rotated": false,
@@ -1946,7 +1938,7 @@
     },
     {
         "card_name": "Stasis Chamber",
-        "number": 232,
+        "number": 231,
         "shape": "normal",
         "set": "HFB",
         "rotated": false,
@@ -1954,11 +1946,14 @@
     },
     {
         "card_name": "Tombwatcher",
-        "number": 236,
+        "number": 235,
         "shape": "normal",
         "set": "HFB",
         "rotated": false,
         "position": ""
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1975,14 +1970,6 @@
     "a->land",
     {
         "card_name": "Efflorescent Sky",
-        "number": 244,
-        "shape": "normal",
-        "set": "HFB",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Efflorescent River",
         "number": 243,
         "shape": "normal",
         "set": "HFB",
@@ -1990,7 +1977,7 @@
         "position": ""
     },
     {
-        "card_name": "Efflorescent Memorial",
+        "card_name": "Efflorescent River",
         "number": 242,
         "shape": "normal",
         "set": "HFB",
@@ -1998,7 +1985,7 @@
         "position": ""
     },
     {
-        "card_name": "Efflorescent Forge",
+        "card_name": "Efflorescent Memorial",
         "number": 241,
         "shape": "normal",
         "set": "HFB",
@@ -2006,8 +1993,16 @@
         "position": ""
     },
     {
+        "card_name": "Efflorescent Forge",
+        "number": 240,
+        "shape": "normal",
+        "set": "HFB",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Efflorescent Woods",
-        "number": 245,
+        "number": 244,
         "shape": "normal",
         "set": "HFB",
         "rotated": false,
@@ -2015,14 +2010,6 @@
     },
     {
         "card_name": "Brilliant Tower",
-        "number": 239,
-        "shape": "normal",
-        "set": "HFB",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Bioengineering Bay",
         "number": 238,
         "shape": "normal",
         "set": "HFB",
@@ -2030,8 +2017,16 @@
         "position": ""
     },
     {
+        "card_name": "Bioengineering Bay",
+        "number": 237,
+        "shape": "normal",
+        "set": "HFB",
+        "rotated": false,
+        "position": ""
+    },
+    {
         "card_name": "Underground Apparatus",
-        "number": 251,
+        "number": 250,
         "shape": "normal",
         "set": "HFB",
         "rotated": false,
@@ -2039,7 +2034,7 @@
     },
     {
         "card_name": "Fortified District",
-        "number": 246,
+        "number": 245,
         "shape": "normal",
         "set": "HFB",
         "rotated": false,
@@ -2047,7 +2042,7 @@
     },
     {
         "card_name": "Outskirts Research Station",
-        "number": 250,
+        "number": 249,
         "shape": "normal",
         "set": "HFB",
         "rotated": false,
@@ -2070,7 +2065,7 @@
     },
     {
         "card_name": "Nexus of Creation",
-        "number": 249,
+        "number": 248,
         "shape": "normal",
         "set": "HFB",
         "rotated": false,
@@ -2078,7 +2073,7 @@
     },
     {
         "card_name": "The Unknown Sun",
-        "number": 252,
+        "number": 251,
         "shape": "normal",
         "set": "HFB",
         "rotated": false,
@@ -2086,7 +2081,7 @@
     },
     {
         "card_name": "Deep Outskirts Relay",
-        "number": 240,
+        "number": 239,
         "shape": "normal",
         "set": "HFB",
         "rotated": false,
@@ -2094,7 +2089,7 @@
     },
     {
         "card_name": "Incursive Structure",
-        "number": 247,
+        "number": 246,
         "shape": "normal",
         "set": "HFB",
         "rotated": false,
@@ -2102,7 +2097,7 @@
     },
     {
         "card_name": "Mining Outpost",
-        "number": 248,
+        "number": 247,
         "shape": "normal",
         "set": "HFB",
         "rotated": false,
@@ -2125,14 +2120,6 @@
     },
     {
         "card_name": "Swamp",
-        "number": 255,
-        "shape": "normal",
-        "set": "HFB",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Island",
         "number": 254,
         "shape": "normal",
         "set": "HFB",
@@ -2140,15 +2127,7 @@
         "position": ""
     },
     {
-        "card_name": "Forest",
-        "number": 257,
-        "shape": "normal",
-        "set": "HFB",
-        "rotated": false,
-        "position": ""
-    },
-    {
-        "card_name": "Plains",
+        "card_name": "Island",
         "number": 253,
         "shape": "normal",
         "set": "HFB",
@@ -2156,8 +2135,24 @@
         "position": ""
     },
     {
-        "card_name": "Mountain",
+        "card_name": "Forest",
         "number": 256,
+        "shape": "normal",
+        "set": "HFB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Plains",
+        "number": 252,
+        "shape": "normal",
+        "set": "HFB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mountain",
+        "number": 255,
         "shape": "normal",
         "set": "HFB",
         "rotated": false,

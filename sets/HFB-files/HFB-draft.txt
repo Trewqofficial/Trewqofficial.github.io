@@ -455,9 +455,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Avatar",
-			"collector_number": "237",
+			"collector_number": "236",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/237_Unborn Arbiter.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/236_Unborn Arbiter.png"
 			}
 		},
 		{
@@ -485,9 +485,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{7}",
 			"type": "Artifact Creature — Aeon",
-			"collector_number": "231",
+			"collector_number": "230",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/231_Starturning Celestial.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/230_Starturning Celestial.png"
 			}
 		},
 		{
@@ -498,16 +498,6 @@
 			"collector_number": "79",
 			"image_uris": {
 				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/79_Death to the Deathless.png"
-			}
-		},
-		{
-			"name": "Progenitor of Desire COPY",
-			"rarity": "uncommon",
-			"mana_cost": "{4}",
-			"type": "Artifact Creature — Aeon",
-			"collector_number": "227",
-			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/227_Progenitor of Desire COPY.png"
 			}
 		},
 		{
@@ -605,9 +595,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{8}",
 			"type": "Artifact Creature — Elder Horror",
-			"collector_number": "236",
+			"collector_number": "235",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/236_Tombwatcher.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/235_Tombwatcher.png"
 			}
 		},
 		{
@@ -955,9 +945,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}",
 			"type": "Artifact",
-			"collector_number": "232",
+			"collector_number": "231",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/232_Stasis Chamber.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/231_Stasis Chamber.png"
 			}
 		},
 		{
@@ -965,9 +955,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "240",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/240_Deep Outskirts Relay.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/239_Deep Outskirts Relay.png"
 			}
 		},
 		{
@@ -1005,9 +995,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "252",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/252_The Unknown Sun.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/251_The Unknown Sun.png"
 			}
 		},
 		{
@@ -1475,9 +1465,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "230",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/230_Standard-Issue Rifle.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/229_Standard-Issue Rifle.png"
 			}
 		},
 		{
@@ -1485,9 +1475,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "234",
+			"collector_number": "233",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/234_Sword of Stars.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/233_Sword of Stars.png"
 			}
 		},
 		{
@@ -1525,9 +1515,9 @@
 			"rarity": "rare",
 			"mana_cost": "{7}",
 			"type": "Artifact — Equipment",
-			"collector_number": "233",
+			"collector_number": "232",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/233_Superheated Gladius.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/232_Superheated Gladius.png"
 			}
 		},
 		{
@@ -1535,9 +1525,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "235",
+			"collector_number": "234",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/235_Timetither's Staff.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/234_Timetither's Staff.png"
 			}
 		},
 		{
@@ -1625,9 +1615,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}",
 			"type": "Artifact",
-			"collector_number": "228",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/228_Skyborn Manastone.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/227_Skyborn Manastone.png"
 			}
 		},
 		{
@@ -1825,9 +1815,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}",
 			"type": "Artifact — Equipment",
-			"collector_number": "229",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/229_Spaceripper Gauntlet.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/228_Spaceripper Gauntlet.png"
 			}
 		},
 		{
@@ -1845,9 +1835,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "246",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/246_Fortified District.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/245_Fortified District.png"
 			}
 		},
 		{
@@ -1855,9 +1845,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "249",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/249_Nexus of Creation.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/248_Nexus of Creation.png"
 			}
 		},
 		{
@@ -1865,9 +1855,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "248",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/248_Mining Outpost.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/247_Mining Outpost.png"
 			}
 		},
 		{
@@ -1875,9 +1865,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "241",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/241_Efflorescent Forge.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/240_Efflorescent Forge.png"
 			}
 		},
 		{
@@ -1885,9 +1875,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "244",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/244_Efflorescent Sky.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/243_Efflorescent Sky.png"
 			}
 		},
 		{
@@ -1895,9 +1885,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "242",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/242_Efflorescent Memorial.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/241_Efflorescent Memorial.png"
 			}
 		},
 		{
@@ -1905,9 +1895,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "243",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/243_Efflorescent River.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/242_Efflorescent River.png"
 			}
 		},
 		{
@@ -1915,9 +1905,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "245",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/245_Efflorescent Woods.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/244_Efflorescent Woods.png"
 			}
 		},
 		{
@@ -1925,9 +1915,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "255",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/255_Swamp.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/254_Swamp.png"
 			}
 		},
 		{
@@ -1935,9 +1925,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "254",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/254_Island.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/253_Island.png"
 			}
 		},
 		{
@@ -1945,9 +1935,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "257",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/257_Forest.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/256_Forest.png"
 			}
 		},
 		{
@@ -1955,9 +1945,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "253",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/253_Plains.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/252_Plains.png"
 			}
 		},
 		{
@@ -1965,9 +1955,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "256",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/256_Mountain.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/255_Mountain.png"
 			}
 		},
 		{
@@ -1985,9 +1975,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "238",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/238_Bioengineering Bay.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/237_Bioengineering Bay.png"
 			}
 		},
 		{
@@ -1995,9 +1985,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "239",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/239_Brilliant Tower.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/238_Brilliant Tower.png"
 			}
 		},
 		{
@@ -2005,9 +1995,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "250",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/250_Outskirts Research Station.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/249_Outskirts Research Station.png"
 			}
 		},
 		{
@@ -2015,9 +2005,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "251",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/251_Underground Apparatus.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/250_Underground Apparatus.png"
 			}
 		},
 		{
@@ -2055,9 +2045,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "247",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/247_Incursive Structure.png"
+				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/246_Incursive Structure.png"
 			}
 		},
 		{
@@ -2878,7 +2868,6 @@
 	4 Divine Paragon
 	4 Starturning Celestial
 	4 Death to the Deathless
-	4 Progenitor of Desire COPY
 	4 Crowned Aeon
 	4 Mind Screech
 	4 Efflorescent Vessel
@@ -3059,7 +3048,6 @@
 	6 Divine Paragon
 	6 Starturning Celestial
 	6 Death to the Deathless
-	6 Progenitor of Desire COPY
 	6 Crowned Aeon
 	6 Mind Screech
 	6 Efflorescent Vessel
@@ -3312,7 +3300,6 @@
 	15 Divine Paragon
 	15 Starturning Celestial
 	15 Death to the Deathless
-	15 Progenitor of Desire COPY
 	15 Crowned Aeon
 	15 Mind Screech
 	15 Efflorescent Vessel
