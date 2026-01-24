@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="icon" type="image/png" href="/sets/HFB-files/icon.png"/>
-	<link rel="stylesheet" href="/resources/header.css">
+	<link rel="icon" type="image/png" href="../sets/HFB-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
 	<title>HFB visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
 	<style>
 		@font-face {
 			font-family: Beleren;
-			src: url('/resources/beleren.ttf');
+			src: url('../resources/beleren.ttf');
 		}
 		body {
 			font-family: Arial, sans-serif;
@@ -45,13 +48,15 @@
 			left: 10%;
 			top: 10%;
 			width: 85%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.sidebar-img {
 			vertical-align: middle;
 			width: 100%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.close-btn {
-			background: url('/img/close.png') no-repeat;
+			background: url('../img/close.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 10%;
@@ -62,7 +67,7 @@
 			right: 4%;
 		}
 		.close-btn:hover {
-			background: url('/img/close-hover.png') no-repeat;
+			background: url('../img/close-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -82,6 +87,7 @@
 			display: block;
 			visibility: hidden;
 			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
 		}
 		.banner {
 			width: 100%;
@@ -102,9 +108,10 @@
 		.container img {
 			width: 100%;
 			height: auto;
+			border-radius: 3.733% / 2.677%;
 		}
 		.flip-btn {
-			background: url('/img/flip.png') no-repeat;
+			background: url('../img/flip.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 15%;
@@ -118,7 +125,7 @@
 			opacity: 0.5;
 		}
 		.flip-btn:hover {
-			background: url('/img/flip-hover.png') no-repeat;
+			background: url('../img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -174,356 +181,382 @@
 	</style>
 </head>
 <body>
-	<img class="preload-hidden" src="/img/dot.png" />
-	<img class="preload-hidden" src="/sets/HFB-files/logo.png" />
-	<img class="preload-hidden" src="/sets/HFB-files/icon.png" />
-		<img class="preload-hidden" src="/sets/IID-files/icon.png" />
-		<img class="preload-hidden" src="/sets/MSY-files/icon.png" />
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/HFB-files/logo.png" />
+	<img class="preload-hidden" src="../sets/HFB-files/icon.png" />
+		<img class="preload-hidden" src="../sets/IID-files/icon.png" />
+		<img class="preload-hidden" src="../sets/MSY-files/icon.png" />
 		<div class="header">
 		<div class="search-grid">
-			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
-			<img class="sg-icon" src="/img/search.png">
-			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
-			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
-			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
-			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deck" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-deck").src = rootPath + "/img/deck.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
 
 	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
-		<a class="set-bar" href="HFB"><img src="/sets/HFB-files/icon.png">Hycal: First Bloom</a>
+		<a class="set-bar" href="../previews/HFB"><img src="../sets/HFB-files/icon.png">Hycal: First Bloom</a>
 	
-		<a class="set-bar inactive" href="IID"><img src="/sets/IID-files/icon.png">Itera: Inbetween Days</a>
+		<a class="set-bar inactive" href="../previews/IID"><img src="../sets/IID-files/icon.png">Itera: Inbetween Days</a>
 	
-		<a class="set-bar inactive" href="MSY"><img src="/sets/MSY-files/icon.png">MSEM Mystery Community Slots</a>
+		<a class="set-bar inactive" href="../previews/MSY"><img src="../sets/MSY-files/icon.png">MSEM Mystery Community Slots</a>
 	
 		</div>
 		<div class="banner">
-		<img class="logo" src="/sets/HFB-files/logo.png">
+		<img class="logo" src="../sets/HFB-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\25_Revelation of Light.png" id="25_Revelation of Light" data-flag="@X" onclick="openSidebar('25_Revelation of Light',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\40_Clockturning.png" id="40_Clockturning" data-flag="@X" onclick="openSidebar('40_Clockturning',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\77_Cruel Severance.png" id="77_Cruel Severance" data-flag="@X" onclick="openSidebar('77_Cruel Severance',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\110_The Cursed Marksman.png" id="110_The Cursed Marksman" data-flag="@X" onclick="openSidebar('110_The Cursed Marksman',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\163_Revelation of Thorns.png" id="163_Revelation of Thorns" data-flag="@X" onclick="openSidebar('163_Revelation of Thorns',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\35_Wondrous Cataclysm.png" id="35_Wondrous Cataclysm" data-flag="@X" onclick="openSidebar('35_Wondrous Cataclysm',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\60_Revelation of Mirrors.png" id="60_Revelation of Mirrors" data-flag="@X" onclick="openSidebar('60_Revelation of Mirrors',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\94_Revelation of Steel.png" id="94_Revelation of Steel" data-flag="@X" onclick="openSidebar('94_Revelation of Steel',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\131_Revelation of Pain.png" id="131_Revelation of Pain" data-flag="@X" onclick="openSidebar('131_Revelation of Pain',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\164_Savage Surge.png" id="164_Savage Surge" data-flag="@X" onclick="openSidebar('164_Savage Surge',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\6_Degraded Shockwave.png" id="6_Degraded Shockwave" data-flag="@X" onclick="openSidebar('6_Degraded Shockwave',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\42_Cosmic Visitor.png" id="42_Cosmic Visitor" data-flag="@X" onclick="openSidebar('42_Cosmic Visitor',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\71_All-Consuming Calamity.png" id="71_All-Consuming Calamity" data-flag="@X" onclick="openSidebar('71_All-Consuming Calamity',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\137_Unknown Wilderness.png" id="137_Unknown Wilderness" data-flag="@X" onclick="openSidebar('137_Unknown Wilderness',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\143_Bioinstrumentality.png" id="143_Bioinstrumentality" data-flag="@X" onclick="openSidebar('143_Bioinstrumentality',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\10_Fleshborn Behemoth.png" id="10_Fleshborn Behemoth" data-flag="@X" onclick="openSidebar('10_Fleshborn Behemoth',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\43_Crescendo.png" id="43_Crescendo" data-flag="@X" onclick="openSidebar('43_Crescendo',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\78_Death of the Third City.png" id="78_Death of the Third City" data-flag="@X" onclick="openSidebar('78_Death of the Third City',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\105_Blood Sun's Dawning.png" id="105_Blood Suns Dawning" data-flag="@X" onclick="openSidebar('105_Blood Suns Dawning',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\148_The Crawling Room.png" id="148_The Crawling Room" data-flag="@X" onclick="openSidebar('148_The Crawling Room',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\15_Grim Coronation.png" id="15_Grim Coronation" data-flag="@X" onclick="openSidebar('15_Grim Coronation',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\45_Doom of the Second City.png" id="45_Doom of the Second City" data-flag="@X" onclick="openSidebar('45_Doom of the Second City',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\80_Devour the Future.png" id="80_Devour the Future" data-flag="@X" onclick="openSidebar('80_Devour the Future',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\106_Bloodlord Saladar.png" id="106_Bloodlord Saladar" data-flag="@X" onclick="openSidebar('106_Bloodlord Saladar',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\150_Distant Figure.png" id="150_Distant Figure" data-flag="@X" onclick="openSidebar('150_Distant Figure',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\16_Herald of Apathy.png" id="16_Herald of Apathy" data-flag="@X" onclick="openSidebar('16_Herald of Apathy',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\48_Fate of a Messenger.png" id="48_Fate of a Messenger" data-flag="@X" onclick="openSidebar('48_Fate of a Messenger',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\81_Extermination Campaign.png" id="81_Extermination Campaign" data-flag="@X" onclick="openSidebar('81_Extermination Campaign',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\111_Dealing with The Devil.png" id="111_Dealing with The Devil" data-flag="@X" onclick="openSidebar('111_Dealing with The Devil',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\153_Harmony of Might.png" id="153_Harmony of Might" data-flag="@X" onclick="openSidebar('153_Harmony of Might',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\19_Kalazek, Dracoform.png" id="19_Kalazek, Dracoform" data-flag="@X" onclick="openSidebar('19_Kalazek, Dracoform',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\49_The Grand Conductor.png" id="49_The Grand Conductor" data-flag="@X" onclick="openSidebar('49_The Grand Conductor',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\83_Furioso; Fury; Scream.png" id="83_Furioso; Fury; Scream" data-flag="@X" onclick="openSidebar('83_Furioso; Fury; Scream',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\113_Drown It All in Blood.png" id="113_Drown It All in Blood" data-flag="@X" onclick="openSidebar('113_Drown It All in Blood',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\154_Harvester of Sorrows.png" id="154_Harvester of Sorrows" data-flag="@X" onclick="openSidebar('154_Harvester of Sorrows',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\20_Keth, Cutting Specialist.png" id="20_Keth, Cutting Specialist" data-flag="@X" onclick="openSidebar('20_Keth, Cutting Specialist',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\50_Herald of Enlightenment.png" id="50_Herald of Enlightenment" data-flag="@X" onclick="openSidebar('50_Herald of Enlightenment',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\85_Herald of Arbitration.png" id="85_Herald of Arbitration" data-flag="@X" onclick="openSidebar('85_Herald of Arbitration',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\120_Fury of a Fallen Star.png" id="120_Fury of a Fallen Star" data-flag="@X" onclick="openSidebar('120_Fury of a Fallen Star',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\155_Herald of Tranquility.png" id="155_Herald of Tranquility" data-flag="@X" onclick="openSidebar('155_Herald of Tranquility',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\23_Plastic Dream.png" id="23_Plastic Dream" data-flag="@X" onclick="openSidebar('23_Plastic Dream',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\56_Prodigal Neuromancer.png" id="56_Prodigal Neuromancer" data-flag="@X" onclick="openSidebar('56_Prodigal Neuromancer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\93_Prophellan Emissary.png" id="93_Prophellan Emissary" data-flag="@X" onclick="openSidebar('93_Prophellan Emissary',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\121_Herald of Meteors.png" id="121_Herald of Meteors" data-flag="@X" onclick="openSidebar('121_Herald of Meteors',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\162_Queen of Flytraps.png" id="162_Queen of Flytraps" data-flag="@X" onclick="openSidebar('162_Queen of Flytraps',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\26_Ruin of the First City.png" id="26_Ruin of the First City" data-flag="@X" onclick="openSidebar('26_Ruin of the First City',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\59_Reality Twister.png" id="59_Reality Twister" data-flag="@X" onclick="openSidebar('59_Reality Twister',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\95_Ruinbound Lich.png" id="95_Ruinbound Lich" data-flag="@X" onclick="openSidebar('95_Ruinbound Lich',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\122_Howling Chorus.png" id="122_Howling Chorus" data-flag="@X" onclick="openSidebar('122_Howling Chorus',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\166_Subterranean Coiler.png" id="166_Subterranean Coiler" data-flag="@X" onclick="openSidebar('166_Subterranean Coiler',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\29_Starchosen Regent.png" id="29_Starchosen Regent" data-flag="@X" onclick="openSidebar('29_Starchosen Regent',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\61_Riftway Visitor.png" id="61_Riftway Visitor" data-flag="@X" onclick="openSidebar('61_Riftway Visitor',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\98_Swallowed Sky.png" id="98_Swallowed Sky" data-flag="@X" onclick="openSidebar('98_Swallowed Sky',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\124_Moondrenched Outsider.png" id="124_Moondrenched Outsider" data-flag="@X" onclick="openSidebar('124_Moondrenched Outsider',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\167_Tidecall Leviathan.png" id="167_Tidecall Leviathan" data-flag="@X" onclick="openSidebar('167_Tidecall Leviathan',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\31_Teller of Nine Thousand Tales.png" id="31_Teller of Nine Thousand Tales" data-flag="@X" onclick="openSidebar('31_Teller of Nine Thousand Tales',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\65_Undying Observer.png" id="65_Undying Observer" data-flag="@X" onclick="openSidebar('65_Undying Observer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\100_Thundering Symphony.png" id="100_Thundering Symphony" data-flag="@X" onclick="openSidebar('100_Thundering Symphony',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\135_Unbreaking Pulverizer.png" id="135_Unbreaking Pulverizer" data-flag="@X" onclick="openSidebar('135_Unbreaking Pulverizer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\168_Total Efflorescence.png" id="168_Total Efflorescence" data-flag="@X" onclick="openSidebar('168_Total Efflorescence',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\2_Aeon of a Perfect World.png" id="2_Aeon of a Perfect World" data-flag="@X" onclick="openSidebar('2_Aeon of a Perfect World',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\36_Arc-Crowned Vessel.png" id="36_Arc-Crowned Vessel" data-flag="@X" onclick="openSidebar('36_Arc-Crowned Vessel',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\70_Aimless Efflorescent.png" id="70_Aimless Efflorescent" data-flag="@X" onclick="openSidebar('70_Aimless Efflorescent',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\136_Undying Renegade.png" id="136_Undying Renegade" data-flag="@X" onclick="openSidebar('136_Undying Renegade',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\139_Accomplished Researcher.png" id="139_Accomplished Researcher" data-flag="@X" onclick="openSidebar('139_Accomplished Researcher',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\3_Altered Farmhand.png" id="3_Altered Farmhand" data-flag="@X" onclick="openSidebar('3_Altered Farmhand',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\37_Bloom from Sorrow.png" id="37_Bloom from Sorrow" data-flag="@X" onclick="openSidebar('37_Bloom from Sorrow',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\72_Bearer of Death's Gaze.png" id="72_Bearer of Deaths Gaze" data-flag="@X" onclick="openSidebar('72_Bearer of Deaths Gaze',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\104_Blood Shaper.png" id="104_Blood Shaper" data-flag="@X" onclick="openSidebar('104_Blood Shaper',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\140_Amorphous Experiment.png" id="140_Amorphous Experiment" data-flag="@X" onclick="openSidebar('140_Amorphous Experiment',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\4_Aspect of Antipoise.png" id="4_Aspect of Antipoise" data-flag="@X" onclick="openSidebar('4_Aspect of Antipoise',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\38_Breach of Nature.png" id="38_Breach of Nature" data-flag="@X" onclick="openSidebar('38_Breach of Nature',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\73_Calamity That Eats the Sky.png" id="73_Calamity That Eats the Sky" data-flag="@X" onclick="openSidebar('73_Calamity That Eats the Sky',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\107_Bringer of Madness.png" id="107_Bringer of Madness" data-flag="@X" onclick="openSidebar('107_Bringer of Madness',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\141_Angular Observer.png" id="141_Angular Observer" data-flag="@X" onclick="openSidebar('141_Angular Observer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\5_Bearer of Broken Wings.png" id="5_Bearer of Broken Wings" data-flag="@X" onclick="openSidebar('5_Bearer of Broken Wings',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\39_Captive Efflorescent.png" id="39_Captive Efflorescent" data-flag="@X" onclick="openSidebar('39_Captive Efflorescent',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\74_CENSORED.png" id="74_CENSORED" data-flag="@X" onclick="openSidebar('74_CENSORED',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\108_Cardiomancer.png" id="108_Cardiomancer" data-flag="@X" onclick="openSidebar('108_Cardiomancer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\142_Architect of Calamity.png" id="142_Architect of Calamity" data-flag="@X" onclick="openSidebar('142_Architect of Calamity',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\7_Distant Wanderer.png" id="7_Distant Wanderer" data-flag="@X" onclick="openSidebar('7_Distant Wanderer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\41_Coralblight Survivor.png" id="41_Coralblight Survivor" data-flag="@X" onclick="openSidebar('41_Coralblight Survivor',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\75_Corrupt Consumption.png" id="75_Corrupt Consumption" data-flag="@X" onclick="openSidebar('75_Corrupt Consumption',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\109_Cursed Ammunition.png" id="109_Cursed Ammunition" data-flag="@X" onclick="openSidebar('109_Cursed Ammunition',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\144_Blood-Tracker.png" id="144_Blood-Tracker" data-flag="@X" onclick="openSidebar('144_Blood-Tracker',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\8_Ephemeral Return.png" id="8_Ephemeral Return" data-flag="@X" onclick="openSidebar('8_Ephemeral Return',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\44_Distant Warning.png" id="44_Distant Warning" data-flag="@X" onclick="openSidebar('44_Distant Warning',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\76_Cruel Puppeteer.png" id="76_Cruel Puppeteer" data-flag="@X" onclick="openSidebar('76_Cruel Puppeteer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\112_Devil's Bullet.png" id="112_Devils Bullet" data-flag="@X" onclick="openSidebar('112_Devils Bullet',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\145_Cloaked Enforcer.png" id="145_Cloaked Enforcer" data-flag="@X" onclick="openSidebar('145_Cloaked Enforcer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\9_Fleeting Efflorescent.png" id="9_Fleeting Efflorescent" data-flag="@X" onclick="openSidebar('9_Fleeting Efflorescent',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\46_Dreamcrawler.png" id="46_Dreamcrawler" data-flag="@X" onclick="openSidebar('46_Dreamcrawler',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\79_Death to the Deathless.png" id="79_Death to the Deathless" data-flag="@X" onclick="openSidebar('79_Death to the Deathless',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\114_Efflorescence Specialist.png" id="114_Efflorescence Specialist" data-flag="@X" onclick="openSidebar('114_Efflorescence Specialist',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\146_Connection in Sorrow.png" id="146_Connection in Sorrow" data-flag="@X" onclick="openSidebar('146_Connection in Sorrow',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\11_Forged Enforcer.png" id="11_Forged Enforcer" data-flag="@X" onclick="openSidebar('11_Forged Enforcer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\47_Effloresced Archseer.png" id="47_Effloresced Archseer" data-flag="@X" onclick="openSidebar('47_Effloresced Archseer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\82_False Angel.png" id="82_False Angel" data-flag="@X" onclick="openSidebar('82_False Angel',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\115_Efflorescent Vessel.png" id="115_Efflorescent Vessel" data-flag="@X" onclick="openSidebar('115_Efflorescent Vessel',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\147_Coven of Stars.png" id="147_Coven of Stars" data-flag="@X" onclick="openSidebar('147_Coven of Stars',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\12_Gaze of Others.png" id="12_Gaze of Others" data-flag="@X" onclick="openSidebar('12_Gaze of Others',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\51_Hide From Fate.png" id="51_Hide From Fate" data-flag="@X" onclick="openSidebar('51_Hide From Fate',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\84_Hazeth, Last Priest.png" id="84_Hazeth, Last Priest" data-flag="@X" onclick="openSidebar('84_Hazeth, Last Priest',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\116_Efflorescing Mystic.png" id="116_Efflorescing Mystic" data-flag="@X" onclick="openSidebar('116_Efflorescing Mystic',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\149_Disgraced Researcher.png" id="149_Disgraced Researcher" data-flag="@X" onclick="openSidebar('149_Disgraced Researcher',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\13_Glass Wings.png" id="13_Glass Wings" data-flag="@X" onclick="openSidebar('13_Glass Wings',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\52_Isolated Remnant.png" id="52_Isolated Remnant" data-flag="@X" onclick="openSidebar('52_Isolated Remnant',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\86_In the Jaws of Despair.png" id="86_In the Jaws of Despair" data-flag="@X" onclick="openSidebar('86_In the Jaws of Despair',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\117_Extraspacial Manipulator.png" id="117_Extraspacial Manipulator" data-flag="@X" onclick="openSidebar('117_Extraspacial Manipulator',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\151_Entangled Speaker.png" id="151_Entangled Speaker" data-flag="@X" onclick="openSidebar('151_Entangled Speaker',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\14_Grace of the Ancients.png" id="14_Grace of the Ancients" data-flag="@X" onclick="openSidebar('14_Grace of the Ancients',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\53_Matriarch of Mirrors.png" id="53_Matriarch of Mirrors" data-flag="@X" onclick="openSidebar('53_Matriarch of Mirrors',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\87_Isolate and Homogenize.png" id="87_Isolate and Homogenize" data-flag="@X" onclick="openSidebar('87_Isolate and Homogenize',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\118_Flamechosen Thrall.png" id="118_Flamechosen Thrall" data-flag="@X" onclick="openSidebar('118_Flamechosen Thrall',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\152_Ethereal Colossus.png" id="152_Ethereal Colossus" data-flag="@X" onclick="openSidebar('152_Ethereal Colossus',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\17_Hero of the Night.png" id="17_Hero of the Night" data-flag="@X" onclick="openSidebar('17_Hero of the Night',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\54_A New World.png" id="54_A New World" data-flag="@X" onclick="openSidebar('54_A New World',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\88_Lesser Reaper.png" id="88_Lesser Reaper" data-flag="@X" onclick="openSidebar('88_Lesser Reaper',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\119_Freelance Slayer.png" id="119_Freelance Slayer" data-flag="@X" onclick="openSidebar('119_Freelance Slayer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\156_Hungerborn.png" id="156_Hungerborn" data-flag="@X" onclick="openSidebar('156_Hungerborn',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\18_Janus Enforcer.png" id="18_Janus Enforcer" data-flag="@X" onclick="openSidebar('18_Janus Enforcer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\55_Ponder Histories.png" id="55_Ponder Histories" data-flag="@X" onclick="openSidebar('55_Ponder Histories',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\89_Mind Screech.png" id="89_Mind Screech" data-flag="@X" onclick="openSidebar('89_Mind Screech',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\123_Malevolent Heart.png" id="123_Malevolent Heart" data-flag="@X" onclick="openSidebar('123_Malevolent Heart',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\157_Masked Guest.png" id="157_Masked Guest" data-flag="@X" onclick="openSidebar('157_Masked Guest',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\21_The Long Walk.png" id="21_The Long Walk" data-flag="@X" onclick="openSidebar('21_The Long Walk',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\57_Psychic Insight.png" id="57_Psychic Insight" data-flag="@X" onclick="openSidebar('57_Psychic Insight',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\90_Northern Witch.png" id="90_Northern Witch" data-flag="@X" onclick="openSidebar('90_Northern Witch',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\125_Mystic Torrent.png" id="125_Mystic Torrent" data-flag="@X" onclick="openSidebar('125_Mystic Torrent',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\158_Mechanized Augmentee.png" id="158_Mechanized Augmentee" data-flag="@X" onclick="openSidebar('158_Mechanized Augmentee',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\22_Memories of Butterflies.png" id="22_Memories of Butterflies" data-flag="@X" onclick="openSidebar('22_Memories of Butterflies',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\58_Reach through Reflections.png" id="58_Reach through Reflections" data-flag="@X" onclick="openSidebar('58_Reach through Reflections',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\91_Novice Diabology.png" id="91_Novice Diabology" data-flag="@X" onclick="openSidebar('91_Novice Diabology',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\126_Outskirts Warden.png" id="126_Outskirts Warden" data-flag="@X" onclick="openSidebar('126_Outskirts Warden',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\159_Neural Barbs.png" id="159_Neural Barbs" data-flag="@X" onclick="openSidebar('159_Neural Barbs',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\24_Prayer for the Dead.png" id="24_Prayer for the Dead" data-flag="@X" onclick="openSidebar('24_Prayer for the Dead',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\62_Sever the Connection.png" id="62_Sever the Connection" data-flag="@X" onclick="openSidebar('62_Sever the Connection',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\92_Outskirts Scourge.png" id="92_Outskirts Scourge" data-flag="@X" onclick="openSidebar('92_Outskirts Scourge',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\127_Pandemonium Wave.png" id="127_Pandemonium Wave" data-flag="@X" onclick="openSidebar('127_Pandemonium Wave',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\160_Posthuman Transmuter.png" id="160_Posthuman Transmuter" data-flag="@X" onclick="openSidebar('160_Posthuman Transmuter',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\27_Spacial Rend.png" id="27_Spacial Rend" data-flag="@X" onclick="openSidebar('27_Spacial Rend',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\63_Slothful Mauler.png" id="63_Slothful Mauler" data-flag="@X" onclick="openSidebar('63_Slothful Mauler',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\96_Spiralling Hatred.png" id="96_Spiralling Hatred" data-flag="@X" onclick="openSidebar('96_Spiralling Hatred',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\128_Path of Conquest.png" id="128_Path of Conquest" data-flag="@X" onclick="openSidebar('128_Path of Conquest',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\161_Prized Test Subject.png" id="161_Prized Test Subject" data-flag="@X" onclick="openSidebar('161_Prized Test Subject',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\28_Spliced Breachwarden.png" id="28_Spliced Breachwarden" data-flag="@X" onclick="openSidebar('28_Spliced Breachwarden',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\64_Stitcher's Workshop.png" id="64_Stitchers Workshop" data-flag="@X" onclick="openSidebar('64_Stitchers Workshop',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\97_Spiteful Efflorescent.png" id="97_Spiteful Efflorescent" data-flag="@X" onclick="openSidebar('97_Spiteful Efflorescent',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\129_Rageborn Efflorescent.png" id="129_Rageborn Efflorescent" data-flag="@X" onclick="openSidebar('129_Rageborn Efflorescent',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\165_Shard Bearer.png" id="165_Shard Bearer" data-flag="@X" onclick="openSidebar('165_Shard Bearer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\30_Strike with Sorrow.png" id="30_Strike with Sorrow" data-flag="@X" onclick="openSidebar('30_Strike with Sorrow',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\66_Unravelled Identity.png" id="66_Unravelled Identity" data-flag="@X" onclick="openSidebar('66_Unravelled Identity',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\99_Tamed Monstrosity.png" id="99_Tamed Monstrosity" data-flag="@X" onclick="openSidebar('99_Tamed Monstrosity',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\130_Reckless Kineticist.png" id="130_Reckless Kineticist" data-flag="@X" onclick="openSidebar('130_Reckless Kineticist',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\169_Unaware Courier.png" id="169_Unaware Courier" data-flag="@X" onclick="openSidebar('169_Unaware Courier',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\32_Transmuted Prophet.png" id="32_Transmuted Prophet" data-flag="@X" onclick="openSidebar('32_Transmuted Prophet',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\67_Vain Efflorescent.png" id="67_Vain Efflorescent" data-flag="@X" onclick="openSidebar('67_Vain Efflorescent',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\101_Underwitch.png" id="101_Underwitch" data-flag="@X" onclick="openSidebar('101_Underwitch',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\132_Ruinous Roar.png" id="132_Ruinous Roar" data-flag="@X" onclick="openSidebar('132_Ruinous Roar',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\170_Unstable Mutate.png" id="170_Unstable Mutate" data-flag="@X" onclick="openSidebar('170_Unstable Mutate',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\33_Wanderer in a Lost World.png" id="33_Wanderer in a Lost World" data-flag="@X" onclick="openSidebar('33_Wanderer in a Lost World',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\68_Vent-Trawl Scavenger.png" id="68_Vent-Trawl Scavenger" data-flag="@X" onclick="openSidebar('68_Vent-Trawl Scavenger',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\102_Unstable Saviour.png" id="102_Unstable Saviour" data-flag="@X" onclick="openSidebar('102_Unstable Saviour',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\133_Sire of Four Hundred Thorns.png" id="133_Sire of Four Hundred Thorns" data-flag="@X" onclick="openSidebar('133_Sire of Four Hundred Thorns',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\171_Wild Manabloom.png" id="171_Wild Manabloom" data-flag="@X" onclick="openSidebar('171_Wild Manabloom',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\34_Western Witch.png" id="34_Western Witch" data-flag="@X" onclick="openSidebar('34_Western Witch',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\69_Wrap in Ethereal Threads.png" id="69_Wrap in Ethereal Threads" data-flag="@X" onclick="openSidebar('69_Wrap in Ethereal Threads',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\103_Want Not.png" id="103_Want Not" data-flag="@X" onclick="openSidebar('103_Want Not',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\134_Souls Aflame.png" id="134_Souls Aflame" data-flag="@X" onclick="openSidebar('134_Souls Aflame',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\172_Worldpulse.png" id="172_Worldpulse" data-flag="@X" onclick="openSidebar('172_Worldpulse',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\138_Veteran Slayer.png" id="138_Veteran Slayer" data-flag="@X" onclick="openSidebar('138_Veteran Slayer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="sets\HFB-files\img\24_Revelation of Light.png" id="HFB_24_Revelation of Light" data-flag="@X" onclick="openSidebar('HFB_24_Revelation of Light',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\40_Clockturning.png" id="HFB_40_Clockturning" data-flag="@X" onclick="openSidebar('HFB_40_Clockturning',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\77_Cruel Severance.png" id="HFB_77_Cruel Severance" data-flag="@X" onclick="openSidebar('HFB_77_Cruel Severance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\110_The Cursed Marksman.png" id="HFB_110_The Cursed Marksman" data-flag="@X" onclick="openSidebar('HFB_110_The Cursed Marksman',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\163_Revelation of Thorns.png" id="HFB_163_Revelation of Thorns" data-flag="@X" onclick="openSidebar('HFB_163_Revelation of Thorns',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\35_Wondrous Cataclysm.png" id="HFB_35_Wondrous Cataclysm" data-flag="@X" onclick="openSidebar('HFB_35_Wondrous Cataclysm',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\59_Revelation of Mirrors.png" id="HFB_59_Revelation of Mirrors" data-flag="@X" onclick="openSidebar('HFB_59_Revelation of Mirrors',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\94_Revelation of Steel.png" id="HFB_94_Revelation of Steel" data-flag="@X" onclick="openSidebar('HFB_94_Revelation of Steel',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\131_Revelation of Pain.png" id="HFB_131_Revelation of Pain" data-flag="@X" onclick="openSidebar('HFB_131_Revelation of Pain',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\164_Savage Surge.png" id="HFB_164_Savage Surge" data-flag="@X" onclick="openSidebar('HFB_164_Savage Surge',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\9_Fleshborn Behemoth.png" id="HFB_9_Fleshborn Behemoth" data-flag="@X" onclick="openSidebar('HFB_9_Fleshborn Behemoth',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\42_Cosmic Visitor.png" id="HFB_42_Cosmic Visitor" data-flag="@X" onclick="openSidebar('HFB_42_Cosmic Visitor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\71_All-Consuming Calamity.png" id="HFB_71_All-Consuming Calamity" data-flag="@X" onclick="openSidebar('HFB_71_All-Consuming Calamity',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\137_Unknown Wilderness.png" id="HFB_137_Unknown Wilderness" data-flag="@X" onclick="openSidebar('HFB_137_Unknown Wilderness',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\143_Bioinstrumentality.png" id="HFB_143_Bioinstrumentality" data-flag="@X" onclick="openSidebar('HFB_143_Bioinstrumentality',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\14_Grim Coronation.png" id="HFB_14_Grim Coronation" data-flag="@X" onclick="openSidebar('HFB_14_Grim Coronation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\43_Crescendo.png" id="HFB_43_Crescendo" data-flag="@X" onclick="openSidebar('HFB_43_Crescendo',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\78_Death of the Third City.png" id="HFB_78_Death of the Third City" data-flag="@X" onclick="openSidebar('HFB_78_Death of the Third City',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\105_Blood Sun's Dawning.png" id="HFB_105_Blood Suns Dawning" data-flag="@X" onclick="openSidebar('HFB_105_Blood Suns Dawning',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\148_The Crawling Room.png" id="HFB_148_The Crawling Room" data-flag="@X" onclick="openSidebar('HFB_148_The Crawling Room',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\15_Herald of Apathy.png" id="HFB_15_Herald of Apathy" data-flag="@X" onclick="openSidebar('HFB_15_Herald of Apathy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\45_Doom of the Second City.png" id="HFB_45_Doom of the Second City" data-flag="@X" onclick="openSidebar('HFB_45_Doom of the Second City',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\80_Devour the Future.png" id="HFB_80_Devour the Future" data-flag="@X" onclick="openSidebar('HFB_80_Devour the Future',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\106_Bloodlord Saladar.png" id="HFB_106_Bloodlord Saladar" data-flag="@X" onclick="openSidebar('HFB_106_Bloodlord Saladar',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\150_Distant Figure.png" id="HFB_150_Distant Figure" data-flag="@X" onclick="openSidebar('HFB_150_Distant Figure',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\18_Kalazek, Dracoform.png" id="HFB_18_Kalazek, Dracoform" data-flag="@X" onclick="openSidebar('HFB_18_Kalazek, Dracoform',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\48_Fate of a Messenger.png" id="HFB_48_Fate of a Messenger" data-flag="@X" onclick="openSidebar('HFB_48_Fate of a Messenger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\81_Extermination Campaign.png" id="HFB_81_Extermination Campaign" data-flag="@X" onclick="openSidebar('HFB_81_Extermination Campaign',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\111_Dealing with The Devil.png" id="HFB_111_Dealing with The Devil" data-flag="@X" onclick="openSidebar('HFB_111_Dealing with The Devil',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\153_Harmony of Might.png" id="HFB_153_Harmony of Might" data-flag="@X" onclick="openSidebar('HFB_153_Harmony of Might',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\19_Keth, Cutting Specialist.png" id="HFB_19_Keth, Cutting Specialist" data-flag="@X" onclick="openSidebar('HFB_19_Keth, Cutting Specialist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\49_The Grand Conductor.png" id="HFB_49_The Grand Conductor" data-flag="@X" onclick="openSidebar('HFB_49_The Grand Conductor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\83_Furioso; Fury; Scream.png" id="HFB_83_Furioso; Fury; Scream" data-flag="@X" onclick="openSidebar('HFB_83_Furioso; Fury; Scream',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\113_Drown It All in Blood.png" id="HFB_113_Drown It All in Blood" data-flag="@X" onclick="openSidebar('HFB_113_Drown It All in Blood',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\154_Harvester of Sorrows.png" id="HFB_154_Harvester of Sorrows" data-flag="@X" onclick="openSidebar('HFB_154_Harvester of Sorrows',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\22_Plastic Dream.png" id="HFB_22_Plastic Dream" data-flag="@X" onclick="openSidebar('HFB_22_Plastic Dream',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\50_Herald of Enlightenment.png" id="HFB_50_Herald of Enlightenment" data-flag="@X" onclick="openSidebar('HFB_50_Herald of Enlightenment',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\85_Herald of Arbitration.png" id="HFB_85_Herald of Arbitration" data-flag="@X" onclick="openSidebar('HFB_85_Herald of Arbitration',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\120_Fury of a Fallen Star.png" id="HFB_120_Fury of a Fallen Star" data-flag="@X" onclick="openSidebar('HFB_120_Fury of a Fallen Star',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\155_Herald of Tranquility.png" id="HFB_155_Herald of Tranquility" data-flag="@X" onclick="openSidebar('HFB_155_Herald of Tranquility',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\25_Ruin of the First City.png" id="HFB_25_Ruin of the First City" data-flag="@X" onclick="openSidebar('HFB_25_Ruin of the First City',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\55_Prodigal Neuromancer.png" id="HFB_55_Prodigal Neuromancer" data-flag="@X" onclick="openSidebar('HFB_55_Prodigal Neuromancer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\93_Prophellan Emissary.png" id="HFB_93_Prophellan Emissary" data-flag="@X" onclick="openSidebar('HFB_93_Prophellan Emissary',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\121_Herald of Meteors.png" id="HFB_121_Herald of Meteors" data-flag="@X" onclick="openSidebar('HFB_121_Herald of Meteors',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\162_Queen of Flytraps.png" id="HFB_162_Queen of Flytraps" data-flag="@X" onclick="openSidebar('HFB_162_Queen of Flytraps',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\26_Setting Sun.png" id="HFB_26_Setting Sun" data-flag="@X" onclick="openSidebar('HFB_26_Setting Sun',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\58_Reality Twister.png" id="HFB_58_Reality Twister" data-flag="@X" onclick="openSidebar('HFB_58_Reality Twister',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\95_Ruinbound Lich.png" id="HFB_95_Ruinbound Lich" data-flag="@X" onclick="openSidebar('HFB_95_Ruinbound Lich',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\122_Howling Chorus.png" id="HFB_122_Howling Chorus" data-flag="@X" onclick="openSidebar('HFB_122_Howling Chorus',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\166_Subterranean Coiler.png" id="HFB_166_Subterranean Coiler" data-flag="@X" onclick="openSidebar('HFB_166_Subterranean Coiler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\29_Starchosen Regent.png" id="HFB_29_Starchosen Regent" data-flag="@X" onclick="openSidebar('HFB_29_Starchosen Regent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\60_Riftway Visitor.png" id="HFB_60_Riftway Visitor" data-flag="@X" onclick="openSidebar('HFB_60_Riftway Visitor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\98_Swallowed Sky.png" id="HFB_98_Swallowed Sky" data-flag="@X" onclick="openSidebar('HFB_98_Swallowed Sky',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\124_Moondrenched Outsider.png" id="HFB_124_Moondrenched Outsider" data-flag="@X" onclick="openSidebar('HFB_124_Moondrenched Outsider',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\167_Tidecall Leviathan.png" id="HFB_167_Tidecall Leviathan" data-flag="@X" onclick="openSidebar('HFB_167_Tidecall Leviathan',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\31_Teller of Nine Thousand Tales.png" id="HFB_31_Teller of Nine Thousand Tales" data-flag="@X" onclick="openSidebar('HFB_31_Teller of Nine Thousand Tales',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\65_Undying Observer.png" id="HFB_65_Undying Observer" data-flag="@X" onclick="openSidebar('HFB_65_Undying Observer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\100_Thundering Symphony.png" id="HFB_100_Thundering Symphony" data-flag="@X" onclick="openSidebar('HFB_100_Thundering Symphony',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\135_Unbreaking Pulverizer.png" id="HFB_135_Unbreaking Pulverizer" data-flag="@X" onclick="openSidebar('HFB_135_Unbreaking Pulverizer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\168_Total Efflorescence.png" id="HFB_168_Total Efflorescence" data-flag="@X" onclick="openSidebar('HFB_168_Total Efflorescence',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\2_Aeon of a Perfect World.png" id="HFB_2_Aeon of a Perfect World" data-flag="@X" onclick="openSidebar('HFB_2_Aeon of a Perfect World',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\36_Arc-Crowned Vessel.png" id="HFB_36_Arc-Crowned Vessel" data-flag="@X" onclick="openSidebar('HFB_36_Arc-Crowned Vessel',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\70_Aimless Efflorescent.png" id="HFB_70_Aimless Efflorescent" data-flag="@X" onclick="openSidebar('HFB_70_Aimless Efflorescent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\136_Undying Renegade.png" id="HFB_136_Undying Renegade" data-flag="@X" onclick="openSidebar('HFB_136_Undying Renegade',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\139_Accomplished Researcher.png" id="HFB_139_Accomplished Researcher" data-flag="@X" onclick="openSidebar('HFB_139_Accomplished Researcher',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\3_Altered Farmhand.png" id="HFB_3_Altered Farmhand" data-flag="@X" onclick="openSidebar('HFB_3_Altered Farmhand',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\37_Bloom from Sorrow.png" id="HFB_37_Bloom from Sorrow" data-flag="@X" onclick="openSidebar('HFB_37_Bloom from Sorrow',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\72_Bearer of Death's Gaze.png" id="HFB_72_Bearer of Deaths Gaze" data-flag="@X" onclick="openSidebar('HFB_72_Bearer of Deaths Gaze',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\104_Blood Shaper.png" id="HFB_104_Blood Shaper" data-flag="@X" onclick="openSidebar('HFB_104_Blood Shaper',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\140_Amorphous Experiment.png" id="HFB_140_Amorphous Experiment" data-flag="@X" onclick="openSidebar('HFB_140_Amorphous Experiment',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\4_Aspect of Antipoise.png" id="HFB_4_Aspect of Antipoise" data-flag="@X" onclick="openSidebar('HFB_4_Aspect of Antipoise',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\38_Breach of Nature.png" id="HFB_38_Breach of Nature" data-flag="@X" onclick="openSidebar('HFB_38_Breach of Nature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\73_Calamity That Eats the Sky.png" id="HFB_73_Calamity That Eats the Sky" data-flag="@X" onclick="openSidebar('HFB_73_Calamity That Eats the Sky',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\107_Bringer of Madness.png" id="HFB_107_Bringer of Madness" data-flag="@X" onclick="openSidebar('HFB_107_Bringer of Madness',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\141_Angular Observer.png" id="HFB_141_Angular Observer" data-flag="@X" onclick="openSidebar('HFB_141_Angular Observer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\5_Bearer of Broken Wings.png" id="HFB_5_Bearer of Broken Wings" data-flag="@X" onclick="openSidebar('HFB_5_Bearer of Broken Wings',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\39_Captive Efflorescent.png" id="HFB_39_Captive Efflorescent" data-flag="@X" onclick="openSidebar('HFB_39_Captive Efflorescent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\74_CENSORED.png" id="HFB_74_CENSORED" data-flag="@X" onclick="openSidebar('HFB_74_CENSORED',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\108_Cardiomancer.png" id="HFB_108_Cardiomancer" data-flag="@X" onclick="openSidebar('HFB_108_Cardiomancer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\142_Architect of Calamity.png" id="HFB_142_Architect of Calamity" data-flag="@X" onclick="openSidebar('HFB_142_Architect of Calamity',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\6_Distant Wanderer.png" id="HFB_6_Distant Wanderer" data-flag="@X" onclick="openSidebar('HFB_6_Distant Wanderer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\41_Coralblight Survivor.png" id="HFB_41_Coralblight Survivor" data-flag="@X" onclick="openSidebar('HFB_41_Coralblight Survivor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\75_Corrupt Consumption.png" id="HFB_75_Corrupt Consumption" data-flag="@X" onclick="openSidebar('HFB_75_Corrupt Consumption',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\109_Cursed Ammunition.png" id="HFB_109_Cursed Ammunition" data-flag="@X" onclick="openSidebar('HFB_109_Cursed Ammunition',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\144_Blood-Tracker.png" id="HFB_144_Blood-Tracker" data-flag="@X" onclick="openSidebar('HFB_144_Blood-Tracker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\7_Ephemeral Return.png" id="HFB_7_Ephemeral Return" data-flag="@X" onclick="openSidebar('HFB_7_Ephemeral Return',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\44_Distant Warning.png" id="HFB_44_Distant Warning" data-flag="@X" onclick="openSidebar('HFB_44_Distant Warning',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\76_Cruel Puppeteer.png" id="HFB_76_Cruel Puppeteer" data-flag="@X" onclick="openSidebar('HFB_76_Cruel Puppeteer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\112_Devil's Bullet.png" id="HFB_112_Devils Bullet" data-flag="@X" onclick="openSidebar('HFB_112_Devils Bullet',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\145_Cloaked Enforcer.png" id="HFB_145_Cloaked Enforcer" data-flag="@X" onclick="openSidebar('HFB_145_Cloaked Enforcer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\8_Fleeting Efflorescent.png" id="HFB_8_Fleeting Efflorescent" data-flag="@X" onclick="openSidebar('HFB_8_Fleeting Efflorescent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\46_Dreamcrawler.png" id="HFB_46_Dreamcrawler" data-flag="@X" onclick="openSidebar('HFB_46_Dreamcrawler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\79_Death to the Deathless.png" id="HFB_79_Death to the Deathless" data-flag="@X" onclick="openSidebar('HFB_79_Death to the Deathless',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\114_Efflorescence Specialist.png" id="HFB_114_Efflorescence Specialist" data-flag="@X" onclick="openSidebar('HFB_114_Efflorescence Specialist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\146_Connection in Sorrow.png" id="HFB_146_Connection in Sorrow" data-flag="@X" onclick="openSidebar('HFB_146_Connection in Sorrow',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\10_Forged Enforcer.png" id="HFB_10_Forged Enforcer" data-flag="@X" onclick="openSidebar('HFB_10_Forged Enforcer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\47_Effloresced Archseer.png" id="HFB_47_Effloresced Archseer" data-flag="@X" onclick="openSidebar('HFB_47_Effloresced Archseer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\82_False Angel.png" id="HFB_82_False Angel" data-flag="@X" onclick="openSidebar('HFB_82_False Angel',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\115_Efflorescent Vessel.png" id="HFB_115_Efflorescent Vessel" data-flag="@X" onclick="openSidebar('HFB_115_Efflorescent Vessel',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\147_Coven of Stars.png" id="HFB_147_Coven of Stars" data-flag="@X" onclick="openSidebar('HFB_147_Coven of Stars',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\11_Gaze of Others.png" id="HFB_11_Gaze of Others" data-flag="@X" onclick="openSidebar('HFB_11_Gaze of Others',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\51_Hide From Fate.png" id="HFB_51_Hide From Fate" data-flag="@X" onclick="openSidebar('HFB_51_Hide From Fate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\84_Hazeth, Last Priest.png" id="HFB_84_Hazeth, Last Priest" data-flag="@X" onclick="openSidebar('HFB_84_Hazeth, Last Priest',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\116_Efflorescing Mystic.png" id="HFB_116_Efflorescing Mystic" data-flag="@X" onclick="openSidebar('HFB_116_Efflorescing Mystic',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\149_Disgraced Researcher.png" id="HFB_149_Disgraced Researcher" data-flag="@X" onclick="openSidebar('HFB_149_Disgraced Researcher',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\12_Glass Wings.png" id="HFB_12_Glass Wings" data-flag="@X" onclick="openSidebar('HFB_12_Glass Wings',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\52_Isolated Remnant.png" id="HFB_52_Isolated Remnant" data-flag="@X" onclick="openSidebar('HFB_52_Isolated Remnant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\86_In the Jaws of Despair.png" id="HFB_86_In the Jaws of Despair" data-flag="@X" onclick="openSidebar('HFB_86_In the Jaws of Despair',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\117_Extraspacial Manipulator.png" id="HFB_117_Extraspacial Manipulator" data-flag="@X" onclick="openSidebar('HFB_117_Extraspacial Manipulator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\151_Entangled Speaker.png" id="HFB_151_Entangled Speaker" data-flag="@X" onclick="openSidebar('HFB_151_Entangled Speaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\13_Grace of the Ancients.png" id="HFB_13_Grace of the Ancients" data-flag="@X" onclick="openSidebar('HFB_13_Grace of the Ancients',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\53_Matriarch of Mirrors.png" id="HFB_53_Matriarch of Mirrors" data-flag="@X" onclick="openSidebar('HFB_53_Matriarch of Mirrors',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\87_Isolate and Homogenize.png" id="HFB_87_Isolate and Homogenize" data-flag="@X" onclick="openSidebar('HFB_87_Isolate and Homogenize',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\118_Flamechosen Thrall.png" id="HFB_118_Flamechosen Thrall" data-flag="@X" onclick="openSidebar('HFB_118_Flamechosen Thrall',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\152_Ethereal Colossus.png" id="HFB_152_Ethereal Colossus" data-flag="@X" onclick="openSidebar('HFB_152_Ethereal Colossus',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\16_Hero of the Night.png" id="HFB_16_Hero of the Night" data-flag="@X" onclick="openSidebar('HFB_16_Hero of the Night',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\54_A New World.png" id="HFB_54_A New World" data-flag="@X" onclick="openSidebar('HFB_54_A New World',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\88_Lesser Reaper.png" id="HFB_88_Lesser Reaper" data-flag="@X" onclick="openSidebar('HFB_88_Lesser Reaper',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\119_Freelance Slayer.png" id="HFB_119_Freelance Slayer" data-flag="@X" onclick="openSidebar('HFB_119_Freelance Slayer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\156_Hungerborn.png" id="HFB_156_Hungerborn" data-flag="@X" onclick="openSidebar('HFB_156_Hungerborn',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\17_Janus Enforcer.png" id="HFB_17_Janus Enforcer" data-flag="@X" onclick="openSidebar('HFB_17_Janus Enforcer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\56_Psychic Insight.png" id="HFB_56_Psychic Insight" data-flag="@X" onclick="openSidebar('HFB_56_Psychic Insight',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\89_Mind Screech.png" id="HFB_89_Mind Screech" data-flag="@X" onclick="openSidebar('HFB_89_Mind Screech',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\123_Malevolent Heart.png" id="HFB_123_Malevolent Heart" data-flag="@X" onclick="openSidebar('HFB_123_Malevolent Heart',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\157_Masked Guest.png" id="HFB_157_Masked Guest" data-flag="@X" onclick="openSidebar('HFB_157_Masked Guest',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\20_The Long Walk.png" id="HFB_20_The Long Walk" data-flag="@X" onclick="openSidebar('HFB_20_The Long Walk',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\57_Reach through Reflections.png" id="HFB_57_Reach through Reflections" data-flag="@X" onclick="openSidebar('HFB_57_Reach through Reflections',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\90_Northern Witch.png" id="HFB_90_Northern Witch" data-flag="@X" onclick="openSidebar('HFB_90_Northern Witch',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\125_Mystic Torrent.png" id="HFB_125_Mystic Torrent" data-flag="@X" onclick="openSidebar('HFB_125_Mystic Torrent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\158_Mechanized Augmentee.png" id="HFB_158_Mechanized Augmentee" data-flag="@X" onclick="openSidebar('HFB_158_Mechanized Augmentee',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\21_Memories of Butterflies.png" id="HFB_21_Memories of Butterflies" data-flag="@X" onclick="openSidebar('HFB_21_Memories of Butterflies',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\61_Sever the Connection.png" id="HFB_61_Sever the Connection" data-flag="@X" onclick="openSidebar('HFB_61_Sever the Connection',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\91_Novice Diabology.png" id="HFB_91_Novice Diabology" data-flag="@X" onclick="openSidebar('HFB_91_Novice Diabology',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\126_Outskirts Warden.png" id="HFB_126_Outskirts Warden" data-flag="@X" onclick="openSidebar('HFB_126_Outskirts Warden',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\159_Neural Barbs.png" id="HFB_159_Neural Barbs" data-flag="@X" onclick="openSidebar('HFB_159_Neural Barbs',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\23_Prayer for the Dead.png" id="HFB_23_Prayer for the Dead" data-flag="@X" onclick="openSidebar('HFB_23_Prayer for the Dead',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\62_Slothful Mauler.png" id="HFB_62_Slothful Mauler" data-flag="@X" onclick="openSidebar('HFB_62_Slothful Mauler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\92_Outskirts Scourge.png" id="HFB_92_Outskirts Scourge" data-flag="@X" onclick="openSidebar('HFB_92_Outskirts Scourge',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\127_Pandemonium Wave.png" id="HFB_127_Pandemonium Wave" data-flag="@X" onclick="openSidebar('HFB_127_Pandemonium Wave',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\160_Posthuman Transmuter.png" id="HFB_160_Posthuman Transmuter" data-flag="@X" onclick="openSidebar('HFB_160_Posthuman Transmuter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\27_Spacial Rend.png" id="HFB_27_Spacial Rend" data-flag="@X" onclick="openSidebar('HFB_27_Spacial Rend',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\63_Stitcher's Workshop.png" id="HFB_63_Stitchers Workshop" data-flag="@X" onclick="openSidebar('HFB_63_Stitchers Workshop',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\96_Spiralling Hatred.png" id="HFB_96_Spiralling Hatred" data-flag="@X" onclick="openSidebar('HFB_96_Spiralling Hatred',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\128_Path of Conquest.png" id="HFB_128_Path of Conquest" data-flag="@X" onclick="openSidebar('HFB_128_Path of Conquest',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\161_Prized Test Subject.png" id="HFB_161_Prized Test Subject" data-flag="@X" onclick="openSidebar('HFB_161_Prized Test Subject',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\28_Spliced Breachwarden.png" id="HFB_28_Spliced Breachwarden" data-flag="@X" onclick="openSidebar('HFB_28_Spliced Breachwarden',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\64_Thirst for Legacy.png" id="HFB_64_Thirst for Legacy" data-flag="@X" onclick="openSidebar('HFB_64_Thirst for Legacy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\97_Spiteful Efflorescent.png" id="HFB_97_Spiteful Efflorescent" data-flag="@X" onclick="openSidebar('HFB_97_Spiteful Efflorescent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\129_Rageborn Efflorescent.png" id="HFB_129_Rageborn Efflorescent" data-flag="@X" onclick="openSidebar('HFB_129_Rageborn Efflorescent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\165_Shard Bearer.png" id="HFB_165_Shard Bearer" data-flag="@X" onclick="openSidebar('HFB_165_Shard Bearer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\30_Strike with Sorrow.png" id="HFB_30_Strike with Sorrow" data-flag="@X" onclick="openSidebar('HFB_30_Strike with Sorrow',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\66_Unravelled Identity.png" id="HFB_66_Unravelled Identity" data-flag="@X" onclick="openSidebar('HFB_66_Unravelled Identity',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\99_Tamed Monstrosity.png" id="HFB_99_Tamed Monstrosity" data-flag="@X" onclick="openSidebar('HFB_99_Tamed Monstrosity',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\130_Reckless Kineticist.png" id="HFB_130_Reckless Kineticist" data-flag="@X" onclick="openSidebar('HFB_130_Reckless Kineticist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\169_Unaware Courier.png" id="HFB_169_Unaware Courier" data-flag="@X" onclick="openSidebar('HFB_169_Unaware Courier',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\32_Transmuted Prophet.png" id="HFB_32_Transmuted Prophet" data-flag="@X" onclick="openSidebar('HFB_32_Transmuted Prophet',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\67_Vain Efflorescent.png" id="HFB_67_Vain Efflorescent" data-flag="@X" onclick="openSidebar('HFB_67_Vain Efflorescent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\101_Underwitch.png" id="HFB_101_Underwitch" data-flag="@X" onclick="openSidebar('HFB_101_Underwitch',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\132_Ruinous Roar.png" id="HFB_132_Ruinous Roar" data-flag="@X" onclick="openSidebar('HFB_132_Ruinous Roar',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\170_Unstable Mutate.png" id="HFB_170_Unstable Mutate" data-flag="@X" onclick="openSidebar('HFB_170_Unstable Mutate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\33_Wanderer in a Lost World.png" id="HFB_33_Wanderer in a Lost World" data-flag="@X" onclick="openSidebar('HFB_33_Wanderer in a Lost World',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\68_Vent-Trawl Scavenger.png" id="HFB_68_Vent-Trawl Scavenger" data-flag="@X" onclick="openSidebar('HFB_68_Vent-Trawl Scavenger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\102_Unstable Saviour.png" id="HFB_102_Unstable Saviour" data-flag="@X" onclick="openSidebar('HFB_102_Unstable Saviour',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\133_Sire of Four Hundred Thorns.png" id="HFB_133_Sire of Four Hundred Thorns" data-flag="@X" onclick="openSidebar('HFB_133_Sire of Four Hundred Thorns',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\171_Wild Manabloom.png" id="HFB_171_Wild Manabloom" data-flag="@X" onclick="openSidebar('HFB_171_Wild Manabloom',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\34_Western Witch.png" id="HFB_34_Western Witch" data-flag="@X" onclick="openSidebar('HFB_34_Western Witch',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\69_Wrap in Ethereal Threads.png" id="HFB_69_Wrap in Ethereal Threads" data-flag="@X" onclick="openSidebar('HFB_69_Wrap in Ethereal Threads',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\103_Want Not.png" id="HFB_103_Want Not" data-flag="@X" onclick="openSidebar('HFB_103_Want Not',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\134_Souls Aflame.png" id="HFB_134_Souls Aflame" data-flag="@X" onclick="openSidebar('HFB_134_Souls Aflame',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\172_Worldpulse.png" id="HFB_172_Worldpulse" data-flag="@X" onclick="openSidebar('HFB_172_Worldpulse',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="HFB_e" data-flag="@E" onclick="openSidebar('HFB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="HFB_e" data-flag="@E" onclick="openSidebar('HFB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="HFB_e" data-flag="@E" onclick="openSidebar('HFB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\138_Veteran Slayer.png" id="HFB_138_Veteran Slayer" data-flag="@X" onclick="openSidebar('HFB_138_Veteran Slayer',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="HFB_e" data-flag="@E" onclick="openSidebar('HFB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\180_Order from Above.png" id="180_Order from Above" data-flag="@X" onclick="openSidebar('180_Order from Above',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\174_Cavern Sentinel.png" id="174_Cavern Sentinel" data-flag="@X" onclick="openSidebar('174_Cavern Sentinel',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\175_Crawling Efflorescent.png" id="175_Crawling Efflorescent" data-flag="@X" onclick="openSidebar('175_Crawling Efflorescent',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\183_Symbiotic Harvester.png" id="183_Symbiotic Harvester" data-flag="@X" onclick="openSidebar('183_Symbiotic Harvester',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\177_Exl, Faerie Eater.png" id="177_Exl, Faerie Eater" data-flag="@X" onclick="openSidebar('177_Exl, Faerie Eater',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\190_Inventive Epiphany.png" id="190_Inventive Epiphany" data-flag="@X" onclick="openSidebar('190_Inventive Epiphany',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\193_Missing Evidence.png" id="193_Missing Evidence" data-flag="@X" onclick="openSidebar('193_Missing Evidence',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\188_Harbinger's Approach.png" id="188_Harbingers Approach" data-flag="@X" onclick="openSidebar('188_Harbingers Approach',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\194_The Monster is the Maze.png" id="194_The Monster is the Maze" data-flag="@X" onclick="openSidebar('194_The Monster is the Maze',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\178_Exl's Order.png" id="178_Exls Order" data-flag="@X" onclick="openSidebar('178_Exls Order',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\191_The Long Way Round.png" id="191_The Long Way Round" data-flag="@X" onclick="openSidebar('191_The Long Way Round',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\203_Unreal Herald.png" id="203_Unreal Herald" data-flag="@X" onclick="openSidebar('203_Unreal Herald',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\184_Accretion Disk.png" id="184_Accretion Disk" data-flag="@X" onclick="openSidebar('184_Accretion Disk',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\202_Thornrider's Aid.png" id="202_Thornriders Aid" data-flag="@X" onclick="openSidebar('202_Thornriders Aid',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\195_Monument To A Lost World.png" id="195_Monument To A Lost World" data-flag="@X" onclick="openSidebar('195_Monument To A Lost World',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\201_Sentinel of Bygone Days.png" id="201_Sentinel of Bygone Days" data-flag="@X" onclick="openSidebar('201_Sentinel of Bygone Days',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\182_Suffer, As I Have.png" id="182_Suffer, As I Have" data-flag="@X" onclick="openSidebar('182_Suffer, As I Have',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\179_No Plan Survives.png" id="179_No Plan Survives" data-flag="@X" onclick="openSidebar('179_No Plan Survives',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\176_Enhanced Excisor.png" id="176_Enhanced Excisor" data-flag="@X" onclick="openSidebar('176_Enhanced Excisor',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\181_Soul Ignition.png" id="181_Soul Ignition" data-flag="@X" onclick="openSidebar('181_Soul Ignition',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\173_Bloodied Wingbeats.png" id="173_Bloodied Wingbeats" data-flag="@X" onclick="openSidebar('173_Bloodied Wingbeats',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\189_Hazar, Censor of History.png" id="189_Hazar, Censor of History" data-flag="@X" onclick="openSidebar('189_Hazar, Censor of History',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\185_Ceaseless Mirage.png" id="185_Ceaseless Mirage" data-flag="@X" onclick="openSidebar('185_Ceaseless Mirage',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\192_Lurking Absolution.png" id="192_Lurking Absolution" data-flag="@X" onclick="openSidebar('192_Lurking Absolution',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\199_Palace of Blood and Blade.png" id="199_Palace of Blood and Blade" data-flag="@X" onclick="openSidebar('199_Palace of Blood and Blade',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\200_A Promise.png" id="200_A Promise" data-flag="@X" onclick="openSidebar('200_A Promise',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\196_Mothblessed.png" id="196_Mothblessed" data-flag="@X" onclick="openSidebar('196_Mothblessed',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\186_Cosmic Pact.png" id="186_Cosmic Pact" data-flag="@X" onclick="openSidebar('186_Cosmic Pact',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\198_Oblivious Highborn.png" id="198_Oblivious Highborn" data-flag="@X" onclick="openSidebar('198_Oblivious Highborn',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\197_New Dawn.png" id="197_New Dawn" data-flag="@X" onclick="openSidebar('197_New Dawn',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\187_Deepbreather's Vision.png" id="187_Deepbreathers Vision" data-flag="@X" onclick="openSidebar('187_Deepbreathers Vision',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\180_Order from Above.png" id="HFB_180_Order from Above" data-flag="@X" onclick="openSidebar('HFB_180_Order from Above',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\174_Cavern Sentinel.png" id="HFB_174_Cavern Sentinel" data-flag="@X" onclick="openSidebar('HFB_174_Cavern Sentinel',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\175_Crawling Efflorescent.png" id="HFB_175_Crawling Efflorescent" data-flag="@X" onclick="openSidebar('HFB_175_Crawling Efflorescent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\183_Symbiotic Harvester.png" id="HFB_183_Symbiotic Harvester" data-flag="@X" onclick="openSidebar('HFB_183_Symbiotic Harvester',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\177_Exl, Faerie Eater.png" id="HFB_177_Exl, Faerie Eater" data-flag="@X" onclick="openSidebar('HFB_177_Exl, Faerie Eater',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\193_Inventive Epiphany.png" id="HFB_193_Inventive Epiphany" data-flag="@X" onclick="openSidebar('HFB_193_Inventive Epiphany',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\197_Missing Evidence.png" id="HFB_197_Missing Evidence" data-flag="@X" onclick="openSidebar('HFB_197_Missing Evidence',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\191_Harbinger's Approach.png" id="HFB_191_Harbingers Approach" data-flag="@X" onclick="openSidebar('HFB_191_Harbingers Approach',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\198_The Monster is the Maze.png" id="HFB_198_The Monster is the Maze" data-flag="@X" onclick="openSidebar('HFB_198_The Monster is the Maze',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\178_Exl's Order.png" id="HFB_178_Exls Order" data-flag="@X" onclick="openSidebar('HFB_178_Exls Order',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\194_The Long Way Round.png" id="HFB_194_The Long Way Round" data-flag="@X" onclick="openSidebar('HFB_194_The Long Way Round',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\210_Shadowform Exterminator.png" id="HFB_210_Shadowform Exterminator" data-flag="@X" onclick="openSidebar('HFB_210_Shadowform Exterminator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\184_Accretion Disk.png" id="HFB_184_Accretion Disk" data-flag="@X" onclick="openSidebar('HFB_184_Accretion Disk',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\186_Backstreet Extortionists.png" id="HFB_186_Backstreet Extortionists" data-flag="@X" onclick="openSidebar('HFB_186_Backstreet Extortionists',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\199_Monument To A Lost World.png" id="HFB_199_Monument To A Lost World" data-flag="@X" onclick="openSidebar('HFB_199_Monument To A Lost World',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\209_Settled Mariner.png" id="HFB_209_Settled Mariner" data-flag="@X" onclick="openSidebar('HFB_209_Settled Mariner',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\213_Unreal Herald.png" id="HFB_213_Unreal Herald" data-flag="@X" onclick="openSidebar('HFB_213_Unreal Herald',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\207_Seasoned Exsanguinator.png" id="HFB_207_Seasoned Exsanguinator" data-flag="@X" onclick="openSidebar('HFB_207_Seasoned Exsanguinator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\212_Thornrider's Aid.png" id="HFB_212_Thornriders Aid" data-flag="@X" onclick="openSidebar('HFB_212_Thornriders Aid',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\205_Radiant Exemplar.png" id="HFB_205_Radiant Exemplar" data-flag="@X" onclick="openSidebar('HFB_205_Radiant Exemplar',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="HFB_e" data-flag="@E" onclick="openSidebar('HFB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="HFB_e" data-flag="@E" onclick="openSidebar('HFB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="HFB_e" data-flag="@E" onclick="openSidebar('HFB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="HFB_e" data-flag="@E" onclick="openSidebar('HFB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\208_Sentinel of Bygone Days.png" id="HFB_208_Sentinel of Bygone Days" data-flag="@X" onclick="openSidebar('HFB_208_Sentinel of Bygone Days',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\182_Suffer, As I Have.png" id="HFB_182_Suffer, As I Have" data-flag="@X" onclick="openSidebar('HFB_182_Suffer, As I Have',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\179_No Plan Survives.png" id="HFB_179_No Plan Survives" data-flag="@X" onclick="openSidebar('HFB_179_No Plan Survives',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\176_Enhanced Excisor.png" id="HFB_176_Enhanced Excisor" data-flag="@X" onclick="openSidebar('HFB_176_Enhanced Excisor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\181_Soul Ignition.png" id="HFB_181_Soul Ignition" data-flag="@X" onclick="openSidebar('HFB_181_Soul Ignition',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\173_Bloodied Wingbeats.png" id="HFB_173_Bloodied Wingbeats" data-flag="@X" onclick="openSidebar('HFB_173_Bloodied Wingbeats',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\192_Hazar, Censor of History.png" id="HFB_192_Hazar, Censor of History" data-flag="@X" onclick="openSidebar('HFB_192_Hazar, Censor of History',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\187_Ceaseless Mirage.png" id="HFB_187_Ceaseless Mirage" data-flag="@X" onclick="openSidebar('HFB_187_Ceaseless Mirage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\195_Lurking Absolution.png" id="HFB_195_Lurking Absolution" data-flag="@X" onclick="openSidebar('HFB_195_Lurking Absolution',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\203_Palace of Blood and Blade.png" id="HFB_203_Palace of Blood and Blade" data-flag="@X" onclick="openSidebar('HFB_203_Palace of Blood and Blade',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\204_A Promise.png" id="HFB_204_A Promise" data-flag="@X" onclick="openSidebar('HFB_204_A Promise',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\190_Efflorescence Cleanup Crew.png" id="HFB_190_Efflorescence Cleanup Crew" data-flag="@X" onclick="openSidebar('HFB_190_Efflorescence Cleanup Crew',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\185_Awakened Bladefiend.png" id="HFB_185_Awakened Bladefiend" data-flag="@X" onclick="openSidebar('HFB_185_Awakened Bladefiend',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\202_Oblivious Highborn.png" id="HFB_202_Oblivious Highborn" data-flag="@X" onclick="openSidebar('HFB_202_Oblivious Highborn',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\201_New Dawn.png" id="HFB_201_New Dawn" data-flag="@X" onclick="openSidebar('HFB_201_New Dawn',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\189_Deepbreather's Vision.png" id="HFB_189_Deepbreathers Vision" data-flag="@X" onclick="openSidebar('HFB_189_Deepbreathers Vision',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\200_Mothblessed.png" id="HFB_200_Mothblessed" data-flag="@X" onclick="openSidebar('HFB_200_Mothblessed',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\188_Cosmic Pact.png" id="HFB_188_Cosmic Pact" data-flag="@X" onclick="openSidebar('HFB_188_Cosmic Pact',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\206_Samet, Crawling Filth.png" id="HFB_206_Samet, Crawling Filth" data-flag="@X" onclick="openSidebar('HFB_206_Samet, Crawling Filth',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\211_Swordsaint.png" id="HFB_211_Swordsaint" data-flag="@X" onclick="openSidebar('HFB_211_Swordsaint',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\196_Marching Deepbreathers.png" id="HFB_196_Marching Deepbreathers" data-flag="@X" onclick="openSidebar('HFB_196_Marching Deepbreathers',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\1_Everlost Memory.png" id="1_Everlost Memory" data-flag="@X" onclick="openSidebar('1_Everlost Memory',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\210_Forlorn Titanshard.png" id="210_Forlorn Titanshard" data-flag="@X" onclick="openSidebar('210_Forlorn Titanshard',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\213_Hyperreal Nexus.png" id="213_Hyperreal Nexus" data-flag="@X" onclick="openSidebar('213_Hyperreal Nexus',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\215_Night Warden.png" id="215_Night Warden" data-flag="@X" onclick="openSidebar('215_Night Warden',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\219_Standard-Issue Rifle.png" id="219_Standard-Issue Rifle" data-flag="@X" onclick="openSidebar('219_Standard-Issue Rifle',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\222_Superheated Gladius.png" id="222_Superheated Gladius" data-flag="@X" onclick="openSidebar('222_Superheated Gladius',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\223_Sword of Stars.png" id="223_Sword of Stars" data-flag="@X" onclick="openSidebar('223_Sword of Stars',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\224_Timetither's Staff.png" id="224_Timetithers Staff" data-flag="@X" onclick="openSidebar('224_Timetithers Staff',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\226_Unborn Arbiter.png" id="226_Unborn Arbiter" data-flag="@X" onclick="openSidebar('226_Unborn Arbiter',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\204_Accelerator Drone.png" id="204_Accelerator Drone" data-flag="@X" onclick="openSidebar('204_Accelerator Drone',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\205_Control Center.png" id="205_Control Center" data-flag="@X" onclick="openSidebar('205_Control Center',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\206_Crowned Aeon.png" id="206_Crowned Aeon" data-flag="@X" onclick="openSidebar('206_Crowned Aeon',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\207_Divine Paragon.png" id="207_Divine Paragon" data-flag="@X" onclick="openSidebar('207_Divine Paragon',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\208_Efflorescent Pistols.png" id="208_Efflorescent Pistols" data-flag="@X" onclick="openSidebar('208_Efflorescent Pistols',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\209_Electrified Exosuit.png" id="209_Electrified Exosuit" data-flag="@X" onclick="openSidebar('209_Electrified Exosuit',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\211_Harmonious Aeon.png" id="211_Harmonious Aeon" data-flag="@X" onclick="openSidebar('211_Harmonious Aeon',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\212_High-Impact Munitions.png" id="212_High-Impact Munitions" data-flag="@X" onclick="openSidebar('212_High-Impact Munitions',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\214_Labyrinth Dweller.png" id="214_Labyrinth Dweller" data-flag="@X" onclick="openSidebar('214_Labyrinth Dweller',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\216_Progenitor of Desire.png" id="216_Progenitor of Desire" data-flag="@X" onclick="openSidebar('216_Progenitor of Desire',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\217_Skyborn Manastone.png" id="217_Skyborn Manastone" data-flag="@X" onclick="openSidebar('217_Skyborn Manastone',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\218_Spaceripper Gauntlet.png" id="218_Spaceripper Gauntlet" data-flag="@X" onclick="openSidebar('218_Spaceripper Gauntlet',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\220_Starturning Celestial.png" id="220_Starturning Celestial" data-flag="@X" onclick="openSidebar('220_Starturning Celestial',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\221_Stasis Chamber.png" id="221_Stasis Chamber" data-flag="@X" onclick="openSidebar('221_Stasis Chamber',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\225_Tombwatcher.png" id="225_Tombwatcher" data-flag="@X" onclick="openSidebar('225_Tombwatcher',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\1_Everlost Memory.png" id="HFB_1_Everlost Memory" data-flag="@X" onclick="openSidebar('HFB_1_Everlost Memory',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\220_Forlorn Titanshard.png" id="HFB_220_Forlorn Titanshard" data-flag="@X" onclick="openSidebar('HFB_220_Forlorn Titanshard',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\223_Hyperreal Nexus.png" id="HFB_223_Hyperreal Nexus" data-flag="@X" onclick="openSidebar('HFB_223_Hyperreal Nexus',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\225_Night Warden.png" id="HFB_225_Night Warden" data-flag="@X" onclick="openSidebar('HFB_225_Night Warden',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\230_Standard-Issue Rifle.png" id="HFB_230_Standard-Issue Rifle" data-flag="@X" onclick="openSidebar('HFB_230_Standard-Issue Rifle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\233_Superheated Gladius.png" id="HFB_233_Superheated Gladius" data-flag="@X" onclick="openSidebar('HFB_233_Superheated Gladius',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\234_Sword of Stars.png" id="HFB_234_Sword of Stars" data-flag="@X" onclick="openSidebar('HFB_234_Sword of Stars',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\235_Timetither's Staff.png" id="HFB_235_Timetithers Staff" data-flag="@X" onclick="openSidebar('HFB_235_Timetithers Staff',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\237_Unborn Arbiter.png" id="HFB_237_Unborn Arbiter" data-flag="@X" onclick="openSidebar('HFB_237_Unborn Arbiter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\214_Accelerator Drone.png" id="HFB_214_Accelerator Drone" data-flag="@X" onclick="openSidebar('HFB_214_Accelerator Drone',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\215_Control Center.png" id="HFB_215_Control Center" data-flag="@X" onclick="openSidebar('HFB_215_Control Center',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\216_Crowned Aeon.png" id="HFB_216_Crowned Aeon" data-flag="@X" onclick="openSidebar('HFB_216_Crowned Aeon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\217_Divine Paragon.png" id="HFB_217_Divine Paragon" data-flag="@X" onclick="openSidebar('HFB_217_Divine Paragon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\218_Efflorescent Pistols.png" id="HFB_218_Efflorescent Pistols" data-flag="@X" onclick="openSidebar('HFB_218_Efflorescent Pistols',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\219_Electrified Exosuit.png" id="HFB_219_Electrified Exosuit" data-flag="@X" onclick="openSidebar('HFB_219_Electrified Exosuit',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\221_Harmonious Aeon.png" id="HFB_221_Harmonious Aeon" data-flag="@X" onclick="openSidebar('HFB_221_Harmonious Aeon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\222_High-Impact Munitions.png" id="HFB_222_High-Impact Munitions" data-flag="@X" onclick="openSidebar('HFB_222_High-Impact Munitions',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\224_Labyrinth Dweller.png" id="HFB_224_Labyrinth Dweller" data-flag="@X" onclick="openSidebar('HFB_224_Labyrinth Dweller',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\226_Progenitor of Desire.png" id="HFB_226_Progenitor of Desire" data-flag="@X" onclick="openSidebar('HFB_226_Progenitor of Desire',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\227_Progenitor of Desire COPY.png" id="HFB_227_Progenitor of Desire COPY" data-flag="@X" onclick="openSidebar('HFB_227_Progenitor of Desire COPY',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\228_Skyborn Manastone.png" id="HFB_228_Skyborn Manastone" data-flag="@X" onclick="openSidebar('HFB_228_Skyborn Manastone',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\229_Spaceripper Gauntlet.png" id="HFB_229_Spaceripper Gauntlet" data-flag="@X" onclick="openSidebar('HFB_229_Spaceripper Gauntlet',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\231_Starturning Celestial.png" id="HFB_231_Starturning Celestial" data-flag="@X" onclick="openSidebar('HFB_231_Starturning Celestial',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\232_Stasis Chamber.png" id="HFB_232_Stasis Chamber" data-flag="@X" onclick="openSidebar('HFB_232_Stasis Chamber',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\236_Tombwatcher.png" id="HFB_236_Tombwatcher" data-flag="@X" onclick="openSidebar('HFB_236_Tombwatcher',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
 				<div id="land" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\233_Efflorescent Sky.png" id="233_Efflorescent Sky" data-flag="@X" onclick="openSidebar('233_Efflorescent Sky',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\232_Efflorescent River.png" id="232_Efflorescent River" data-flag="@X" onclick="openSidebar('232_Efflorescent River',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\231_Efflorescent Memorial.png" id="231_Efflorescent Memorial" data-flag="@X" onclick="openSidebar('231_Efflorescent Memorial',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\230_Efflorescent Forge.png" id="230_Efflorescent Forge" data-flag="@X" onclick="openSidebar('230_Efflorescent Forge',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\234_Efflorescent Woods.png" id="234_Efflorescent Woods" data-flag="@X" onclick="openSidebar('234_Efflorescent Woods',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\228_Brilliant Tower.png" id="228_Brilliant Tower" data-flag="@X" onclick="openSidebar('228_Brilliant Tower',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\227_Bioengineering Bay.png" id="227_Bioengineering Bay" data-flag="@X" onclick="openSidebar('227_Bioengineering Bay',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\240_Underground Apparatus.png" id="240_Underground Apparatus" data-flag="@X" onclick="openSidebar('240_Underground Apparatus',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\235_Fortified District.png" id="235_Fortified District" data-flag="@X" onclick="openSidebar('235_Fortified District',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\239_Outskirts Research Station.png" id="239_Outskirts Research Station" data-flag="@X" onclick="openSidebar('239_Outskirts Research Station',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\238_Nexus of Creation.png" id="238_Nexus of Creation" data-flag="@X" onclick="openSidebar('238_Nexus of Creation',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\241_The Unknown Sun.png" id="241_The Unknown Sun" data-flag="@X" onclick="openSidebar('241_The Unknown Sun',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\229_Deep Outskirts Relay.png" id="229_Deep Outskirts Relay" data-flag="@X" onclick="openSidebar('229_Deep Outskirts Relay',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\236_Incursive Structure.png" id="236_Incursive Structure" data-flag="@X" onclick="openSidebar('236_Incursive Structure',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\237_Mining Outpost.png" id="237_Mining Outpost" data-flag="@X" onclick="openSidebar('237_Mining Outpost',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\244_Swamp.png" id="244_Swamp" data-flag="@X" onclick="openSidebar('244_Swamp',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\243_Island.png" id="243_Island" data-flag="@X" onclick="openSidebar('243_Island',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\246_Forest.png" id="246_Forest" data-flag="@X" onclick="openSidebar('246_Forest',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\242_Plains.png" id="242_Plains" data-flag="@X" onclick="openSidebar('242_Plains',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\245_Mountain.png" id="245_Mountain" data-flag="@X" onclick="openSidebar('245_Mountain',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\244_Efflorescent Sky.png" id="HFB_244_Efflorescent Sky" data-flag="@X" onclick="openSidebar('HFB_244_Efflorescent Sky',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\243_Efflorescent River.png" id="HFB_243_Efflorescent River" data-flag="@X" onclick="openSidebar('HFB_243_Efflorescent River',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\242_Efflorescent Memorial.png" id="HFB_242_Efflorescent Memorial" data-flag="@X" onclick="openSidebar('HFB_242_Efflorescent Memorial',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\241_Efflorescent Forge.png" id="HFB_241_Efflorescent Forge" data-flag="@X" onclick="openSidebar('HFB_241_Efflorescent Forge',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\245_Efflorescent Woods.png" id="HFB_245_Efflorescent Woods" data-flag="@X" onclick="openSidebar('HFB_245_Efflorescent Woods',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\239_Brilliant Tower.png" id="HFB_239_Brilliant Tower" data-flag="@X" onclick="openSidebar('HFB_239_Brilliant Tower',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\238_Bioengineering Bay.png" id="HFB_238_Bioengineering Bay" data-flag="@X" onclick="openSidebar('HFB_238_Bioengineering Bay',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\251_Underground Apparatus.png" id="HFB_251_Underground Apparatus" data-flag="@X" onclick="openSidebar('HFB_251_Underground Apparatus',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\246_Fortified District.png" id="HFB_246_Fortified District" data-flag="@X" onclick="openSidebar('HFB_246_Fortified District',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\250_Outskirts Research Station.png" id="HFB_250_Outskirts Research Station" data-flag="@X" onclick="openSidebar('HFB_250_Outskirts Research Station',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\249_Nexus of Creation.png" id="HFB_249_Nexus of Creation" data-flag="@X" onclick="openSidebar('HFB_249_Nexus of Creation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\252_The Unknown Sun.png" id="HFB_252_The Unknown Sun" data-flag="@X" onclick="openSidebar('HFB_252_The Unknown Sun',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\240_Deep Outskirts Relay.png" id="HFB_240_Deep Outskirts Relay" data-flag="@X" onclick="openSidebar('HFB_240_Deep Outskirts Relay',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\247_Incursive Structure.png" id="HFB_247_Incursive Structure" data-flag="@X" onclick="openSidebar('HFB_247_Incursive Structure',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\248_Mining Outpost.png" id="HFB_248_Mining Outpost" data-flag="@X" onclick="openSidebar('HFB_248_Mining Outpost',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\255_Swamp.png" id="HFB_255_Swamp" data-flag="@X" onclick="openSidebar('HFB_255_Swamp',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\254_Island.png" id="HFB_254_Island" data-flag="@X" onclick="openSidebar('HFB_254_Island',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\257_Forest.png" id="HFB_257_Forest" data-flag="@X" onclick="openSidebar('HFB_257_Forest',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\253_Plains.png" id="HFB_253_Plains" data-flag="@X" onclick="openSidebar('HFB_253_Plains',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\256_Mountain.png" id="HFB_256_Mountain" data-flag="@X" onclick="openSidebar('HFB_256_Mountain',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
 				<div id="token" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\1t_Horror.png" id="1t_Horror" data-flag="@X" onclick="openSidebar('1t_Horror',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\2t_Synapse.png" id="2t_Synapse" data-flag="@X" onclick="openSidebar('2t_Synapse',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\14t_Construct.png" id="14t_Construct" data-flag="@X" onclick="openSidebar('14t_Construct',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\15t_Golem.png" id="15t_Golem" data-flag="@X" onclick="openSidebar('15t_Golem',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\16t_Sword.png" id="16t_Sword" data-flag="@X" onclick="openSidebar('16t_Sword',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\17t_Treasure.png" id="17t_Treasure" data-flag="@X" onclick="openSidebar('17t_Treasure',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\18t_Moonspot.png" id="18t_Moonspot" data-flag="@X" onclick="openSidebar('18t_Moonspot',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\3t_Citizen.png" id="3t_Citizen" data-flag="@X" onclick="openSidebar('3t_Citizen',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\4t_Faerie.png" id="4t_Faerie" data-flag="@X" onclick="openSidebar('4t_Faerie',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\5t_Horror.png" id="5t_Horror" data-flag="@X" onclick="openSidebar('5t_Horror',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\6t_Horror.png" id="6t_Horror" data-flag="@X" onclick="openSidebar('6t_Horror',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\7t_Human Scout.png" id="7t_Human Scout" data-flag="@X" onclick="openSidebar('7t_Human Scout',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\8t_Ten Thousand Years.png" id="8t_Ten Thousand Years" data-flag="@X" onclick="openSidebar('8t_Ten Thousand Years',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\9t_Blight.png" id="9t_Blight" data-flag="@X" onclick="openSidebar('9t_Blight',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\10t_Flare.png" id="10t_Flare" data-flag="@X" onclick="openSidebar('10t_Flare',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\11t_Vampire.png" id="11t_Vampire" data-flag="@X" onclick="openSidebar('11t_Vampire',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\12t_Human.png" id="12t_Human" data-flag="@X" onclick="openSidebar('12t_Human',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\HFB-files\img\13t_Reflection.png" id="13t_Reflection" data-flag="@X" onclick="openSidebar('13t_Reflection',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\1t_Horror.png" id="HFB_1t_Horror" data-flag="@X" onclick="openSidebar('HFB_1t_Horror',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\2t_Synapse.png" id="HFB_2t_Synapse" data-flag="@X" onclick="openSidebar('HFB_2t_Synapse',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\14t_Construct.png" id="HFB_14t_Construct" data-flag="@X" onclick="openSidebar('HFB_14t_Construct',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\15t_Golem.png" id="HFB_15t_Golem" data-flag="@X" onclick="openSidebar('HFB_15t_Golem',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\16t_Sword.png" id="HFB_16t_Sword" data-flag="@X" onclick="openSidebar('HFB_16t_Sword',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\17t_Treasure.png" id="HFB_17t_Treasure" data-flag="@X" onclick="openSidebar('HFB_17t_Treasure',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\18t_Moonspot.png" id="HFB_18t_Moonspot" data-flag="@X" onclick="openSidebar('HFB_18t_Moonspot',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\3t_Citizen.png" id="HFB_3t_Citizen" data-flag="@X" onclick="openSidebar('HFB_3t_Citizen',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\4t_Faerie.png" id="HFB_4t_Faerie" data-flag="@X" onclick="openSidebar('HFB_4t_Faerie',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\5t_Horror.png" id="HFB_5t_Horror" data-flag="@X" onclick="openSidebar('HFB_5t_Horror',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\6t_Horror.png" id="HFB_6t_Horror" data-flag="@X" onclick="openSidebar('HFB_6t_Horror',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\7t_Human Scout.png" id="HFB_7t_Human Scout" data-flag="@X" onclick="openSidebar('HFB_7t_Human Scout',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\8t_Ten Thousand Years.png" id="HFB_8t_Ten Thousand Years" data-flag="@X" onclick="openSidebar('HFB_8t_Ten Thousand Years',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\9t_Rot.png" id="HFB_9t_Rot" data-flag="@X" onclick="openSidebar('HFB_9t_Rot',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\10t_Flare.png" id="HFB_10t_Flare" data-flag="@X" onclick="openSidebar('HFB_10t_Flare',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\11t_Vampire.png" id="HFB_11t_Vampire" data-flag="@X" onclick="openSidebar('HFB_11t_Vampire',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\12t_Human.png" id="HFB_12t_Human" data-flag="@X" onclick="openSidebar('HFB_12t_Human',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\HFB-files\img\13t_Reflection.png" id="HFB_13t_Reflection" data-flag="@X" onclick="openSidebar('HFB_13t_Reflection',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="HFB_e" data-flag="@E" onclick="openSidebar('HFB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="HFB_e" data-flag="@E" onclick="openSidebar('HFB_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="HFB_er" data-flag="@E" onclick="openSidebar('HFB_er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
-			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_img" class="sidebar-img">
 			<img id="sidebar_h_img" class="sidebar-h-img">
 			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
 		</div>
@@ -536,19 +569,111 @@
 		let specialchars = "";
 
 	document.addEventListener('DOMContentLoaded', async function() {
-		await fetch('/lists/all-cards.json')
+		await fetch(rootPath + '/lists/all-cards.json')
 					.then(response => response.json())
 					.then(json => {
 						card_list = json;
 				}).catch(error => console.error('Error:', error));
 
-				await fetch('/resources/replacechars.txt')
+				await fetch(rootPath + '/resources/replacechars.txt')
 					.then(response => response.text())
 					.then(text => {
 						specialchars = text; 
 				}).catch(error => console.error('Error:', error));
 
 				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1]);
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
 
@@ -583,13 +708,16 @@
 			const flag = img.getAttribute('data-flag');
 
 			if (flag === '@N') {
-				img.src = '/img/card_back.png';
+				img.src = rootPath + '/img/card_back.png';
 				img.removeAttribute("onclick");
 				img.style.cursor = 'default';
 			}
 			else
 			{
-				img.src = img.alt;
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
 
 				if (flag === '@E') {
 					img.removeAttribute("onclick");
@@ -743,16 +871,16 @@
 	});
 
 	function search() {
-		const url = new URL('search', window.location.origin);
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 		url.searchParams.append('search', document.getElementById("search").value);
-		window.location.href = url;
+		window.location.href = url.pathname + url.search;
 	}
 
 		function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
 				let random_card = card_list_arrayified[i];
 
-				const url = new URL('card', window.location.origin);
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 				const params = {
 					set: random_card.set,
 					num: random_card.number,
@@ -762,7 +890,7 @@
 					url.searchParams.append(key, params[key]);
 				}
 
-				window.location.href = url;
+				window.location.href = url.pathname + url.search;
 			}
 	</script>
 </body>

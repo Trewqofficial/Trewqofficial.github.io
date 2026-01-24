@@ -67,7 +67,7 @@
 			"type": "Sorcery — Epiphany",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/IID-files/img/12_Burning Nights.png"
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/12t_Burning Nights.png"
 			}
 		},
 		{
@@ -137,7 +137,7 @@
 			"type": "Sorcery",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/IID-files/img/14_Inferno Strike.png"
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/14t_Inferno Strike.png"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 			"type": "Legendary Planeswalker — Echo",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/IID-files/img/2_Drowned Echo.png"
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/2t_Drowned Echo.png"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 			"type": "Legendary Planeswalker — Echo",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/IID-files/img/9_Silenced Echo.png"
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/9t_Silenced Echo.png"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			"type": "Legendary Planeswalker — Echo",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/IID-files/img/8_Primal Echo.png"
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/8t_Primal Echo.png"
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"type": "Creature — Merfolk Citizen",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/IID-files/img/10_Transformed Citizen.png"
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/10t_Transformed Citizen.png"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 			"type": "Creature — Demon",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/IID-files/img/16_Protector of the Lost.png"
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/16t_Protector of the Lost.png"
 			}
 		},
 		{
@@ -287,7 +287,7 @@
 			"type": "Creature — Cleric",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/IID-files/img/5_Risen Sage.png"
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/5t_Risen Sage.png"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/IID-files/img/3_Defaced Angel.png"
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/3t_Defaced Angel.png"
 			}
 		},
 		{
@@ -477,7 +477,7 @@
 			"type": "Creature — Fractal Wolf",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/IID-files/img/15_Kaleidowolf.png"
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/15t_Kaleidowolf.png"
 			}
 		},
 		{
@@ -527,7 +527,7 @@
 			"type": "Sorcery",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/IID-files/img/2_Strip for Parts.png"
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/2t_Strip for Parts.png"
 			}
 		},
 		{
@@ -567,7 +567,7 @@
 			"type": "Creature — Fractal Wolf",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/IID-files/img/13_Hemiwolf.png"
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/13t_Hemiwolf.png"
 			}
 		},
 		{
@@ -737,7 +737,7 @@
 			"type": "Token Creature — Angel",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/IID-files/img/11_Angel Token.png"
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/11t_Angel Token.png"
 			}
 		},
 		{
@@ -1069,7 +1069,7 @@
 			"type": "Token Creature — Fractal",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/IID-files/img/1_Fractal Token.png"
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/1t_Fractal Token.png"
 			}
 		},
 		{
@@ -1079,7 +1079,7 @@
 			"type": "Sorcery — Epiphany",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/IID-files/img/7_Weave Fates.png"
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/7t_Weave Fates.png"
 			}
 		},
 		{
@@ -1109,7 +1109,7 @@
 			"type": "Sorcery — Epiphany",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/IID-files/img/9_Plans to Fruition.png"
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/9t_Plans to Fruition.png"
 			}
 		},
 		{
@@ -1119,7 +1119,7 @@
 			"type": "Sorcery — Epiphany",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/IID-files/img/8_Forgotten Verse.png"
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/8t_Forgotten Verse.png"
 			}
 		},
 		{
@@ -1129,7 +1129,7 @@
 			"type": "Sorcery — Epiphany",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/IID-files/img/6_Uncover Truth.png"
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/6t_Uncover Truth.png"
 			}
 		},
 		{
@@ -1139,7 +1139,7 @@
 			"type": "Sorcery — Epiphany",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/IID-files/img/4_Martyr's Cause.png"
+				"en": "https://Trewqofficial.github.io/sets/IID-files/img/4t_Martyr's Cause.png"
 			}
 		}
 	]

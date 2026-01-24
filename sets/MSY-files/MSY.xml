@@ -1,0 +1,793 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>MSY</name>
+			<longname>MSEM Mystery Community Slots</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-01-24</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Radiant Unicorn</name>
+			<text>Flying
+When this creature enters, you may search your library for an Aura or Equipment card, reveal it, put it into your hand, then shuffle.
+Warp {1}{W} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/7_Radiant Unicorn.png" num="7">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Unicorn</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Librarian Training</name>
+			<text>Whenever this enchantment enters or you cast your second spell each turn, draw a card, then discard a card.
+Once each turn, when you discard a nonland card, you may put a +1/+1 counter on up to one target creature.</text>
+			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/14_Librarian Training.png" num="14">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Melting Admirer</name>
+			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+When this creature enters, you may cast target instant or sorcery card with mana value lesser than or equal to the amount of mana spent to cast this spell from your graveyard without paying its mana cost. If that spell would be put into your graveyard, exile it instead.</text>
+			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/26_Melting Admirer.png" num="26">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>5RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eager Researcher</name>
+			<text>Ravenous (This creature enters with X +1/+1 counters on it. If X is 5 or more, draw a card when it enters.)
+Trample
+Escape—{3}{G}{G}, Exile twice X other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/28_Eager Researcher.png" num="28">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Azra Scientist</type>
+				<maintype>Creature</maintype>
+				<manacost>XGG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stand Everlasting</name>
+			<text>Choose one—
+• Exile target player&apos;s graveyard.
+• Target player gains 4 life.
+• Target player sacrifices an enchantment.
+Compose (Then if you cast this from your hand, exile it and create a Saga token with &quot;r{3}—You may cast a copy of this card from exile without paying its mana cost.&quot;)</text>
+			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/8_Stand Everlasting.png" num="8">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Everlost Mariner</name>
+			<text>When this creature enters, draw a card. If you didn&apos;t cast it from your hand, draw two cards instead.
+Waterbend {8}: Exile this creature, then return it to the battlefield under your control. Activate only as a sorcery. (While paying a waterbend cost, you can tap your artifacts and creatures to help. Each one pays for {1}.)</text>
+			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/13_Everlost Mariner.png" num="13">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mental Breach</name>
+			<text>You may exile any number of cards from your graveyard. Each creature gets -1/-1 until end of turn for each card type among cards exiled this way.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/18_Mental Breach.png" num="18">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Flourish</name>
+			<text>You may have this enchantment enter as a copy of any land you control, except it&apos;s an enchantment in addition to its other types.</text>
+			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/29_Flourish.png" num="29">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Conductor of the Last Verse</name>
+			<text>{1}{W}: Adapt 1. (If this creature has no +1/+1 counters on it, put a +1/+1 counter on it.)
+Once each turn, whenever you put one or more +1/+1 counters on this creature, you may return target non-Performer creature card with mana value 3 or less from your graveyard to the battlefield tapped.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/5_Conductor of the Last Verse.png" num="5">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Horror Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lonesome Wanderer</name>
+			<text>Landfall — Whenever a land you control enters, each opponent loses 2 life and you gain 2 life.
+Warp {1}{B} (You may cast this card from your hand for its warp cost. Exile this creature at the beginning of the next end step, then you may cast it from exile on a later turn.)</text>
+			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/17_Lonesome Wanderer.png" num="17">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cutting Specialist</name>
+			<text>Whenever you cast a noncreature spell, you may discard a card. If you do, draw a card.
+At the beginning of combat on your turn, you may exile an instant and a sorcery card from your graveyard. If you do, this creature gains +2/+0 and gets first strike until end of turn.</text>
+			<set rarity="mythic" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/23_Cutting Specialist.png" num="23">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Break the Cyclone</name>
+			<text>Return up to two target nonland permanents to their owner&apos;s hands. Each opponent can&apos;t cast spells that share a name with those permanents until your next turn.
+Coalesce {6}{U} (You may cast this from your graveyard for 6U. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/12_Break the Cyclone.png" num="12">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Breaker of Flesh</name>
+			<text>Colossal 2—{4}{R}{R} (You may cast this for its colossal cost to have it enter with two +1/+1 counters; or pay {4}{R}{R} as a sorcery: Put two +1/+1 counters on it if it has none.)
+Once each turn, whenever this creature enters or you put one or more +1/+1 counters on it, you may have it deal damage equal to its power to up to one target creature.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/22_Breaker of Flesh.png" num="22">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Astral Surveyor</name>
+			<text>When this creature enters, choose any number. Create a 1/1 colorless Servo artifact creature token for each mode you didn&apos;t choose.
+• Destroy target artifact or enchantment.
+• Shuffle target player&apos;s graveyard into their library.
+• You gain 5 life.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/27_Astral Surveyor.png" num="27">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Alien</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Extol Heavenly Virtues</name>
+			<text>This spell costs {1} less to cast for each Horror you control.
+Return target creature card from your graveyard to the battlefield with a flying counter on it.
+Coalesce {7}{W} (You may cast this from your graveyard for {7}{W}. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/6_Extol Heavenly Virtues.png" num="6">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nothing but My Sorrow</name>
+			<text>Tithe (As you cast this spell, you may tap three artifacts and/or creatures you control.)
+Choose one. If you paid this spell&apos;s tithe cost, choose any number instead.
+• Target player sacrifices a nontoken creature.
+• Target player sacrifices a creature token.
+• Exile target player&apos;s graveyard.</text>
+			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/19_Nothing but My Sorrow.png" num="19">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lacerate</name>
+			<text>Lacerate deals 3 damage to any target.
+Create a Function token with &quot;This spell costs {R} less to cast.&quot; (It&apos;s an enchantment. As you cast an instant or sorcery spell, sacrifice any number of Functions to add their effects to that spell.)</text>
+			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/25_Lacerate.png" num="25">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Children of The City</name>
+			<text>---
+(Back): Distortion of Truth</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/4_Children of The City_front.png" num="4a">MSY</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related attach="transform">Distortion of Truth</related>
+		</card>
+		<card>
+			<name>Distortion of Truth</name>
+			<text>{1}, {T}: Return target creature card with mana value 3 or less from your graveyard to the battlefield with a finality counter on it. Activate only as a sorcery.
+---
+(Front): Children of The City</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/4_Children of The City_back.png" num="4b">MSY</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Legendary Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Children of The City</related>
+		</card>
+		<card>
+			<name>Out of Your Mind</name>
+			<text>When this enchantment enters, you draw a card and each opponent discards a card. If they can&apos;t, they sacrifice a creature.
+Augmented — At the beginning of your end step, if you&apos;ve spent {W}{U}{B}{R}{G} to cast spells this turn, exile this enchantment, then return it to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/35_Out of Your Mind.png" num="35">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kai&apos;Oro of Ancient Oath</name>
+			<text>Flash
+Flying
+Whenever Kai&apos;Oro enters or attacks, return target permanent card with mana value 3 or less from your graveyard to your hand. You may then put a land card from your hand onto the battlefield tapped.</text>
+			<set rarity="mythic" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/34_Kai&apos;Oro of Ancient Oath.png" num="34">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>2GWU</manacost>
+				<cmc>5</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Retrieval Thopter</name>
+			<text>Flying
+When this creature dies, return another target artifact card from your graveyard to your hand.
+Foreshadow {6}. This costs {1} less for each artifact card in your graveyard. (You may cast this spell for its foreshadow cost. If you do, also trigger its &quot;dies&quot; abilities when it enters.)</text>
+			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/38_Retrieval Thopter.png" num="38">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Ornithopter</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ulamog&apos;s Might</name>
+			<text>Escalate {C} (Pay this cost for each mode chosen beyond the first.)
+Choose one or more —
+• Target creature gets +3/-3 until end of turn.
+• Target creature gets +3/-3 until end of turn.
+• Target creature gets +3/-3 until end of turn.
+• Target creature gets +3/-3 until end of turn.[b][/b]</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/2_Ulamog&apos;s Might.png" num="2">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Phyrexia Eternal</name>
+			<text>{T}: Add {C}.
+{1}: This land becomes a 1/1 Phyrexian Mite artifact creature with toxic 1 and &quot;This creature can&apos;t block&quot; until end of turn. (Players dealt combat damage by it also get a poison counter.)
+{1}, {T}: Target creature you control gains toxic 2 until end of turn. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/39_Phyrexia Eternal.png" num="39">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Blackwall Download</name>
+			<text>Draw a number of cards equal to the amount of mana spent to cast this spell, then discard that many cards minus one.
+Flashback {U}{U}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/10_Blackwall Download.png" num="10">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hemley Dreadfeather</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/33_Hemley Dreadfeather.png" num="33">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Hemley</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Villainous Ensemble</name>
+			<text>When Villainous Ensemble enters, if it was cast, return up to three target creature cards with total mana value 6 or less from your graveyard to the battlefield.
+Whenever a creature you control enters, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/20_Villainous Ensemble.png" num="20">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Apocalypse&apos;s Heart</name>
+			<text>Flying
+Whenever Apocalypse&apos;s Heart enters or attacks, each player discards a card, loses 3 life, and sacrifices a non-Horror creature.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/15_Apocalypse&apos;s Heart.png" num="15">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Bird Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dreams of the Outsider</name>
+			<text>Create a 1/1 colorless Eldrazi Scion creature token with &quot;Sacrifice this token: Add {C}.&quot; If this spell was cast from a graveyard, create two of those tokens instead.
+Coalesce {4}{C} (You may cast this from your graveyard for {4}{C}. If you do, it enters as an Eldrazi Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</text>
+			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/1_Dreams of the Outsider.png" num="1">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Kindred Sorcery — Eldrazi Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Labyrinth&apos;s Welcome</name>
+			<text>Search your library for a green creature card with mana value X or less. Put it onto the battlefield, then shuffle. Exile that creature at the beginning of the next end step. You may cast it from exile for as long as it remains exiled.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/30_Labyrinth&apos;s Welcome.png" num="30">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XG</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Herald of Tedium</name>
+			<text>Improve {B} ({B}: Put a +1/+1 counter on this creature. This costs {1} more to activate for each +1/+1 counter on it. Improve only as a sorcery.)
+Whenever you put one or more +1/+1 counters on this creature, reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/16_Herald of Tedium.png" num="16">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Horror Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Yokai Keeper</name>
+			<text>Vigilance; Evolve (Whenever a creature you control enters, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)
+Whenever you put one or more +1/+1 counters on this creature, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/32_Yokai Keeper.png" num="32">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Fox Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eldrazi Scion MSY</name>
+			<text>Sacrifice this token: Add {C}.</text>
+			<set rarity="common" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/1t_Eldrazi Scion.png" num="1">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Eldrazi Scion</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Knight MSY</name>
+			<text>Vigilance</text>
+			<set rarity="common" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/2t_Knight.png" num="2">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Knight</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Manufactorum Bureaucrat</name>
+			<text>When this creature enters, create a tapped colorless artifact token named Scrap.
+Artifact tokens you control have the following abilities—
+• &quot;{2}, Sacrifice this token: Draw a card.&quot;
+• &quot;{2}, {T}, Sacrifice this token: You gain 3 life.&quot;
+• &quot;{T}, Sacrifice this token: Add one mana of any color.&quot;</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/37_Manufactorum Bureaucrat.png" num="37">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodstained Celestial</name>
+			<text>Bloodprice {W}{W}{W} (You may cast this spell by paying {W}{W}{W} and sacrificing a creature rather than paying its mana cost.)
+Flying, lifelink
+When this creature enters, exile up to one other target creature. That creature&apos;s controller gains life equal to its power.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/3_Bloodstained Celestial.png" num="3">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stellar Chasm</name>
+			<text>{T}, Sacrifice this land: Search your library for a basic land card and put it onto the battlefield tapped, then shuffle.
+Primordial — Exile four other cards from your graveyard: Put this land from your graveyard onto the battlefield tapped. (During your turn, you may activate a primordial ability instead of playing a land.)</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/40_Stellar Chasm.png" num="40">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Saint Ha, of Wilting Leaves</name>
+			<text>When Ha enters, adjudicate land. (Create a white enchantment Aura token with enchant land and &quot;Sacrifice this token: Untap enchanted land.&quot; attached to target land.)
+Enchanted lands you control have &quot;{T}: Draw a card, then discard a card.&quot;</text>
+			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/36_Saint Ha, of Wilting Leaves.png" num="36">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Zombie Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Beyond Mortal Grasp</name>
+			<text>Exile up to one target non-Revelation instant or sorcery card with mana value 2 or less from your graveyard. Copy it. You may cast the copy without paying its mana cost.
+Coalesce {4}{R}{R} (You may cast this from your graveyard for {4}{R}{R}. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/21_Beyond Mortal Grasp.png" num="21">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Revelation</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Horizontal Split</name>
+			<text>Choose up to five target creatures one at a time. Horizontal Split deals 5 damage to the first creature chosen this way, this is true for 4 and the second, 3 and the third, 2 and the fourth, and 1 and the fifth.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/24_Horizontal Split.png" num="24">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Olta, Rotting Queen</name>
+			<text></text>
+			<set rarity="mythic" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/31_Olta, Rotting Queen.png" num="31">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Olta</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1GGG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scrap MSY</name>
+			<text></text>
+			<set rarity="common" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/3t_Scrap.png" num="3">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Beloved of a Star</name>
+			<text>Flash
+Flying
+When this creature enters, you may exile target blue instant or sorcery card with mana value 2 from your graveyard. Copy it twice. You may cast the copies without paying their mana costs.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/9_Beloved of a Star.png" num="9">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bound Emissary</name>
+			<text>Cadence (Whenever you cast a spell, if its mana value is greater than this creature&apos;s power, put a +1/+1 counter on this creature.)
+Once during each of your turns, whenever you put one or more +1/+1 counters on this creature, exile up to one target instant or sorcery card with mana value 2 or less from your graveyard. Copy it. You may cast the copy without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/MSY-files/img/11_Bound Emissary.png" num="11">MSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

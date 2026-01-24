@@ -324,7 +324,7 @@
 			"type": "Token Creature — Eldrazi Scion",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/1_Eldrazi Scion.png"
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/1t_Eldrazi Scion.png"
 			}
 		},
 		{
@@ -334,7 +334,7 @@
 			"type": "Creature — Knight",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/2_Knight.png"
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/2t_Knight.png"
 			}
 		},
 		{
@@ -414,7 +414,7 @@
 			"type": "Token Artifact",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/3_Scrap.png"
+				"en": "https://Trewqofficial.github.io/sets/MSY-files/img/3t_Scrap.png"
 			}
 		},
 		{
@@ -481,7 +481,8 @@
 	4 Phyrexia Eternal
 	4 Dreams of the Outsider
 	4 Saint Ha, of Wilting Leaves
-[common(7)]
+[common(6)]
+[common | masterpiece(1)]
 [foil(1)]
 	6 Radiant Unicorn
 	6 Librarian Training

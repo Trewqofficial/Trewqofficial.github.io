@@ -1,0 +1,2050 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>IID</name>
+			<longname>Itera: Inbetween Days</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-01-24</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Oracle of Frozen Suns</name>
+			<text>Flash
+When Oracle of Frozen Suns enters, you may have each player draw two cards.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/30_Oracle of Frozen Suns.png" num="30">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Delver of Mysteries // Uncover Truth</name>
+			<text>Flash
+You may have Delver of Mysteries enter as a copy of a creature you control. When it does, it stops being a copy.
+
+---
+
+(Once, you may conjure this into your hand instead of drawing.)
+Return target instant or sorcery card from your graveyard to your hand. Exile Uncover Truth.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/27_Delver of Mysteries.png" num="27">IID</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen // Sorcery — Epiphany</type>
+				<maintype>Creature</maintype>
+				<manacost>2U // U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Upper-Court Oracle</name>
+			<text>When Upper-Court Oracle enters or dies, each player draws a card.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/21_Upper-Court Oracle.png" num="21">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Selfish Sentinel</name>
+			<text>When Selfish Sentinel dies, target opponent draws two cards.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/83_Selfish Sentinel.png" num="83">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aeon, Reborn Godling</name>
+			<text>When Aeon, Reborn Godling enters, you may exile any number of permanent cards with mana value 5 or less from your graveyard. Exiling cards this way causes abilities of permanent cards to trigger as though they were permanents put into the graveyard from the battlefield. (This causes dies abilities to trigger.)</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/11_Aeon, Reborn Godling.png" num="11">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scorching Days // Burning Nights</name>
+			<text>Players can&apos;t gain life.
+At the beginning of your upkeep, Scorching Days deals 1 damage to target player.
+
+---
+
+(Once, you may conjure this into your hand instead of drawing.)
+Burning Nights deals 3 damage to target opponent.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/55_Scorching Days.png" num="55">IID</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Enchantment // Sorcery — Epiphany</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R // R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Burning Nights IID</name>
+			<text>Burning Nights deals 3 damage to target opponent.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/12t_Burning Nights.png" num="12">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Epiphany</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>The Second Triumvirate // Plans to Fruition</name>
+			<text>Deathtouch
+{B}{B}{B}, Pay 3 life: Draw a card.
+
+---
+
+(Once, you may conjure this into your hand instead of drawing.)
+Add {B}{B}{B}.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/43_The Second Triumvirate.png" num="43">IID</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Legendary Creature — Advisor // Sorcery — Epiphany</type>
+				<maintype>Creature</maintype>
+				<manacost>2B // B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Godhatching</name>
+			<text>Draw a card. You may then reveal a card from your hand, conjure four duplicates of it into your library, then shuffle.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/29_Godhatching.png" num="29">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wandering Troupe // Forgotten Verse</name>
+			<text>Once each turn, whenever you cast a noncreature spell, you may gain 1 life and have each opponent lose 1 life.
+
+---
+
+(Once, you may conjure this into your hand instead of drawing.)
+Return target non-Bard creature card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/45_Wandering Troupe.png" num="45">IID</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Demon Bard // Sorcery — Epiphany</type>
+				<maintype>Creature</maintype>
+				<manacost>B // B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Weave Realities</name>
+			<text>Conjure a basic Plains, Island, Swamp, Mountain and Forest. Put one of them onto the battlefield tapped and shuffle the rest into your library.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/70_Weave Realities.png" num="70">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stormweaver // Weave Futures</name>
+			<text>Flying
+
+---
+
+(Once, you may conjure this into your hand instead of drawing.)
+Look at the bottom three cards of your library. Put one on top. Draw a card.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/32_Stormweaver.png" num="32">IID</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard // Sorcery — Epiphany</type>
+				<maintype>Creature</maintype>
+				<manacost>U // U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Destruction of District 20</name>
+			<text>Destruction of District 20 deals 2 damage to each creature and planeswalker. 
+Conjure Inferno Strike onto the bottom of your library. (It&apos;s a {1}{R}{R} sorcery with &quot;Inferno Strike deals 5 damage to target creature and 3 damage to its controller&quot;)</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/49_Destruction of District 20.png" num="49">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Inferno Strike IID</name>
+			<text>Inferno Strike deals 5 damage to target creature and 3 damage to its controller.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/14t_Inferno Strike.png" num="14">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Drowned Echo IID</name>
+			<text></text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/2t_Drowned Echo.png" num="2">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Echo</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Silenced Echo IID</name>
+			<text></text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/9t_Silenced Echo.png" num="9">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Echo</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Primal Echo IID</name>
+			<text></text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/8t_Primal Echo.png" num="8">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Echo</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Echo of Reverberations</name>
+			<text></text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/3_Echo of Reverberations.png" num="3">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Echo</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Agonized Deepbreather</name>
+			<text>Whenever Agonized Deepbreather attacks, it deals 1 damage to you.
+When Agonized Deepbreather dies, conjure Transformed Citizen onto the bottom of your library. (It&apos;s a {1}{B} 3/3 Merfolk Citizen creature with &quot;When Transformed Citizen enters, it deals 3 damage to each opponent and you gain 3 life.&quot;)</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/35_Agonized Deepbreather.png" num="35">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Transformed Citizen IID</name>
+			<text>When Transformed Citizen enters, it deals 3 damage to each opponent and you gain 3 life.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/10t_Transformed Citizen.png" num="10">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Eye of Apocalypse</name>
+			<text>Trample, ward {3}
+At the beginning of your upkeep, put a omen counter on Eye of Apocalypse. It isn&apos;t a creature unless it has ten or more omen counters on it.
+{1}, Sacrifice another permanent: Put an omen counter on Eye of Apocalypse. You gain 1 life.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/4_Eye of Apocalypse.png" num="4">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Eye</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<pt>10/10</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dark Obsessions</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1 and has &quot;Whenever this creature deals combat damage to a player, you draw a card and you lose 1 life.&quot;
+At the beginning of its controller&apos;s end step, if enchanted creature didn&apos;t attack this turn, its controller sacrifices it.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/40_Dark Obsessions.png" num="40">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Diviner of Possibility</name>
+			<text>When Diviner of Possibility enters, look at the bottom three cards of your library. Put one on top.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/1_Diviner of Possibility.png" num="1">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Clockwork Converter</name>
+			<text>{2}, {T}: Draw a card, then put a card from your hand on the bottom of your library.
+{2}, {T}: Put the bottom card of your library into your graveyard. If it was a land card, you gain 2 life. Otherwise, create a 2/2 colorless Fractal creature token with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/72_Clockwork Converter.png" num="72">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fourth Order Templar // Martyr&apos;s Cause</name>
+			<text>First strike
+Fourth Order Templar has double strike as long as a permanent you control was put into a graveyard from the battlefield this turn.
+
+---
+
+(Once, you may conjure this into your hand instead of drawing.)
+Sacrifice a creature. Put a +1/+1 counter on each creature you control.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/13_Fourth Order Templar.png" num="13">IID</set>
+			<prop>
+				<layout>adventure</layout>
+				<side>front</side>
+				<type>Creature — Horror Knight // Sorcery — Epiphany</type>
+				<maintype>Creature</maintype>
+				<manacost>1W // W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Renegade Heretic</name>
+			<text>When Renegade Heretic dies, conjure Protector of the Lost and put it onto the bottom of your library. (It&apos;s a {1}{G}{G} 4/4 Demon creature with vigilance and &quot;When Protector of the Lost enters, it fights up to one target creature you don&apos;t control.&quot;)</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/68_Renegade Heretic.png" num="68">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Protector of the Lost IID</name>
+			<text>Vigilance
+When Protector of the Lost enters, it fights up to one target creature you don&apos;t control.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/16t_Protector of the Lost.png" num="16">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Tomb of the Great Sage</name>
+			<text>When Tomb of the Great Sage enters, conjure Risen Sage onto the bottom of your library. (It&apos;s a {U}{U} 1/3 legendary Cleric creature with ward {2} and &quot;If you would draw a card, you may create a 2/2 Fractal creature token with decayed instead.&quot; )
+{T}: Target land you control becomes the basic land of a type of your choice until end of turn.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/34_Tomb of the Great Sage.png" num="34">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Risen Sage IID</name>
+			<text>Ward {2}
+If you would draw a card, you may create a 2/2 Fractal creature token with decayed instead. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/5t_Risen Sage.png" num="5">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Pathwalker</name>
+			<text>At the beginning of your end step, if a permanent card was put into your graveyard from anywhere this turn, put a +1/+1 counter on target creature.
+{1}{W}, Sacrifice Pathwalker: Exile target creature with mana value X or less, where X is Pathwalker&apos;s toughness.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/17_Pathwalker.png" num="17">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bringer of Dark Intentions</name>
+			<text>Lifelink
+When Bringer of Dark Intentions enters, target player discards a card and loses 3 life if you gained life this turn.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/38_Bringer of Dark Intentions.png" num="38">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Psychic Glare</name>
+			<text>Psychic Glare deals 3 damage to any target. You gain 3 life.
+You may exile Psychic Glare. If you do, you may cast it until end of turn.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/42_Psychic Glare.png" num="42">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Psychic Shrapnel</name>
+			<text>Psychic Shrapnel deals 2 damage to target creature or planeswalker and 2 damage to you. 
+You may exile Psychic Shrapnel. If you do, you may cast it until end of turn.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/53_Psychic Shrapnel.png" num="53">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Psychic Insight</name>
+			<text>Draw a card. You may put any number of cards from your hand on the bottom of your library in any order.
+You may exile Psychic Insight. If you do, you may cast it until end of turn.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/31_Psychic Insight.png" num="31">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Psychic Resilience</name>
+			<text>Create a 2/2 green Demon creature token. You gain 2 life.
+You may exile Psychic Resilience. If you do, you may cast it until end of turn.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/67_Psychic Resilience.png" num="67">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Psychic Schematics</name>
+			<text>Return target nonland permanent card with mana value 3 or less from your graveyard to the battlefield.
+You may exile Psychic Schematics. If you do, you may cast it until end of turn.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/18_Psychic Schematics.png" num="18">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Seeker of Enlightenment</name>
+			<text>Flying
+When Seeker of Enlightenment dies, return another target nonland permanent card with mana value 3 or less from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/20_Seeker of Enlightenment.png" num="20">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Immortal Throne</name>
+			<text>When Immortal Throne enters, return target creature card with mana value 3 or less from your graveyard to the battlefield.
+Whenever a creature you control with mana value 3 or less dies, you may sacrifice Immortal Throne. If you do, return that card to the battlefield.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/14_Immortal Throne.png" num="14">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lifebloom Mystic</name>
+			<text>Sacrifice Lifebloom Mystic: Put a +1/+1 counter on target creature you control. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/15_Lifebloom Mystic.png" num="15">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Exploring the Dreamworlds</name>
+			<text>Whenever a nontoken creature you control enters, put a quest counter on Exploring the Dreamworlds. 
+As long as Exploring the Dreamworlds has three or more quest counters on it, triggered abilities of creatures you control trigger an additional time.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/28_Exploring the Dreamworlds.png" num="28">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Abandoned Godhead</name>
+			<text>Indestructible
+As long as your complexity is less than three, Abandoned Godhead isn&apos;t a creature. (Your complexity is the number of spells you cast and nonland activated abilities you activated this turn.)
+{0}: Create a token that&apos;s a copy of target non-God creature you control, then exile it. Activate only once each turn and only as a sorcery.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/23_Abandoned Godhead.png" num="23">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dustland Survivor</name>
+			<text>Menace
+Whenever Dustland Survivor enters or attacks, choose up to one target creature, artifact or nonbasic land without an erosion counter on it. Put an erosion counter on it. It gains &quot;At the beginning of your upkeep, this permanent deals 1 damage to you. You may then sacrifice it.&quot;</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/50_Dustland Survivor.png" num="50">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Survivor</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Saint of Iconoclasts</name>
+			<text>When Saint of Iconoclasts dies, conjure Defaced Angel onto the bottom of your library. (It&apos;s {2}{W}{W} 5/5 Angel creature with flying and &quot;When Defaced Angel enters, destroy up to one target artifact or enchantment.&quot;)</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/19_Saint of Iconoclasts.png" num="19">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Defaced Angel IID</name>
+			<text>When Defaced Angel enters, destroy up to one target artifact or enchantment.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/3t_Defaced Angel.png" num="3">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Demiwolf</name>
+			<text>Prowess, haste
+{T}: Conjure Hemiwolf into your hand. Activate only if your complexity is three or greater. (It&apos;s a {R} 1/1 Fractal Wolf creature with prowess and haste. Your complexity is the number of spells you cast and nonland abilities you activated this turn.)</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/48_Demiwolf.png" num="48">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fractal Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Splicewolf</name>
+			<text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+When Splicewolf enters, conjure Kaleidowolf onto the bottom of your library. (It&apos;s a {1}{R}{R} 3/3 Fractal Wolf creature with prowess, prowess, prowess, and haste. Multiple instances of prowess trigger separately.)</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/57_Splicewolf.png" num="57">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fractal Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Worldforge</name>
+			<text>Whenever Worldforge or another permanent you control is put into a graveyard from the battlefield during your turn, return to your hand target permanent card in your graveyard with lesser mana value.
+{4}, Sacrifice Worldforge: You gain 4 life.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/85_Worldforge.png" num="85">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kaleidowolf IID</name>
+			<text>Prowess, prowess, prowess, haste</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/15t_Kaleidowolf.png" num="15">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fractal Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Howling Chorus</name>
+			<text>Haste
+Once each turn, when your complexity is three or greater, return target instant or sorcery card from your graveyard to your hand. (Your complexity is the number of spells you cast and nonland abilities you activated this turn.)</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/51_Howling Chorus.png" num="51">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thousands of Teeth</name>
+			<text>Up to one target creature gets +2/+0 and gains trample until end of turn.
+Look at the bottom three cards of your library. Put one on top.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/58_Thousands of Teeth.png" num="58">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unmanned Assembelage</name>
+			<text>Ward {2}
+At the beginning of each player&apos;s draw step, that player draws an additional card from the bottom of their library.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/84_Unmanned Assembelage.png" num="84">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Inner Immolation</name>
+			<text>Inner Immolation deals 4 damage to target creature. If that creature would die this turn, exile it instead. Its controller creates a Treasure token. (It&apos;s an artifact with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/52_Inner Immolation.png" num="52">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Strip for Parts IID</name>
+			<text>Choose up to two target creatures. Exile one of those creatures and put two +1/+1 counters on the rest.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/2t_Strip for Parts.png" num="2">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+			</prop>
+			<tablerow>3</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Ayia, Augmented Hunter</name>
+			<text>{B}: Ayia gains flying until end of turn.
+Whenever Ayia deals combat damage to a player, look at the bottom three cards of your library. Put one on top. You lose 1 life.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/36_Ayia, Augmented Hunter.png" num="36">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ayia&apos;s Contempt</name>
+			<text>Target creature gets -2/-2 until end of turn.
+Conjure Strip for Parts onto the bottom of your library. (It&apos;s a {1}{B} sorcery with &quot;Choose up to two target creatures. Exile one of those creatures and put two +1/+1 counters on the rest.&quot;)</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/37_Ayia&apos;s Contempt.png" num="37">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Aska, Witch of the Division</name>
+			<text>{T}: Target creature gains haste until end of turn.
+{4}{R}, {T}, Sacrifice another creature. Create two tokens that are copies of that creature, except they have haste and aren&apos;t legendary. Sacrifice those creatures at the beginning of your next end step.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/47_Aska, Witch of the Division.png" num="47">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hemiwolf IID</name>
+			<text>Prowess, haste</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/13t_Hemiwolf.png" num="13">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fractal Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Wretched Emergent</name>
+			<text>Menace
+When Wretched Emergent enters, exile up to one creature with mana value less than or equal to your complexity. (Your complexity is the number of spells you cast and nonland activated abilities you activated this turn.)</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/46_Wretched Emergent.png" num="46">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Corpse Collector</name>
+			<text>Menace
+Whenever you gain life, shuffle up to that many target cards from your graveyard into your library.
+If you would take damage from a source, you may instead mill that many cards.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/39_Corpse Collector.png" num="39">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Beast&apos;s Lair</name>
+			<text>Whenever a creature you control dies, you gain 1 life.
+{G}, {T}, Sacrifice a creature: Return target creature or land card from your graveyard to your hand. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/60_Beast&apos;s Lair.png" num="60">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cosmic Visitor</name>
+			<text>When Cosmic Visitor enters, exile the top card of target opponent&apos;s library. You may play that card for as long as it remains exiled and spend mana as if it were mana of any color to cast that spell.
+Spells you cast that you don&apos;t own cost {1} less to cast.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/25_Cosmic Visitor.png" num="25">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Underworld Guard</name>
+			<text>Haste
+At the beginning of combat on your turn, if you&apos;ve spend five or more mana to cast creature spells this turn, you may discard a card. If you do, return Underworld Guard from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/69_Underworld Guard.png" num="69">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>2GGG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Discordant Disciple</name>
+			<text>When Discordant Disciple enters, if it was the first creature spell you cast this turn, add {G}{G}{G}. Spend this mana only to cast creature spells.
+As long as your complexity is three or greater, Discordant Disciple gets +2/+1 and has haste. (Your complexity is the number of spells you cast and nonland abilities you activated this turn.)</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/61_Discordant Disciple.png" num="61">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>All That Will Be or Has Been</name>
+			<text>Flying
+When All That Will Be or Has Been enters, exile each opponent&apos;s graveyard.
+If a card or token would be put into an opponent&apos;s graveyard from anywhere, exile it instead.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/71_All That Will Be or Has Been.png" num="71">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Master of the Gate</name>
+			<text>Haste
+Whenever you cast a creature spell, untap Master of the Gate.
+{1}, {T}: Put a +1/+1 counter on Master of the Gate. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/64_Master of the Gate.png" num="64">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Troll</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Great-Work Weaver</name>
+			<text>{T}: Add {G}.
+{T}: Other creatures you control get +1/+1 and gain trample and haste until end of turn. Activate only if your complexity is five or greater. (Your complexity is the number of spells you cast and nonland abilities you activated this turn.)</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/62_Great-Work Weaver.png" num="62">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Outlawed Preacher</name>
+			<text>{T}: Put target card from a graveyard onto the bottom of its owner&apos;s library. If it was a permanent card, put a +1/+1 counter on Outlawed Preacher. Otherwise, you gain 2 life.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/66_Outlawed Preacher.png" num="66">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Morphiglass Sentinel</name>
+			<text>Changeling (This card is every creature type.)
+Vigilance
+This spell costs {3} less to cast if there are five or more creature types among creatures you control.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/81_Morphiglass Sentinel.png" num="81">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Morphic Wanderer</name>
+			<text>Morphic Wanderer enters with three +1/+1 counters on it.
+Remove a counter from Morphic Wanderer: Look at the bottom three cards of your library. Put one on top.
+{3}: Put a +1/+1 counter on Morphic Wanderer.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/80_Morphic Wanderer.png" num="80">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Divine Warcasket</name>
+			<text>When Divine Warcasket enters, create a colorless 0/0 Avatar creature token and attach Divine Warcasket to it.
+Equipped creature gets +4/+4 and has flying and vigilance.
+{5}: Attach Divine Warcasket to target creature.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/74_Divine Warcasket.png" num="74">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lunarian Soldier</name>
+			<text>When Lunarian Soldier enters, you gain 2 life. 
+When Lunarian Soldier dies, each opponent loses 2 life.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/78_Lunarian Soldier.png" num="78">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lunarian Cavern</name>
+			<text>{T}: Add {C}
+{T}: Until end of turn, target permanent gains &quot;{T}: Add one mana of any color.&quot;</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/91_Lunarian Cavern.png" num="91">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Moonfall Egg</name>
+			<text>{1}, {T}: Add one mana of any color.
+{T}, Sacrifice Moonfall Egg: Moonfall Egg deals 3 damage to any target. Create a 3/3 red Angel creature token with flying. Activate only if your complexity is five or greater. (Your complexity is the number of spells you cast and nonland abilities you activated this turn.)</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/79_Moonfall Egg.png" num="79">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Angel Token IID</name>
+			<text>Flying</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/11t_Angel Token.png" num="11">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Damaged Shell</name>
+			<text>Damaged Shell can&apos;t block.
+When Damaged Shell enters, if it was cast, return target card with mana value 1 from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/73_Damaged Shell.png" num="73">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Empathy of the Abominable</name>
+			<text>Sacrifice another creature: Put a +1/+1 counter on each creature you control other than this. Activate only once each turn and only as a sorcery. 
+When Empathy of the Abominable dies, put a +1/+1 counter on each other creature you control.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/12_Empathy of the Abominable.png" num="12">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Incarnation</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lunar Surveyor</name>
+			<text>When Lunar Surveyor enters, you gain 2 life.
+When Lunar Surveyor dies, you may put another target card from your graveyard on top of your library.
+---
+(Back): Lunar Structures</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/77_Lunar Surveyor_front.png" num="77a">IID</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Lunar Structures</related>
+		</card>
+		<card>
+			<name>Lunar Structures</name>
+			<text>{T}: Add {C}.
+---
+(Front): Lunar Surveyor</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/77_Lunar Surveyor_back.png" num="77b">IID</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Lunar Surveyor</related>
+		</card>
+		<card>
+			<name>Tendril Forest</name>
+			<text>({T}: Add {G})
+Tendril Forest enters tapped unless your complexity is three or greater. (Your complexity is the number of spells you cast and nonland abilities you activated this turn)
+When Tendril Forest enters untapped, put target permanent card from your graveyard on top of your library.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/93_Tendril Forest.png" num="93">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Underworld Hatchery</name>
+			<text>({T}: Add {R}.)
+Underworld Hatchery enters tapped unless your complexity is three or greater. (Your complexity is the number of spells you cast and nonland abilities you activated this turn)
+When Underworld Hatchery enters, target creature you control gets +3/+0 and gains haste and trample until end of turn.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/94_Underworld Hatchery.png" num="94">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forge of Creation</name>
+			<text>{T}: Add {C}.
+{2}, {T}: You may play land cards from your graveyard this turn.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/86_Forge of Creation.png" num="86">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mistcloaked Chasm</name>
+			<text>When Mistcloaked Chasm enters, you may conjure Wastes into your hand. (It&apos;s a basic land with &quot;{T}: Add {C}.&quot;)
+{T}: Add {C}.
+{1}, {T}: Add one mana of any color.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/92_Mistcloaked Chasm.png" num="92">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Halls of Sorrow</name>
+			<text>({T}: Add {U}.)
+Halls of Sorrow enters tapped unless your complexity is three or greater. (Your complexity is the number of spells you cast and nonland abilities you activated this turn)
+When Halls of Sorrow enters untapped, put target nonpermanent card from your graveyard on top of your library.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/88_Halls of Sorrow.png" num="88">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Uta, Dark Forest Remnant</name>
+			<text>Uta, Dark Forest Remnant can&apos;t attack or block unless you pay {2}.
+As lands you control enter, they gain &quot;{T}: Add {C}{C}.&quot; and lose all other abilities for as long as you control Uta.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/10_Uta, Dark Forest Remnant.png" num="10">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Golgothian Field</name>
+			<text>({T}: Add {W}.)
+Golgothian Field enters tapped unless your complexity is three or greater. (Your complexity is the number of spells you cast and nonland abilities you activated this turn)
+When Golgothian Field enters untapped, put a +1/+1 counter on up to three target creatures.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/87_Golgothian Field.png" num="87">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Inner Realm</name>
+			<text>({T}: Add {B}.)
+Inner Realm enters tapped unless your complexity is three or greater. (Your complexity is the number of spells you cast and nonland abilities you activated this turn)
+When Inner Realm enters untapped, exile target player&apos;s graveyard.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/89_Inner Realm.png" num="89">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>The Last Resting Place</name>
+			<text>{1}{C}, {T}: Add {C}{C}{C}{C}.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/90_The Last Resting Place.png" num="90">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Akiis, Realm-Whisperer</name>
+			<text>Akiis, Realm-Whisperer gets +2/+0 and has vigilance if you control five or more lands.
+{2}, {T}, Discard a card: Reveal a land card you own from outside the game. Put it into your hand.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/59_Akiis, Realm-Whisperer.png" num="59">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Agent of Metamorphosis</name>
+			<text>Flying
+When Agent of Metamorphosis enters, you may return another target creature to its owner&apos;s hand. When you do, you may have Agent of Metamorphosis become a copy of that creature, except it has flying.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/24_Agent of Metamorphosis.png" num="24">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lunar Expansion</name>
+			<text>Destroy up to one target nonland, nontoken permanent with mana value X or less.
+Conjure a card named Wastes into your hand. (It&apos;s a basic land card with &quot;{T}: Add {C}.&quot;)</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/7_Lunar Expansion.png" num="7">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>X2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lunar Assault Vessel</name>
+			<text>Whenever Lunar Assault Vessel deals combat damage, put a charge counter on it.
+Remove a charge counter from Lunar Assault Vessel: Choose one —
+• Untap target land.
+• Target creature can&apos;t block this turn.
+• Put a +1/+1 counter on Lunar Assault Vessel.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/76_Lunar Assault Vessel.png" num="76">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unearthed Progenitor</name>
+			<text>When Unearthed Progenitor enters or attacks, target opponent reveals their hand and discards a card with the lowest mana value among the revealed nonland cards. If they can&apos;t, you gain 4 life.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/44_Unearthed Progenitor.png" num="44">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The New-Sun Harbinger</name>
+			<text>When The New-Sun Harbinger enters, create a 0/0 green Horror creature token with &quot;This token gets +1/+1 for each creature you control.&quot;
+Tap another untapped creature you control: Add {G}.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/65_The New-Sun Harbinger.png" num="65">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Riddle of Blades</name>
+			<text>Trample
+Whenever Riddle of Blades deals combat damage to a player, put a prowess counter on it. (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn for each prowess counter it has.)</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/54_Riddle of Blades.png" num="54">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fractal</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Innerwoods Monstrosity</name>
+			<text>Whenever you cast a creature spell, you may conjure a duplicate of it into your library, then shuffle.
+When you cast a creature spell that shares a name with a card in your graveyard, copy it.
+---
+(Back): Darkwood Monument</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/63_Innerwoods Monstrosity_front.png" num="63a">IID</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Darkwood Monument</related>
+		</card>
+		<card>
+			<name>Darkwood Monument</name>
+			<text>Darkwood Monument enters tapped.
+{T}: Add {G}.
+{3}{G}{G}: Exile Darkwood Monument and return it to the battlefield. Activate only as a sorcery.
+---
+(Front): Innerwoods Monstrosity</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/63_Innerwoods Monstrosity_back.png" num="63b">IID</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Innerwoods Monstrosity</related>
+		</card>
+		<card>
+			<name>Spirit of the Blazing</name>
+			<text>Whenever you cast an instant or sorcery spell, you may conjure a duplicate of it into your library, then shuffle.
+Whenever you cast an instant or sorcery spell other than your first instant or sorcery spell each turn, you may copy it. You may choose new targets for the copy.
+---
+(Back): Pyrolitic Monument</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/56_Spirit of the Blazing_front.png" num="56a">IID</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Pyrolitic Monument</related>
+		</card>
+		<card>
+			<name>Pyrolitic Monument</name>
+			<text>Pyrolitic Monument enters tapped.
+{T}: Add {R}.
+{3}{R}{R}: Exile Pyrolitic Monument and return it to the battlefield. Activate only as a sorcery.
+---
+(Front): Spirit of the Blazing</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/56_Spirit of the Blazing_back.png" num="56b">IID</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Spirit of the Blazing</related>
+		</card>
+		<card>
+			<name>Outer-Reach Visitor</name>
+			<text>Whenever another nontoken creature you control dies during your turn, you may conjure a duplicate of it into your graveyard and a duplicate into your library, then shuffle.
+---
+(Back): Lunar Monument</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/16_Outer-Reach Visitor_front.png" num="16a">IID</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Lunar Monument</related>
+		</card>
+		<card>
+			<name>Lunar Monument</name>
+			<text>Lunar Monument enters tapped
+{T}: Add {W}.
+{1}{W}{W}: Exile Lunar Monument and return it to the battlefield. Activate only as a sorcery.
+---
+(Front): Outer-Reach Visitor</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/16_Outer-Reach Visitor_back.png" num="16b">IID</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Outer-Reach Visitor</related>
+		</card>
+		<card>
+			<name>Deepsea Martyr</name>
+			<text>Whenever a creature entering causes an ability of that creature to trigger, you may shuffle this creature into your library. If you do, that ability triggers an additional time.
+---
+(Back): Eigenwater Monument</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/26_Deepsea Martyr_front.png" num="26a">IID</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Merfolk</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Eigenwater Monument</related>
+		</card>
+		<card>
+			<name>Eigenwater Monument</name>
+			<text>Eigenwater Monument enters tapped.
+{T}: Add {U}.
+{2}{U}{U}: Exile Eigenwater Monument and return it to the battlefield. Activate only as a sorcery.
+---
+(Front): Deepsea Martyr</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/26_Deepsea Martyr_back.png" num="26b">IID</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Deepsea Martyr</related>
+		</card>
+		<card>
+			<name>Murkborn Resurrected</name>
+			<text>Whenever Murkborn Resurrected enters or you gain life, choose up to one target creature card in your graveyard. Put it on top of its owner&apos;s library.
+---
+(Back): Murkspew Monument</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/41_Murkborn Resurrected_front.png" num="41a">IID</set>
+			<prop>
+				<layout>transform</layout>
+				<side>front</side>
+				<type>Creature — Zombie Survivor</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<related attach="transform">Murkspew Monument</related>
+		</card>
+		<card>
+			<name>Murkspew Monument</name>
+			<text>Murkspew Monument enters tapped
+{T}: Add {B}.
+{3}{B}{B}: Exile Murkspew Monument and return it to the battlefield. Activate only as a sorcery.
+---
+(Front): Murkborn Resurrected</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/41_Murkborn Resurrected_back.png" num="41b">IID</set>
+			<prop>
+				<layout>transform</layout>
+				<side>back</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+			<related attach="transform">Murkborn Resurrected</related>
+		</card>
+		<card>
+			<name>Forgotten Command</name>
+			<text>Choose two—
+• Forgotten Command deals 1 damage to any target.
+• Look at the bottom three cards of your library. Put one on top.
+• Tap target creature.
+• Create 2/2 colorless Fractal creature token with decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/5_Forgotten Command.png" num="5">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Inheritor of Dead Suns</name>
+			<text></text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/6_Inheritor of Dead Suns.png" num="6">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Unmasked</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Reactive Matter</name>
+			<text>You may have Reactive Matter enter as a copy of another permanent you control. When it does, return that permanent to its owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/82_Reactive Matter.png" num="82">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Von Neumann Warfare</name>
+			<text>Destroy target nonland permanent if it has mana value 1 or less. If your complexity is three or greater, instead destroy it if it has mana value 3 or less. (Your complexity is the number of spells you cast and nonland abilities you activated this turn.)</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/22_Von Neumann Warfare.png" num="22">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fractal Token IID</name>
+			<text>Decayed (This creature can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/1t_Fractal Token.png" num="1">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Fractal</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Weave Fates IID</name>
+			<text>Look at the bottom three cards of your library. Put one on top. 
+Draw a card.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/7t_Weave Fates.png" num="7">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Epiphany</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Homogenous Tyrant</name>
+			<text>When Homogenous Tyrant dies, if it had base toughness 2 or greater, create two X/X tokens that are copies of it, where X is half of its base toughness, rounded down.
+Sacrifice four creatures named Homogenous Tyrant: Return Homogenous Tyrant from your graveyard to the battlefield. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/75_Homogenous Tyrant.png" num="75">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Elder Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Titan of Endless Ocean</name>
+			<text>When you cast Titan of Endless Ocean or whenever it attacks, for each other creature you control, create a token that&apos;s a copy of that creature, then exile that token.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/33_Titan of Endless Ocean.png" num="33">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Plans to Fruition IID</name>
+			<text>Draw three cards from the bottom of your library, then put two cards from your hand on the bottom.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/9t_Plans to Fruition.png" num="9">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Epiphany</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Forgotten Verse IID</name>
+			<text>Return target non-Bard creature card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/8t_Forgotten Verse.png" num="8">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Epiphany</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Uncover Truth IID</name>
+			<text>Return target instant or sorcery card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/6t_Uncover Truth.png" num="6">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Epiphany</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Martyr&apos;s Cause IID</name>
+			<text>Sacrifice a creature. Put a +1/+1 counter on each creature you control.</text>
+			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/IID-files/img/4t_Martyr&apos;s Cause.png" num="4">IID</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery — Epiphany</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<token>1</token>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

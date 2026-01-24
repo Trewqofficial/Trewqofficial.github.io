@@ -1,4 +1,564 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Progenitor of Desire COPY added.
+Rot added.
+Setting Sun added.
+Thirst for Legacy added.
+Samet, Crawling Filth added.
+Marching Deepbreathers added.
+Backstreet Extortionists added.
+Seasoned Exsanguinator added.
+Swordsaint added.
+Shadowform Exterminator added.
+Awakened Bladefiend added.
+Efflorescence Cleanup Crew added.
+Radiant Exemplar added.
+Settled Mariner added.
+
+Ponder Histories removed.
+Blight removed.
+Degraded Shockwave removed.
+
+Herald of Apathy
+
+Spiralling Hatred
+
+Distant Wanderer
+
+Soul Ignition
+
+Night Warden
+
+Ruinbound Lich
+
+Novice Diabology
+
+Cruel Severance
+
+Crescendo
+
+Fate of a Messenger
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 blue Human Scout creature token with vigilance.
+Mill four cards.
+II — Each instant and sorcery spell in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost plus sacrifice a creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 blue Human Scout creature token with vigilance.
+II — Mill four cards.
+III — Each instant and sorcery spell in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost plus sacrifice a creature.
+
+Matriarch of Mirrors
+cost: {1}{U} => {U}{U}
+
+Bioinstrumentality
+
+Enhanced Excisor
+
+Sire of Four Hundred Thorns
+
+Cosmic Pact
+
+The Grand Conductor
+
+All-Consuming Calamity
+rules_text: [i]Intensify [/i]— Choose one or more. Pay {1}{B} for each mode beyond the first.
+• Each player sacrifices a creature.
+• Each player sacrifices a planeswalker.
+• Each player discards two cards.
+• Each player exiles their graveyard.
+• Each player loses 3 life. => Choose one or more. Pay {1}{B} for each mode chosen beyond the first.
+• Each player sacrifices a creature.
+• Each player sacrifices a planeswalker.
+• Each player discards two cards.
+• Each player exiles their graveyard.
+• Each player loses 3 life.
+
+Angular Observer
+
+Wondrous Cataclysm
+
+Unravelled Identity
+
+Blood-Tracker
+
+Stitcher's Workshop
+
+Ephemeral Return
+
+Bringer of Madness
+
+Control Center
+
+Savage Surge
+
+Outskirts Warden
+
+Unknown Wilderness
+
+The Cursed Marksman
+
+Dealing with The Devil
+special_text: 
+I — This Saga deals 4 damage to any target.
+II, III, IV — Sacrifice a creature. If you do, you create a Treasure token and get a flare counter. [i](If a source you control would deal noncombat damage, you may pay X flare counters to have it deal that much damage plus X instead.)[/i]
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — This Saga deals 4 damage to any target.
+II, III, IV — You may sacrifice a creature. If you do, you create a Treasure token and get a flare counter. [i](If a source you control would deal noncombat damage, you may pay X flare counters to have it deal that much damage plus X instead.)[/i]
+​
+
+Hazar, Censor of History
+
+Clockturning
+rules_text: Surveil 3. [i](Look at the top three cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+Take an extra turn after this one.
+Exile Clockturning. => Surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+Take an extra turn after this one.
+Exile Clockturning.
+
+Neural Barbs
+
+Unreal Herald
+
+Ethereal Colossus
+
+False Angel
+
+Harvester of Sorrows
+
+New Dawn
+cost: {RW} => {1}{RW}
+
+Hyperreal Nexus
+
+Unborn Arbiter
+rules_text: [i]Intensify — [/i]When this creature enters, choose one or more. Pay {2} for each mode beyond the first.
+• Exile up to one target permanent with mana value 1.
+• Target opponent reveals their hand. Exile up to one card from it with mana value 1. => When this creature enters, choose one.
+• Exile up to one target permanent with mana value 1.
+• Target opponent reveals their hand. Exile up to one card from it with mana value 1.
+
+Efflorescing Mystic
+
+Divine Paragon
+
+Starturning Celestial
+
+Crowned Aeon
+
+Mind Screech
+rules_text: [i]Intensify [/i]— Choose one or more. Pay {1}{B} for each mode beyond the first.
+• Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+• Each creature your opponents control get -1/-1 until end of turn. => Choose one or more. Pay {1}{B} for each mode chosen beyond the first.
+• Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+• Each creature your opponents control get -1/-1 until end of turn.
+
+Efflorescent Vessel
+
+Gaze of Others
+special_text: 
+I, II — Exile up to one target creature you don't control until this enchantment leaves the battlefield.
+III — Creatures you control get +1/+1 and gain vigilance until end of turn.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Exile up to one target creature you don't control until this enchantment leaves the battlefield.
+III — Creatures you control get +1/+1 and gain vigilance until end of turn.
+​
+
+Revelation of Mirrors
+
+Psychic Insight
+
+Tombwatcher
+
+Bloom from Sorrow
+
+Kalazek, Dracoform
+
+Effloresced Archseer
+cost: {3}{U} => {2}{U}
+rules_text: Infuse 1 [i](Whenever you cast or copy a noncreature spell, if this creature has no +1/+1 counters on it, put one on it.)[/i]
+Once each turn, whenever you put one or more counters on this creature, tap up to one target creature. Put a stun counter on it. => Infuse 1 [i](Whenever you cast a noncreature spell, if this creature has no +1/+1 counters on it, put one on it.)[/i]
+Once each turn, whenever you put one or more counters on this creature, tap up to one target creature. Put a stun counter on it.
+pt: 3/2 => 2/2
+
+Slothful Mauler
+
+Isolate and Homogenize
+rules_text: Target player sacrifices a nontoken creature or planeswalker.
+Create a Blight token. [i](It's a black enchantment with “At the beginning of your end step, target player mills a card.”)[/i] => Target player sacrifices a nontoken creature or planeswalker.
+Create a Rot token. [i](It's a black enchantment with “At the beginning of your end step, target player mills a card.”)[/i]
+
+Bloodlord Saladar
+
+Malevolent Heart
+
+Extermination Campaign
+rules_text: Create two Blight tokens. [i](They're black enchantments with “At the beginning of your end step, target player mills a card.”)[/i]
+Each player sacrifices two creatures. => Create two Rot tokens. [i](They're black enchantments with “At the beginning of your end step, target player mills a card.”)[/i]
+Each player sacrifices two creatures.
+
+Howling Chorus
+
+Accretion Disk
+
+The Long Way Round
+
+Devour the Future
+
+Grim Coronation
+rules_text: When Grim Coronation enters, you and target opponent each draw two cards.
+Whenever an opponent draws a card other than the first card they draw on each of their turns, create a white 2/2 Horror creature token. => When Grim Coronation enters, you and target opponent each draw two cards.
+If an opponent would draw a card except the first card they draw on each of their turns, they may skip that draw. If they don't, create a tapped white 2/2 Horror creature token.
+
+Forged Enforcer
+
+Fleshborn Behemoth
+
+Janus Enforcer
+rules_text: Flying
+[i]Intensify — [/i]When this creature enters,[i] [/i]Choose one or more. Pay {1}{W} for each mode beyond the first.
+• Target player gains 2 life and draws a card.
+• Put two +1/+1 counters on target creature. => Flying
+When this creature enters,[i] [/i]choose one—
+• Target player gains 2 life and draws a card.
+• Put two +1/+1 counters on target creature.
+
+Sentinel of Bygone Days
+
+Spliced Breachwarden
+
+Transmuted Prophet
+
+Arc-Crowned Vessel
+
+Dreamcrawler
+
+Reach through Reflections
+
+Wrap in Ethereal Threads
+
+Aimless Efflorescent
+
+Fury of a Fallen Star
+
+Subterranean Coiler
+
+Hungerborn
+rules_text: Vigilance
+When Hungerborn enters, if your history in green is six or greater, return target card with mana value 5 or greater from your graveyard to your hand. [i](Your history in green is the number of {G} symbols in mana costs in your graveyard.)[/i] => Vigilance
+When Hungerborn enters, return target card with mana value 5 or greater from your graveyard to your hand. [i](Your history in green is the number of {G} symbols in mana costs in your graveyard.)[/i]
+
+Forlorn Titanshard
+
+Shard Bearer
+
+Labyrinth Dweller
+
+Deep Outskirts Relay
+
+Rageborn Efflorescent
+
+Captive Efflorescent
+
+Vent-Trawl Scavenger
+
+The Unknown Sun
+
+Bearer of Death's Gaze
+rules_text: This creature can't block.
+When this creature dies, create a Blight token. [i](It's a black enchantment with “At the beginning of your end step, target player mills a card.”)[/i] => This creature can't block.
+When this creature dies, create a Rot token. [i](It's a black enchantment with “At the beginning of your end step, target player mills a card.”)[/i]
+
+Aspect of Antipoise
+
+Bloodied Wingbeats
+
+Blood Sun's Dawning
+rules_text: When Blood Sun's Dawning enters, discard up to two cards, then draw that many cards plus one.
+Whenever you discard a card, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i] => When Blood Sun's Dawning enters, discard up to two cards, then draw that many cards.
+Whenever you discard a nonland card, create a tapped Treasure token. [i](It's an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+
+Fleeting Efflorescent
+
+Mothblessed
+
+Hazeth, Last Priest
+rules_text: When Hazeth, Last Priest enters, create a Blight token. [i](It's a black enchantment with “At the beginning of your end step, target player mills a card.”)[/i]
+{T}, Exile Hazeth: Choose target creature card in your graveyard. You may cast that card this turn. => When Hazeth, Last Priest enters, create a Rot token. [i](It's a black enchantment with “At the beginning of your end step, target player mills a card.”)[/i]
+{T}, Exile Hazeth: Choose target creature card in your graveyard. You may cast that card this turn.
+
+Corrupt Consumption
+
+Oblivious Highborn
+
+Harbinger's Approach
+
+Isolated Remnant
+rules_text: Flying
+Infuse 3 [i](Whenever you cast or copy a noncreature spell, if this creature has fewer than three +1/+1 counters on it, put one on it.)[/i] => Flying
+Infuse 3 [i](Whenever you cast a noncreature spell, if this creature has fewer than three +1/+1 counters on it, put one on it.)[/i]
+
+Grace of the Ancients
+
+Ruinous Roar
+rules_text: [i]Intensify — [/i]Choose one or both. Pay {1}{R} for each mode beyond the first.
+• Destroy target artifact.
+• Exile the top two cards of your library. During your next turn, you may play those cards. => Choose one or both. Pay {1}{R} for each mode chosen beyond the first.
+• Destroy target artifact.
+• Exile the top two cards of your library. During your next turn, you may play those cards.
+
+Tidecall Leviathan
+
+Starchosen Regent
+
+Exl, Faerie Eater
+
+Prophellan Emissary
+
+Death of the Third City
+
+Connection in Sorrow
+
+Glass Wings
+
+Masked Guest
+
+Hide From Fate
+
+Sever the Connection
+
+Cavern Sentinel
+rules_text: [i]Intensify — [/i]When this creature enters, choose one or more. Pay {2} for each mode beyond the first.
+• Return target creature or planeswalker you don't control to its owner's hand. 
+• Target player reveals their hand. You choose a nonland card from it. That player discards that card. => When this creature enters, choose one or more. Pay {2} for each mode chosen beyond the first.
+• Return target creature or planeswalker you don't control to its owner's hand. 
+• Target player reveals their hand. You choose a nonland card from it. That player discards that card.
+
+Efflorescence Specialist
+
+Efflorescent Pistols
+
+Bearer of Broken Wings
+
+Veteran Slayer
+
+Exl's Order
+rules_text: [i]Intensify — [/i]Choose one or more. As an additional cost to cast this spell, pay {1} and sacrifice a creature for each mode beyond the first.
+• You draw a card and gain 3 life.
+• Create two 1/1 white Faerie creature tokens with flying and “This creature can't block.”
+• Put a +1/+1 counter on each creature you control. => Choose one or more. As an additional cost to cast this spell, pay {1} and sacrifice a creature for each mode chosen beyond the first.
+• You draw a card and gain 3 life.
+• Create two 1/1 white Faerie creature tokens with flying and “This creature can't block.”
+• Put a +1/+1 counter on each creature you control.
+
+Order from Above
+rules_text: Choose two—
+• The next spell target player casts this turn costs {X} less to cast and can be cast as though it had flash.
+• Exile target creature or planeswalker with mana value X or less.
+• Target player looks at the top X plus one cards of their library, puts one into their hand and the rest into their graveyard. => Choose two—
+• The next spell target player casts this turn costs {X} less to cast and can be cast as though it had flash.
+• Exile target creature or planeswalker with mana value X or less.
+• Target player looks at the top X cards of their library, puts one into their hand and the rest into their graveyard.
+
+Entangled Speaker
+
+Skyborn Manastone
+
+In the Jaws of Despair
+
+Unaware Courier
+
+Blood Shaper
+
+Distant Figure
+
+Western Witch
+
+Northern Witch
+
+Extraspacial Manipulator
+
+Herald of Tranquility
+
+Coven of Stars
+
+Lesser Reaper
+
+Cloaked Enforcer
+
+Wild Manabloom
+
+Outskirts Scourge
+rules_text: Menace
+When this creature enters, create a Blight token. [i](It's a black enchantment with “At the beginning of your end step, target player mills a card.”)[/i]
+Whenever this creature attacks, it gets +1/+0 for each enchantment you control. => Menace
+When this creature enters, create a Rot token. [i](It's a black enchantment with “At the beginning of your end step, target player mills a card.”)[/i]
+Whenever this creature attacks, it gets +1/+0 for each enchantment you control.
+
+Path of Conquest
+
+Amorphous Experiment
+
+Wanderer in a Lost World
+rules_text: This creature has first strike as long it's your turn.
+This creature gets +2/+1 as long as you control a Horror. [i](This applies if this creature is a Horror.)[/i] => This creature has first strike as long it's your turn.
+This creature gets +2/+1 as long as you control a Horror.
+
+Reality Twister
+
+Nexus of Creation
+
+Mining Outpost
+
+Breach of Nature
+
+Everlost Memory
+
+Herald of Enlightenment
+
+Incursive Structure
+
+Horror
+
+Horror
+
+Faerie
+
+Human Scout
+
+Moonspot
+
+Human
+
+Synapse
+
+Construct
+
+Flare
+
+Hero of the Night
+
+Moondrenched Outsider
+
+Queen of Flytraps
+
+Harmonious Aeon
+
+The Long Walk
+
+Vain Efflorescent
+
+Prodigal Neuromancer
+cost: {U}{U} => {1}{U}{U}
+rules_text: Infuse 2 [i](Whenever you cast or copy a noncreature spell, if this creature has fewer than two +1/+1 counters on it, put one on it.)[/i]
+Once each turn, whenever you put one or more +1/+1 counters on a creature you control, you may create a tapped 2/2 colorless Golem artifact creature token. => Infuse 2 [i](Whenever you cast a noncreature spell, if this creature has fewer than two +1/+1 counters on it, put one on it.)[/i]
+Once each turn, whenever you put one or more +1/+1 counters on a creature you control, you may create a tapped 2/2 colorless Golem artifact creature token.
+
+Cosmic Visitor
+
+Herald of Arbitration
+
+Cursed Ammunition
+
+Harmony of Might
+rules_text: When Harmony of Might enters, you draw a card for each creature you control with power 4 or greater.
+Whenever you cast a creature spell with power 4 or greater, each land you control. This ability triggers only once each turn. => When Harmony of Might enters, draw a card for each creature you control with power 4 or greater.
+Whenever you cast a creature spell with power 4 or greater, untap each land you control. This ability triggers only once each turn.
+
+Devil's Bullet
+rules_text: Devil's Bullet deals 2 damage to any target.
+You get a flare counter. [i](If a source you control would deal noncombat damage, you may pay X flare counters to have it deal that much damage plus X instead.)[/i] => Devil's Bullet deals 2 damage to any nonplayer target.
+You get a flare counter. [i](If a source you control would deal noncombat damage, you may pay X flare counters to have it deal that much damage plus X instead.)[/i]
+
+Aeon of a Perfect World
+
+A New World
+
+Want Not
+
+Souls Aflame
+rules_text: When this enchantment enters, you get two flare counters. [i](If a source you control would deal noncombat damage, you may pay X flare counters to have it deal that much damage plus X instead.)[/i]
+Whenever you pay one or more flare counters, exile the top card of your library. You may play that card until your next end step. => When this enchantment enters, you get a flare counter. [i](If a source you control would deal noncombat damage, you may pay X flare counters to have it deal that much damage plus X instead.)[/i]
+Whenever you pay one or more flare counters, exile the top card of your library. You may play that card until your next end step.
+
+Worldpulse
+
+Coralblight Survivor
+
+Mystic Torrent
+
+Reckless Kineticist
+
+Suffer, As I Have
+rules_text: At the beginning of your first main phase, choose up to one target creature card from your graveyard. Copy it. You may cast that copy.
+Whenever a creature you control enters, each opponent loses 1 life and you gain 1 life. => Once during each of your turns, you may cast a creature spell from your graveyard. It enters with a finality counter on it.
+Whenever a creature you control enters, each opponent loses 1 life and you gain 1 life.
+
+Revelation of Pain
+
+Lurking Absolution
+rules_text: When you cast this spell, return each card named Lurking Absolution from your graveyard to the battlefield.
+Haste
+Whenever this creature attacks, mill four cards. => When you cast this spell, return a card named Lurking Absolution from your graveyard to the battlefield.
+Haste
+Whenever this creature attacks, mill three cards.
+
+A Promise
+
+The Monster is the Maze
+
+Palace of Blood and Blade
+
+Missing Evidence
+
+Ceaseless Mirage
+
+Monument To A Lost World
+
+Accelerator Drone
+rules_text: When Accelerator Drone enters or leaves the battlefield, choose a counter on target permanent or player. You may either give that permanent or player another counter of that kind or remove that counter. => When this creature enters or leaves the battlefield, choose a counter on target permanent or player. You may either give that permanent or player another counter of that kind or remove that counter.
+
+Underwitch
+rules_text: Whenever this creature attacks, you may sacrifice another creature. If you do, create a Blight token. [i](It's a black enchantment with “At the beginning of your end step, target player mills a card.”)[/i]
+This creature gets +1/+3 as long as a a library has 20 or less cards in it. => Whenever this creature attacks, you may sacrifice another creature. If you do, create a Rot token. [i](It's a black enchantment with “At the beginning of your end step, target player mills a card.”)[/i]
+This creature gets +1/+3 as long as you control three or more enchantments.
+
+Revelation of Steel
+rules_text: Create X tapped 2/2 colorless Golem artifact creature tokens.
+You gain 1 life and each opponent loses 1 life for each artifact token you control. => Create X tapped 2/2 colorless Golem artifact creature tokens.
+You gain 1 life and each opponent loses 1 life for each token you control.
+
+Spacial Rend
+type: Sorcery => Instant
+
+Undying Observer
+rules_text: Flying, vigilance
+Infuse 1 [i](Whenever you cast or copy a noncreature spell, if this creature has no +1/+1 counters on it, put one on it.)[/i]
+Whenever you put one or more +1/+1 counters on this creature, draw two cards, then discard two cards. => Flying, vigilance
+Infuse 2 [i](Whenever you cast a noncreature spell, if this creature has fewer than two +1/+1 counters on it, put one on it.)[/i]
+Whenever you put one or more +1/+1 counters on this creature, draw a card, then discard a card.
+
+Progenitor of Desire
+rules_text: Impending 3—{1}{B} [i](If this spell was impending, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+When this permanent enters, if it was cast, target opponent reveals their hand and discards a card with the lowest mana value among the revealed nonland cards. => Impending 3—{1}{B} [i](If this spell was impending, it enters with three time counters and isn't a creature until they're removed. At the beginning of your end step, remove one.)[/i]
+When this permanent enters, target opponent reveals their hand and discards a card with the lowest mana value among the revealed nonland cards.
+
+Drown It All in Blood
+cost: {4}{R}{R} => {2}{R}{R}
+special_text: 
+I — This Saga deals 5 damage to each creature.
+II — Create four 1/1 red Vampire creature tokens with “{T}, Discard a card, Sacrifice this creature: Draw a card.”
+III — Until end of turn, whenever you discard a card, you may play that card from your graveyard until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — This Saga deals 3 damage to each creature.
+II — Create two 1/1 red Vampire creature tokens with “{T}, Discard a card, Sacrifice this creature: Draw a card.”
+III — Until end of turn, whenever you discard a card, you may play that card from your graveyard until end of turn.
+
+Furioso; Fury; Scream
+rules_text: As an additional cost to cast this spell, pay X life.
+Target creature you control gains trample and has base power equal to twice X until end of turn. => As an additional cost to cast this spell, pay X life.
+Target creature you control gains trample and gets twice +X/+0 until end of turn.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Savage Surge added.

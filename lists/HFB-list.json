@@ -1,9 +1,10 @@
 ﻿[
     {
         "card_name": "Revelation of Light",
-        "number": 25,
+        "number": 24,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -11,6 +12,7 @@
         "number": 40,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -18,6 +20,7 @@
         "number": 77,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -25,6 +28,7 @@
         "number": 110,
         "shape": "planeswalker",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -32,6 +36,7 @@
         "number": 163,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -39,13 +44,15 @@
         "number": 35,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Revelation of Mirrors",
-        "number": 60,
+        "number": 59,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -53,6 +60,7 @@
         "number": 94,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -60,6 +68,7 @@
         "number": 131,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -67,13 +76,15 @@
         "number": 164,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Degraded Shockwave",
-        "number": 6,
+        "card_name": "Fleshborn Behemoth",
+        "number": 9,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -81,6 +92,7 @@
         "number": 42,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -88,6 +100,7 @@
         "number": 71,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -95,6 +108,7 @@
         "number": 137,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -102,13 +116,15 @@
         "number": 143,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Fleshborn Behemoth",
-        "number": 10,
+        "card_name": "Grim Coronation",
+        "number": 14,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -116,6 +132,7 @@
         "number": 43,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -123,6 +140,7 @@
         "number": 78,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -130,6 +148,7 @@
         "number": 105,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -137,13 +156,15 @@
         "number": 148,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Grim Coronation",
+        "card_name": "Herald of Apathy",
         "number": 15,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -151,6 +172,7 @@
         "number": 45,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -158,6 +180,7 @@
         "number": 80,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -165,6 +188,7 @@
         "number": 106,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -172,13 +196,15 @@
         "number": 150,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Herald of Apathy",
-        "number": 16,
+        "card_name": "Kalazek, Dracoform",
+        "number": 18,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -186,6 +212,7 @@
         "number": 48,
         "shape": "saga",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -193,6 +220,7 @@
         "number": 81,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -200,6 +228,7 @@
         "number": 111,
         "shape": "saga",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -207,13 +236,15 @@
         "number": 153,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Kalazek, Dracoform",
+        "card_name": "Keth, Cutting Specialist",
         "number": 19,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -221,6 +252,7 @@
         "number": 49,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -228,6 +260,7 @@
         "number": 83,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -235,6 +268,7 @@
         "number": 113,
         "shape": "saga",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -242,13 +276,15 @@
         "number": 154,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Keth, Cutting Specialist",
-        "number": 20,
+        "card_name": "Plastic Dream",
+        "number": 22,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -256,6 +292,7 @@
         "number": 50,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -263,6 +300,7 @@
         "number": 85,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -270,6 +308,7 @@
         "number": 120,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -277,20 +316,23 @@
         "number": 155,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Plastic Dream",
-        "number": 23,
+        "card_name": "Ruin of the First City",
+        "number": 25,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Prodigal Neuromancer",
-        "number": 56,
+        "number": 55,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -298,6 +340,7 @@
         "number": 93,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -305,6 +348,7 @@
         "number": 121,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -312,20 +356,23 @@
         "number": 162,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Ruin of the First City",
+        "card_name": "Setting Sun",
         "number": 26,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Reality Twister",
-        "number": 59,
+        "number": 58,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -333,6 +380,7 @@
         "number": 95,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -340,6 +388,7 @@
         "number": 122,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -347,6 +396,7 @@
         "number": 166,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -354,13 +404,15 @@
         "number": 29,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Riftway Visitor",
-        "number": 61,
+        "number": 60,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -368,6 +420,7 @@
         "number": 98,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -375,6 +428,7 @@
         "number": 124,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -382,6 +436,7 @@
         "number": 167,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -389,6 +444,7 @@
         "number": 31,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -396,6 +452,7 @@
         "number": 65,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -403,6 +460,7 @@
         "number": 100,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -410,6 +468,7 @@
         "number": 135,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -417,6 +476,7 @@
         "number": 168,
         "shape": "saga",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -424,6 +484,7 @@
         "number": 2,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -431,6 +492,7 @@
         "number": 36,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -438,6 +500,7 @@
         "number": 70,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -445,6 +508,7 @@
         "number": 136,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -452,6 +516,7 @@
         "number": 139,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -459,6 +524,7 @@
         "number": 3,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -466,6 +532,7 @@
         "number": 37,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -473,6 +540,7 @@
         "number": 72,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -480,6 +548,7 @@
         "number": 104,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -487,6 +556,7 @@
         "number": 140,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -494,6 +564,7 @@
         "number": 4,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -501,6 +572,7 @@
         "number": 38,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -508,6 +580,7 @@
         "number": 73,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -515,6 +588,7 @@
         "number": 107,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -522,6 +596,7 @@
         "number": 141,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -529,6 +604,7 @@
         "number": 5,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -536,6 +612,7 @@
         "number": 39,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -543,6 +620,7 @@
         "number": 74,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -550,6 +628,7 @@
         "number": 108,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -557,13 +636,15 @@
         "number": 142,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Distant Wanderer",
-        "number": 7,
+        "number": 6,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -571,6 +652,7 @@
         "number": 41,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -578,6 +660,7 @@
         "number": 75,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -585,6 +668,7 @@
         "number": 109,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -592,13 +676,15 @@
         "number": 144,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Ephemeral Return",
-        "number": 8,
+        "number": 7,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -606,6 +692,7 @@
         "number": 44,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -613,6 +700,7 @@
         "number": 76,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -620,6 +708,7 @@
         "number": 112,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -627,13 +716,15 @@
         "number": 145,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Fleeting Efflorescent",
-        "number": 9,
+        "number": 8,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -641,6 +732,7 @@
         "number": 46,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -648,6 +740,7 @@
         "number": 79,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -655,6 +748,7 @@
         "number": 114,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -662,13 +756,15 @@
         "number": 146,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Forged Enforcer",
-        "number": 11,
+        "number": 10,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -676,6 +772,7 @@
         "number": 47,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -683,6 +780,7 @@
         "number": 82,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -690,6 +788,7 @@
         "number": 115,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -697,13 +796,15 @@
         "number": 147,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Gaze of Others",
-        "number": 12,
+        "number": 11,
         "shape": "saga",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -711,6 +812,7 @@
         "number": 51,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -718,6 +820,7 @@
         "number": 84,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -725,6 +828,7 @@
         "number": 116,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -732,13 +836,15 @@
         "number": 149,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Glass Wings",
-        "number": 13,
+        "number": 12,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -746,6 +852,7 @@
         "number": 52,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -753,6 +860,7 @@
         "number": 86,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -760,6 +868,7 @@
         "number": 117,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -767,13 +876,15 @@
         "number": 151,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Grace of the Ancients",
-        "number": 14,
+        "number": 13,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -781,6 +892,7 @@
         "number": 53,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -788,6 +900,7 @@
         "number": 87,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -795,6 +908,7 @@
         "number": 118,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -802,13 +916,15 @@
         "number": 152,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Hero of the Night",
-        "number": 17,
+        "number": 16,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -816,6 +932,7 @@
         "number": 54,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -823,6 +940,7 @@
         "number": 88,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -830,6 +948,7 @@
         "number": 119,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -837,20 +956,23 @@
         "number": 156,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Janus Enforcer",
-        "number": 18,
+        "number": 17,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Ponder Histories",
-        "number": 55,
+        "card_name": "Psychic Insight",
+        "number": 56,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -858,6 +980,7 @@
         "number": 89,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -865,6 +988,7 @@
         "number": 123,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -872,20 +996,23 @@
         "number": 157,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "The Long Walk",
-        "number": 21,
+        "number": 20,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Psychic Insight",
+        "card_name": "Reach through Reflections",
         "number": 57,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -893,6 +1020,7 @@
         "number": 90,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -900,6 +1028,7 @@
         "number": 125,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -907,20 +1036,23 @@
         "number": 158,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Memories of Butterflies",
-        "number": 22,
+        "number": 21,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Reach through Reflections",
-        "number": 58,
+        "card_name": "Sever the Connection",
+        "number": 61,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -928,6 +1060,7 @@
         "number": 91,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -935,6 +1068,7 @@
         "number": 126,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -942,20 +1076,23 @@
         "number": 159,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Prayer for the Dead",
-        "number": 24,
+        "number": 23,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Sever the Connection",
+        "card_name": "Slothful Mauler",
         "number": 62,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -963,6 +1100,7 @@
         "number": 92,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -970,6 +1108,7 @@
         "number": 127,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -977,6 +1116,7 @@
         "number": 160,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -984,13 +1124,15 @@
         "number": 27,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Slothful Mauler",
+        "card_name": "Stitcher's Workshop",
         "number": 63,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -998,6 +1140,7 @@
         "number": 96,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1005,6 +1148,7 @@
         "number": 128,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1012,6 +1156,7 @@
         "number": 161,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1019,13 +1164,15 @@
         "number": 28,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Stitcher's Workshop",
+        "card_name": "Thirst for Legacy",
         "number": 64,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1033,6 +1180,7 @@
         "number": 97,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1040,6 +1188,7 @@
         "number": 129,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1047,6 +1196,7 @@
         "number": 165,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1054,6 +1204,7 @@
         "number": 30,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1061,6 +1212,7 @@
         "number": 66,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1068,6 +1220,7 @@
         "number": 99,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1075,6 +1228,7 @@
         "number": 130,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1082,6 +1236,7 @@
         "number": 169,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1089,6 +1244,7 @@
         "number": 32,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1096,6 +1252,7 @@
         "number": 67,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1103,6 +1260,7 @@
         "number": 101,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1110,6 +1268,7 @@
         "number": 132,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1117,6 +1276,7 @@
         "number": 170,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1124,6 +1284,7 @@
         "number": 33,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1131,6 +1292,7 @@
         "number": 68,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1138,6 +1300,7 @@
         "number": 102,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1145,6 +1308,7 @@
         "number": 133,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1152,6 +1316,7 @@
         "number": 171,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1159,6 +1324,7 @@
         "number": 34,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1166,6 +1332,7 @@
         "number": 69,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1173,6 +1340,7 @@
         "number": 103,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1180,6 +1348,7 @@
         "number": 134,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1187,6 +1356,7 @@
         "number": 172,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1203,6 +1373,7 @@
         "number": 138,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1226,6 +1397,7 @@
         "number": 180,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1233,6 +1405,7 @@
         "number": 174,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1240,6 +1413,7 @@
         "number": 175,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1247,6 +1421,7 @@
         "number": 183,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1254,34 +1429,39 @@
         "number": 177,
         "shape": "planeswalker",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Inventive Epiphany",
-        "number": 190,
+        "number": 193,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Missing Evidence",
-        "number": 193,
+        "number": 197,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Harbinger's Approach",
-        "number": 188,
+        "number": 191,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "The Monster is the Maze",
-        "number": 194,
+        "number": 198,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1289,20 +1469,23 @@
         "number": 178,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "The Long Way Round",
-        "number": 191,
+        "number": 194,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Unreal Herald",
-        "number": 203,
+        "card_name": "Shadowform Exterminator",
+        "number": 210,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1310,20 +1493,63 @@
         "number": 184,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Thornrider's Aid",
-        "number": 202,
+        "card_name": "Backstreet Extortionists",
+        "number": 186,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Monument To A Lost World",
-        "number": 195,
+        "number": 199,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Settled Mariner",
+        "number": 209,
+        "shape": "normal",
+        "set": "HFB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Unreal Herald",
+        "number": 213,
+        "shape": "normal",
+        "set": "HFB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Seasoned Exsanguinator",
+        "number": 207,
+        "shape": "normal",
+        "set": "HFB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Thornrider's Aid",
+        "number": 212,
+        "shape": "normal",
+        "set": "HFB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Radiant Exemplar",
+        "number": 205,
+        "shape": "normal",
+        "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1340,9 +1566,10 @@
     },
     {
         "card_name": "Sentinel of Bygone Days",
-        "number": 201,
+        "number": 208,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1365,6 +1592,7 @@
         "number": 182,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1372,6 +1600,7 @@
         "number": 179,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1379,6 +1608,7 @@
         "number": 176,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1386,6 +1616,7 @@
         "number": 181,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1393,76 +1624,127 @@
         "number": 173,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Hazar, Censor of History",
-        "number": 189,
+        "number": 192,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Ceaseless Mirage",
-        "number": 185,
+        "number": 187,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Lurking Absolution",
-        "number": 192,
+        "number": 195,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Palace of Blood and Blade",
-        "number": 199,
+        "number": 203,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "A Promise",
-        "number": 200,
+        "number": 204,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Mothblessed",
-        "number": 196,
+        "card_name": "Efflorescence Cleanup Crew",
+        "number": 190,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Cosmic Pact",
-        "number": 186,
+        "card_name": "Awakened Bladefiend",
+        "number": 185,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Oblivious Highborn",
-        "number": 198,
+        "number": 202,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "New Dawn",
-        "number": 197,
+        "number": 201,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Deepbreather's Vision",
-        "number": 187,
+        "number": 189,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Mothblessed",
+        "number": 200,
+        "shape": "normal",
+        "set": "HFB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Cosmic Pact",
+        "number": 188,
+        "shape": "normal",
+        "set": "HFB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Samet, Crawling Filth",
+        "number": 206,
+        "shape": "normal",
+        "set": "HFB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Swordsaint",
+        "number": 211,
+        "shape": "normal",
+        "set": "HFB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Marching Deepbreathers",
+        "number": 196,
+        "shape": "normal",
+        "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1483,171 +1765,200 @@
         "number": 1,
         "shape": "planeswalker",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Forlorn Titanshard",
-        "number": 210,
+        "number": 220,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Hyperreal Nexus",
-        "number": 213,
+        "number": 223,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Night Warden",
-        "number": 215,
+        "number": 225,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Standard-Issue Rifle",
-        "number": 219,
+        "number": 230,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Superheated Gladius",
-        "number": 222,
+        "number": 233,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Sword of Stars",
-        "number": 223,
+        "number": 234,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Timetither's Staff",
-        "number": 224,
+        "number": 235,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Unborn Arbiter",
-        "number": 226,
+        "number": 237,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Accelerator Drone",
-        "number": 204,
+        "number": 214,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Control Center",
-        "number": 205,
+        "number": 215,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Crowned Aeon",
-        "number": 206,
+        "number": 216,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Divine Paragon",
-        "number": 207,
+        "number": 217,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Efflorescent Pistols",
-        "number": 208,
+        "number": 218,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Electrified Exosuit",
-        "number": 209,
+        "number": 219,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Harmonious Aeon",
-        "number": 211,
+        "number": 221,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "High-Impact Munitions",
-        "number": 212,
+        "number": 222,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Labyrinth Dweller",
-        "number": 214,
+        "number": 224,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Progenitor of Desire",
-        "number": 216,
+        "number": 226,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
+        "position": ""
+    },
+    {
+        "card_name": "Progenitor of Desire COPY",
+        "number": 227,
+        "shape": "normal",
+        "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Skyborn Manastone",
-        "number": 217,
+        "number": 228,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Spaceripper Gauntlet",
-        "number": 218,
+        "number": 229,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Starturning Celestial",
-        "number": 220,
+        "number": 231,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Stasis Chamber",
-        "number": 221,
+        "number": 232,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Tombwatcher",
-        "number": 225,
+        "number": 236,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1664,72 +1975,82 @@
     "a->land",
     {
         "card_name": "Efflorescent Sky",
-        "number": 233,
+        "number": 244,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Efflorescent River",
-        "number": 232,
+        "number": 243,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Efflorescent Memorial",
-        "number": 231,
+        "number": 242,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Efflorescent Forge",
-        "number": 230,
+        "number": 241,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Efflorescent Woods",
-        "number": 234,
+        "number": 245,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Brilliant Tower",
-        "number": 228,
+        "number": 239,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Bioengineering Bay",
-        "number": 227,
+        "number": 238,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Underground Apparatus",
-        "number": 240,
+        "number": 251,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Fortified District",
-        "number": 235,
+        "number": 246,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Outskirts Research Station",
-        "number": 239,
+        "number": 250,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1749,37 +2070,42 @@
     },
     {
         "card_name": "Nexus of Creation",
-        "number": 238,
+        "number": 249,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "The Unknown Sun",
-        "number": 241,
+        "number": 252,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Deep Outskirts Relay",
-        "number": 229,
+        "number": 240,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Incursive Structure",
-        "number": 236,
+        "number": 247,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Mining Outpost",
-        "number": 237,
+        "number": 248,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1799,37 +2125,42 @@
     },
     {
         "card_name": "Swamp",
-        "number": 244,
+        "number": 255,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Island",
-        "number": 243,
+        "number": 254,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Forest",
-        "number": 246,
+        "number": 257,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Plains",
-        "number": 242,
+        "number": 253,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
         "card_name": "Mountain",
-        "number": 245,
+        "number": 256,
         "shape": "normal",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1850,6 +2181,7 @@
         "number": 1,
         "shape": "token",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1857,6 +2189,7 @@
         "number": 2,
         "shape": "token",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1864,6 +2197,7 @@
         "number": 14,
         "shape": "token",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1871,6 +2205,7 @@
         "number": 15,
         "shape": "token",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1878,6 +2213,7 @@
         "number": 16,
         "shape": "token",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1885,6 +2221,7 @@
         "number": 17,
         "shape": "token",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1892,6 +2229,7 @@
         "number": 18,
         "shape": "token",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1899,6 +2237,7 @@
         "number": 3,
         "shape": "token",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1906,6 +2245,7 @@
         "number": 4,
         "shape": "token",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1913,6 +2253,7 @@
         "number": 5,
         "shape": "token",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1920,6 +2261,7 @@
         "number": 6,
         "shape": "token",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1927,6 +2269,7 @@
         "number": 7,
         "shape": "token",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1934,13 +2277,15 @@
         "number": 8,
         "shape": "token",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
-        "card_name": "Blight",
+        "card_name": "Rot",
         "number": 9,
         "shape": "token",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1948,6 +2293,7 @@
         "number": 10,
         "shape": "token",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1955,6 +2301,7 @@
         "number": 11,
         "shape": "token",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1962,6 +2309,7 @@
         "number": 12,
         "shape": "token",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
@@ -1969,6 +2317,7 @@
         "number": 13,
         "shape": "token",
         "set": "HFB",
+        "rotated": false,
         "position": ""
     },
     {
