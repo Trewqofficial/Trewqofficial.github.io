@@ -5,7 +5,7 @@
 			<name>HFB</name>
 			<longname>Hycal: First Bloom</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-01-24</releasedate>
+			<releasedate>2026-01-30</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -18,7 +18,7 @@ Whenever a creature you control deals combat damage to a player, you may exile i
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact Creature — Giant</type>
+				<type>Artifact Creature — Horror Giant</type>
 				<maintype>Creature</maintype>
 				<manacost>5WW</manacost>
 				<cmc>7</cmc>
@@ -81,7 +81,7 @@ This creature has flying as long as your history in white is six or greater. (Yo
 		</card>
 		<card>
 			<name>Soul Ignition</name>
-			<text>Enchant creature
+			<text>Enchant creature you control
 At the start of combat on your turn, create a token that&apos;s a copy of enchanted creature, except it&apos;s not legendary and it has lifelink and haste. Sacrifice that token at the beginning of the next end step.</text>
 			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/181_Soul Ignition.png" num="181">HFB</set>
 			<prop>
@@ -139,7 +139,7 @@ At the beginning of your first main phase, you draw a card and lose 1 life.</tex
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1B</manacost>
+				<manacost>BB</manacost>
 				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -478,7 +478,7 @@ Triggered abilities of permanents with the noted name don&apos;t trigger.</text>
 		<card>
 			<name>Bringer of Madness</name>
 			<text>Flying
-Whenever you cast a noncreature spell, this creature gets +2/+0 until end of turn.</text>
+Whenever you cast a noncreature or Horror spell, this creature gets +2/+0 until end of turn.</text>
 			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/107_Bringer of Madness.png" num="107">HFB</set>
 			<prop>
 				<layout>normal</layout>
@@ -752,19 +752,19 @@ You may have this creature enter as a copy of any creature card in your graveyar
 		</card>
 		<card>
 			<name>New Dawn</name>
-			<text>Return target creature card with mana value 3 or less from your graveyard to the battlefield. It gains &quot;This creature attacks each turn if able&quot; and &quot;Whenever this creature attacks, sacrifice it at the beginning of your next end step.&quot;</text>
+			<text>Whenever a creature you control attacks, it gets +1/+1 until end of turn. If it&apos;s a Horror, it gains first strike until end of turn.</text>
 			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/201_New Dawn.png" num="201">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
-				<manacost>1R/W</manacost>
-				<cmc>2</cmc>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1R/WR/W</manacost>
+				<cmc>3</cmc>
 				<colors>WR</colors>
 				<coloridentity>WR</coloridentity>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>Hyperreal Nexus</name>
@@ -1404,8 +1404,7 @@ When this creature enters, choose one—
 		</card>
 		<card>
 			<name>Sentinel of Bygone Days</name>
-			<text>Whenever one or more permanent cards leave your graveyard, put a +1/+1 counter on this creature.
-{2}{GW}, Sacrifice this creature: Return target permanent card with mana value lesser than this creature&apos;s power from your graveyard to your hand. Activate only as a sorcery.</text>
+			<text>Whenever another creature you control enters, this creature gets +1/+1 until end of turn. If that creature was a Horror, put a +1/+1 counter on this creature instead.</text>
 			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/208_Sentinel of Bygone Days.png" num="208">HFB</set>
 			<prop>
 				<layout>normal</layout>
@@ -1510,7 +1509,7 @@ When this creature enters, draw a card.</text>
 		</card>
 		<card>
 			<name>Wrap in Ethereal Threads</name>
-			<text>This spell costs {1} less to cast for each card you&apos;ve drawn this turn.
+			<text>This spell costs {1} less to cast for each Horror you control.
 Counter target spell unless its controller pays {3}.</text>
 			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/69_Wrap in Ethereal Threads.png" num="69">HFB</set>
 			<prop>
@@ -1528,14 +1527,14 @@ Counter target spell unless its controller pays {3}.</text>
 		<card>
 			<name>Aimless Efflorescent</name>
 			<text>Haste
-This creature has deathtouch as long as it&apos;s attacking.</text>
+Whenever this creature attacks, each opponent discards a card if you control three or more Horrors.</text>
 			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/70_Aimless Efflorescent.png" num="70">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Horror</type>
 				<maintype>Creature</maintype>
-				<manacost>1BB</manacost>
+				<manacost>2B</manacost>
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
@@ -1570,7 +1569,7 @@ When this creature enters, mill X cards. Then you may return up to half X land c
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Wurm</type>
+				<type>Creature — Wurm Horror</type>
 				<maintype>Creature</maintype>
 				<manacost>XG</manacost>
 				<cmc>1</cmc>
@@ -1680,7 +1679,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 		</card>
 		<card>
 			<name>Rageborn Efflorescent</name>
-			<text>At the beginning of combat on your turn, target creature you control gains haste and gets +1/+0 until end of turn.</text>
+			<text>At the beginning of combat on your turn, target creature you control gains haste until end of turn. If it&apos;s a Horror, put a +1/+1 counter on it.</text>
 			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/129_Rageborn Efflorescent.png" num="129">HFB</set>
 			<prop>
 				<layout>normal</layout>
@@ -1691,7 +1690,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 				<cmc>4</cmc>
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
-				<pt>3/3</pt>
+				<pt>2/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -1961,15 +1960,15 @@ Infuse 3 (Whenever you cast a noncreature spell, if this creature has fewer than
 		<card>
 			<name>Grace of the Ancients</name>
 			<text>When you cast this spell, if your history in white is six or greater, copy it. You may choose new targets for it. (Your history in white is the number of {W} symbols in mana costs in your graveyard.)
-Return up one target nonland permanent card with mana value 3 or less from your graveyard to the battlefield tapped.</text>
+Return up one target nonland permanent card with mana value 3 or less from your graveyard to the battlefield.</text>
 			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/13_Grace of the Ancients.png" num="13">HFB</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>1W</manacost>
-				<cmc>2</cmc>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 			</prop>
@@ -2049,7 +2048,7 @@ When this creature enters, you may sacrifice another creature. If you do, you dr
 		</card>
 		<card>
 			<name>Deepbreather&apos;s Vision</name>
-			<text>Choose a permanent type. Reveal the top four cards of your library. Put all cards of the chosen type revealed this way into your hand and the rest on the bottom of your library in a random order.</text>
+			<text>Choose a permanent type. Reveal the top four cards of your library. Put up to two cards of the chosen type revealed this way into your hand and the rest on the bottom of your library in a random order.</text>
 			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/189_Deepbreather&apos;s Vision.png" num="189">HFB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2335,7 +2334,7 @@ When Death of the Third City enters, if it was cast, put target nonlegendary cre
 		<card>
 			<name>Unstable Mutate</name>
 			<text>Changeling (This card is every creature type.)
-You may have this creature enter as a copy of another creature you control with power 4 or greater, except it has changeling and it isn&apos;t legendary.</text>
+When this creature enters, choose a creature type. Create a Synapse token attached to each other creature you control of that type. (Enchanted creature gets +1/+0. Whenever it deals combat damage to a player, draw a card and sacrifice one attached Synapse.)</text>
 			<set rarity="uncommon" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/170_Unstable Mutate.png" num="170">HFB</set>
 			<prop>
 				<layout>normal</layout>
@@ -2974,7 +2973,7 @@ Whenever a creature you control deals combat damage to a player or planeswalker,
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact Creature — Giant</type>
+				<type>Artifact Creature — Horror Giant</type>
 				<maintype>Creature</maintype>
 				<manacost>4GG</manacost>
 				<cmc>6</cmc>
@@ -3520,7 +3519,7 @@ Whenever a creature you control deals combat damage to a player, you may draw a 
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact Creature — Giant</type>
+				<type>Artifact Creature — Horror Giant</type>
 				<maintype>Creature</maintype>
 				<manacost>5UU</manacost>
 				<cmc>7</cmc>
@@ -3724,6 +3723,7 @@ At the beginning of your end step, sacrifice this land.</text>
 		<card>
 			<name>Synapse HFB</name>
 			<text>(Whenever enchanted creature deals combat damage to a player, draw a card and sacrifice one attached Synapse, no matter how many synapses are attached to it.)
+Enchant creature
 Enchanted creature gets +1/+0.</text>
 			<set rarity="common" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/2t_Synapse.png" num="2">HFB</set>
 			<prop>
@@ -4005,7 +4005,7 @@ Whenever a creature you control deals combat damage to a player, that player los
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact Creature — Giant</type>
+				<type>Artifact Creature — Horror Giant</type>
 				<maintype>Creature</maintype>
 				<manacost>5BB</manacost>
 				<cmc>7</cmc>
@@ -4024,7 +4024,7 @@ Whenever a creature you control deals combat damage to a player, create a Treasu
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact Creature — Giant</type>
+				<type>Artifact Creature — Horror Giant</type>
 				<maintype>Creature</maintype>
 				<manacost>4RR</manacost>
 				<cmc>6</cmc>
@@ -4241,8 +4241,8 @@ Whenever a creature you control enters, each opponent loses 1 life and you gain 
 		</card>
 		<card>
 			<name>Revelation of Pain</name>
-			<text>Target player chooses X creatures they control. You gain control of those creatures until end of turn. Untap them.
-Creatures you control get +1/+0 and gain trample and haste until end of turn.</text>
+			<text>Up to X target creatures can&apos;t block until end of turn.
+Creatures you control get +2/+0 and gain haste until end of turn.</text>
 			<set rarity="mythic" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/131_Revelation of Pain.png" num="131">HFB</set>
 			<prop>
 				<layout>normal</layout>
@@ -4265,7 +4265,7 @@ Whenever this creature attacks, mill three cards.</text>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Giant</type>
+				<type>Creature — Avatar Giant</type>
 				<maintype>Creature</maintype>
 				<manacost>B/GB/GB/GB/G</manacost>
 				<cmc>4</cmc>
@@ -4277,8 +4277,8 @@ Whenever this creature attacks, mill three cards.</text>
 		</card>
 		<card>
 			<name>A Promise</name>
-			<text>When this enchantment enters, if it was cast, untap each nonland permanent you control.
-Once each turn, whenever you cast a creature spell with mana value 5 or greater, you may draw a card.</text>
+			<text>When this enchantment enters, if it was cast, untap each basic land you control.
+Once each turn, whenever you cast a Horror spell, you may draw a card.</text>
 			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/204_A Promise.png" num="204">HFB</set>
 			<prop>
 				<layout>normal</layout>
@@ -4464,8 +4464,8 @@ This creature gets +1/+3 as long as you control three or more enchantments.</tex
 		</card>
 		<card>
 			<name>Revelation of Steel</name>
-			<text>Create X tapped 2/2 colorless Golem artifact creature tokens.
-You gain 1 life and each opponent loses 1 life for each token you control.</text>
+			<text>Create X tapped Treasure tokens. (They&apos;re artifacts with &quot;{T}, Sacrifice this artifact: Add one mana of any color.&quot;)
+For each token you control, you gain 1 life and each opponent loses 1 life.</text>
 			<set rarity="mythic" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/94_Revelation of Steel.png" num="94">HFB</set>
 			<prop>
 				<layout>normal</layout>
@@ -4746,7 +4746,7 @@ When this creature enters, destroy up to one target artifact or enchantment.
 		<card>
 			<name>Furioso; Fury; Scream</name>
 			<text>As an additional cost to cast this spell, pay X life.
-Target creature you control gains trample and gets twice +X/+0 until end of turn.</text>
+Target creature you control gains trample and has base power equal to twice X until end of turn.</text>
 			<set rarity="rare" picurl="https://Trewqofficial.github.io/sets/HFB-files/img/83_Furioso; Fury; Scream.png" num="83">HFB</set>
 			<prop>
 				<layout>normal</layout>

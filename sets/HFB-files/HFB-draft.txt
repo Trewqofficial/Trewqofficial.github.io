@@ -4,7 +4,7 @@
 			"name": "Herald of Apathy",
 			"rarity": "rare",
 			"mana_cost": "{5}{W}{W}",
-			"type": "Artifact Creature — Giant",
+			"type": "Artifact Creature — Horror Giant",
 			"collector_number": "15",
 			"image_uris": {
 				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/15_Herald of Apathy.png"
@@ -73,7 +73,7 @@
 		{
 			"name": "Novice Diabology",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}",
+			"mana_cost": "{B}{B}",
 			"type": "Sorcery",
 			"collector_number": "91",
 			"image_uris": {
@@ -433,8 +433,8 @@
 		{
 			"name": "New Dawn",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{R/W}",
-			"type": "Sorcery",
+			"mana_cost": "{1}{R/W}{R/W}",
+			"type": "Enchantment",
 			"collector_number": "201",
 			"image_uris": {
 				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/201_New Dawn.png"
@@ -873,7 +873,7 @@
 		{
 			"name": "Aimless Efflorescent",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{B}",
+			"mana_cost": "{2}{B}",
 			"type": "Creature — Horror",
 			"collector_number": "70",
 			"image_uris": {
@@ -894,7 +894,7 @@
 			"name": "Subterranean Coiler",
 			"rarity": "rare",
 			"mana_cost": "{X}{G}",
-			"type": "Creature — Wurm",
+			"type": "Creature — Wurm Horror",
 			"collector_number": "166",
 			"image_uris": {
 				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/166_Subterranean Coiler.png"
@@ -1123,7 +1123,7 @@
 		{
 			"name": "Grace of the Ancients",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
 			"collector_number": "13",
 			"image_uris": {
@@ -1694,7 +1694,7 @@
 			"name": "Herald of Tranquility",
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}",
-			"type": "Artifact Creature — Giant",
+			"type": "Artifact Creature — Horror Giant",
 			"collector_number": "155",
 			"image_uris": {
 				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/155_Herald of Tranquility.png"
@@ -2024,7 +2024,7 @@
 			"name": "Herald of Enlightenment",
 			"rarity": "rare",
 			"mana_cost": "{5}{U}{U}",
-			"type": "Artifact Creature — Giant",
+			"type": "Artifact Creature — Horror Giant",
 			"collector_number": "50",
 			"image_uris": {
 				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/50_Herald of Enlightenment.png"
@@ -2304,7 +2304,7 @@
 			"name": "Herald of Arbitration",
 			"rarity": "rare",
 			"mana_cost": "{5}{B}{B}",
-			"type": "Artifact Creature — Giant",
+			"type": "Artifact Creature — Horror Giant",
 			"collector_number": "85",
 			"image_uris": {
 				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/85_Herald of Arbitration.png"
@@ -2314,7 +2314,7 @@
 			"name": "Herald of Meteors",
 			"rarity": "rare",
 			"mana_cost": "{4}{R}{R}",
-			"type": "Artifact Creature — Giant",
+			"type": "Artifact Creature — Horror Giant",
 			"collector_number": "121",
 			"image_uris": {
 				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/121_Herald of Meteors.png"
@@ -2454,7 +2454,7 @@
 			"name": "Lurking Absolution",
 			"rarity": "rare",
 			"mana_cost": "{B/G}{B/G}{B/G}{B/G}",
-			"type": "Creature — Giant",
+			"type": "Creature — Avatar Giant",
 			"collector_number": "195",
 			"image_uris": {
 				"en": "https://Trewqofficial.github.io/sets/HFB-files/img/195_Lurking Absolution.png"

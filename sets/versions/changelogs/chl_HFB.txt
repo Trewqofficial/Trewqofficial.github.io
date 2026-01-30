@@ -1,4 +1,164 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+
+
+Herald of Apathy
+type: Artifact Creature — Giant => Artifact Creature — Horror Giant
+
+Soul Ignition
+rules_text: Enchant creature
+At the start of combat on your turn, create a token that's a copy of enchanted creature, except it's not legendary and it has lifelink and haste. Sacrifice that token at the beginning of the next end step. => Enchant creature you control
+At the start of combat on your turn, create a token that's a copy of enchanted creature, except it's not legendary and it has lifelink and haste. Sacrifice that token at the beginning of the next end step.
+
+Novice Diabology
+cost: {1}{B} => {B}{B}
+
+Fate of a Messenger
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 blue Human Scout creature token with vigilance.
+Mill four cards.
+II — Each instant and sorcery spell in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost plus sacrifice a creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 1/1 blue Human Scout creature token with vigilance.
+Mill four cards.
+Each instant and sorcery spell in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost plus sacrifice a creature.
+
+Bringer of Madness
+rules_text: Flying
+Whenever you cast a noncreature spell, this creature gets +2/+0 until end of turn. => Flying
+Whenever you cast a noncreature or Horror spell, this creature gets +2/+0 until end of turn.
+
+Dealing with The Devil
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — This Saga deals 4 damage to any target.
+II, III, IV — You may sacrifice a creature. If you do, you create a Treasure token and get a flare counter. [i](If a source you control would deal noncombat damage, you may pay X flare counters to have it deal that much damage plus X instead.)[/i]
+​ => 
+This Saga deals 4 damage to any target.
+You may sacrifice a creature. If you do, you create a Treasure token and get a flare counter. [i](If a source you control would deal noncombat damage, you may pay X flare counters to have it deal that much damage plus X instead.)[/i]
+​
+
+New Dawn
+type: Sorcery => Enchantment
+cost: {1}{RW} => {1}{RW}{RW}
+rules_text: Return target creature card with mana value 3 or less from your graveyard to the battlefield. It gains “This creature attacks each turn if able” and “Whenever this creature attacks, sacrifice it at the beginning of your next end step.” => Whenever a creature you control attacks, it gets +1/+1 until end of turn. If it's a Horror, it gains first strike until end of turn.
+
+Gaze of Others
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Exile up to one target creature you don't control until this enchantment leaves the battlefield.
+III — Creatures you control get +1/+1 and gain vigilance until end of turn.
+​ => 
+Exile up to one target creature you don't control until this enchantment leaves the battlefield.
+Creatures you control get +1/+1 and gain vigilance until end of turn.
+​
+
+Sentinel of Bygone Days
+rules_text: Whenever one or more permanent cards leave your graveyard, put a +1/+1 counter on this creature.
+{2}{GW}, Sacrifice this creature: Return target permanent card with mana value lesser than this creature's power from your graveyard to your hand. Activate only as a sorcery. => Whenever another creature you control enters, this creature gets +1/+1 until end of turn. If that creature was a Horror, put a +1/+1 counter on this creature instead.
+
+Wrap in Ethereal Threads
+rules_text: This spell costs {1} less to cast for each card you've drawn this turn.
+Counter target spell unless its controller pays {3}. => This spell costs {1} less to cast for each Horror you control.
+Counter target spell unless its controller pays {3}.
+
+Aimless Efflorescent
+cost: {1}{B}{B} => {2}{B}
+rules_text: Haste
+This creature has deathtouch as long as it's attacking. => Haste
+Whenever this creature attacks, each opponent discards a card if you control three or more Horrors.
+
+Subterranean Coiler
+type: Creature — Wurm => Creature — Wurm Horror
+
+Rageborn Efflorescent
+rules_text: At the beginning of combat on your turn, target creature you control gains haste and gets +1/+0 until end of turn. => At the beginning of combat on your turn, target creature you control gains haste until end of turn. If it's a Horror, put a +1/+1 counter on it.
+pt: 3/3 => 2/2
+
+Grace of the Ancients
+cost: {1}{W} => {2}{W}
+rules_text: When you cast this spell, if your history in white is six or greater, copy it. You may choose new targets for it. [i](Your history in white is the number of {W} symbols in mana costs in your graveyard.)[/i]
+Return up one target nonland permanent card with mana value 3 or less from your graveyard to the battlefield tapped. => When you cast this spell, if your history in white is six or greater, copy it. You may choose new targets for it. [i](Your history in white is the number of {W} symbols in mana costs in your graveyard.)[/i]
+Return up one target nonland permanent card with mana value 3 or less from your graveyard to the battlefield.
+
+Deepbreather's Vision
+rules_text: Choose a permanent type. Reveal the top four cards of your library. Put all cards of the chosen type revealed this way into your hand and the rest on the bottom of your library in a random order. => Choose a permanent type. Reveal the top four cards of your library. Put up to two cards of the chosen type revealed this way into your hand and the rest on the bottom of your library in a random order.
+
+Exl, Faerie Eater
+special_text: At the beginning of your end step, create a 1/1 white Faerie creature token with flying and “This creature can't block.”
+[0]: Sacrifice a creature. When you do, put two loyalty counters on Exl and draw a card.
+[-2]: Sacrifice a creature. When you do, creatures you control get +2/+2 and gain indestructible and vigilance until end of turn.
+[-5]: For each creature you control, create a 1/1 white Faerie creature token with flying. => At the beginning of your end step, create a 1/1 white Faerie creature token with flying and “This creature can't block.”
+[0]: Sacrifice a creature. When you do, put two loyalty counters on Exl and draw a card.
+[-2]: Sacrifice a creature. When you do, creatures you control get +2/+2 and gain vigilance until end of turn.
+[-5]: For each creature you control, create a 1/1 white Faerie creature token with flying. and “This creature can't block.”
+
+Total Efflorescence
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 2/2 green Human creature token with “Whenever this creature attacks, untap target creature or land.”
+II — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+III — Until end of turn, target land you control gains “{T}: Add {G}{G}.” => 
+I — Create a 2/2 green Human creature token with “Whenever this creature attacks, untap target creature or land.”
+II — Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+III — Until end of turn, target land you control gains “{T}: Add {G}{G}.”
+
+Unstable Mutate
+rules_text: Changeling [i](This card is every creature type.)[/i]
+You may have this creature enter as a copy of another creature you control with power 4 or greater, except it has changeling and it isn't legendary. => Changeling [i](This card is every creature type.)[/i]
+When this creature enters, choose a creature type. Create a Synapse token attached to each other creature you control of that type. [i](Enchanted creature gets +1/+0. Whenever it deals combat damage to a player, draw a card and sacrifice one attached Synapse.)[/i]
+
+CENSORED
+
+Herald of Tranquility
+type: Artifact Creature — Giant => Artifact Creature — Horror Giant
+
+Herald of Enlightenment
+type: Artifact Creature — Giant => Artifact Creature — Horror Giant
+
+Synapse
+rules_text: [i](Whenever enchanted creature deals combat damage to a player, draw a card and sacrifice one attached Synapse, no matter how many synapses are attached to it.)[/i]
+Enchanted creature gets +1/+0. => [i](Whenever enchanted creature deals combat damage to a player, draw a card and sacrifice one attached Synapse, no matter how many synapses are attached to it.)[/i]
+Enchant creature
+Enchanted creature gets +1/+0.
+
+Herald of Arbitration
+type: Artifact Creature — Giant => Artifact Creature — Horror Giant
+
+Herald of Meteors
+type: Artifact Creature — Giant => Artifact Creature — Horror Giant
+
+Revelation of Pain
+rules_text: Target player chooses X creatures they control. You gain control of those creatures until end of turn. Untap them.
+Creatures you control get +1/+0 and gain trample and haste until end of turn. => Up to X target creatures can't block until end of turn.
+Creatures you control get +2/+0 and gain haste until end of turn.
+
+Lurking Absolution
+type: Creature — Giant => Creature — Avatar Giant
+
+A Promise
+rules_text: When this enchantment enters, if it was cast, untap each nonland permanent you control.
+Once each turn, whenever you cast a creature spell with mana value 5 or greater, you may draw a card. => When this enchantment enters, if it was cast, untap each basic land you control.
+Once each turn, whenever you cast a Horror spell, you may draw a card.
+
+Revelation of Steel
+rules_text: Create X tapped 2/2 colorless Golem artifact creature tokens.
+You gain 1 life and each opponent loses 1 life for each token you control. => Create X tapped Treasure tokens. [i](They're artifacts with “{T}, Sacrifice this artifact: Add one mana of any color.”)[/i]
+For each token you control, you gain 1 life and each opponent loses 1 life.
+
+Drown It All in Blood
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — This Saga deals 3 damage to each creature.
+II — Create two 1/1 red Vampire creature tokens with “{T}, Discard a card, Sacrifice this creature: Draw a card.”
+III — Until end of turn, whenever you discard a card, you may play that card from your graveyard until end of turn. => 
+I — This Saga deals 3 damage to each creature.
+II — Create two 1/1 red Vampire creature tokens with “{T}, Discard a card, Sacrifice this creature: Draw a card.”
+III — Until end of turn, whenever you discard a card, you may play that card from your graveyard until end of turn.
+
+Furioso; Fury; Scream
+rules_text: As an additional cost to cast this spell, pay X life.
+Target creature you control gains trample and gets twice +X/+0 until end of turn. => As an additional cost to cast this spell, pay X life.
+Target creature you control gains trample and has base power equal to twice X until end of turn.
+
+
+VERSION 6 CHANGELOG
 ====================
 
 
