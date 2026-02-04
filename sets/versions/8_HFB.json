@@ -183,7 +183,7 @@
             "set": "HFB",
             "loyalty": "",
             "artist": "Project Moon",
-            "notes": "tag:wishlist"
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Fate of a Messenger",
@@ -196,7 +196,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nCreate a 1/1 blue Human Scout creature token with vigilance.\nMill four cards.\nEach instant and sorcery spell in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost plus sacrifice a creature.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI \u2014 Create a 1/1 blue Human Scout creature token with vigilance.\nMill four cards.\nII \u2014 Each instant and sorcery spell in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost plus sacrifice a creature.",
             "shape": "saga",
             "set": "HFB",
             "loyalty": "",
@@ -615,7 +615,7 @@
             "set": "HFB",
             "loyalty": "4",
             "artist": "Project Moon",
-            "notes": "tag:wishlist"
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Dealing with The Devil",
@@ -628,7 +628,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nThis Saga deals 4 damage to any target.\nYou may sacrifice a creature. If you do, you create a Treasure token and get a flare counter. [i](If a source you control would deal noncombat damage, you may pay X flare counters to have it deal that much damage plus X instead.)[/i]\n\u200b",
+            "special_text": "\nI \u2014 This Saga deals 4 damage to any target.\nII, III, IV \u2014 You may sacrifice a creature. If you do, you create a Treasure token and get a flare counter. [i](If a source you control would deal noncombat damage, you may pay X flare counters to have it deal that much damage plus X instead.)[/i]\n\u200b",
             "shape": "saga",
             "set": "HFB",
             "loyalty": "",
@@ -715,7 +715,7 @@
             "number": 213,
             "color_identity": "UB",
             "cost": "{2}{UB}{UB}",
-            "rules_text": "When this creature enters, search your library for an instant or sorcery card with mana value 3 or less, reveal it, then put into your hand.",
+            "rules_text": "When this creature enters, search your library for an instant or sorcery card with mana value 3 or less, reveal it, put into your hand, then shuffle.",
             "flavor_text": "[i]It approaches. Thoughts grow denser. Memories are thick and choking.[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -723,7 +723,7 @@
             "set": "HFB",
             "loyalty": "",
             "artist": "JM Fenner",
-            "notes": "msem 3 in mana cost to 2"
+            "notes": ""
         },
         {
             "card_name": "Ethereal Colossus",
@@ -988,7 +988,7 @@
             "rules_text": "",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "\nExile up to one target creature you don't control until this enchantment leaves the battlefield.\nCreatures you control get +1/+1 and gain vigilance until end of turn.\n\u200b",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]\nI, II \u2014 Exile up to one target creature you don't control until this enchantment leaves the battlefield.\nIII \u2014 Creatures you control get +1/+1 and gain vigilance until end of turn.\n\u200b",
             "shape": "saga",
             "set": "HFB",
             "loyalty": "",
@@ -1309,7 +1309,7 @@
             "number": 184,
             "color_identity": "BR",
             "cost": "{2}{BR}{BR}",
-            "rules_text": "When this enchantment enters, if it was cast, it deals 5 damage to target creature.\nWhenever you draw a card, this enchantment deals 1 damage to each opponent.",
+            "rules_text": "When this enchantment enters, if it was cast, it deals 5 damage to up to one target creature.\nWhenever you draw a card, this enchantment deals 1 damage to each opponent.",
             "flavor_text": "[i]Insect. Burn. Obliteration.[/i]",
             "pt": "",
             "special_text": "",
@@ -1371,7 +1371,7 @@
             "set": "HFB",
             "loyalty": "",
             "artist": "Hen Na",
-            "notes": "tag:wishlist"
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Grim Coronation",
@@ -1389,7 +1389,7 @@
             "set": "HFB",
             "loyalty": "",
             "artist": "MON",
-            "notes": "tag:wishlist"
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Forged Enforcer",
@@ -1425,7 +1425,7 @@
             "set": "HFB",
             "loyalty": "",
             "artist": "draken4o",
-            "notes": "tag:wishlist"
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Janus Enforcer",
@@ -1507,7 +1507,7 @@
             "number": 36,
             "color_identity": "U",
             "cost": "{4}{U}",
-            "rules_text": "Other artifact creatures you control without infuse have infuse 1 [i](Whenever you cast a noncreature spell, if that creature has no +1/+1 counters on it, put one on it.)[/i]\nWhenever you cast a noncreature spell, create a 1/1 colorless Construct artifact creature token.",
+            "rules_text": "Other artifact creatures you control without infuse have infuse 1. [i](Whenever you cast a noncreature spell, if that creature has no +1/+1 counters on it, put one on it.)[/i]\nWhenever you cast a noncreature spell, create a 1/1 colorless Construct artifact creature token.",
             "flavor_text": "[i]It seeks out electricity from within power cables and living nerves.[/i]",
             "pt": "2/3",
             "special_text": "",
@@ -1875,7 +1875,7 @@
             "set": "HFB",
             "loyalty": "",
             "artist": "Anato Finnstark",
-            "notes": "tag:wishlist"
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Fleeting Efflorescent",
@@ -2282,26 +2282,8 @@
             "color_identity": "W",
             "cost": "{5}{W}{W}",
             "rules_text": "Flying, vigilance, trample, indestructible\nWhen this creature enters or attacks, exile up to one target artifact or enchantment.",
-            "flavor_text": "[i]The first city grew tall enough that it threatened even the gods.[/i]",
+            "flavor_text": "[i]The first city grew tall enough that it threatened even the stars.[/i]",
             "pt": "7/7",
-            "special_text": "",
-            "shape": "normal",
-            "set": "HFB",
-            "loyalty": "",
-            "artist": "Keselum",
-            "notes": ""
-        },
-        {
-            "card_name": "Starchosen Regent",
-            "color": "W",
-            "rarity": "rare",
-            "type": "Creature \u2014 Dragon",
-            "number": 29,
-            "color_identity": "W",
-            "cost": "{3}{W}{W}",
-            "rules_text": "Flying, first strike, lifelink, protection from Angels and from Demons [i](This creature can't be blocked, targeted or dealt damage by Angels or Demons.)[/i]\nWhen this creature enters, you draw a card and gain 1 life.",
-            "flavor_text": "[i][/i]",
-            "pt": "5/5",
             "special_text": "",
             "shape": "normal",
             "set": "HFB",
@@ -4063,7 +4045,7 @@
             "number": 31,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "When another creature you control enters, you gain 1 life.\n{X}{W}{W}, Pay X life, Exile this creature: Return up to X target creatures with total mana value X or less from your graveyard to the battlefield. Activate only as a sorcery.",
+            "rules_text": "Whenever another creature you control enters, you gain 1 life.\n{X}{W}{W}, Pay X life, Exile this creature: Return up to X target creatures with total mana value X or less from your graveyard to the battlefield. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -4215,17 +4197,17 @@
             "set": "HFB",
             "loyalty": "",
             "artist": "Sainker",
-            "notes": "tag:wishlist"
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Devil's Bullet",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Instant",
+            "type": "Sorcery",
             "number": 112,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Devil's Bullet deals 2 damage to any nonplayer target.\nYou get a flare counter. [i](If a source you control would deal noncombat damage, you may pay X flare counters to have it deal that much damage plus X instead.)[/i]",
+            "rules_text": "Devil's Bullet deals 2 damage to any target.\nYou get a flare counter. [i](If a source you control would deal noncombat damage, you may pay X flare counters to have it deal that much damage plus X instead.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4431,7 +4413,7 @@
             "set": "HFB",
             "loyalty": "",
             "artist": "JM Fenner",
-            "notes": "tag:wishlist"
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "A Promise",
@@ -4557,7 +4539,7 @@
             "set": "HFB",
             "loyalty": "",
             "artist": "VALUN",
-            "notes": "tag:wishlist"
+            "notes": "!tag wishlist"
         },
         {
             "card_name": "Ten Thousand Years",
@@ -4936,6 +4918,24 @@
             "loyalty": "",
             "artist": "Project Moon",
             "notes": ""
+        },
+        {
+            "card_name": "Starchosen Regent",
+            "color": "W",
+            "rarity": "rare",
+            "type": "Creature \u2014 Dragon",
+            "number": 29,
+            "color_identity": "W",
+            "cost": "{3}{W}{W}",
+            "rules_text": "Flying, first strike, lifelink, protection from Angels and from Demons [i](This creature can't be blocked, targeted or dealt damage by Angels or Demons.)[/i]\nPlayers can't sacrifice permanents.",
+            "flavor_text": "[i]Soon, it will become a star itself, but for now, it will be their fangs and claws.[/i]",
+            "pt": "5/5",
+            "special_text": "",
+            "shape": "normal",
+            "set": "HFB",
+            "loyalty": "",
+            "artist": "Keselum",
+            "notes": "reworked"
         }
     ]
 }

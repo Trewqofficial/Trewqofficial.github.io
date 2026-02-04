@@ -1,4 +1,86 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+
+
+Crescendo
+
+Fate of a Messenger
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Create a 1/1 blue Human Scout creature token with vigilance.
+Mill four cards.
+Each instant and sorcery spell in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost plus sacrifice a creature. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 1/1 blue Human Scout creature token with vigilance.
+Mill four cards.
+II — Each instant and sorcery spell in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost plus sacrifice a creature.
+
+The Cursed Marksman
+
+Dealing with The Devil
+special_text: 
+This Saga deals 4 damage to any target.
+You may sacrifice a creature. If you do, you create a Treasure token and get a flare counter. [i](If a source you control would deal noncombat damage, you may pay X flare counters to have it deal that much damage plus X instead.)[/i]
+​ => 
+I — This Saga deals 4 damage to any target.
+II, III, IV — You may sacrifice a creature. If you do, you create a Treasure token and get a flare counter. [i](If a source you control would deal noncombat damage, you may pay X flare counters to have it deal that much damage plus X instead.)[/i]
+​
+
+Unreal Herald
+rules_text: When this creature enters, search your library for an instant or sorcery card with mana value 3 or less, reveal it, then put into your hand. => When this creature enters, search your library for an instant or sorcery card with mana value 3 or less, reveal it, put into your hand, then shuffle.
+
+Gaze of Others
+special_text: 
+Exile up to one target creature you don't control until this enchantment leaves the battlefield.
+Creatures you control get +1/+1 and gain vigilance until end of turn.
+​ => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Exile up to one target creature you don't control until this enchantment leaves the battlefield.
+III — Creatures you control get +1/+1 and gain vigilance until end of turn.
+​
+
+Accretion Disk
+rules_text: When this enchantment enters, if it was cast, it deals 5 damage to target creature.
+Whenever you draw a card, this enchantment deals 1 damage to each opponent. => When this enchantment enters, if it was cast, it deals 5 damage to up to one target creature.
+Whenever you draw a card, this enchantment deals 1 damage to each opponent.
+
+Devour the Future
+
+Grim Coronation
+
+Fleshborn Behemoth
+
+Arc-Crowned Vessel
+rules_text: Other artifact creatures you control without infuse have infuse 1 [i](Whenever you cast a noncreature spell, if that creature has no +1/+1 counters on it, put one on it.)[/i]
+Whenever you cast a noncreature spell, create a 1/1 colorless Construct artifact creature token. => Other artifact creatures you control without infuse have infuse 1. [i](Whenever you cast a noncreature spell, if that creature has no +1/+1 counters on it, put one on it.)[/i]
+Whenever you cast a noncreature spell, create a 1/1 colorless Construct artifact creature token.
+
+Blood Sun's Dawning
+
+Ruin of the First City
+
+Teller of Nine Thousand Tales
+rules_text: When another creature you control enters, you gain 1 life.
+{X}{W}{W}, Pay X life, Exile this creature: Return up to X target creatures with total mana value X or less from your graveyard to the battlefield. Activate only as a sorcery. => Whenever another creature you control enters, you gain 1 life.
+{X}{W}{W}, Pay X life, Exile this creature: Return up to X target creatures with total mana value X or less from your graveyard to the battlefield. Activate only as a sorcery.
+
+Harmony of Might
+
+Devil's Bullet
+type: Instant => Sorcery
+rules_text: Devil's Bullet deals 2 damage to any nonplayer target.
+You get a flare counter. [i](If a source you control would deal noncombat damage, you may pay X flare counters to have it deal that much damage plus X instead.)[/i] => Devil's Bullet deals 2 damage to any target.
+You get a flare counter. [i](If a source you control would deal noncombat damage, you may pay X flare counters to have it deal that much damage plus X instead.)[/i]
+
+Lurking Absolution
+
+Monument To A Lost World
+
+Starchosen Regent
+rules_text: Flying, first strike, lifelink, protection from Angels and from Demons [i](This creature can't be blocked, targeted or dealt damage by Angels or Demons.)[/i]
+When this creature enters, you draw a card and gain 1 life. => Flying, first strike, lifelink, protection from Angels and from Demons [i](This creature can't be blocked, targeted or dealt damage by Angels or Demons.)[/i]
+Players can't sacrifice permanents.
+
+
+VERSION 7 CHANGELOG
 ====================
 
 
